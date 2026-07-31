@@ -48,7 +48,7 @@ CATEGORIES_ENGLISH = [
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
-# Spanish translations for display
+# Vietnamese translations for display
 CATEGORIES_VIETNAMESE = {
     "Motivation": "Động lực",
     "Love": "Tình yêu",
@@ -195,7 +195,7 @@ def add_phrases_to_history(phrases, category):
 def calculate_phrases_needed(target_minutes: int) -> int:
     """
     Calculate how many phrases needed for target video duration.
-    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + Spanish ~2.5s)
+    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + Vietnamese ~2.5s)
     For 10 minutes (600 seconds): 600 / 5 = ~120 phrases
     """
     avg_phrase_duration = 5.0  # seconds
@@ -521,7 +521,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        # Generate Spanish audio
+        # Generate Vietnamese audio
         vi_success = asyncio.run(generate_single_audio(phrase["vietnamese"], VIETNAMESE_VOICE, str(vietnamese_file)))
         if not vi_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(vietnamese_file)]
@@ -531,7 +531,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         en_duration = get_audio_duration(str(english_file))
         vi_duration = get_audio_duration(str(vietnamese_file))
 
-        # Add pause between English and Spanish
+        # Add pause between English and Vietnamese
         pause_between = 0.5
         total_duration = en_duration + pause_between + vi_duration
 
@@ -569,7 +569,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "spanish": str(vietnamese_file),
+            "vietnamese": str(vietnamese_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -684,7 +684,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    spanish = phrase_data.get("spanish", "")
+    vietnamese_text = phrase_data.get('vietnamese') or phrase_data.get('spanish', '')
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -737,8 +737,8 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_line_h = 80
     en_total_h = len(en_lines) * en_line_h
     
-    # 2. Spanish Box
-    es_lines = wrap_text(spanish, font_spanish, VIDEO_WIDTH - 300)
+    # 2. Vietnamese Box
+    vietnamese_lines = wrap_text(vietnamese_text, font_spanish, VIDEO_WIDTH - 300)
     es_line_h = 100
     es_total_h = len(es_lines) * es_line_h
     
@@ -767,7 +767,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     
     y_cursor = y_start + en_box_h + GAP
 
-    # Spanish Section (Lingexa Lighter Purple)
+    # Vietnamese Section (Lingexa Lighter Purple)
     es_box_h = es_total_h + 60
     draw.rounded_rectangle(
         [(box_x, y_cursor), (box_x + box_w, y_cursor + es_box_h)],
@@ -850,7 +850,7 @@ def generate_thumbnail(category_english: str, category_vietnamese: str, output_p
     )
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
-    # Spanish Translation (Dark Purple)
+    # Vietnamese Translation (Dark Purple)
     draw.text((VIDEO_WIDTH // 2, 530), category_vietnamese, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
@@ -904,10 +904,10 @@ def generate_title_description(category_english: str, category_vietnamese: str, 
     # Generate viral title variations
     titles = [
         f"Learn Vietnamese in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_vietnamese})",
-        f"60 Spanish Phrases for {category_english} | Speak Vietnamese Like a Native! ({category_vietnamese})",
-        f"Master Vietnamese {category_english} | 60 Essential Spanish Phrases with Pronunciation | Velocity Spanish",
+        f"60 Vietnamese Phrases for {category_english} | Speak Vietnamese Like a Native! ({category_vietnamese})",
+        f"Master Vietnamese {category_english} | 60 Essential Vietnamese Phrases with Pronunciation | Velocity Vietnamese",
         f"Vietnamese Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak Vietnamese Fluently | {category_english} Phrases | English + Spanish + Pronunciation",
+        f"Speak Vietnamese Fluently | {category_english} Phrases | English + Vietnamese + Pronunciation",
     ]
 
     # Generate comprehensive description
@@ -917,7 +917,7 @@ In this video, you'll learn 60 essential Vietnamese phrases about {category_engl
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in Spanish
+• 60 practical {category_english} phrases in Vietnamese
 • Correct pronunciation guide
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
@@ -942,7 +942,7 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Spanish: {phrase['spanish']}
+   Vietnamese: {phrase['vietnamese']}
    Pronunciation: {phrase['pronunciation']}
 """
 
@@ -1129,7 +1129,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['spanish']}")
+        print(f"  {i}. {phrase['english']} → {phrase['vietnamese']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1203,9 +1203,9 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     import json as _json
     from pathlib import Path as _Path
     meta_out = {
-        "title": title_meta.get("selected_title", f"Learn Spanish: {category_english}"),
+        "title": title_meta.get("selected_title", f"Learn Vietnamese: {category_english}"),
         "description": title_meta.get("description", ""),
-        "tags": ["Learn Vietnamese", "Vietnamese Phrases", "Spanish", category_english, "VELOCITY VIETNAMESE"],
+        "tags": ["Learn Vietnamese", "Vietnamese Phrases", "Vietnamese", category_english, "VELOCITY VIETNAMESE"],
         "category_english": category_english,
         "category_vietnamese": CATEGORIES_VIETNAMESE[category_english],
         "phrases_count": len(phrases),
@@ -1232,7 +1232,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  📄 youtube_upload_info.txt (title + description + tags)")
     print(f"  ⏱️  Duration: {total_duration/60:.2f} minutes")
     print(f"  📊 Phrases: {len(phrases)}")
-    print(f"  🏷️  Branding: Velocity Spanish")
+    print(f"  🏷️  Branding: Velocity Vietnamese")
     print(f"  📺 Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
@@ -1257,7 +1257,7 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Velocity Spanish YouTube Long-form Video Generator")
+    parser = argparse.ArgumentParser(description="Velocity Vietnamese YouTube Long-form Video Generator")
     parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 60 phrases = ~5.5 mins)")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate (e.g. 'Motivation', 'Friendship'). Random if not provided.")
     args = parser.parse_args()
