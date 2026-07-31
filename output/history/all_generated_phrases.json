@@ -9377,7 +9377,727 @@
       "Vietnamese": "Đây là, niềm vui lây lan.",
       "category": "Happiness",
       "generated_at": "2026-07-27T04:29:44.331768"
+    },
+    {
+      "english": "Let it go, gently.",
+      "spanish": "Buông bỏ thôi, nhẹ nhàng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944731"
+    },
+    {
+      "english": "Peace within, my guide.",
+      "spanish": "Bình an trong, dẫn lối.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944740"
+    },
+    {
+      "english": "Stillness, is my friend.",
+      "spanish": "Tĩnh lặng, là bạn tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944742"
+    },
+    {
+      "english": "Mind clear, heart open.",
+      "spanish": "Tâm trí rõ, trái tim mở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944743"
+    },
+    {
+      "english": "Present moment, beautiful.",
+      "spanish": "Khoảnh khắc này, tươi đẹp.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944745"
+    },
+    {
+      "english": "Grounding down, feeling roots.",
+      "spanish": "Lắng mình xuống, thấy gốc rễ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944746"
+    },
+    {
+      "english": "Focus here, now.",
+      "spanish": "Tập trung ở, đây.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944747"
+    },
+    {
+      "english": "Gentle thoughts, flowing in.",
+      "spanish": "Ý nghĩ dịu, đang tới.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944750"
+    },
+    {
+      "english": "Silence, speaks volumes.",
+      "spanish": "Im lặng, nói nhiều.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944752"
+    },
+    {
+      "english": "Feeling grounded, safe.",
+      "spanish": "Cảm thấy chắc, an toàn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944753"
+    },
+    {
+      "english": "This pause, is needed.",
+      "spanish": "Khoảng dừng này, cần thiết.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944754"
+    },
+    {
+      "english": "Soft gaze, looking out.",
+      "spanish": "Nhìn dịu dàng, ra ngoài.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944756"
+    },
+    {
+      "english": "Awareness, is growing.",
+      "spanish": "Nhận thức, đang lớn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944757"
+    },
+    {
+      "english": "My own space, my peace.",
+      "spanish": "Không gian riêng, bình yên.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944758"
+    },
+    {
+      "english": "Observing, without judgment.",
+      "spanish": "Quan sát, không phán xét.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944759"
+    },
+    {
+      "english": "My breath, my anchor.",
+      "spanish": "Hơi thở, neo của tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944760"
+    },
+    {
+      "english": "Inner quiet, starts.",
+      "spanish": "Tĩnh lặng bên trong, bắt đầu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944761"
+    },
+    {
+      "english": "Feeling whole, complete.",
+      "spanish": "Cảm thấy trọn vẹn, đủ đầy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944762"
+    },
+    {
+      "english": "Slow down, be present.",
+      "spanish": "Chậm lại, có mặt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944764"
+    },
+    {
+      "english": "This moment, is enough.",
+      "spanish": "Khoảnh khắc này, đủ rồi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944765"
+    },
+    {
+      "english": "Release tension, softly.",
+      "spanish": "Thả lỏng căng, nhẹ nhàng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944765"
+    },
+    {
+      "english": "Inner calm, is here.",
+      "spanish": "Bình yên nội tại, ở đây.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944766"
+    },
+    {
+      "english": "Just this, nothing else.",
+      "spanish": "Chỉ điều này, không gì khác.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944769"
+    },
+    {
+      "english": "Mindful steps, forward.",
+      "spanish": "Bước chân chánh niệm, về trước.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944770"
+    },
+    {
+      "english": "Breathing in, peace.",
+      "spanish": "Hít vào, bình yên.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944771"
+    },
+    {
+      "english": "Breathing out, worries.",
+      "spanish": "Thở ra, lo lắng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944772"
+    },
+    {
+      "english": "My stillness, my power.",
+      "spanish": "Sự tĩnh lặng, sức mạnh tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944773"
+    },
+    {
+      "english": "Open heart, open mind.",
+      "spanish": "Trái tim mở, tâm trí mở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944774"
+    },
+    {
+      "english": "Finding clarity, within.",
+      "spanish": "Tìm sự sáng suốt, bên trong.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944775"
+    },
+    {
+      "english": "This present, is a gift.",
+      "spanish": "Hiện tại này, là món quà.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944776"
+    },
+    {
+      "english": "Gentle awareness, blooming.",
+      "spanish": "Ý thức dịu, đang nở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944777"
+    },
+    {
+      "english": "Calm body, calm mind.",
+      "spanish": "Thân thư thái, tâm tĩnh lặng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944778"
+    },
+    {
+      "english": "Just observe, the flow.",
+      "spanish": "Cứ quan sát, dòng chảy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944779"
+    },
+    {
+      "english": "Feeling present, fully.",
+      "spanish": "Cảm thấy có mặt, trọn vẹn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944780"
+    },
+    {
+      "english": "My own rhythm, my pace.",
+      "spanish": "Nhịp điệu riêng, tốc độ tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944782"
+    },
+    {
+      "english": "Letting thoughts, drift by.",
+      "spanish": "Để suy nghĩ, trôi qua.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944783"
+    },
+    {
+      "english": "This moment, is mine.",
+      "spanish": "Khoảnh khắc này, của tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944784"
+    },
+    {
+      "english": "Let it go, gently.",
+      "spanish": "Buông bỏ thôi, nhẹ nhàng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944785"
+    },
+    {
+      "english": "Peace within, my guide.",
+      "spanish": "Bình an trong, dẫn lối.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944786"
+    },
+    {
+      "english": "Stillness, is my friend.",
+      "spanish": "Tĩnh lặng, là bạn tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944787"
+    },
+    {
+      "english": "Mind clear, heart open.",
+      "spanish": "Tâm trí rõ, trái tim mở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944788"
+    },
+    {
+      "english": "Present moment, beautiful.",
+      "spanish": "Khoảnh khắc này, tươi đẹp.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944789"
+    },
+    {
+      "english": "Grounding down, feeling roots.",
+      "spanish": "Lắng mình xuống, thấy gốc rễ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944790"
+    },
+    {
+      "english": "Focus here, now.",
+      "spanish": "Tập trung ở, đây.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944794"
+    },
+    {
+      "english": "Gentle thoughts, flowing in.",
+      "spanish": "Ý nghĩ dịu, đang tới.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944796"
+    },
+    {
+      "english": "Silence, speaks volumes.",
+      "spanish": "Im lặng, nói nhiều.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944797"
+    },
+    {
+      "english": "Feeling grounded, safe.",
+      "spanish": "Cảm thấy chắc, an toàn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944798"
+    },
+    {
+      "english": "This pause, is needed.",
+      "spanish": "Khoảng dừng này, cần thiết.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944799"
+    },
+    {
+      "english": "Soft gaze, looking out.",
+      "spanish": "Nhìn dịu dàng, ra ngoài.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944800"
+    },
+    {
+      "english": "Awareness, is growing.",
+      "spanish": "Nhận thức, đang lớn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944801"
+    },
+    {
+      "english": "My own space, my peace.",
+      "spanish": "Không gian riêng, bình yên.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944802"
+    },
+    {
+      "english": "Observing, without judgment.",
+      "spanish": "Quan sát, không phán xét.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944804"
+    },
+    {
+      "english": "My breath, my anchor.",
+      "spanish": "Hơi thở, neo của tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944805"
+    },
+    {
+      "english": "Inner quiet, starts.",
+      "spanish": "Tĩnh lặng bên trong, bắt đầu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944806"
+    },
+    {
+      "english": "Feeling whole, complete.",
+      "spanish": "Cảm thấy trọn vẹn, đủ đầy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944807"
+    },
+    {
+      "english": "Slow down, be present.",
+      "spanish": "Chậm lại, có mặt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944808"
+    },
+    {
+      "english": "This moment, is enough.",
+      "spanish": "Khoảnh khắc này, đủ rồi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944809"
+    },
+    {
+      "english": "Release tension, softly.",
+      "spanish": "Thả lỏng căng, nhẹ nhàng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944810"
+    },
+    {
+      "english": "Inner calm, is here.",
+      "spanish": "Bình yên nội tại, ở đây.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944811"
+    },
+    {
+      "english": "Just this, nothing else.",
+      "spanish": "Chỉ điều này, không gì khác.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944812"
+    },
+    {
+      "english": "Mindful steps, forward.",
+      "spanish": "Bước chân chánh niệm, về trước.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944814"
+    },
+    {
+      "english": "Breathing in, peace.",
+      "spanish": "Hít vào, bình yên.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944815"
+    },
+    {
+      "english": "Breathing out, worries.",
+      "spanish": "Thở ra, lo lắng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944816"
+    },
+    {
+      "english": "My stillness, my power.",
+      "spanish": "Sự tĩnh lặng, sức mạnh tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944817"
+    },
+    {
+      "english": "Open heart, open mind.",
+      "spanish": "Trái tim mở, tâm trí mở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944818"
+    },
+    {
+      "english": "Finding clarity, within.",
+      "spanish": "Tìm sự sáng suốt, bên trong.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944819"
+    },
+    {
+      "english": "This present, is a gift.",
+      "spanish": "Hiện tại này, là món quà.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944820"
+    },
+    {
+      "english": "Gentle awareness, blooming.",
+      "spanish": "Ý thức dịu, đang nở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944822"
+    },
+    {
+      "english": "Calm body, calm mind.",
+      "spanish": "Thân thư thái, tâm tĩnh lặng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944823"
+    },
+    {
+      "english": "Just observe, the flow.",
+      "spanish": "Cứ quan sát, dòng chảy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944824"
+    },
+    {
+      "english": "Feeling present, fully.",
+      "spanish": "Cảm thấy có mặt, trọn vẹn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944825"
+    },
+    {
+      "english": "My own rhythm, my pace.",
+      "spanish": "Nhịp điệu riêng, tốc độ tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944826"
+    },
+    {
+      "english": "Letting thoughts, drift by.",
+      "spanish": "Để suy nghĩ, trôi qua.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944827"
+    },
+    {
+      "english": "This moment, is mine.",
+      "spanish": "Khoảnh khắc này, của tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944828"
+    },
+    {
+      "english": "Let it go, gently.",
+      "spanish": "Buông bỏ thôi, nhẹ nhàng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944829"
+    },
+    {
+      "english": "Peace within, my guide.",
+      "spanish": "Bình an trong, dẫn lối.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944830"
+    },
+    {
+      "english": "Stillness, is my friend.",
+      "spanish": "Tĩnh lặng, là bạn tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944831"
+    },
+    {
+      "english": "Mind clear, heart open.",
+      "spanish": "Tâm trí rõ, trái tim mở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944832"
+    },
+    {
+      "english": "Present moment, beautiful.",
+      "spanish": "Khoảnh khắc này, tươi đẹp.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944833"
+    },
+    {
+      "english": "Grounding down, feeling roots.",
+      "spanish": "Lắng mình xuống, thấy gốc rễ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944834"
+    },
+    {
+      "english": "Focus here, now.",
+      "spanish": "Tập trung ở, đây.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944835"
+    },
+    {
+      "english": "Gentle thoughts, flowing in.",
+      "spanish": "Ý nghĩ dịu, đang tới.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944837"
+    },
+    {
+      "english": "Silence, speaks volumes.",
+      "spanish": "Im lặng, nói nhiều.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944838"
+    },
+    {
+      "english": "Feeling grounded, safe.",
+      "spanish": "Cảm thấy chắc, an toàn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944839"
+    },
+    {
+      "english": "This pause, is needed.",
+      "spanish": "Khoảng dừng này, cần thiết.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944840"
+    },
+    {
+      "english": "Soft gaze, looking out.",
+      "spanish": "Nhìn dịu dàng, ra ngoài.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944841"
+    },
+    {
+      "english": "Awareness, is growing.",
+      "spanish": "Nhận thức, đang lớn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944842"
+    },
+    {
+      "english": "My own space, my peace.",
+      "spanish": "Không gian riêng, bình yên.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944843"
+    },
+    {
+      "english": "Observing, without judgment.",
+      "spanish": "Quan sát, không phán xét.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944845"
+    },
+    {
+      "english": "My breath, my anchor.",
+      "spanish": "Hơi thở, neo của tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944846"
+    },
+    {
+      "english": "Inner quiet, starts.",
+      "spanish": "Tĩnh lặng bên trong, bắt đầu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944847"
+    },
+    {
+      "english": "Feeling whole, complete.",
+      "spanish": "Cảm thấy trọn vẹn, đủ đầy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944848"
+    },
+    {
+      "english": "Slow down, be present.",
+      "spanish": "Chậm lại, có mặt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944849"
+    },
+    {
+      "english": "This moment, is enough.",
+      "spanish": "Khoảnh khắc này, đủ rồi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944850"
+    },
+    {
+      "english": "Release tension, softly.",
+      "spanish": "Thả lỏng căng, nhẹ nhàng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944851"
+    },
+    {
+      "english": "Inner calm, is here.",
+      "spanish": "Bình yên nội tại, ở đây.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944852"
+    },
+    {
+      "english": "Just this, nothing else.",
+      "spanish": "Chỉ điều này, không gì khác.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944853"
+    },
+    {
+      "english": "Mindful steps, forward.",
+      "spanish": "Bước chân chánh niệm, về trước.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944854"
+    },
+    {
+      "english": "Breathing in, peace.",
+      "spanish": "Hít vào, bình yên.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944856"
+    },
+    {
+      "english": "Breathing out, worries.",
+      "spanish": "Thở ra, lo lắng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944857"
+    },
+    {
+      "english": "My stillness, my power.",
+      "spanish": "Sự tĩnh lặng, sức mạnh tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944858"
+    },
+    {
+      "english": "Open heart, open mind.",
+      "spanish": "Trái tim mở, tâm trí mở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944859"
+    },
+    {
+      "english": "Finding clarity, within.",
+      "spanish": "Tìm sự sáng suốt, bên trong.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944860"
+    },
+    {
+      "english": "This present, is a gift.",
+      "spanish": "Hiện tại này, là món quà.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944861"
+    },
+    {
+      "english": "Gentle awareness, blooming.",
+      "spanish": "Ý thức dịu, đang nở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944862"
+    },
+    {
+      "english": "Calm body, calm mind.",
+      "spanish": "Thân thư thái, tâm tĩnh lặng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944863"
+    },
+    {
+      "english": "Just observe, the flow.",
+      "spanish": "Cứ quan sát, dòng chảy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944866"
+    },
+    {
+      "english": "Feeling present, fully.",
+      "spanish": "Cảm thấy có mặt, trọn vẹn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944867"
+    },
+    {
+      "english": "My own rhythm, my pace.",
+      "spanish": "Nhịp điệu riêng, tốc độ tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944868"
+    },
+    {
+      "english": "Letting thoughts, drift by.",
+      "spanish": "Để suy nghĩ, trôi qua.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944869"
+    },
+    {
+      "english": "This moment, is mine.",
+      "spanish": "Khoảnh khắc này, của tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944870"
+    },
+    {
+      "english": "Let it go, gently.",
+      "spanish": "Buông bỏ thôi, nhẹ nhàng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944871"
+    },
+    {
+      "english": "Peace within, my guide.",
+      "spanish": "Bình an trong, dẫn lối.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944872"
+    },
+    {
+      "english": "Stillness, is my friend.",
+      "spanish": "Tĩnh lặng, là bạn tôi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944873"
+    },
+    {
+      "english": "Mind clear, heart open.",
+      "spanish": "Tâm trí rõ, trái tim mở.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944874"
+    },
+    {
+      "english": "Present moment, beautiful.",
+      "spanish": "Khoảnh khắc này, tươi đẹp.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944875"
+    },
+    {
+      "english": "Grounding down, feeling roots.",
+      "spanish": "Lắng mình xuống, thấy gốc rễ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944876"
+    },
+    {
+      "english": "Focus here, now.",
+      "spanish": "Tập trung ở, đây.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944878"
+    },
+    {
+      "english": "Gentle thoughts, flowing in.",
+      "spanish": "Ý nghĩ dịu, đang tới.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944879"
+    },
+    {
+      "english": "Silence, speaks volumes.",
+      "spanish": "Im lặng, nói nhiều.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T10:47:04.944880"
     }
   ],
-  "last_updated": "2026-07-27T04:29:44.331770"
+  "last_updated": "2026-07-31T10:47:04.944882"
 }
