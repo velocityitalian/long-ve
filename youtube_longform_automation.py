@@ -327,143 +327,136 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "spanish": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
-            {"english": "You are capable of amazing things.", "spanish": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
-            {"english": "Dream big, start small.", "spanish": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
-            {"english": "Your future is created by your actions.", "spanish": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
-            {"english": "Never give up on your dreams.", "spanish": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
-            {"english": "Small steps lead to big changes.", "spanish": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
-            {"english": "You are stronger than you think.", "spanish": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
+            {"english": "Believe in yourself.", "vietnamese": "Hãy tin vào chính mình.", "pronunciation": "hay tin vao ching minh"},
+            {"english": "You are capable of amazing things.", "vietnamese": "Bạn có khả năng làm những điều tuyệt vời.", "pronunciation": "ban co kha nang lam nhung dieu tuyet voi"},
+            {"english": "Dream big, start small.", "vietnamese": "Mơ lớn, bắt đầu nhỏ.", "pronunciation": "mo lon, bat dau nho"},
+            {"english": "Your future is created by your actions.", "vietnamese": "Tương lai của bạn do hành động của bạn tạo ra.", "pronunciation": "tuong lai cua ban do hanh dong cua ban tao ra"},
+            {"english": "Never give up on your dreams.", "vietnamese": "Đừng bao giờ từ bỏ ước mơ của mình.", "pronunciation": "dung bao gio tu bo uoc mo cua minh"},
+            {"english": "Small steps lead to big changes.", "vietnamese": "Những bước nhỏ dẫn đến thay đổi lớn.", "pronunciation": "nhung buoc nho dan den thay doi lon"},
+            {"english": "You are stronger than you think.", "vietnamese": "Bạn mạnh mẽ hơn bạn nghĩ.", "pronunciation": "ban manh me hon ban nghi"},
         ],
         "Love": [
-            {"english": "Love yourself first.", "spanish": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
-            {"english": "Love makes everything possible.", "spanish": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
-            {"english": "My heart beats for you.", "spanish": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
-            {"english": "You are my everything.", "spanish": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
-            {"english": "Together forever, hand in hand.", "spanish": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
+            {"english": "Love yourself first.", "vietnamese": "Yêu bản thân trước tiên.", "pronunciation": "yeu ban than truoc tien"},
+            {"english": "Love makes everything possible.", "vietnamese": "Tình yêu làm mọi thứ có thể.", "pronunciation": "tinh yeu lam moi thu co the"},
+            {"english": "My heart beats for you.", "vietnamese": "Trái tim tôi đập vì bạn.", "pronunciation": "trai tim toi dap vi ban"},
+            {"english": "You are my everything.", "vietnamese": "Bạn là tất cả của tôi.", "pronunciation": "ban la tat ca cua toi"},
+            {"english": "Together forever, hand in hand.", "vietnamese": "Cùng nhau mãi mãi, tay trong tay.", "pronunciation": "cung nhau mai mai, tay trong tay"},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "spanish": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
-            {"english": "Keep going, you're getting there.", "spanish": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
-            {"english": "Winners never quit.", "spanish": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
-            {"english": "Your effort will pay off.", "spanish": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
+            {"english": "Success comes from hard work.", "vietnamese": "Thành công đến từ làm việc chăm chỉ.", "pronunciation": "thanh cong den tu lam viec cham chi"},
+            {"english": "Keep going, you're getting there.", "vietnamese": "Cứ tiếp tục, bạn sắp đến rồi.", "pronunciation": "cu tiep tuc, ban sap den roi"},
+            {"english": "Winners never quit.", "vietnamese": "Người chiến thắng không bao giờ bỏ cuộc.", "pronunciation": "nguoi chien thang khong bao gio bo cuoc"},
+            {"english": "Your effort will pay off.", "vietnamese": "Nỗ lực của bạn sẽ được đền đáp.", "pronunciation": "no luc cua ban se duoc den dap"},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "spanish": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
-            {"english": "Learn from yesterday, live for today.", "spanish": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
-            {"english": "Think before you act.", "spanish": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
-            {"english": "Experience is the best teacher.", "spanish": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
+            {"english": "Knowledge is power.", "vietnamese": "Kiến thức là sức mạnh.", "pronunciation": "kien thuc la suc manh"},
+            {"english": "Learn from yesterday, live for today.", "vietnamese": "Học từ hôm qua, sống cho hôm nay.", "pronunciation": "hoc tu hom qua, song cho hom nay"},
+            {"english": "Think before you act.", "vietnamese": "Suy nghĩ trước khi hành động.", "pronunciation": "suy nghi truoc khi hanh dong"},
+            {"english": "Experience is the best teacher.", "vietnamese": "Kinh nghiệm là người thầy tốt nhất.", "pronunciation": "kinh nghiem la nguoi thay tot nhat"},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "spanish": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
-            {"english": "Find joy in the little things.", "spanish": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
-            {"english": "Smile, it makes others happy.", "spanish": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
-            {"english": "Today is a gift.", "spanish": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
-        ],
-        "Self Improvement": [
-            {"english": "Be better than yesterday.", "spanish": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
-            {"english": "Grow through what you go through.", "spanish": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
-            {"english": "Invest in yourself daily.", "spanish": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
+            {"english": "Happiness is a choice.", "vietnamese": "Hạnh phúc là một sự lựa chọn.", "pronunciation": "hanh phuc la mot su lua chon"},
+            {"english": "Find joy in the little things.", "vietnamese": "Tìm niềm vui trong những điều nhỏ bé.", "pronunciation": "tim niem vui trong nhung dieu nho be"},
+            {"english": "Smile, it makes others happy.", "vietnamese": "Hãy cười, nó làm người khác vui.", "pronunciation": "hay cuoi, no lam nguoi khac vui"},
+            {"english": "Today is a gift.", "vietnamese": "Hôm nay là một món quà.", "pronunciation": "hom nay la mot mon qua"},
+            {"english": "Be better than yesterday.", "vietnamese": "Trở nên tốt hơn hôm qua.", "pronunciation": "tro nen tot hon hom qua"},
+            {"english": "Grow through what you go through.", "vietnamese": "Trưởng thành qua những gì bạn trải qua.", "pronunciation": "truong thanh qua nhung gi ban trai qua"},
+            {"english": "Invest in yourself daily.", "vietnamese": "Đầu tư vào bản thân mỗi ngày.", "pronunciation": "dau tu vao ban than moi ngay"},
         ],
         "Gratitude": [
-            {"english": "Thank you for everything.", "spanish": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
-            {"english": "I appreciate your help.", "spanish": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
-            {"english": "Grateful for this moment.", "spanish": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
+            {"english": "Thank you for everything.", "vietnamese": "Cảm ơn bạn vì tất cả.", "pronunciation": "cam on ban vi tat ca"},
+            {"english": "I appreciate your help.", "vietnamese": "Tôi trân trọng sự giúp đỡ của bạn.", "pronunciation": "toi tran trong su giup do cua ban"},
+            {"english": "Grateful for this moment.", "vietnamese": "Biết ơn khoảnh khắc này.", "pronunciation": "biet on khoanh khac nay"},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "spanish": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
-            {"english": "You are my best friend.", "spanish": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
-            {"english": "True friends stick together.", "spanish": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
+            {"english": "Friends forever, no matter what.", "vietnamese": "Bạn bè mãi mãi, dù có chuyện gì.", "pronunciation": "ban be mai mai, du co chuyen gi"},
+            {"english": "You are my best friend.", "vietnamese": "Bạn là người bạn thân nhất của tôi.", "pronunciation": "ban la nguoi ban than nhat cua toi"},
+            {"english": "True friends stick together.", "vietnamese": "Bạn chân chính luôn ở bên nhau.", "pronunciation": "ban chan chinh luon o ben nhau"},
         ],
         "Hope": [
-            {"english": "There is always hope.", "spanish": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
-            {"english": "Better days are coming.", "spanish": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
-            {"english": "Keep faith, keep going.", "spanish": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
+            {"english": "There is always hope.", "vietnamese": "Luôn có hy vọng.", "pronunciation": "luon co hy vong"},
+            {"english": "Better days are coming.", "vietnamese": "Những ngày tốt đẹp hơn đang đến.", "pronunciation": "nhung ngay tot dep hon dang den"},
+            {"english": "Keep faith, keep going.", "vietnamese": "Giữ niềm tin, cứ tiếp tục.", "pronunciation": "giu niem tin, cu tiep tuc"},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "spanish": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
-            {"english": "Your imagination is unlimited.", "spanish": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
-            {"english": "Art comes from the heart.", "spanish": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
-            {"english": "Express yourself freely.", "spanish": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
-            {"english": "Innovation starts with curiosity.", "spanish": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
-        ],
-        "Inner Peace": [
-            {"english": "Find peace within yourself.", "spanish": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
-            {"english": "Breathe, relax, let go.", "spanish": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
-            {"english": "Calm mind, happy heart.", "spanish": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
+            {"english": "Create something beautiful today.", "vietnamese": "Tạo ra điều gì đó đẹp đẽ hôm nay.", "pronunciation": "tao ra dieu gi do dep de hom nay"},
+            {"english": "Your imagination is unlimited.", "vietnamese": "Trí tưởng tượng của bạn là vô hạn.", "pronunciation": "tri tuong tuong cua ban la vo han"},
+            {"english": "Art comes from the heart.", "vietnamese": "Nghệ thuật đến từ trái tim.", "pronunciation": "nghe thuat den tu trai tim"},
+            {"english": "Express yourself freely.", "vietnamese": "Thể hiện bản thân một cách tự do.", "pronunciation": "the hien ban than mot cach tu do"},
+            {"english": "Innovation starts with curiosity.", "vietnamese": "Đổi mới bắt đầu từ sự tò mò.", "pronunciation": "doi moi bat dau tu su to mo"},
+            {"english": "Find peace within yourself.", "vietnamese": "Tìm bình yên trong chính mình.", "pronunciation": "tim binh yen trong chinh minh"},
+            {"english": "Breathe, relax, let go.", "vietnamese": "Hít thở, thư giãn, buông bỏ.", "pronunciation": "hit tho, thu gian, buong bo"},
+            {"english": "Calm mind, happy heart.", "vietnamese": "Tâm trí bình tĩnh, trái tim vui vẻ.", "pronunciation": "tam tri binh tinh, trai tim vui ve"},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "spanish": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
-            {"english": "Stand tall, speak up.", "spanish": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
-            {"english": "Believe in your abilities.", "spanish": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
+            {"english": "You are enough, just as you are.", "vietnamese": "Bạn đủ tốt, đúng như bạn là.", "pronunciation": "ban du tot, dung nhu ban la"},
+            {"english": "Stand tall, speak up.", "vietnamese": "Đứng thẳng, nói lên tiếng nói của mình.", "pronunciation": "dung thang, noi len tieng noi cua minh"},
+            {"english": "Believe in your abilities.", "vietnamese": "Tin vào khả năng của bạn.", "pronunciation": "tin vao kha nang cua ban"},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "spanish": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
-            {"english": "Storms make trees take deeper roots.", "spanish": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
-            {"english": "Patience and persistence win.", "spanish": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
+            {"english": "Never give up, keep pushing.", "vietnamese": "Đừng bao giờ bỏ cuộc, cứ tiến lên.", "pronunciation": "dung bao gio bo cuoc, cu tien len"},
+            {"english": "Storms make trees take deeper roots.", "vietnamese": "Bão tố làm cây cắm rễ sâu hơn.", "pronunciation": "bao to lam cay cam re sau hon"},
+            {"english": "Patience and persistence win.", "vietnamese": "Kiên nhẫn và bền bỉ chiến thắng.", "pronunciation": "kien nhan va ben bi chien thang"},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "spanish": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
-            {"english": "Inspire others by your actions.", "spanish": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
-            {"english": "Be the change you want to see.", "spanish": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
-        ],
-        "Positive Life": [
-            {"english": "Choose positivity every day.", "spanish": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
-            {"english": "Good vibes only.", "spanish": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
-            {"english": "Life is what you make it.", "spanish": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
+            {"english": "Let your light shine bright.", "vietnamese": "Hãy để ánh sáng của bạn tỏa sáng.", "pronunciation": "hay de anh sang cua ban toa sang"},
+            {"english": "Inspire others by your actions.", "vietnamese": "Truyền cảm hứng cho người khác bằng hành động.", "pronunciation": "truyen cam hung cho nguoi khac bang hanh dong"},
+            {"english": "Be the change you want to see.", "vietnamese": "Hãy là sự thay đổi bạn muốn thấy.", "pronunciation": "hay la su thay doi ban muon thay"},
+            {"english": "Choose positivity every day.", "vietnamese": "Chọn sự tích cực mỗi ngày.", "pronunciation": "chon su tich cuc moi ngay"},
+            {"english": "Good vibes only.", "vietnamese": "Chỉ những rung cảm tốt.", "pronunciation": "chi nhung rung cam tot"},
+            {"english": "Life is what you make it.", "vietnamese": "Cuộc sống là những gì bạn tạo nên.", "pronunciation": "cuoc song la nhung gi ban tao nen"},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "spanish": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
-            {"english": "Courage is not the absence of fear.", "spanish": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
-            {"english": "Face your fears head on.", "spanish": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
+            {"english": "Be brave, take the first step.", "vietnamese": "Hãy dũng cảm, bước bước đầu tiên.", "pronunciation": "hay dung cam, buoc buoc dau tien"},
+            {"english": "Courage is not the absence of fear.", "vietnamese": "Dũng cảm không phải là không sợ hãi.", "pronunciation": "dung cam khong phai la khong so hai"},
+            {"english": "Face your fears head on.", "vietnamese": "Đối mặt với nỗi sợ của bạn.", "pronunciation": "doi mat voi noi so cua ban"},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "spanish": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
-            {"english": "Kindness costs nothing, means everything.", "spanish": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
-            {"english": "Spread kindness wherever you go.", "spanish": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
+            {"english": "Be kind to everyone you meet.", "vietnamese": "Hãy tử tế với mọi người bạn gặp.", "pronunciation": "hay tu te voi moi nguoi ban gap"},
+            {"english": "Kindness costs nothing, means everything.", "vietnamese": "Lòng tốt không tốn gì, nghĩa là tất cả.", "pronunciation": "long tot khong ton gi, nghia la tat ca"},
+            {"english": "Spread kindness wherever you go.", "vietnamese": "Lan tỏa lòng tốt đến mọi nơi.", "pronunciation": "lan toa long tot den moi noi"},
         ],
         "Patience": [
-            {"english": "Good things take time.", "spanish": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
-            {"english": "Wait patiently, trust the process.", "spanish": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
-            {"english": "Rome wasn't built in a day.", "spanish": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
+            {"english": "Good things take time.", "vietnamese": "Những điều tốt đẹp cần thời gian.", "pronunciation": "nhung dieu tot dep can thoi gian"},
+            {"english": "Wait patiently, trust the process.", "vietnamese": "Chờ đợi kiên nhẫn, tin vào quá trình.", "pronunciation": "cho doi kien nhan, tin vao qua trinh"},
+            {"english": "Rome wasn't built in a day.", "vietnamese": "Rome không được xây trong một ngày.", "pronunciation": "Rome khong duoc xay trong mot ngay"},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "spanish": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
-            {"english": "Let go of grudges, find peace.", "spanish": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
-            {"english": "Forgiveness is a gift to yourself.", "spanish": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
+            {"english": "Forgive and set yourself free.", "vietnamese": "Tha thứ và giải phóng bản thân.", "pronunciation": "tha thu va giai phong ban than"},
+            {"english": "Let go of grudges, find peace.", "vietnamese": "Buông bỏ oán giận, tìm bình yên.", "pronunciation": "buong bo oan gian, tim binh yen"},
+            {"english": "Forgiveness is a gift to yourself.", "vietnamese": "Tha thứ là món quà cho chính bạn.", "pronunciation": "tha thu la mon qua cho chinh ban"},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "spanish": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
-            {"english": "Inner strength comes from within.", "spanish": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
-            {"english": "Challenges make you stronger.", "spanish": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
+            {"english": "You are stronger than you know.", "vietnamese": "Bạn mạnh mẽ hơn bạn biết.", "pronunciation": "ban manh me hon ban biet"},
+            {"english": "Inner strength comes from within.", "vietnamese": "Sức mạnh nội tâm đến từ bên trong.", "pronunciation": "suc manh noi tam den tu ben trong"},
+            {"english": "Challenges make you stronger.", "vietnamese": "Thử thách làm bạn mạnh mẽ hơn.", "pronunciation": "thu thach lam ban manh me hon"},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "spanish": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
-            {"english": "Joy is contagious, spread it.", "spanish": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
-            {"english": "Dance like nobody's watching.", "spanish": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
+            {"english": "Find joy in every moment.", "vietnamese": "Tìm niềm vui trong từng khoảnh khắc.", "pronunciation": "tim niem vui trong tung khoanh khac"},
+            {"english": "Joy is contagious, spread it.", "vietnamese": "Niềm vui lan tỏa, hãy chia sẻ nó.", "pronunciation": "niem vui lan toa, hay chia se no"},
+            {"english": "Dance like nobody's watching.", "vietnamese": "Nhảy như không ai đang xem.", "pronunciation": "nhay nhu khong ai dang xem"},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "spanish": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
-            {"english": "Work hard, rest well.", "spanish": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
-            {"english": "Too much of anything is not good.", "spanish": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
+            {"english": "Find balance in your life.", "vietnamese": "Tìm sự cân bằng trong cuộc sống.", "pronunciation": "tim su can bang trong cuoc song"},
+            {"english": "Work hard, rest well.", "vietnamese": "Làm việc chăm chỉ, nghỉ ngơi tốt.", "pronunciation": "lam viec cham chi, nghi ngoi tot"},
+            {"english": "Too much of anything is not good.", "vietnamese": "Quá nhiều bất cứ điều gì đều không tốt.", "pronunciation": "qua nhieu bat cu dieu gi deu khong tot"},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "spanish": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
-            {"english": "Embrace change, grow stronger.", "spanish": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
-            {"english": "Every challenge is a chance to grow.", "spanish": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
+            {"english": "Growth happens outside your comfort zone.", "vietnamese": "Sự trưởng thành xảy ra ngoài vùng an toàn.", "pronunciation": "su truong thanh xay ra ngoai vung an toan"},
+            {"english": "Embrace change, grow stronger.", "vietnamese": "Đón nhận thay đổi, trưởng thành mạnh mẽ hơn.", "pronunciation": "don nhan thay doi, truong thanh manh me hon"},
+            {"english": "Every challenge is a chance to grow.", "vietnamese": "Mọi thử thách là cơ hội để phát triển.", "pronunciation": "moi thu thach la co hoi de phat trien"},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "spanish": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
-            {"english": "Your life has meaning.", "spanish": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
-            {"english": "Live with intention, not accident.", "spanish": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
+            {"english": "Find your purpose, follow it.", "vietnamese": "Tìm mục đích của bạn, theo đuổi nó.", "pronunciation": "tim muc dich cua ban, theo duoi no"},
+            {"english": "Your life has meaning.", "vietnamese": "Cuộc sống của bạn có ý nghĩa.", "pronunciation": "cuoc song cua ban co y nghia"},
+            {"english": "Live with intention, not accident.", "vietnamese": "Sống có chủ đích, không phải ngẫu nhiên.", "pronunciation": "song co chu dich, khong phai ngau nhien"},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "spanish": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
-            {"english": "Breathe deeply, stay grounded.", "spanish": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
-            {"english": "Notice the little things around you.", "spanish": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
+            {"english": "Be present in this moment.", "vietnamese": "Hiện diện trong khoảnh khắc này.", "pronunciation": "hien dien trong khoanh khac nay"},
+            {"english": "Breathe deeply, stay grounded.", "vietnamese": "Hít thở sâu, giữ vững tâm trí.", "pronunciation": "hit tho sau, giu vung tam tri"},
+            {"english": "Notice the little things around you.", "vietnamese": "Chú ý những điều nhỏ bé xung quanh bạn.", "pronunciation": "chu y nhung dieu nho be xung quanh ban"},
         ],
     }
-
     fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
 
     history = load_phrase_history()
@@ -911,7 +904,7 @@ def generate_title_description(category_english: str, category_vietnamese: str, 
     ]
 
     # Generate comprehensive description
-    description = f"""🇪🇸 Learn Vietnamese with VELOCITY VIETNAMESE! 🇪🇸
+    description = f"""🇻🇳 Learn Vietnamese with VELOCITY VIETNAMESE! 🇻🇳
 
 In this video, you'll learn 60 essential Vietnamese phrases about {category_english} ({category_vietnamese}).
 Perfect for beginners and intermediate learners!
@@ -1263,7 +1256,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇪🇸 VELOCITY VIETNAMESE - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
+    print("🇻🇳 VELOCITY VIETNAMESE - YOUTUBE LONG-FORM AUTOMATION 🇻🇳")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
