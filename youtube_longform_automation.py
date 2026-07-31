@@ -42,21 +42,21 @@ TARGET_PHRASES = 120
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Lòng biết ơne", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
-# Vietnamese translations for display
-CATEGORIES_Vietnamese = {
+# Spanish translations for display
+CATEGORIES_VIETNAMESE = {
     "Motivation": "Động lực",
     "Love": "Tình yêu",
     "Success": "Thành công",
     "Wisdom": "Trí tuệ",
     "Happiness": "Hạnh phúc",
     "Self Improvement": "Phát triển bản thân",
-    "Lòng biết ơne": "Lòng biết ơn",
+    "Gratitude": "Lòng biết ơn",
     "Friendship": "Tình bạn",
     "Hope": "Hy vọng",
     "Creativity": "Sáng tạo",
@@ -79,7 +79,7 @@ CATEGORIES_Vietnamese = {
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-Vietnamese_VOICE = "vi-VN-HoaiMyNeural"
+VIETNAMESE_VOICE = "vi-VN-HoaiMyNeural"
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -182,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "Vietnamese": phrase["Vietnamese"],
+            "spanish": phrase["vietnamese"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -195,7 +195,7 @@ def add_phrases_to_history(phrases, category):
 def calculate_phrases_needed(target_minutes: int) -> int:
     """
     Calculate how many phrases needed for target video duration.
-    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + Vietnamese ~2.5s)
+    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + Spanish ~2.5s)
     For 10 minutes (600 seconds): 600 / 5 = ~120 phrases
     """
     avg_phrase_duration = 5.0  # seconds
@@ -206,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_Vietnamese = CATEGORIES_Vietnamese[category_english]
+    category_vietnamese = CATEGORIES_VIETNAMESE[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -255,11 +255,11 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
-2. Vietnamese translation
+2. Spanish translation
 3. Pronunciation guide (phonetic spelling for English speakers)
 
 Return as JSON array:
-[{{"english": "...", "Vietnamese": "...", "pronunciation": "..."}}]
+[{{"english": "...", "spanish": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
@@ -327,140 +327,140 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "Vietnamese": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
-            {"english": "You are capable of amazing things.", "Vietnamese": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
-            {"english": "Dream big, start small.", "Vietnamese": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
-            {"english": "Your future is created by your actions.", "Vietnamese": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
-            {"english": "Never give up on your dreams.", "Vietnamese": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
-            {"english": "Small steps lead to big changes.", "Vietnamese": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
-            {"english": "You are stronger than you think.", "Vietnamese": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
+            {"english": "Believe in yourself.", "spanish": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
+            {"english": "You are capable of amazing things.", "spanish": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
+            {"english": "Dream big, start small.", "spanish": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
+            {"english": "Your future is created by your actions.", "spanish": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
+            {"english": "Never give up on your dreams.", "spanish": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
+            {"english": "Small steps lead to big changes.", "spanish": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
+            {"english": "You are stronger than you think.", "spanish": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
         ],
         "Love": [
-            {"english": "Love yourself first.", "Vietnamese": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
-            {"english": "Love makes everything possible.", "Vietnamese": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
-            {"english": "My heart beats for you.", "Vietnamese": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
-            {"english": "You are my everything.", "Vietnamese": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
-            {"english": "Together forever, hand in hand.", "Vietnamese": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
+            {"english": "Love yourself first.", "spanish": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
+            {"english": "Love makes everything possible.", "spanish": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
+            {"english": "My heart beats for you.", "spanish": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
+            {"english": "You are my everything.", "spanish": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
+            {"english": "Together forever, hand in hand.", "spanish": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "Vietnamese": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
-            {"english": "Keep going, you're getting there.", "Vietnamese": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
-            {"english": "Winners never quit.", "Vietnamese": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
-            {"english": "Your effort will pay off.", "Vietnamese": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
+            {"english": "Success comes from hard work.", "spanish": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
+            {"english": "Keep going, you're getting there.", "spanish": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
+            {"english": "Winners never quit.", "spanish": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
+            {"english": "Your effort will pay off.", "spanish": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "Vietnamese": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
-            {"english": "Learn from yesterday, live for today.", "Vietnamese": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
-            {"english": "Think before you act.", "Vietnamese": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
-            {"english": "Experience is the best teacher.", "Vietnamese": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
+            {"english": "Knowledge is power.", "spanish": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
+            {"english": "Learn from yesterday, live for today.", "spanish": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
+            {"english": "Think before you act.", "spanish": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
+            {"english": "Experience is the best teacher.", "spanish": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "Vietnamese": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
-            {"english": "Find joy in the little things.", "Vietnamese": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
-            {"english": "Smile, it makes others happy.", "Vietnamese": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
-            {"english": "Today is a gift.", "Vietnamese": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
+            {"english": "Happiness is a choice.", "spanish": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
+            {"english": "Find joy in the little things.", "spanish": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
+            {"english": "Smile, it makes others happy.", "spanish": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
+            {"english": "Today is a gift.", "spanish": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "Vietnamese": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
-            {"english": "Grow through what you go through.", "Vietnamese": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
-            {"english": "Invest in yourself daily.", "Vietnamese": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
+            {"english": "Be better than yesterday.", "spanish": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
+            {"english": "Grow through what you go through.", "spanish": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
+            {"english": "Invest in yourself daily.", "spanish": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
         ],
-        "Lòng biết ơne": [
-            {"english": "Thank you for everything.", "Vietnamese": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
-            {"english": "I appreciate your help.", "Vietnamese": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
-            {"english": "Grateful for this moment.", "Vietnamese": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
+        "Gratitude": [
+            {"english": "Thank you for everything.", "spanish": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
+            {"english": "I appreciate your help.", "spanish": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
+            {"english": "Grateful for this moment.", "spanish": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "Vietnamese": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
-            {"english": "You are my best friend.", "Vietnamese": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
-            {"english": "True friends stick together.", "Vietnamese": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
+            {"english": "Friends forever, no matter what.", "spanish": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
+            {"english": "You are my best friend.", "spanish": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
+            {"english": "True friends stick together.", "spanish": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
         ],
         "Hope": [
-            {"english": "There is always hope.", "Vietnamese": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
-            {"english": "Better days are coming.", "Vietnamese": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
-            {"english": "Keep faith, keep going.", "Vietnamese": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
+            {"english": "There is always hope.", "spanish": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
+            {"english": "Better days are coming.", "spanish": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
+            {"english": "Keep faith, keep going.", "spanish": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "Vietnamese": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
-            {"english": "Your imagination is unlimited.", "Vietnamese": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
-            {"english": "Art comes from the heart.", "Vietnamese": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
-            {"english": "Express yourself freely.", "Vietnamese": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
-            {"english": "Innovation starts with curiosity.", "Vietnamese": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
+            {"english": "Create something beautiful today.", "spanish": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
+            {"english": "Your imagination is unlimited.", "spanish": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
+            {"english": "Art comes from the heart.", "spanish": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
+            {"english": "Express yourself freely.", "spanish": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
+            {"english": "Innovation starts with curiosity.", "spanish": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "Vietnamese": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
-            {"english": "Breathe, relax, let go.", "Vietnamese": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
-            {"english": "Calm mind, happy heart.", "Vietnamese": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
+            {"english": "Find peace within yourself.", "spanish": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
+            {"english": "Breathe, relax, let go.", "spanish": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
+            {"english": "Calm mind, happy heart.", "spanish": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "Vietnamese": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
-            {"english": "Stand tall, speak up.", "Vietnamese": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
-            {"english": "Believe in your abilities.", "Vietnamese": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
+            {"english": "You are enough, just as you are.", "spanish": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
+            {"english": "Stand tall, speak up.", "spanish": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
+            {"english": "Believe in your abilities.", "spanish": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "Vietnamese": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
-            {"english": "Storms make trees take deeper roots.", "Vietnamese": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
-            {"english": "Patience and persistence win.", "Vietnamese": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
+            {"english": "Never give up, keep pushing.", "spanish": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
+            {"english": "Storms make trees take deeper roots.", "spanish": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
+            {"english": "Patience and persistence win.", "spanish": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "Vietnamese": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
-            {"english": "Inspire others by your actions.", "Vietnamese": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
-            {"english": "Be the change you want to see.", "Vietnamese": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
+            {"english": "Let your light shine bright.", "spanish": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
+            {"english": "Inspire others by your actions.", "spanish": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
+            {"english": "Be the change you want to see.", "spanish": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "Vietnamese": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
-            {"english": "Good vibes only.", "Vietnamese": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
-            {"english": "Life is what you make it.", "Vietnamese": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
+            {"english": "Choose positivity every day.", "spanish": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
+            {"english": "Good vibes only.", "spanish": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
+            {"english": "Life is what you make it.", "spanish": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "Vietnamese": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
-            {"english": "Courage is not the absence of fear.", "Vietnamese": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
-            {"english": "Face your fears head on.", "Vietnamese": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
+            {"english": "Be brave, take the first step.", "spanish": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
+            {"english": "Courage is not the absence of fear.", "spanish": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
+            {"english": "Face your fears head on.", "spanish": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "Vietnamese": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
-            {"english": "Kindness costs nothing, means everything.", "Vietnamese": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
-            {"english": "Spread kindness wherever you go.", "Vietnamese": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
+            {"english": "Be kind to everyone you meet.", "spanish": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
+            {"english": "Kindness costs nothing, means everything.", "spanish": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
+            {"english": "Spread kindness wherever you go.", "spanish": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
         ],
         "Patience": [
-            {"english": "Good things take time.", "Vietnamese": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
-            {"english": "Wait patiently, trust the process.", "Vietnamese": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
-            {"english": "Rome wasn't built in a day.", "Vietnamese": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
+            {"english": "Good things take time.", "spanish": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
+            {"english": "Wait patiently, trust the process.", "spanish": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
+            {"english": "Rome wasn't built in a day.", "spanish": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "Vietnamese": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
-            {"english": "Let go of grudges, find peace.", "Vietnamese": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
-            {"english": "Forgiveness is a gift to yourself.", "Vietnamese": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
+            {"english": "Forgive and set yourself free.", "spanish": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
+            {"english": "Let go of grudges, find peace.", "spanish": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
+            {"english": "Forgiveness is a gift to yourself.", "spanish": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "Vietnamese": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
-            {"english": "Inner strength comes from within.", "Vietnamese": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
-            {"english": "Challenges make you stronger.", "Vietnamese": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
+            {"english": "You are stronger than you know.", "spanish": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
+            {"english": "Inner strength comes from within.", "spanish": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
+            {"english": "Challenges make you stronger.", "spanish": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "Vietnamese": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
-            {"english": "Joy is contagious, spread it.", "Vietnamese": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
-            {"english": "Dance like nobody's watching.", "Vietnamese": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
+            {"english": "Find joy in every moment.", "spanish": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
+            {"english": "Joy is contagious, spread it.", "spanish": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
+            {"english": "Dance like nobody's watching.", "spanish": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "Vietnamese": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
-            {"english": "Work hard, rest well.", "Vietnamese": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
-            {"english": "Too much of anything is not good.", "Vietnamese": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
+            {"english": "Find balance in your life.", "spanish": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
+            {"english": "Work hard, rest well.", "spanish": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
+            {"english": "Too much of anything is not good.", "spanish": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "Vietnamese": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
-            {"english": "Embrace change, grow stronger.", "Vietnamese": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
-            {"english": "Every challenge is a chance to grow.", "Vietnamese": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
+            {"english": "Growth happens outside your comfort zone.", "spanish": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
+            {"english": "Embrace change, grow stronger.", "spanish": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
+            {"english": "Every challenge is a chance to grow.", "spanish": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "Vietnamese": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
-            {"english": "Your life has meaning.", "Vietnamese": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
-            {"english": "Live with intention, not accident.", "Vietnamese": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
+            {"english": "Find your purpose, follow it.", "spanish": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
+            {"english": "Your life has meaning.", "spanish": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
+            {"english": "Live with intention, not accident.", "spanish": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "Vietnamese": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
-            {"english": "Breathe deeply, stay grounded.", "Vietnamese": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
-            {"english": "Notice the little things around you.", "Vietnamese": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
+            {"english": "Be present in this moment.", "spanish": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
+            {"english": "Breathe deeply, stay grounded.", "spanish": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
+            {"english": "Notice the little things around you.", "spanish": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
         ],
     }
 
@@ -509,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        Vietnamese_file = output_dir / f"Vietnamese_{i}.mp3"
+        vietnamese_file = output_dir / f"vietnamese_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -521,17 +521,17 @@ def generate_all_audio(phrases: list, output_dir: str):
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        # Generate Vietnamese audio
-        vi_success = asyncio.run(generate_single_audio(phrase["Vietnamese"], Vietnamese_VOICE, str(Vietnamese_file)))
+        # Generate Spanish audio
+        vi_success = asyncio.run(generate_single_audio(phrase["vietnamese"], VIETNAMESE_VOICE, str(vietnamese_file)))
         if not vi_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(Vietnamese_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(vietnamese_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        vi_duration = get_audio_duration(str(Vietnamese_file))
+        vi_duration = get_audio_duration(str(vietnamese_file))
 
-        # Add pause between English and Vietnamese
+        # Add pause between English and Spanish
         pause_between = 0.5
         total_duration = en_duration + pause_between + vi_duration
 
@@ -539,7 +539,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(Vietnamese_file),
+            "-i", str(vietnamese_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -551,7 +551,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{Vietnamese_file.as_posix()}'\n")
+                f.write(f"file '{vietnamese_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -569,7 +569,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "Vietnamese": str(Vietnamese_file),
+            "spanish": str(vietnamese_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -663,7 +663,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
-    Vietnamese_font_paths = [
+    spanish_font_paths = [
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
@@ -679,12 +679,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Refined font sizes
     font_category = load_font(english_font_paths, 42)
     font_english = load_font(english_font_paths, 68)
-    font_Vietnamese = load_font(Vietnamese_font_paths, 82)
-    font_pronunciation = load_font(Vietnamese_font_paths, 48)
+    font_spanish = load_font(spanish_font_paths, 82)
+    font_pronunciation = load_font(spanish_font_paths, 48)
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    Vietnamese = phrase_data.get("Vietnamese", "")
+    spanish = phrase_data.get("spanish", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -737,10 +737,10 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_line_h = 80
     en_total_h = len(en_lines) * en_line_h
     
-    # 2. Vietnamese Box
-    vi_lines = wrap_text(Vietnamese, font_Vietnamese, VIDEO_WIDTH - 300)
-    vi_line_h = 100
-    vi_total_h = len(vi_lines) * vi_line_h
+    # 2. Spanish Box
+    es_lines = wrap_text(spanish, font_spanish, VIDEO_WIDTH - 300)
+    es_line_h = 100
+    es_total_h = len(es_lines) * es_line_h
     
     # 3. Pronunciation Box
     pron_text = f"[{pronunciation}]"
@@ -748,7 +748,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     pron_line_h = 60
     pron_total_h = len(pron_lines) * pron_line_h
 
-    total_content_h = en_total_h + vi_total_h + pron_total_h + (GAP * 2)
+    total_content_h = en_total_h + es_total_h + pron_total_h + (GAP * 2)
     y_start = CONTENT_Y_CENTER - (total_content_h // 2)
 
     # Draw English Section
@@ -767,17 +767,17 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     
     y_cursor = y_start + en_box_h + GAP
 
-    # Vietnamese Section (Lingexa Lighter Purple)
-    vi_box_h = vi_total_h + 60
+    # Spanish Section (Lingexa Lighter Purple)
+    es_box_h = es_total_h + 60
     draw.rounded_rectangle(
-        [(box_x, y_cursor), (box_x + box_w, y_cursor + vi_box_h)],
+        [(box_x, y_cursor), (box_x + box_w, y_cursor + es_box_h)],
         radius=25, fill=(95, 80, 125, 255)
     )
-    for i, line in enumerate(vi_lines):
-        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * vi_line_h) + vi_line_h // 2), 
-                  line, fill=(255, 255, 255), font=font_Vietnamese, anchor="mm")
+    for i, line in enumerate(es_lines):
+        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * es_line_h) + es_line_h // 2), 
+                  line, fill=(255, 255, 255), font=font_spanish, anchor="mm")
 
-    y_cursor += vi_box_h + (GAP // 2)
+    y_cursor += es_box_h + (GAP // 2)
 
     # Pronunciation Section (Lingexa Peach)
     pron_box_h = pron_total_h + 40
@@ -793,7 +793,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
 
     # Branding (Bottom Right)
-    brand_text = "VELOCITY Vietnamese"
+    brand_text = "VELOCITY VIETNAMESE"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text, 
@@ -809,7 +809,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_Vietnamese: str, output_path: str):
+def generate_thumbnail(category_english: str, category_vietnamese: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -824,7 +824,7 @@ def generate_thumbnail(category_english: str, category_Vietnamese: str, output_p
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    Vietnamese_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
+    spanish_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -833,12 +833,12 @@ def generate_thumbnail(category_english: str, category_Vietnamese: str, output_p
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
-    font_main = load_font(Vietnamese_font_paths, 110)
+    font_main = load_font(spanish_font_paths, 110)
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER Vietnamese", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER VIETNAMESE", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -850,8 +850,8 @@ def generate_thumbnail(category_english: str, category_Vietnamese: str, output_p
     )
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
-    # Vietnamese Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_Vietnamese, fill=(45, 35, 65), font=font_main, anchor="mm")
+    # Spanish Translation (Dark Purple)
+    draw.text((VIDEO_WIDTH // 2, 530), category_vietnamese, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -863,7 +863,7 @@ def generate_thumbnail(category_english: str, category_Vietnamese: str, output_p
 
     # Bottom Branding (Dark Purple Bar)
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY Vietnamese", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY VIETNAMESE", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -898,26 +898,26 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_Vietnamese: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_vietnamese: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn Vietnamese in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_Vietnamese})",
-        f"60 Vietnamese Phrases for {category_english} | Speak Vietnamese Like a Native! ({category_Vietnamese})",
-        f"Master Vietnamese {category_english} | 60 Essential Vietnamese Phrases with Pronunciation | Velocity Vietnamese",
+        f"Learn Vietnamese in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_vietnamese})",
+        f"60 Spanish Phrases for {category_english} | Speak Vietnamese Like a Native! ({category_vietnamese})",
+        f"Master Vietnamese {category_english} | 60 Essential Spanish Phrases with Pronunciation | Velocity Spanish",
         f"Vietnamese Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak Vietnamese Fluently | {category_english} Phrases | English + Vietnamese + Pronunciation",
+        f"Speak Vietnamese Fluently | {category_english} Phrases | English + Spanish + Pronunciation",
     ]
 
     # Generate comprehensive description
-    description = f"""🇻🇳 Learn Vietnamese with Velocity Vietnamese! 🇻🇳
+    description = f"""🇪🇸 Learn Vietnamese with VELOCITY VIETNAMESE! 🇪🇸
 
-In this video, you'll learn 60 essential Vietnamese phrases about {category_english} ({category_Vietnamese}).
+In this video, you'll learn 60 essential Vietnamese phrases about {category_english} ({category_vietnamese}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in Vietnamese
+• 60 practical {category_english} phrases in Spanish
 • Correct pronunciation guide
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
@@ -942,7 +942,7 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Vietnamese: {phrase['Vietnamese']}
+   Spanish: {phrase['spanish']}
    Pronunciation: {phrase['pronunciation']}
 """
 
@@ -965,7 +965,7 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY Vietnamese:
+📱 FOLLOW VELOCITY VIETNAMESE:
 [Add your social media links here]
 
 🎵 MUSIC:
@@ -976,10 +976,10 @@ Perfect for beginners and intermediate learners!
 • Vietnamese Love Expressions
 • Basic Vietnamese Greetings
 
-#LearnVietnamese #VietnamesePhrases #VietnameseLanguage #{category_english.replace(' ', '')} #VelocityVietnamese #VietnameseForBeginners #SpeakVietnamese #VietnameseVocabulary #Pronunciation #LanguageLearning #Vietnamese101 #VietnameseLesson
+#LearnVietnamese #VietnamesePhrases #VietnameseLanguage #{category_english.replace(' ', '')} #Vietnamese #VietnameseForBeginners #SpeakVietnamese #VietnameseVocabulary #Pronunciation #LanguageLearning #Vietnamese101 #VietnameseLesson
 
 ---
-© Velocity Vietnamese - Making Vietnamese learning accessible to everyone!
+© VELOCITY VIETNAMESE - Making Vietnamese learning accessible to everyone!
 """
 
     # Write to COMBINED file (title + description in one)
@@ -1015,7 +1015,7 @@ Perfect for beginners and intermediate learners!
             "Vietnamese Phrases",
             "Vietnamese Language",
             category_english,
-            "Velocity Vietnamese",
+            "VELOCITY VIETNAMESE",
             "Vietnamese for Beginners",
             "Speak Vietnamese",
             "Vietnamese Vocabulary",
@@ -1032,7 +1032,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_Vietnamese": category_Vietnamese,
+        "category_vietnamese": category_vietnamese,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1116,7 +1116,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_Vietnamese[category_english]})")
+    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_VIETNAMESE[category_english]})")
     print(f"🎯 Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1129,7 +1129,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['Vietnamese']}")
+        print(f"  {i}. {phrase['english']} → {phrase['spanish']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1157,10 +1157,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
                 print(f"  gpt-image-2 thumbnail saved")
             else:
                 print(f"  gpt-image-2 failed, using built-in")
-                generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+                generate_thumbnail(category_english, CATEGORIES_VIETNAMESE[category_english], str(thumbnail_path))
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_VIETNAMESE[category_english], str(thumbnail_path))
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
     print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
@@ -1193,7 +1193,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
     title_meta = generate_title_description(
         category_english,
-        CATEGORIES_Vietnamese[category_english],
+        CATEGORIES_VIETNAMESE[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
@@ -1203,11 +1203,11 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     import json as _json
     from pathlib import Path as _Path
     meta_out = {
-        "title": title_meta.get("selected_title", f"Learn Vietnamese: {category_english}"),
+        "title": title_meta.get("selected_title", f"Learn Spanish: {category_english}"),
         "description": title_meta.get("description", ""),
-        "tags": ["Learn Vietnamese", "Vietnamese Phrases", "Vietnamese", category_english, "Velocity Vietnamese"],
+        "tags": ["Learn Vietnamese", "Vietnamese Phrases", "Spanish", category_english, "VELOCITY VIETNAMESE"],
         "category_english": category_english,
-        "category_Vietnamese": CATEGORIES_Vietnamese[category_english],
+        "category_vietnamese": CATEGORIES_VIETNAMESE[category_english],
         "phrases_count": len(phrases),
         "duration_seconds": total_duration,
         "duration_minutes": total_duration / 60,
@@ -1232,7 +1232,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  📄 youtube_upload_info.txt (title + description + tags)")
     print(f"  ⏱️  Duration: {total_duration/60:.2f} minutes")
     print(f"  📊 Phrases: {len(phrases)}")
-    print(f"  🏷️  Branding: Velocity Vietnamese")
+    print(f"  🏷️  Branding: Velocity Spanish")
     print(f"  📺 Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
@@ -1257,13 +1257,13 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Velocity Vietnamese YouTube Long-form Video Generator")
+    parser = argparse.ArgumentParser(description="Velocity Spanish YouTube Long-form Video Generator")
     parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 60 phrases = ~5.5 mins)")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate (e.g. 'Motivation', 'Friendship'). Random if not provided.")
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇻🇳 VELOCITY Vietnamese - YOUTUBE LONG-FORM AUTOMATION 🇻🇳")
+    print("🇪🇸 VELOCITY VIETNAMESE - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
@@ -1275,7 +1275,7 @@ if __name__ == "__main__":
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_Vietnamese[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_VIETNAMESE[cat]})")
     print(f"\n📈 VIDEO SPECIFICATIONS:")
     print(f"  • Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  • Frame Rate: {FPS} FPS")
