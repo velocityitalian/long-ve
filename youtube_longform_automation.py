@@ -257,6 +257,7 @@ For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Vietnamese translation
 3. Pronunciation guide (phonetic spelling for English speakers)
+CRITICAL: Every translation MUST be in Vietnamese. NEVER use German, Spanish, or any other language. Only Vietnamese.
 
 Return as JSON array:
 [{{"english": "...", "vietnamese": "...", "pronunciation": "..."}}]
