@@ -12257,7 +12257,727 @@
       "spanish": "Sự hiện diện bình tĩnh của bạn, là một món quà.",
       "category": "Inner Peace",
       "generated_at": "2026-08-05T03:51:42.886011"
+    },
+    {
+      "english": "Mistakes, are lessons learned.",
+      "spanish": "Sai lầm, là bài học.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620114"
+    },
+    {
+      "english": "Keep practicing, every day.",
+      "spanish": "Cứ luyện tập, mỗi ngày.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620124"
+    },
+    {
+      "english": "You can do this, really.",
+      "spanish": "Bạn làm được, thật mà.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620126"
+    },
+    {
+      "english": "Celebrate, small wins.",
+      "spanish": "Ăn mừng, thành công nhỏ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620127"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "spanish": "Tin mình, luôn luôn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620129"
+    },
+    {
+      "english": "Say it out loud, now.",
+      "spanish": "Nói to lên, bây giờ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620130"
+    },
+    {
+      "english": "You are learning, so fast.",
+      "spanish": "Bạn học rất nhanh.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620131"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "spanish": "Đừng bỏ cuộc, thử lại.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620134"
+    },
+    {
+      "english": "Speak with, a smile.",
+      "spanish": "Nói với, một nụ cười.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620136"
+    },
+    {
+      "english": "Every word, counts.",
+      "spanish": "Mỗi từ, đều có giá.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620137"
+    },
+    {
+      "english": "You are, a star learner.",
+      "spanish": "Bạn là, ngôi sao học.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620138"
+    },
+    {
+      "english": "Just start speaking, today.",
+      "spanish": "Cứ bắt đầu nói, hôm nay.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620139"
+    },
+    {
+      "english": "Enjoy the process, always.",
+      "spanish": "Thưởng thức quá trình, luôn nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620141"
+    },
+    {
+      "english": "What did you, learn today?",
+      "spanish": "Hôm nay học gì?",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620142"
+    },
+    {
+      "english": "Speak Vietnamese, proudly.",
+      "spanish": "Nói tiếng Việt, tự tin.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620143"
+    },
+    {
+      "english": "Your effort, shows.",
+      "spanish": "Nỗ lực, của bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620144"
+    },
+    {
+      "english": "Learn, a new phrase.",
+      "spanish": "Học, một câu mới.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620145"
+    },
+    {
+      "english": "Every attempt, counts.",
+      "spanish": "Mỗi lần thử, đều quý.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620146"
+    },
+    {
+      "english": "Don't fear, the accent.",
+      "spanish": "Đừng sợ, giọng điệu.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620147"
+    },
+    {
+      "english": "You are brave, to try.",
+      "spanish": "Bạn dũng cảm, khi thử.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620148"
+    },
+    {
+      "english": "One sentence, then two.",
+      "spanish": "Một câu, rồi hai câu.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620149"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "spanish": "Luyện tập, hoàn hảo, đúng không?",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620151"
+    },
+    {
+      "english": "Your learning, is a gift.",
+      "spanish": "Việc học, là món quà.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620152"
+    },
+    {
+      "english": "Listen to, native speakers.",
+      "spanish": "Nghe người bản xứ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620153"
+    },
+    {
+      "english": "Ask questions, often.",
+      "spanish": "Hỏi nhiều, câu hỏi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620154"
+    },
+    {
+      "english": "You're understanding, more now.",
+      "spanish": "Bạn hiểu, nhiều hơn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620155"
+    },
+    {
+      "english": "Speak your truth, simply.",
+      "spanish": "Nói thật, đơn giản.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620156"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "spanish": "Hành trình, của bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620157"
+    },
+    {
+      "english": "Keep this, in mind.",
+      "spanish": "Ghi nhớ, điều này.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620158"
+    },
+    {
+      "english": "Try this, you can do it!",
+      "spanish": "Thử đi, bạn làm được mà!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620160"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "spanish": "Nói to lên, giọng bạn quan trọng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620161"
+    },
+    {
+      "english": "Don't be shy, give it a go.",
+      "spanish": "Đừng ngại, cứ thử xem sao.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620162"
+    },
+    {
+      "english": "You're getting better, keep going!",
+      "spanish": "Bạn đang giỏi hơn rồi, cố lên!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620163"
+    },
+    {
+      "english": "One word at a time, that's fine.",
+      "spanish": "Mỗi từ một lần, vậy là ổn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620164"
+    },
+    {
+      "english": "Believe in yourself, you're capable.",
+      "spanish": "Tin vào bản thân, bạn có khả năng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620165"
+    },
+    {
+      "english": "Mistakes are lessons, learn from them.",
+      "spanish": "Sai lầm là bài học, hãy học hỏi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620166"
+    },
+    {
+      "english": "Practice makes progress, not perfect.",
+      "spanish": "Luyện tập tạo tiến bộ, không hoàn hảo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620168"
+    },
+    {
+      "english": "Take a breath, you've got this.",
+      "spanish": "Hít một hơi đi, bạn sẽ làm được.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620169"
+    },
+    {
+      "english": "Your effort counts, keep trying.",
+      "spanish": "Nỗ lực của bạn đáng giá, cứ cố gắng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620170"
+    },
+    {
+      "english": "Every attempt is progress, good job!",
+      "spanish": "Mỗi lần thử là một bước tiến, làm tốt lắm!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620171"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "spanish": "Đừng bỏ cuộc, bạn sắp thành công rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620172"
+    },
+    {
+      "english": "Little steps lead, to big results.",
+      "spanish": "Những bước nhỏ dẫn tới, kết quả lớn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620173"
+    },
+    {
+      "english": "Your understanding is growing, slowly.",
+      "spanish": "Sự hiểu biết của bạn đang tăng lên, từ từ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620174"
+    },
+    {
+      "english": "Be proud of your progress.",
+      "spanish": "Hãy tự hào về sự tiến bộ của bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620175"
+    },
+    {
+      "english": "You're learning fast, that's amazing!",
+      "spanish": "Bạn học nhanh lắm, thật tuyệt vời!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620176"
+    },
+    {
+      "english": "Embrace the challenge, you'll grow.",
+      "spanish": "Đón nhận thử thách, bạn sẽ trưởng thành.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620178"
+    },
+    {
+      "english": "You're doing great, really great!",
+      "spanish": "Bạn làm rất tốt, thật sự rất tốt!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620179"
+    },
+    {
+      "english": "Trust the process, it takes time.",
+      "spanish": "Tin vào quá trình, cần có thời gian.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620180"
+    },
+    {
+      "english": "You can express yourself, just try.",
+      "spanish": "Bạn có thể diễn đạt, cứ thử xem.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620181"
+    },
+    {
+      "english": "Your confidence will build, naturally.",
+      "spanish": "Sự tự tin của bạn sẽ tăng lên, một cách tự nhiên.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620182"
+    },
+    {
+      "english": "Don't fear mistakes, embrace them.",
+      "spanish": "Đừng sợ sai lầm, hãy đón nhận chúng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620183"
+    },
+    {
+      "english": "You are more capable, than you realize.",
+      "spanish": "Bạn có khả năng hơn, bạn nhận ra.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620184"
+    },
+    {
+      "english": "Keep speaking, you're improving daily.",
+      "spanish": "Cứ nói đi, bạn đang cải thiện mỗi ngày.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620185"
+    },
+    {
+      "english": "Your progress is visible, wow!",
+      "spanish": "Sự tiến bộ của bạn rõ ràng lắm, wow!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620186"
+    },
+    {
+      "english": "You are on the right track.",
+      "spanish": "Bạn đang đi đúng hướng rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620187"
+    },
+    {
+      "english": "One step forward, is always good.",
+      "spanish": "Một bước tiến lên, luôn là tốt.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620188"
+    },
+    {
+      "english": "You're building fluency, bit by bit.",
+      "spanish": "Bạn đang xây dựng sự trôi chảy, từng chút một.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620189"
+    },
+    {
+      "english": "Your effort is admirable, keep it up.",
+      "spanish": "Nỗ lực của bạn đáng ngưỡng mộ, cứ tiếp tục.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620190"
+    },
+    {
+      "english": "You can communicate, effectively.",
+      "spanish": "Bạn có thể giao tiếp, hiệu quả.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620191"
+    },
+    {
+      "english": "Don't be afraid, to make mistakes.",
+      "spanish": "Đừng sợ mắc lỗi, nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620193"
+    },
+    {
+      "english": "Each word counts, speak them.",
+      "spanish": "Mỗi từ đều quan trọng, hãy nói ra.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620194"
+    },
+    {
+      "english": "You are making progress, daily.",
+      "spanish": "Bạn đang tiến bộ, mỗi ngày.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620195"
+    },
+    {
+      "english": "Your courage grows, with each try.",
+      "spanish": "Lòng dũng cảm của bạn lớn dần, với mỗi lần thử.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620196"
+    },
+    {
+      "english": "You can connect, with others.",
+      "spanish": "Bạn có thể kết nối, với mọi người.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620197"
+    },
+    {
+      "english": "Keep practicing, you're doing great.",
+      "spanish": "Cứ luyện tập, bạn đang làm tốt lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620198"
+    },
+    {
+      "english": "Your voice is unique, let it be heard.",
+      "spanish": "Giọng nói của bạn là duy nhất, hãy để người ta nghe.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620199"
+    },
+    {
+      "english": "Try this, you can do it!",
+      "spanish": "Thử đi, bạn làm được mà!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620200"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "spanish": "Nói to lên, giọng bạn quan trọng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620202"
+    },
+    {
+      "english": "Don't be shy, give it a go.",
+      "spanish": "Đừng ngại, cứ thử xem sao.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620203"
+    },
+    {
+      "english": "You're getting better, keep going!",
+      "spanish": "Bạn đang giỏi hơn rồi, cố lên!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620204"
+    },
+    {
+      "english": "One word at a time, that's fine.",
+      "spanish": "Mỗi từ một lần, vậy là ổn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620205"
+    },
+    {
+      "english": "Believe in yourself, you're capable.",
+      "spanish": "Tin vào bản thân, bạn có khả năng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620206"
+    },
+    {
+      "english": "Mistakes are lessons, learn from them.",
+      "spanish": "Sai lầm là bài học, hãy học hỏi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620207"
+    },
+    {
+      "english": "Practice makes progress, not perfect.",
+      "spanish": "Luyện tập tạo tiến bộ, không hoàn hảo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620208"
+    },
+    {
+      "english": "Take a breath, you've got this.",
+      "spanish": "Hít một hơi đi, bạn sẽ làm được.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620209"
+    },
+    {
+      "english": "Your effort counts, keep trying.",
+      "spanish": "Nỗ lực của bạn đáng giá, cứ cố gắng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620210"
+    },
+    {
+      "english": "Every attempt is progress, good job!",
+      "spanish": "Mỗi lần thử là một bước tiến, làm tốt lắm!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620212"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "spanish": "Đừng bỏ cuộc, bạn sắp thành công rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620213"
+    },
+    {
+      "english": "Little steps lead, to big results.",
+      "spanish": "Những bước nhỏ dẫn tới, kết quả lớn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620214"
+    },
+    {
+      "english": "Your understanding is growing, slowly.",
+      "spanish": "Sự hiểu biết của bạn đang tăng lên, từ từ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620215"
+    },
+    {
+      "english": "Be proud of your progress.",
+      "spanish": "Hãy tự hào về sự tiến bộ của bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620216"
+    },
+    {
+      "english": "You're learning fast, that's amazing!",
+      "spanish": "Bạn học nhanh lắm, thật tuyệt vời!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620217"
+    },
+    {
+      "english": "Embrace the challenge, you'll grow.",
+      "spanish": "Đón nhận thử thách, bạn sẽ trưởng thành.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620218"
+    },
+    {
+      "english": "You're doing great, really great!",
+      "spanish": "Bạn làm rất tốt, thật sự rất tốt!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620219"
+    },
+    {
+      "english": "Trust the process, it takes time.",
+      "spanish": "Tin vào quá trình, cần có thời gian.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620220"
+    },
+    {
+      "english": "You can express yourself, just try.",
+      "spanish": "Bạn có thể diễn đạt, cứ thử xem.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620221"
+    },
+    {
+      "english": "Your confidence will build, naturally.",
+      "spanish": "Sự tự tin của bạn sẽ tăng lên, một cách tự nhiên.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620232"
+    },
+    {
+      "english": "Don't fear mistakes, embrace them.",
+      "spanish": "Đừng sợ sai lầm, hãy đón nhận chúng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620234"
+    },
+    {
+      "english": "You are more capable, than you realize.",
+      "spanish": "Bạn có khả năng hơn, bạn nhận ra.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620235"
+    },
+    {
+      "english": "Keep speaking, you're improving daily.",
+      "spanish": "Cứ nói đi, bạn đang cải thiện mỗi ngày.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620236"
+    },
+    {
+      "english": "Your progress is visible, wow!",
+      "spanish": "Sự tiến bộ của bạn rõ ràng lắm, wow!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620237"
+    },
+    {
+      "english": "You are on the right track.",
+      "spanish": "Bạn đang đi đúng hướng rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620238"
+    },
+    {
+      "english": "One step forward, is always good.",
+      "spanish": "Một bước tiến lên, luôn là tốt.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620239"
+    },
+    {
+      "english": "You're building fluency, bit by bit.",
+      "spanish": "Bạn đang xây dựng sự trôi chảy, từng chút một.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620240"
+    },
+    {
+      "english": "Your effort is admirable, keep it up.",
+      "spanish": "Nỗ lực của bạn đáng ngưỡng mộ, cứ tiếp tục.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620241"
+    },
+    {
+      "english": "You can communicate, effectively.",
+      "spanish": "Bạn có thể giao tiếp, hiệu quả.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620242"
+    },
+    {
+      "english": "Don't be afraid, to make mistakes.",
+      "spanish": "Đừng sợ mắc lỗi, nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620243"
+    },
+    {
+      "english": "Each word counts, speak them.",
+      "spanish": "Mỗi từ đều quan trọng, hãy nói ra.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620245"
+    },
+    {
+      "english": "You are making progress, daily.",
+      "spanish": "Bạn đang tiến bộ, mỗi ngày.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620246"
+    },
+    {
+      "english": "Your courage grows, with each try.",
+      "spanish": "Lòng dũng cảm của bạn lớn dần, với mỗi lần thử.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620247"
+    },
+    {
+      "english": "You can connect, with others.",
+      "spanish": "Bạn có thể kết nối, với mọi người.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620248"
+    },
+    {
+      "english": "Keep practicing, you're doing great.",
+      "spanish": "Cứ luyện tập, bạn đang làm tốt lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620249"
+    },
+    {
+      "english": "Your voice is unique, let it be heard.",
+      "spanish": "Giọng nói của bạn là duy nhất, hãy để người ta nghe.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620250"
+    },
+    {
+      "english": "Try this, you can do it!",
+      "spanish": "Thử đi, bạn làm được mà!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620251"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "spanish": "Nói to lên, giọng bạn quan trọng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620252"
+    },
+    {
+      "english": "Don't be shy, give it a go.",
+      "spanish": "Đừng ngại, cứ thử xem sao.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620253"
+    },
+    {
+      "english": "You're getting better, keep going!",
+      "spanish": "Bạn đang giỏi hơn rồi, cố lên!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620254"
+    },
+    {
+      "english": "One word at a time, that's fine.",
+      "spanish": "Mỗi từ một lần, vậy là ổn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620256"
+    },
+    {
+      "english": "Believe in yourself, you're capable.",
+      "spanish": "Tin vào bản thân, bạn có khả năng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620257"
+    },
+    {
+      "english": "Mistakes are lessons, learn from them.",
+      "spanish": "Sai lầm là bài học, hãy học hỏi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620258"
+    },
+    {
+      "english": "Practice makes progress, not perfect.",
+      "spanish": "Luyện tập tạo tiến bộ, không hoàn hảo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620259"
+    },
+    {
+      "english": "Take a breath, you've got this.",
+      "spanish": "Hít một hơi đi, bạn sẽ làm được.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620260"
+    },
+    {
+      "english": "Your effort counts, keep trying.",
+      "spanish": "Nỗ lực của bạn đáng giá, cứ cố gắng.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620261"
+    },
+    {
+      "english": "Every attempt is progress, good job!",
+      "spanish": "Mỗi lần thử là một bước tiến, làm tốt lắm!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620262"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "spanish": "Đừng bỏ cuộc, bạn sắp thành công rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620263"
+    },
+    {
+      "english": "Little steps lead, to big results.",
+      "spanish": "Những bước nhỏ dẫn tới, kết quả lớn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620264"
+    },
+    {
+      "english": "Your understanding is growing, slowly.",
+      "spanish": "Sự hiểu biết của bạn đang tăng lên, từ từ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620265"
+    },
+    {
+      "english": "Be proud of your progress.",
+      "spanish": "Hãy tự hào về sự tiến bộ của bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620268"
+    },
+    {
+      "english": "You're learning fast, that's amazing!",
+      "spanish": "Bạn học nhanh lắm, thật tuyệt vời!",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620269"
+    },
+    {
+      "english": "Embrace the challenge, you'll grow.",
+      "spanish": "Đón nhận thử thách, bạn sẽ trưởng thành.",
+      "category": "Confidence",
+      "generated_at": "2026-08-06T03:57:03.620272"
     }
   ],
-  "last_updated": "2026-08-05T03:51:42.886013"
+  "last_updated": "2026-08-06T03:57:03.620274"
 }
