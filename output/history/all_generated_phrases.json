@@ -12977,7 +12977,727 @@
       "spanish": "Đón nhận thử thách, bạn sẽ trưởng thành.",
       "category": "Confidence",
       "generated_at": "2026-08-06T03:57:03.620272"
+    },
+    {
+      "english": "Balance speaking, and listening well.",
+      "spanish": "Cân bằng nói, và nghe tốt.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908408"
+    },
+    {
+      "english": "Life's a dance, find your balance.",
+      "spanish": "Cuộc sống là vũ điệu, tìm sự cân bằng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908417"
+    },
+    {
+      "english": "Quiet moments, also build strength.",
+      "spanish": "Khoảnh khắc tĩnh lặng, cũng xây dựng sức mạnh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908419"
+    },
+    {
+      "english": "Work and rest, in harmony.",
+      "spanish": "Làm việc và nghỉ ngơi, hòa hợp.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908421"
+    },
+    {
+      "english": "Joyful effort, makes learning light.",
+      "spanish": "Nỗ lực vui vẻ, làm việc học nhẹ nhàng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908423"
+    },
+    {
+      "english": "Listen to your heart, then speak.",
+      "spanish": "Lắng nghe trái tim bạn, rồi nói.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908424"
+    },
+    {
+      "english": "Flow with the waves, of language.",
+      "spanish": "Trôi theo những con sóng, ngôn ngữ.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908425"
+    },
+    {
+      "english": "A steady pace, wins the race.",
+      "spanish": "Tốc độ ổn định, thắng cuộc đua.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908428"
+    },
+    {
+      "english": "Find your calm, in the chaos.",
+      "spanish": "Tìm sự bình yên của bạn, trong hỗn loạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908429"
+    },
+    {
+      "english": "Breathe deep, speak clear.",
+      "spanish": "Thở sâu, nói rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908431"
+    },
+    {
+      "english": "Embrace stillness, also motion.",
+      "spanish": "Ôm lấy sự tĩnh lặng, cũng chuyển động.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908432"
+    },
+    {
+      "english": "Your journey, needs gentle curves.",
+      "spanish": "Hành trình của bạn, cần những khúc quanh nhẹ nhàng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908434"
+    },
+    {
+      "english": "Think before words, speak with grace.",
+      "spanish": "Nghĩ trước khi nói, nói với duyên dáng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908435"
+    },
+    {
+      "english": "Be present, in every sound.",
+      "spanish": "Có mặt, trong mỗi âm thanh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908436"
+    },
+    {
+      "english": "The middle path, is often wise.",
+      "spanish": "Con đường giữa, thường là khôn ngoan.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908437"
+    },
+    {
+      "english": "From silence, to a clear voice.",
+      "spanish": "Từ im lặng, đến giọng nói rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908439"
+    },
+    {
+      "english": "A moment's pause, can change much.",
+      "spanish": "Một khoảnh khắc tạm dừng, có thể thay đổi nhiều.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908440"
+    },
+    {
+      "english": "Listen more, speak less, learn more.",
+      "spanish": "Nghe nhiều hơn, nói ít hơn, học nhiều hơn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908442"
+    },
+    {
+      "english": "Seek the calm, within your words.",
+      "spanish": "Tìm sự bình yên, trong lời nói của bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908443"
+    },
+    {
+      "english": "Flow naturally, like a river.",
+      "spanish": "Trôi chảy tự nhiên, như dòng sông.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908444"
+    },
+    {
+      "english": "Gentle effort, lasting impact.",
+      "spanish": "Nỗ lực nhẹ nhàng, tác động lâu dài.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908445"
+    },
+    {
+      "english": "Find your center, speak your truth.",
+      "spanish": "Tìm trung tâm của bạn, nói sự thật của bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908446"
+    },
+    {
+      "english": "Rest is part, of the journey.",
+      "spanish": "Nghỉ ngơi là một phần, của hành trình.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908447"
+    },
+    {
+      "english": "A balanced mind, speaks with wisdom.",
+      "spanish": "Một tâm trí cân bằng, nói với sự khôn ngoan.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908448"
+    },
+    {
+      "english": "Let pauses, color your speech.",
+      "spanish": "Để những khoảng lặng, tô điểm cho bài nói.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908449"
+    },
+    {
+      "english": "Your voice, needs space to breathe.",
+      "spanish": "Giọng nói của bạn, cần không gian để thở.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908451"
+    },
+    {
+      "english": "Harmony in sound, harmony in life.",
+      "spanish": "Hài hòa trong âm thanh, hài hòa trong cuộc sống.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908452"
+    },
+    {
+      "english": "Move with ease, speak with purpose.",
+      "spanish": "Di chuyển dễ dàng, nói với mục đích.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908453"
+    },
+    {
+      "english": "The quiet learner, speaks volumes.",
+      "spanish": "Người học im lặng, nói lên nhiều điều.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908454"
+    },
+    {
+      "english": "Find your own pace, be your own guide.",
+      "spanish": "Tìm nhịp điệu của riêng bạn, làm hướng dẫn của riêng bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908455"
+    },
+    {
+      "english": "Speak with intention, listen with care.",
+      "spanish": "Nói với chủ ý, lắng nghe với sự cẩn thận.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908456"
+    },
+    {
+      "english": "A balanced delivery, holds attention.",
+      "spanish": "Cách truyền đạt cân bằng, thu hút sự chú ý.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908457"
+    },
+    {
+      "english": "Whispers and shouts, both have their place.",
+      "spanish": "Lời thì thầm và tiếng hét, đều có chỗ của mình.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908458"
+    },
+    {
+      "english": "Let your words bloom, with pauses.",
+      "spanish": "Để lời nói của bạn nở rộ, với những khoảng lặng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908459"
+    },
+    {
+      "english": "Finding rhythm, in everyday talk.",
+      "spanish": "Tìm nhịp điệu, trong cuộc nói chuyện hàng ngày.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908460"
+    },
+    {
+      "english": "Slow down, savor the sounds.",
+      "spanish": "Chậm lại, thưởng thức âm thanh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908461"
+    },
+    {
+      "english": "Between words, true meaning hides.",
+      "spanish": "Giữa các từ, ý nghĩa thực sự ẩn giấu.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908462"
+    },
+    {
+      "english": "Cultivate calm, speak with clarity.",
+      "spanish": "Nuôi dưỡng sự bình tĩnh, nói với sự rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908463"
+    },
+    {
+      "english": "Embrace the ebb, and the flow.",
+      "spanish": "Ôm lấy sự lên xuống, và dòng chảy.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908464"
+    },
+    {
+      "english": "Balance speaking, and listening well.",
+      "spanish": "Cân bằng nói, và nghe tốt.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908465"
+    },
+    {
+      "english": "Life's a dance, find your balance.",
+      "spanish": "Cuộc sống là vũ điệu, tìm sự cân bằng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908466"
+    },
+    {
+      "english": "Quiet moments, also build strength.",
+      "spanish": "Khoảnh khắc tĩnh lặng, cũng xây dựng sức mạnh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908467"
+    },
+    {
+      "english": "Work and rest, in harmony.",
+      "spanish": "Làm việc và nghỉ ngơi, hòa hợp.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908469"
+    },
+    {
+      "english": "Joyful effort, makes learning light.",
+      "spanish": "Nỗ lực vui vẻ, làm việc học nhẹ nhàng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908472"
+    },
+    {
+      "english": "Listen to your heart, then speak.",
+      "spanish": "Lắng nghe trái tim bạn, rồi nói.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908474"
+    },
+    {
+      "english": "Flow with the waves, of language.",
+      "spanish": "Trôi theo những con sóng, ngôn ngữ.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908475"
+    },
+    {
+      "english": "A steady pace, wins the race.",
+      "spanish": "Tốc độ ổn định, thắng cuộc đua.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908476"
+    },
+    {
+      "english": "Find your calm, in the chaos.",
+      "spanish": "Tìm sự bình yên của bạn, trong hỗn loạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908477"
+    },
+    {
+      "english": "Breathe deep, speak clear.",
+      "spanish": "Thở sâu, nói rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908478"
+    },
+    {
+      "english": "Embrace stillness, also motion.",
+      "spanish": "Ôm lấy sự tĩnh lặng, cũng chuyển động.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908479"
+    },
+    {
+      "english": "Your journey, needs gentle curves.",
+      "spanish": "Hành trình của bạn, cần những khúc quanh nhẹ nhàng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908482"
+    },
+    {
+      "english": "Think before words, speak with grace.",
+      "spanish": "Nghĩ trước khi nói, nói với duyên dáng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908483"
+    },
+    {
+      "english": "Be present, in every sound.",
+      "spanish": "Có mặt, trong mỗi âm thanh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908484"
+    },
+    {
+      "english": "The middle path, is often wise.",
+      "spanish": "Con đường giữa, thường là khôn ngoan.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908485"
+    },
+    {
+      "english": "From silence, to a clear voice.",
+      "spanish": "Từ im lặng, đến giọng nói rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908486"
+    },
+    {
+      "english": "A moment's pause, can change much.",
+      "spanish": "Một khoảnh khắc tạm dừng, có thể thay đổi nhiều.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908487"
+    },
+    {
+      "english": "Listen more, speak less, learn more.",
+      "spanish": "Nghe nhiều hơn, nói ít hơn, học nhiều hơn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908488"
+    },
+    {
+      "english": "Seek the calm, within your words.",
+      "spanish": "Tìm sự bình yên, trong lời nói của bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908489"
+    },
+    {
+      "english": "Flow naturally, like a river.",
+      "spanish": "Trôi chảy tự nhiên, như dòng sông.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908490"
+    },
+    {
+      "english": "Gentle effort, lasting impact.",
+      "spanish": "Nỗ lực nhẹ nhàng, tác động lâu dài.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908491"
+    },
+    {
+      "english": "Find your center, speak your truth.",
+      "spanish": "Tìm trung tâm của bạn, nói sự thật của bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908493"
+    },
+    {
+      "english": "Rest is part, of the journey.",
+      "spanish": "Nghỉ ngơi là một phần, của hành trình.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908494"
+    },
+    {
+      "english": "A balanced mind, speaks with wisdom.",
+      "spanish": "Một tâm trí cân bằng, nói với sự khôn ngoan.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908495"
+    },
+    {
+      "english": "Let pauses, color your speech.",
+      "spanish": "Để những khoảng lặng, tô điểm cho bài nói.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908496"
+    },
+    {
+      "english": "Your voice, needs space to breathe.",
+      "spanish": "Giọng nói của bạn, cần không gian để thở.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908497"
+    },
+    {
+      "english": "Harmony in sound, harmony in life.",
+      "spanish": "Hài hòa trong âm thanh, hài hòa trong cuộc sống.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908498"
+    },
+    {
+      "english": "Move with ease, speak with purpose.",
+      "spanish": "Di chuyển dễ dàng, nói với mục đích.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908499"
+    },
+    {
+      "english": "The quiet learner, speaks volumes.",
+      "spanish": "Người học im lặng, nói lên nhiều điều.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908500"
+    },
+    {
+      "english": "Find your own pace, be your own guide.",
+      "spanish": "Tìm nhịp điệu của riêng bạn, làm hướng dẫn của riêng bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908501"
+    },
+    {
+      "english": "Speak with intention, listen with care.",
+      "spanish": "Nói với chủ ý, lắng nghe với sự cẩn thận.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908502"
+    },
+    {
+      "english": "A balanced delivery, holds attention.",
+      "spanish": "Cách truyền đạt cân bằng, thu hút sự chú ý.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908503"
+    },
+    {
+      "english": "Whispers and shouts, both have their place.",
+      "spanish": "Lời thì thầm và tiếng hét, đều có chỗ của mình.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908504"
+    },
+    {
+      "english": "Let your words bloom, with pauses.",
+      "spanish": "Để lời nói của bạn nở rộ, với những khoảng lặng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908505"
+    },
+    {
+      "english": "Finding rhythm, in everyday talk.",
+      "spanish": "Tìm nhịp điệu, trong cuộc nói chuyện hàng ngày.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908506"
+    },
+    {
+      "english": "Slow down, savor the sounds.",
+      "spanish": "Chậm lại, thưởng thức âm thanh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908509"
+    },
+    {
+      "english": "Between words, true meaning hides.",
+      "spanish": "Giữa các từ, ý nghĩa thực sự ẩn giấu.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908510"
+    },
+    {
+      "english": "Cultivate calm, speak with clarity.",
+      "spanish": "Nuôi dưỡng sự bình tĩnh, nói với sự rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908511"
+    },
+    {
+      "english": "Embrace the ebb, and the flow.",
+      "spanish": "Ôm lấy sự lên xuống, và dòng chảy.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908512"
+    },
+    {
+      "english": "Balance speaking, and listening well.",
+      "spanish": "Cân bằng nói, và nghe tốt.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908513"
+    },
+    {
+      "english": "Life's a dance, find your balance.",
+      "spanish": "Cuộc sống là vũ điệu, tìm sự cân bằng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908514"
+    },
+    {
+      "english": "Quiet moments, also build strength.",
+      "spanish": "Khoảnh khắc tĩnh lặng, cũng xây dựng sức mạnh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908515"
+    },
+    {
+      "english": "Work and rest, in harmony.",
+      "spanish": "Làm việc và nghỉ ngơi, hòa hợp.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908517"
+    },
+    {
+      "english": "Joyful effort, makes learning light.",
+      "spanish": "Nỗ lực vui vẻ, làm việc học nhẹ nhàng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908518"
+    },
+    {
+      "english": "Listen to your heart, then speak.",
+      "spanish": "Lắng nghe trái tim bạn, rồi nói.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908519"
+    },
+    {
+      "english": "Flow with the waves, of language.",
+      "spanish": "Trôi theo những con sóng, ngôn ngữ.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908520"
+    },
+    {
+      "english": "A steady pace, wins the race.",
+      "spanish": "Tốc độ ổn định, thắng cuộc đua.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908521"
+    },
+    {
+      "english": "Find your calm, in the chaos.",
+      "spanish": "Tìm sự bình yên của bạn, trong hỗn loạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908522"
+    },
+    {
+      "english": "Breathe deep, speak clear.",
+      "spanish": "Thở sâu, nói rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908523"
+    },
+    {
+      "english": "Embrace stillness, also motion.",
+      "spanish": "Ôm lấy sự tĩnh lặng, cũng chuyển động.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908524"
+    },
+    {
+      "english": "Your journey, needs gentle curves.",
+      "spanish": "Hành trình của bạn, cần những khúc quanh nhẹ nhàng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908525"
+    },
+    {
+      "english": "Think before words, speak with grace.",
+      "spanish": "Nghĩ trước khi nói, nói với duyên dáng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908526"
+    },
+    {
+      "english": "Be present, in every sound.",
+      "spanish": "Có mặt, trong mỗi âm thanh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908527"
+    },
+    {
+      "english": "The middle path, is often wise.",
+      "spanish": "Con đường giữa, thường là khôn ngoan.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908528"
+    },
+    {
+      "english": "From silence, to a clear voice.",
+      "spanish": "Từ im lặng, đến giọng nói rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908529"
+    },
+    {
+      "english": "A moment's pause, can change much.",
+      "spanish": "Một khoảnh khắc tạm dừng, có thể thay đổi nhiều.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908530"
+    },
+    {
+      "english": "Listen more, speak less, learn more.",
+      "spanish": "Nghe nhiều hơn, nói ít hơn, học nhiều hơn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908531"
+    },
+    {
+      "english": "Seek the calm, within your words.",
+      "spanish": "Tìm sự bình yên, trong lời nói của bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908532"
+    },
+    {
+      "english": "Flow naturally, like a river.",
+      "spanish": "Trôi chảy tự nhiên, như dòng sông.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908533"
+    },
+    {
+      "english": "Gentle effort, lasting impact.",
+      "spanish": "Nỗ lực nhẹ nhàng, tác động lâu dài.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908535"
+    },
+    {
+      "english": "Find your center, speak your truth.",
+      "spanish": "Tìm trung tâm của bạn, nói sự thật của bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908536"
+    },
+    {
+      "english": "Rest is part, of the journey.",
+      "spanish": "Nghỉ ngơi là một phần, của hành trình.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908537"
+    },
+    {
+      "english": "A balanced mind, speaks with wisdom.",
+      "spanish": "Một tâm trí cân bằng, nói với sự khôn ngoan.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908539"
+    },
+    {
+      "english": "Let pauses, color your speech.",
+      "spanish": "Để những khoảng lặng, tô điểm cho bài nói.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908540"
+    },
+    {
+      "english": "Your voice, needs space to breathe.",
+      "spanish": "Giọng nói của bạn, cần không gian để thở.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908541"
+    },
+    {
+      "english": "Harmony in sound, harmony in life.",
+      "spanish": "Hài hòa trong âm thanh, hài hòa trong cuộc sống.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908542"
+    },
+    {
+      "english": "Move with ease, speak with purpose.",
+      "spanish": "Di chuyển dễ dàng, nói với mục đích.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908543"
+    },
+    {
+      "english": "The quiet learner, speaks volumes.",
+      "spanish": "Người học im lặng, nói lên nhiều điều.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908546"
+    },
+    {
+      "english": "Find your own pace, be your own guide.",
+      "spanish": "Tìm nhịp điệu của riêng bạn, làm hướng dẫn của riêng bạn.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908547"
+    },
+    {
+      "english": "Speak with intention, listen with care.",
+      "spanish": "Nói với chủ ý, lắng nghe với sự cẩn thận.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908548"
+    },
+    {
+      "english": "A balanced delivery, holds attention.",
+      "spanish": "Cách truyền đạt cân bằng, thu hút sự chú ý.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908549"
+    },
+    {
+      "english": "Whispers and shouts, both have their place.",
+      "spanish": "Lời thì thầm và tiếng hét, đều có chỗ của mình.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908552"
+    },
+    {
+      "english": "Let your words bloom, with pauses.",
+      "spanish": "Để lời nói của bạn nở rộ, với những khoảng lặng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908553"
+    },
+    {
+      "english": "Finding rhythm, in everyday talk.",
+      "spanish": "Tìm nhịp điệu, trong cuộc nói chuyện hàng ngày.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908554"
+    },
+    {
+      "english": "Slow down, savor the sounds.",
+      "spanish": "Chậm lại, thưởng thức âm thanh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908555"
+    },
+    {
+      "english": "Between words, true meaning hides.",
+      "spanish": "Giữa các từ, ý nghĩa thực sự ẩn giấu.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908556"
+    },
+    {
+      "english": "Cultivate calm, speak with clarity.",
+      "spanish": "Nuôi dưỡng sự bình tĩnh, nói với sự rõ ràng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908557"
+    },
+    {
+      "english": "Embrace the ebb, and the flow.",
+      "spanish": "Ôm lấy sự lên xuống, và dòng chảy.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908558"
+    },
+    {
+      "english": "Balance speaking, and listening well.",
+      "spanish": "Cân bằng nói, và nghe tốt.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908559"
+    },
+    {
+      "english": "Life's a dance, find your balance.",
+      "spanish": "Cuộc sống là vũ điệu, tìm sự cân bằng.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908560"
+    },
+    {
+      "english": "Quiet moments, also build strength.",
+      "spanish": "Khoảnh khắc tĩnh lặng, cũng xây dựng sức mạnh.",
+      "category": "Balance",
+      "generated_at": "2026-08-07T03:42:39.908561"
     }
   ],
-  "last_updated": "2026-08-06T03:57:03.620274"
+  "last_updated": "2026-08-07T03:42:39.908563"
 }
