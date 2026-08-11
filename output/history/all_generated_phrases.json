@@ -15137,7 +15137,727 @@
       "spanish": "Tìm kiếm tri thức, luôn luôn.",
       "category": "Confidence",
       "generated_at": "2026-08-09T02:55:27.673129"
+    },
+    {
+      "english": "Sorry, I forgot. Please remind me?",
+      "spanish": "Xin lỗi, tôi quên mất. Nhắc tôi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241013"
+    },
+    {
+      "english": "My bad, I messed up. Let's fix it.",
+      "spanish": "Tôi sai rồi, tôi làm hỏng. Sửa lại nào.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241025"
+    },
+    {
+      "english": "Oops! Didn't mean to. Can you forgive?",
+      "spanish": "Ối! Không cố ý đâu. Tha lỗi cho tôi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241027"
+    },
+    {
+      "english": "It was a mistake. I apologize.",
+      "spanish": "Đó là lỗi của tôi. Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241028"
+    },
+    {
+      "english": "I regret that. Please be understanding.",
+      "spanish": "Tôi hối tiếc điều đó. Xin thông cảm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241030"
+    },
+    {
+      "english": "Forgive my oversight. It won't happen again.",
+      "spanish": "Xin tha lỗi sơ suất. Sẽ không tái phạm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241031"
+    },
+    {
+      "english": "I feel bad about that. Can you let it go?",
+      "spanish": "Tôi thấy tệ về việc đó. Bạn bỏ qua được không?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241032"
+    },
+    {
+      "english": "My fault entirely. I hope you can forgive.",
+      "spanish": "Hoàn toàn lỗi của tôi. Mong bạn tha thứ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241035"
+    },
+    {
+      "english": "Please excuse my error. I'm still learning.",
+      "spanish": "Xin bỏ qua lỗi sai của tôi. Tôi vẫn đang học.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241036"
+    },
+    {
+      "english": "I didn't realize. Sorry, truly.",
+      "spanish": "Tôi không nhận ra. Thật sự xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241038"
+    },
+    {
+      "english": "That was clumsy. Please forgive me.",
+      "spanish": "Tôi vụng về quá. Làm ơn tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241039"
+    },
+    {
+      "english": "I am so sorry for the trouble.",
+      "spanish": "Tôi rất xin lỗi vì phiền phức.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241040"
+    },
+    {
+      "english": "Can you give me another chance?",
+      "spanish": "Bạn có thể cho tôi cơ hội nữa không?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241041"
+    },
+    {
+      "english": "I messed up, I admit it. Forgive me.",
+      "spanish": "Tôi đã làm sai, tôi thừa nhận. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241042"
+    },
+    {
+      "english": "My apologies for my behavior.",
+      "spanish": "Xin lỗi vì cách cư xử của tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241043"
+    },
+    {
+      "english": "I hope you can overlook this.",
+      "spanish": "Tôi mong bạn có thể bỏ qua chuyện này.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241044"
+    },
+    {
+      "english": "It was unintentional. Please accept my apology.",
+      "spanish": "Không cố ý đâu. Xin chấp nhận lời xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241045"
+    },
+    {
+      "english": "I promise, it won't repeat. Forgive me.",
+      "spanish": "Tôi hứa, sẽ không lặp lại. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241046"
+    },
+    {
+      "english": "That was a silly mistake. Sorry.",
+      "spanish": "Đó là một lỗi ngớ ngẩn. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241047"
+    },
+    {
+      "english": "I feel terrible. Please forgive.",
+      "spanish": "Tôi cảm thấy kinh khủng. Xin hãy tha thứ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241048"
+    },
+    {
+      "english": "Can we move past this? I'm sorry.",
+      "spanish": "Chúng ta có thể vượt qua không? Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241050"
+    },
+    {
+      "english": "My understanding was wrong. Please forgive.",
+      "spanish": "Tôi đã hiểu sai. Xin hãy tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241051"
+    },
+    {
+      "english": "I misjudged that. Sorry, my friend.",
+      "spanish": "Tôi đã đánh giá sai. Xin lỗi, bạn tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241052"
+    },
+    {
+      "english": "That was a slip-up. Forgive me.",
+      "spanish": "Đó là một sơ suất. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241053"
+    },
+    {
+      "english": "I messed up, I'm sorry. Please forget it.",
+      "spanish": "Tôi làm hỏng rồi, tôi xin lỗi. Xin quên đi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241054"
+    },
+    {
+      "english": "My apologies for the inconvenience.",
+      "spanish": "Xin lỗi vì sự bất tiện.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241054"
+    },
+    {
+      "english": "I regret my actions. Please forgive me.",
+      "spanish": "Tôi hối tiếc hành động của mình. Xin tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241055"
+    },
+    {
+      "english": "I hope you can understand. I'm sorry.",
+      "spanish": "Tôi hy vọng bạn có thể hiểu. Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241056"
+    },
+    {
+      "english": "That was a silly mistake. Forgive?",
+      "spanish": "Đó là một lỗi ngớ ngẩn. Tha lỗi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241057"
+    },
+    {
+      "english": "I promise not to do it again. Sorry.",
+      "spanish": "Tôi hứa sẽ không làm lại. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241058"
+    },
+    {
+      "english": "I'm truly sorry for that.",
+      "spanish": "Tôi thật sự xin lỗi về điều đó.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241059"
+    },
+    {
+      "english": "My mistake. Please accept my apology.",
+      "spanish": "Lỗi của tôi. Xin chấp nhận lời xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241060"
+    },
+    {
+      "english": "I hope we can be friends still. Sorry.",
+      "spanish": "Tôi hy vọng chúng ta vẫn là bạn. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241061"
+    },
+    {
+      "english": "That was thoughtless. Please forgive me.",
+      "spanish": "Tôi đã thiếu suy nghĩ. Xin hãy tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241062"
+    },
+    {
+      "english": "I messed up, okay? Sorry about it.",
+      "spanish": "Tôi làm sai rồi, được không? Xin lỗi về việc đó.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241063"
+    },
+    {
+      "english": "Can you forget what happened? I'm sorry.",
+      "spanish": "Bạn có thể quên chuyện đã xảy ra không? Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241064"
+    },
+    {
+      "english": "My apologies for being late.",
+      "spanish": "Xin lỗi vì đã đến muộn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241065"
+    },
+    {
+      "english": "I'm sorry I misunderstood.",
+      "spanish": "Tôi xin lỗi vì đã hiểu lầm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241066"
+    },
+    {
+      "english": "Please forgive my outburst.",
+      "spanish": "Xin tha lỗi cho cơn giận của tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241067"
+    },
+    {
+      "english": "I am truly sorry for my words.",
+      "spanish": "Tôi thật sự xin lỗi vì lời nói của mình.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241068"
+    },
+    {
+      "english": "Sorry, I forgot. Please remind me?",
+      "spanish": "Xin lỗi, tôi quên mất. Nhắc tôi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241070"
+    },
+    {
+      "english": "My bad, I messed up. Let's fix it.",
+      "spanish": "Tôi sai rồi, tôi làm hỏng. Sửa lại nào.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241070"
+    },
+    {
+      "english": "Oops! Didn't mean to. Can you forgive?",
+      "spanish": "Ối! Không cố ý đâu. Tha lỗi cho tôi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241071"
+    },
+    {
+      "english": "It was a mistake. I apologize.",
+      "spanish": "Đó là lỗi của tôi. Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241073"
+    },
+    {
+      "english": "I regret that. Please be understanding.",
+      "spanish": "Tôi hối tiếc điều đó. Xin thông cảm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241074"
+    },
+    {
+      "english": "Forgive my oversight. It won't happen again.",
+      "spanish": "Xin tha lỗi sơ suất. Sẽ không tái phạm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241075"
+    },
+    {
+      "english": "I feel bad about that. Can you let it go?",
+      "spanish": "Tôi thấy tệ về việc đó. Bạn bỏ qua được không?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241076"
+    },
+    {
+      "english": "My fault entirely. I hope you can forgive.",
+      "spanish": "Hoàn toàn lỗi của tôi. Mong bạn tha thứ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241076"
+    },
+    {
+      "english": "Please excuse my error. I'm still learning.",
+      "spanish": "Xin bỏ qua lỗi sai của tôi. Tôi vẫn đang học.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241077"
+    },
+    {
+      "english": "I didn't realize. Sorry, truly.",
+      "spanish": "Tôi không nhận ra. Thật sự xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241078"
+    },
+    {
+      "english": "That was clumsy. Please forgive me.",
+      "spanish": "Tôi vụng về quá. Làm ơn tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241079"
+    },
+    {
+      "english": "I am so sorry for the trouble.",
+      "spanish": "Tôi rất xin lỗi vì phiền phức.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241080"
+    },
+    {
+      "english": "Can you give me another chance?",
+      "spanish": "Bạn có thể cho tôi cơ hội nữa không?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241081"
+    },
+    {
+      "english": "I messed up, I admit it. Forgive me.",
+      "spanish": "Tôi đã làm sai, tôi thừa nhận. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241082"
+    },
+    {
+      "english": "My apologies for my behavior.",
+      "spanish": "Xin lỗi vì cách cư xử của tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241083"
+    },
+    {
+      "english": "I hope you can overlook this.",
+      "spanish": "Tôi mong bạn có thể bỏ qua chuyện này.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241085"
+    },
+    {
+      "english": "It was unintentional. Please accept my apology.",
+      "spanish": "Không cố ý đâu. Xin chấp nhận lời xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241086"
+    },
+    {
+      "english": "I promise, it won't repeat. Forgive me.",
+      "spanish": "Tôi hứa, sẽ không lặp lại. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241087"
+    },
+    {
+      "english": "That was a silly mistake. Sorry.",
+      "spanish": "Đó là một lỗi ngớ ngẩn. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241087"
+    },
+    {
+      "english": "I feel terrible. Please forgive.",
+      "spanish": "Tôi cảm thấy kinh khủng. Xin hãy tha thứ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241089"
+    },
+    {
+      "english": "Can we move past this? I'm sorry.",
+      "spanish": "Chúng ta có thể vượt qua không? Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241090"
+    },
+    {
+      "english": "My understanding was wrong. Please forgive.",
+      "spanish": "Tôi đã hiểu sai. Xin hãy tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241091"
+    },
+    {
+      "english": "I misjudged that. Sorry, my friend.",
+      "spanish": "Tôi đã đánh giá sai. Xin lỗi, bạn tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241092"
+    },
+    {
+      "english": "That was a slip-up. Forgive me.",
+      "spanish": "Đó là một sơ suất. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241093"
+    },
+    {
+      "english": "I messed up, I'm sorry. Please forget it.",
+      "spanish": "Tôi làm hỏng rồi, tôi xin lỗi. Xin quên đi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241094"
+    },
+    {
+      "english": "My apologies for the inconvenience.",
+      "spanish": "Xin lỗi vì sự bất tiện.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241095"
+    },
+    {
+      "english": "I regret my actions. Please forgive me.",
+      "spanish": "Tôi hối tiếc hành động của mình. Xin tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241096"
+    },
+    {
+      "english": "I hope you can understand. I'm sorry.",
+      "spanish": "Tôi hy vọng bạn có thể hiểu. Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241097"
+    },
+    {
+      "english": "That was a silly mistake. Forgive?",
+      "spanish": "Đó là một lỗi ngớ ngẩn. Tha lỗi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241098"
+    },
+    {
+      "english": "I promise not to do it again. Sorry.",
+      "spanish": "Tôi hứa sẽ không làm lại. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241099"
+    },
+    {
+      "english": "I'm truly sorry for that.",
+      "spanish": "Tôi thật sự xin lỗi về điều đó.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241100"
+    },
+    {
+      "english": "My mistake. Please accept my apology.",
+      "spanish": "Lỗi của tôi. Xin chấp nhận lời xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241101"
+    },
+    {
+      "english": "I hope we can be friends still. Sorry.",
+      "spanish": "Tôi hy vọng chúng ta vẫn là bạn. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241102"
+    },
+    {
+      "english": "That was thoughtless. Please forgive me.",
+      "spanish": "Tôi đã thiếu suy nghĩ. Xin hãy tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241103"
+    },
+    {
+      "english": "I messed up, okay? Sorry about it.",
+      "spanish": "Tôi làm sai rồi, được không? Xin lỗi về việc đó.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241104"
+    },
+    {
+      "english": "Can you forget what happened? I'm sorry.",
+      "spanish": "Bạn có thể quên chuyện đã xảy ra không? Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241105"
+    },
+    {
+      "english": "My apologies for being late.",
+      "spanish": "Xin lỗi vì đã đến muộn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241106"
+    },
+    {
+      "english": "I'm sorry I misunderstood.",
+      "spanish": "Tôi xin lỗi vì đã hiểu lầm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241107"
+    },
+    {
+      "english": "Please forgive my outburst.",
+      "spanish": "Xin tha lỗi cho cơn giận của tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241108"
+    },
+    {
+      "english": "I am truly sorry for my words.",
+      "spanish": "Tôi thật sự xin lỗi vì lời nói của mình.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241109"
+    },
+    {
+      "english": "Sorry, I forgot. Please remind me?",
+      "spanish": "Xin lỗi, tôi quên mất. Nhắc tôi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241110"
+    },
+    {
+      "english": "My bad, I messed up. Let's fix it.",
+      "spanish": "Tôi sai rồi, tôi làm hỏng. Sửa lại nào.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241111"
+    },
+    {
+      "english": "Oops! Didn't mean to. Can you forgive?",
+      "spanish": "Ối! Không cố ý đâu. Tha lỗi cho tôi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241112"
+    },
+    {
+      "english": "It was a mistake. I apologize.",
+      "spanish": "Đó là lỗi của tôi. Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241113"
+    },
+    {
+      "english": "I regret that. Please be understanding.",
+      "spanish": "Tôi hối tiếc điều đó. Xin thông cảm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241114"
+    },
+    {
+      "english": "Forgive my oversight. It won't happen again.",
+      "spanish": "Xin tha lỗi sơ suất. Sẽ không tái phạm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241115"
+    },
+    {
+      "english": "I feel bad about that. Can you let it go?",
+      "spanish": "Tôi thấy tệ về việc đó. Bạn bỏ qua được không?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241116"
+    },
+    {
+      "english": "My fault entirely. I hope you can forgive.",
+      "spanish": "Hoàn toàn lỗi của tôi. Mong bạn tha thứ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241117"
+    },
+    {
+      "english": "Please excuse my error. I'm still learning.",
+      "spanish": "Xin bỏ qua lỗi sai của tôi. Tôi vẫn đang học.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241118"
+    },
+    {
+      "english": "I didn't realize. Sorry, truly.",
+      "spanish": "Tôi không nhận ra. Thật sự xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241119"
+    },
+    {
+      "english": "That was clumsy. Please forgive me.",
+      "spanish": "Tôi vụng về quá. Làm ơn tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241120"
+    },
+    {
+      "english": "I am so sorry for the trouble.",
+      "spanish": "Tôi rất xin lỗi vì phiền phức.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241121"
+    },
+    {
+      "english": "Can you give me another chance?",
+      "spanish": "Bạn có thể cho tôi cơ hội nữa không?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241122"
+    },
+    {
+      "english": "I messed up, I admit it. Forgive me.",
+      "spanish": "Tôi đã làm sai, tôi thừa nhận. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241123"
+    },
+    {
+      "english": "My apologies for my behavior.",
+      "spanish": "Xin lỗi vì cách cư xử của tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241124"
+    },
+    {
+      "english": "I hope you can overlook this.",
+      "spanish": "Tôi mong bạn có thể bỏ qua chuyện này.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241125"
+    },
+    {
+      "english": "It was unintentional. Please accept my apology.",
+      "spanish": "Không cố ý đâu. Xin chấp nhận lời xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241126"
+    },
+    {
+      "english": "I promise, it won't repeat. Forgive me.",
+      "spanish": "Tôi hứa, sẽ không lặp lại. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241127"
+    },
+    {
+      "english": "That was a silly mistake. Sorry.",
+      "spanish": "Đó là một lỗi ngớ ngẩn. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241128"
+    },
+    {
+      "english": "I feel terrible. Please forgive.",
+      "spanish": "Tôi cảm thấy kinh khủng. Xin hãy tha thứ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241129"
+    },
+    {
+      "english": "Can we move past this? I'm sorry.",
+      "spanish": "Chúng ta có thể vượt qua không? Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241130"
+    },
+    {
+      "english": "My understanding was wrong. Please forgive.",
+      "spanish": "Tôi đã hiểu sai. Xin hãy tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241131"
+    },
+    {
+      "english": "I misjudged that. Sorry, my friend.",
+      "spanish": "Tôi đã đánh giá sai. Xin lỗi, bạn tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241132"
+    },
+    {
+      "english": "That was a slip-up. Forgive me.",
+      "spanish": "Đó là một sơ suất. Tha lỗi cho tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241133"
+    },
+    {
+      "english": "I messed up, I'm sorry. Please forget it.",
+      "spanish": "Tôi làm hỏng rồi, tôi xin lỗi. Xin quên đi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241134"
+    },
+    {
+      "english": "My apologies for the inconvenience.",
+      "spanish": "Xin lỗi vì sự bất tiện.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241135"
+    },
+    {
+      "english": "I regret my actions. Please forgive me.",
+      "spanish": "Tôi hối tiếc hành động của mình. Xin tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241136"
+    },
+    {
+      "english": "I hope you can understand. I'm sorry.",
+      "spanish": "Tôi hy vọng bạn có thể hiểu. Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241137"
+    },
+    {
+      "english": "That was a silly mistake. Forgive?",
+      "spanish": "Đó là một lỗi ngớ ngẩn. Tha lỗi nhé?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241137"
+    },
+    {
+      "english": "I promise not to do it again. Sorry.",
+      "spanish": "Tôi hứa sẽ không làm lại. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241138"
+    },
+    {
+      "english": "I'm truly sorry for that.",
+      "spanish": "Tôi thật sự xin lỗi về điều đó.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241139"
+    },
+    {
+      "english": "My mistake. Please accept my apology.",
+      "spanish": "Lỗi của tôi. Xin chấp nhận lời xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241140"
+    },
+    {
+      "english": "I hope we can be friends still. Sorry.",
+      "spanish": "Tôi hy vọng chúng ta vẫn là bạn. Xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241141"
+    },
+    {
+      "english": "That was thoughtless. Please forgive me.",
+      "spanish": "Tôi đã thiếu suy nghĩ. Xin hãy tha lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241142"
+    },
+    {
+      "english": "I messed up, okay? Sorry about it.",
+      "spanish": "Tôi làm sai rồi, được không? Xin lỗi về việc đó.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241143"
+    },
+    {
+      "english": "Can you forget what happened? I'm sorry.",
+      "spanish": "Bạn có thể quên chuyện đã xảy ra không? Tôi xin lỗi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241144"
+    },
+    {
+      "english": "My apologies for being late.",
+      "spanish": "Xin lỗi vì đã đến muộn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241145"
+    },
+    {
+      "english": "I'm sorry I misunderstood.",
+      "spanish": "Tôi xin lỗi vì đã hiểu lầm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241146"
+    },
+    {
+      "english": "Please forgive my outburst.",
+      "spanish": "Xin tha lỗi cho cơn giận của tôi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241146"
+    },
+    {
+      "english": "I am truly sorry for my words.",
+      "spanish": "Tôi thật sự xin lỗi vì lời nói của mình.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-11T02:58:04.241147"
     }
   ],
-  "last_updated": "2026-08-09T02:55:27.673131"
+  "last_updated": "2026-08-11T02:58:04.241149"
 }
