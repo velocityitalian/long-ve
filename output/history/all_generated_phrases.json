@@ -15857,7 +15857,727 @@
       "spanish": "Tôi thật sự xin lỗi vì lời nói của mình.",
       "category": "Forgiveness",
       "generated_at": "2026-08-11T02:58:04.241147"
+    },
+    {
+      "english": "Learn Vietnamese, unlock culture.",
+      "spanish": "Học tiếng Việt, mở cửa văn hóa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679243"
+    },
+    {
+      "english": "Taste Vietnam, with its language.",
+      "spanish": "Nếm Việt Nam, bằng ngôn ngữ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679254"
+    },
+    {
+      "english": "Travel Vietnam, speak a little.",
+      "spanish": "Du lịch Việt Nam, nói chút thôi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679256"
+    },
+    {
+      "english": "Eat pho, say 'cảm ơn'.",
+      "spanish": "Ăn phở, nói 'cảm ơn'.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679257"
+    },
+    {
+      "english": "Make friends, speak Vietnamese.",
+      "spanish": "Kết bạn, nói tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679259"
+    },
+    {
+      "english": "Order coffee, with confidence.",
+      "spanish": "Gọi cà phê, tự tin lên.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679260"
+    },
+    {
+      "english": "Understand locals, speak their words.",
+      "spanish": "Hiểu người bản địa, nói lời họ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679261"
+    },
+    {
+      "english": "Ask for directions, get there.",
+      "spanish": "Hỏi đường, đến nơi rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679264"
+    },
+    {
+      "english": "Enjoy the music, sing along.",
+      "spanish": "Thưởng nhạc, hát theo nhé.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679266"
+    },
+    {
+      "english": "Bargain smartly, use Vietnamese.",
+      "spanish": "Mặc cả thông minh, dùng tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679267"
+    },
+    {
+      "english": "Tell stories, in Vietnamese.",
+      "spanish": "Kể chuyện, bằng tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679268"
+    },
+    {
+      "english": "Show respect, use proper terms.",
+      "spanish": "Tỏ lòng kính trọng, dùng từ đúng.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679270"
+    },
+    {
+      "english": "Learn dialects, be a local.",
+      "spanish": "Học giọng địa phương, thành người bản.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679271"
+    },
+    {
+      "english": "Read signs, navigate easily.",
+      "spanish": "Đọc biển báo, dễ dàng di chuyển.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679273"
+    },
+    {
+      "english": "Order street food, taste the real.",
+      "spanish": "Gọi đồ ăn đường phố, nếm vị thật.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679274"
+    },
+    {
+      "english": "Share a laugh, speak a phrase.",
+      "spanish": "Chia sẻ tiếng cười, nói một câu.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679275"
+    },
+    {
+      "english": "Understand jokes, feel the humor.",
+      "spanish": "Hiểu chuyện cười, cảm nhận sự hài hước.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679276"
+    },
+    {
+      "english": "Ask for recommendations, find gems.",
+      "spanish": "Xin gợi ý, tìm món ngon.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679277"
+    },
+    {
+      "english": "Express gratitude, always say thanks.",
+      "spanish": "Bày tỏ lòng biết ơn, luôn nói cảm ơn.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679278"
+    },
+    {
+      "english": "Learn greetings, be polite.",
+      "spanish": "Học lời chào, lịch sự nhé.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679279"
+    },
+    {
+      "english": "Join conversations, feel included.",
+      "spanish": "Tham gia nói chuyện, cảm thấy hòa nhập.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679281"
+    },
+    {
+      "english": "Understand menus, order what you want.",
+      "spanish": "Hiểu thực đơn, gọi món mình thích.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679282"
+    },
+    {
+      "english": "Learn numbers, count your money.",
+      "spanish": "Học số đếm, đếm tiền của bạn.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679283"
+    },
+    {
+      "english": "Ask for the bill, pay easily.",
+      "spanish": "Hỏi thanh toán, trả tiền dễ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679284"
+    },
+    {
+      "english": "Say hello, make a connection.",
+      "spanish": "Chào hỏi, tạo một kết nối.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679285"
+    },
+    {
+      "english": "Say goodbye, leave a good impression.",
+      "spanish": "Nói tạm biệt, để lại ấn tượng.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679286"
+    },
+    {
+      "english": "Ask 'what is this?', learn words.",
+      "spanish": "Hỏi 'cái này là gì?', học từ mới.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679287"
+    },
+    {
+      "english": "Say 'I don't understand', get help.",
+      "spanish": "Nói 'tôi không hiểu', nhận giúp đỡ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679289"
+    },
+    {
+      "english": "Learn useful phrases, for daily life.",
+      "spanish": "Học câu hữu ích, cho cuộc sống.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679290"
+    },
+    {
+      "english": "Practice speaking, every single day.",
+      "spanish": "Tập nói, mỗi ngày một chút.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679291"
+    },
+    {
+      "english": "Be brave, try your best.",
+      "spanish": "Dũng cảm lên, cố gắng hết sức.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679292"
+    },
+    {
+      "english": "Mistakes are fine, keep learning.",
+      "spanish": "Sai sót không sao, cứ học tiếp.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679293"
+    },
+    {
+      "english": "Immerse yourself, in the language.",
+      "spanish": "Đắm mình vào, ngôn ngữ này.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679294"
+    },
+    {
+      "english": "Listen carefully, repeat often.",
+      "spanish": "Nghe kỹ, lặp lại thường xuyên.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679295"
+    },
+    {
+      "english": "Use what you learn, for real.",
+      "spanish": "Dùng những gì học, cho thực tế.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679296"
+    },
+    {
+      "english": "Learn for fun, enjoy the journey.",
+      "spanish": "Học để vui, tận hưởng hành trình.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679297"
+    },
+    {
+      "english": "Vietnamese is beautiful, give it a try.",
+      "spanish": "Tiếng Việt rất đẹp, hãy thử xem.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679298"
+    },
+    {
+      "english": "Your effort matters, keep going.",
+      "spanish": "Nỗ lực của bạn, quan trọng lắm.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679299"
+    },
+    {
+      "english": "Unlock new worlds, with Vietnamese.",
+      "spanish": "Mở ra thế giới mới, với tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679300"
+    },
+    {
+      "english": "Learn Vietnamese, unlock culture.",
+      "spanish": "Học tiếng Việt, mở cửa văn hóa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679301"
+    },
+    {
+      "english": "Taste Vietnam, with its language.",
+      "spanish": "Nếm Việt Nam, bằng ngôn ngữ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679303"
+    },
+    {
+      "english": "Travel Vietnam, speak a little.",
+      "spanish": "Du lịch Việt Nam, nói chút thôi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679304"
+    },
+    {
+      "english": "Eat pho, say 'cảm ơn'.",
+      "spanish": "Ăn phở, nói 'cảm ơn'.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679305"
+    },
+    {
+      "english": "Make friends, speak Vietnamese.",
+      "spanish": "Kết bạn, nói tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679306"
+    },
+    {
+      "english": "Order coffee, with confidence.",
+      "spanish": "Gọi cà phê, tự tin lên.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679307"
+    },
+    {
+      "english": "Understand locals, speak their words.",
+      "spanish": "Hiểu người bản địa, nói lời họ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679308"
+    },
+    {
+      "english": "Ask for directions, get there.",
+      "spanish": "Hỏi đường, đến nơi rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679309"
+    },
+    {
+      "english": "Enjoy the music, sing along.",
+      "spanish": "Thưởng nhạc, hát theo nhé.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679310"
+    },
+    {
+      "english": "Bargain smartly, use Vietnamese.",
+      "spanish": "Mặc cả thông minh, dùng tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679311"
+    },
+    {
+      "english": "Tell stories, in Vietnamese.",
+      "spanish": "Kể chuyện, bằng tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679313"
+    },
+    {
+      "english": "Show respect, use proper terms.",
+      "spanish": "Tỏ lòng kính trọng, dùng từ đúng.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679327"
+    },
+    {
+      "english": "Learn dialects, be a local.",
+      "spanish": "Học giọng địa phương, thành người bản.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679328"
+    },
+    {
+      "english": "Read signs, navigate easily.",
+      "spanish": "Đọc biển báo, dễ dàng di chuyển.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679329"
+    },
+    {
+      "english": "Order street food, taste the real.",
+      "spanish": "Gọi đồ ăn đường phố, nếm vị thật.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679330"
+    },
+    {
+      "english": "Share a laugh, speak a phrase.",
+      "spanish": "Chia sẻ tiếng cười, nói một câu.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679331"
+    },
+    {
+      "english": "Understand jokes, feel the humor.",
+      "spanish": "Hiểu chuyện cười, cảm nhận sự hài hước.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679332"
+    },
+    {
+      "english": "Ask for recommendations, find gems.",
+      "spanish": "Xin gợi ý, tìm món ngon.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679333"
+    },
+    {
+      "english": "Express gratitude, always say thanks.",
+      "spanish": "Bày tỏ lòng biết ơn, luôn nói cảm ơn.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679334"
+    },
+    {
+      "english": "Learn greetings, be polite.",
+      "spanish": "Học lời chào, lịch sự nhé.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679335"
+    },
+    {
+      "english": "Join conversations, feel included.",
+      "spanish": "Tham gia nói chuyện, cảm thấy hòa nhập.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679337"
+    },
+    {
+      "english": "Understand menus, order what you want.",
+      "spanish": "Hiểu thực đơn, gọi món mình thích.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679338"
+    },
+    {
+      "english": "Learn numbers, count your money.",
+      "spanish": "Học số đếm, đếm tiền của bạn.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679339"
+    },
+    {
+      "english": "Ask for the bill, pay easily.",
+      "spanish": "Hỏi thanh toán, trả tiền dễ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679340"
+    },
+    {
+      "english": "Say hello, make a connection.",
+      "spanish": "Chào hỏi, tạo một kết nối.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679341"
+    },
+    {
+      "english": "Say goodbye, leave a good impression.",
+      "spanish": "Nói tạm biệt, để lại ấn tượng.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679342"
+    },
+    {
+      "english": "Ask 'what is this?', learn words.",
+      "spanish": "Hỏi 'cái này là gì?', học từ mới.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679343"
+    },
+    {
+      "english": "Say 'I don't understand', get help.",
+      "spanish": "Nói 'tôi không hiểu', nhận giúp đỡ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679344"
+    },
+    {
+      "english": "Learn useful phrases, for daily life.",
+      "spanish": "Học câu hữu ích, cho cuộc sống.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679345"
+    },
+    {
+      "english": "Practice speaking, every single day.",
+      "spanish": "Tập nói, mỗi ngày một chút.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679346"
+    },
+    {
+      "english": "Be brave, try your best.",
+      "spanish": "Dũng cảm lên, cố gắng hết sức.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679347"
+    },
+    {
+      "english": "Mistakes are fine, keep learning.",
+      "spanish": "Sai sót không sao, cứ học tiếp.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679348"
+    },
+    {
+      "english": "Immerse yourself, in the language.",
+      "spanish": "Đắm mình vào, ngôn ngữ này.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679350"
+    },
+    {
+      "english": "Listen carefully, repeat often.",
+      "spanish": "Nghe kỹ, lặp lại thường xuyên.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679350"
+    },
+    {
+      "english": "Use what you learn, for real.",
+      "spanish": "Dùng những gì học, cho thực tế.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679352"
+    },
+    {
+      "english": "Learn for fun, enjoy the journey.",
+      "spanish": "Học để vui, tận hưởng hành trình.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679353"
+    },
+    {
+      "english": "Vietnamese is beautiful, give it a try.",
+      "spanish": "Tiếng Việt rất đẹp, hãy thử xem.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679353"
+    },
+    {
+      "english": "Your effort matters, keep going.",
+      "spanish": "Nỗ lực của bạn, quan trọng lắm.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679355"
+    },
+    {
+      "english": "Unlock new worlds, with Vietnamese.",
+      "spanish": "Mở ra thế giới mới, với tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679356"
+    },
+    {
+      "english": "Learn Vietnamese, unlock culture.",
+      "spanish": "Học tiếng Việt, mở cửa văn hóa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679357"
+    },
+    {
+      "english": "Taste Vietnam, with its language.",
+      "spanish": "Nếm Việt Nam, bằng ngôn ngữ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679358"
+    },
+    {
+      "english": "Travel Vietnam, speak a little.",
+      "spanish": "Du lịch Việt Nam, nói chút thôi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679359"
+    },
+    {
+      "english": "Eat pho, say 'cảm ơn'.",
+      "spanish": "Ăn phở, nói 'cảm ơn'.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679360"
+    },
+    {
+      "english": "Make friends, speak Vietnamese.",
+      "spanish": "Kết bạn, nói tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679361"
+    },
+    {
+      "english": "Order coffee, with confidence.",
+      "spanish": "Gọi cà phê, tự tin lên.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679363"
+    },
+    {
+      "english": "Understand locals, speak their words.",
+      "spanish": "Hiểu người bản địa, nói lời họ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679364"
+    },
+    {
+      "english": "Ask for directions, get there.",
+      "spanish": "Hỏi đường, đến nơi rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679365"
+    },
+    {
+      "english": "Enjoy the music, sing along.",
+      "spanish": "Thưởng nhạc, hát theo nhé.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679366"
+    },
+    {
+      "english": "Bargain smartly, use Vietnamese.",
+      "spanish": "Mặc cả thông minh, dùng tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679367"
+    },
+    {
+      "english": "Tell stories, in Vietnamese.",
+      "spanish": "Kể chuyện, bằng tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679368"
+    },
+    {
+      "english": "Show respect, use proper terms.",
+      "spanish": "Tỏ lòng kính trọng, dùng từ đúng.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679369"
+    },
+    {
+      "english": "Learn dialects, be a local.",
+      "spanish": "Học giọng địa phương, thành người bản.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679370"
+    },
+    {
+      "english": "Read signs, navigate easily.",
+      "spanish": "Đọc biển báo, dễ dàng di chuyển.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679372"
+    },
+    {
+      "english": "Order street food, taste the real.",
+      "spanish": "Gọi đồ ăn đường phố, nếm vị thật.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679373"
+    },
+    {
+      "english": "Share a laugh, speak a phrase.",
+      "spanish": "Chia sẻ tiếng cười, nói một câu.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679374"
+    },
+    {
+      "english": "Understand jokes, feel the humor.",
+      "spanish": "Hiểu chuyện cười, cảm nhận sự hài hước.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679375"
+    },
+    {
+      "english": "Ask for recommendations, find gems.",
+      "spanish": "Xin gợi ý, tìm món ngon.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679376"
+    },
+    {
+      "english": "Express gratitude, always say thanks.",
+      "spanish": "Bày tỏ lòng biết ơn, luôn nói cảm ơn.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679377"
+    },
+    {
+      "english": "Learn greetings, be polite.",
+      "spanish": "Học lời chào, lịch sự nhé.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679378"
+    },
+    {
+      "english": "Join conversations, feel included.",
+      "spanish": "Tham gia nói chuyện, cảm thấy hòa nhập.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679379"
+    },
+    {
+      "english": "Understand menus, order what you want.",
+      "spanish": "Hiểu thực đơn, gọi món mình thích.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679380"
+    },
+    {
+      "english": "Learn numbers, count your money.",
+      "spanish": "Học số đếm, đếm tiền của bạn.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679381"
+    },
+    {
+      "english": "Ask for the bill, pay easily.",
+      "spanish": "Hỏi thanh toán, trả tiền dễ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679382"
+    },
+    {
+      "english": "Say hello, make a connection.",
+      "spanish": "Chào hỏi, tạo một kết nối.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679383"
+    },
+    {
+      "english": "Say goodbye, leave a good impression.",
+      "spanish": "Nói tạm biệt, để lại ấn tượng.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679384"
+    },
+    {
+      "english": "Ask 'what is this?', learn words.",
+      "spanish": "Hỏi 'cái này là gì?', học từ mới.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679386"
+    },
+    {
+      "english": "Say 'I don't understand', get help.",
+      "spanish": "Nói 'tôi không hiểu', nhận giúp đỡ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679387"
+    },
+    {
+      "english": "Learn useful phrases, for daily life.",
+      "spanish": "Học câu hữu ích, cho cuộc sống.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679388"
+    },
+    {
+      "english": "Practice speaking, every single day.",
+      "spanish": "Tập nói, mỗi ngày một chút.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679389"
+    },
+    {
+      "english": "Be brave, try your best.",
+      "spanish": "Dũng cảm lên, cố gắng hết sức.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679390"
+    },
+    {
+      "english": "Mistakes are fine, keep learning.",
+      "spanish": "Sai sót không sao, cứ học tiếp.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679391"
+    },
+    {
+      "english": "Immerse yourself, in the language.",
+      "spanish": "Đắm mình vào, ngôn ngữ này.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679392"
+    },
+    {
+      "english": "Listen carefully, repeat often.",
+      "spanish": "Nghe kỹ, lặp lại thường xuyên.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679393"
+    },
+    {
+      "english": "Use what you learn, for real.",
+      "spanish": "Dùng những gì học, cho thực tế.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679394"
+    },
+    {
+      "english": "Learn for fun, enjoy the journey.",
+      "spanish": "Học để vui, tận hưởng hành trình.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679395"
+    },
+    {
+      "english": "Vietnamese is beautiful, give it a try.",
+      "spanish": "Tiếng Việt rất đẹp, hãy thử xem.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679396"
+    },
+    {
+      "english": "Your effort matters, keep going.",
+      "spanish": "Nỗ lực của bạn, quan trọng lắm.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679397"
+    },
+    {
+      "english": "Unlock new worlds, with Vietnamese.",
+      "spanish": "Mở ra thế giới mới, với tiếng Việt.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679398"
+    },
+    {
+      "english": "Learn Vietnamese, unlock culture.",
+      "spanish": "Học tiếng Việt, mở cửa văn hóa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679400"
+    },
+    {
+      "english": "Taste Vietnam, with its language.",
+      "spanish": "Nếm Việt Nam, bằng ngôn ngữ.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679401"
+    },
+    {
+      "english": "Travel Vietnam, speak a little.",
+      "spanish": "Du lịch Việt Nam, nói chút thôi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-12T03:16:57.679402"
     }
   ],
-  "last_updated": "2026-08-11T02:58:04.241149"
+  "last_updated": "2026-08-12T03:16:57.679404"
 }
