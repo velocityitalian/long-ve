@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 120
+TARGET_DURATION_MINUTES = 15  # Target ~15-minute videos (~170 phrases)
+TARGET_PHRASES = 170  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -896,11 +896,12 @@ def generate_title_description(category_english: str, category_vietnamese: str, 
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
+    duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
-        f"Learn Vietnamese in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_vietnamese})",
+        f"Learn Vietnamese in {duration_label} Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_vietnamese})",
         f"60 Vietnamese Phrases for {category_english} | Speak Vietnamese Like a Native! ({category_vietnamese})",
         f"Master Vietnamese {category_english} | 60 Essential Vietnamese Phrases with Pronunciation | Velocity Vietnamese",
-        f"Vietnamese Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Vietnamese Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
         f"Speak Vietnamese Fluently | {category_english} Phrases | English + Vietnamese + Pronunciation",
     ]
 
