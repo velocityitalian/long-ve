@@ -16577,7 +16577,727 @@
       "spanish": "Du lịch Việt Nam, nói chút thôi.",
       "category": "Purpose",
       "generated_at": "2026-08-12T03:16:57.679402"
+    },
+    {
+      "english": "Slow down, enjoy the moment.",
+      "spanish": "Chậm lại, tận hưởng khoảnh khắc.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173936"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "spanish": "Cứ từ từ, đừng vội.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173948"
+    },
+    {
+      "english": "Wait a bit, it’s coming.",
+      "spanish": "Đợi chút, sắp có rồi.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173950"
+    },
+    {
+      "english": "Be patient, good things bloom.",
+      "spanish": "Kiên nhẫn nhé, điều tốt đẹp sẽ đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173951"
+    },
+    {
+      "english": "Give it a little more time.",
+      "spanish": "Cho thêm chút thời gian.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173952"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "spanish": "Tin tưởng quá trình, nó hiệu quả.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173953"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "spanish": "Không ai xây thành Rome, trong một ngày.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173954"
+    },
+    {
+      "english": "It takes time, to master.",
+      "spanish": "Cần thời gian, để thành thạo.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173958"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "spanish": "Kiên nhẫn, là một đức tính.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173959"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "spanish": "Cứ để nó tự nhiên, diễn ra.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173960"
+    },
+    {
+      "english": "Hold on, a moment longer.",
+      "spanish": "Chờ thêm, một lát nữa.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173962"
+    },
+    {
+      "english": "Be steady, don't falter.",
+      "spanish": "Vững vàng lên, đừng nao núng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173963"
+    },
+    {
+      "english": "This too, shall pass.",
+      "spanish": "Chuyện này, rồi cũng qua.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173964"
+    },
+    {
+      "english": "A little more effort, please.",
+      "spanish": "Thêm chút cố gắng, nhé.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173965"
+    },
+    {
+      "english": "Don't get discouraged, try again.",
+      "spanish": "Đừng nản lòng, thử lại.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173966"
+    },
+    {
+      "english": "It's a marathon, not sprint.",
+      "spanish": "Đây là một cuộc chạy dài, không phải tốc độ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173967"
+    },
+    {
+      "english": "Cultivate your patience.",
+      "spanish": "Nuôi dưỡng sự kiên nhẫn của bạn.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173968"
+    },
+    {
+      "english": "Everything in its own time.",
+      "spanish": "Mọi thứ, đúng lúc nó sẽ đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173969"
+    },
+    {
+      "english": "Keep a positive mindset.",
+      "spanish": "Giữ suy nghĩ, tích cực.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173970"
+    },
+    {
+      "english": "You're almost there, hang in.",
+      "spanish": "Bạn gần tới rồi, cố lên.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173971"
+    },
+    {
+      "english": "Let the good vibes, flow.",
+      "spanish": "Hãy để những điều tốt đẹp, tuôn chảy.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173971"
+    },
+    {
+      "english": "Patience yields, sweet rewards.",
+      "spanish": "Kiên nhẫn mang lại, phần thưởng ngọt ngào.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173972"
+    },
+    {
+      "english": "Take a moment, to reflect.",
+      "spanish": "Dành một chút, để suy ngẫm.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173973"
+    },
+    {
+      "english": "It's worth the wait, trust me.",
+      "spanish": "Đáng để chờ đợi, tin tôi đi.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173974"
+    },
+    {
+      "english": "Don't rush the journey, enjoy it.",
+      "spanish": "Đừng vội vàng, hãy tận hưởng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173975"
+    },
+    {
+      "english": "Gradual progress, is still progress.",
+      "spanish": "Tiến bộ dần dần, vẫn là tiến bộ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173976"
+    },
+    {
+      "english": "Have faith, in the outcome.",
+      "spanish": "Hãy tin tưởng, vào kết quả.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173976"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "spanish": "Chờ đợi thời điểm, thích hợp.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173978"
+    },
+    {
+      "english": "Your patience, will pay off.",
+      "spanish": "Sự kiên nhẫn của bạn, sẽ được đền đáp.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173979"
+    },
+    {
+      "english": "Rome wasn't built, overnight.",
+      "spanish": "Thành Rome, không được xây qua đêm.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173979"
+    },
+    {
+      "english": "Give it time, to blossom.",
+      "spanish": "Cho nó thời gian, để nở rộ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173980"
+    },
+    {
+      "english": "The best things, take time.",
+      "spanish": "Những điều tốt đẹp nhất, cần thời gian.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173981"
+    },
+    {
+      "english": "Trust the journey, not the speed.",
+      "spanish": "Tin vào hành trình, đừng tin tốc độ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173982"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "spanish": "Chậm mà chắc, thắng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173983"
+    },
+    {
+      "english": "Wait for the harvest, to come.",
+      "spanish": "Chờ đợi mùa gặt, đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173983"
+    },
+    {
+      "english": "Slow down, enjoy the moment.",
+      "spanish": "Chậm lại, tận hưởng khoảnh khắc.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173984"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "spanish": "Cứ từ từ, đừng vội.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173985"
+    },
+    {
+      "english": "Wait a bit, it’s coming.",
+      "spanish": "Đợi chút, sắp có rồi.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173986"
+    },
+    {
+      "english": "Be patient, good things bloom.",
+      "spanish": "Kiên nhẫn nhé, điều tốt đẹp sẽ đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173987"
+    },
+    {
+      "english": "Give it a little more time.",
+      "spanish": "Cho thêm chút thời gian.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173988"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "spanish": "Tin tưởng quá trình, nó hiệu quả.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173989"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "spanish": "Không ai xây thành Rome, trong một ngày.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173990"
+    },
+    {
+      "english": "It takes time, to master.",
+      "spanish": "Cần thời gian, để thành thạo.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173991"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "spanish": "Kiên nhẫn, là một đức tính.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173992"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "spanish": "Cứ để nó tự nhiên, diễn ra.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173993"
+    },
+    {
+      "english": "Hold on, a moment longer.",
+      "spanish": "Chờ thêm, một lát nữa.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173994"
+    },
+    {
+      "english": "Be steady, don't falter.",
+      "spanish": "Vững vàng lên, đừng nao núng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173995"
+    },
+    {
+      "english": "This too, shall pass.",
+      "spanish": "Chuyện này, rồi cũng qua.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173996"
+    },
+    {
+      "english": "A little more effort, please.",
+      "spanish": "Thêm chút cố gắng, nhé.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173996"
+    },
+    {
+      "english": "Don't get discouraged, try again.",
+      "spanish": "Đừng nản lòng, thử lại.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173997"
+    },
+    {
+      "english": "It's a marathon, not sprint.",
+      "spanish": "Đây là một cuộc chạy dài, không phải tốc độ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173998"
+    },
+    {
+      "english": "Cultivate your patience.",
+      "spanish": "Nuôi dưỡng sự kiên nhẫn của bạn.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.173999"
+    },
+    {
+      "english": "Everything in its own time.",
+      "spanish": "Mọi thứ, đúng lúc nó sẽ đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174000"
+    },
+    {
+      "english": "Keep a positive mindset.",
+      "spanish": "Giữ suy nghĩ, tích cực.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174000"
+    },
+    {
+      "english": "You're almost there, hang in.",
+      "spanish": "Bạn gần tới rồi, cố lên.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174001"
+    },
+    {
+      "english": "Let the good vibes, flow.",
+      "spanish": "Hãy để những điều tốt đẹp, tuôn chảy.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174002"
+    },
+    {
+      "english": "Patience yields, sweet rewards.",
+      "spanish": "Kiên nhẫn mang lại, phần thưởng ngọt ngào.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174003"
+    },
+    {
+      "english": "Take a moment, to reflect.",
+      "spanish": "Dành một chút, để suy ngẫm.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174004"
+    },
+    {
+      "english": "It's worth the wait, trust me.",
+      "spanish": "Đáng để chờ đợi, tin tôi đi.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174004"
+    },
+    {
+      "english": "Don't rush the journey, enjoy it.",
+      "spanish": "Đừng vội vàng, hãy tận hưởng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174005"
+    },
+    {
+      "english": "Gradual progress, is still progress.",
+      "spanish": "Tiến bộ dần dần, vẫn là tiến bộ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174006"
+    },
+    {
+      "english": "Have faith, in the outcome.",
+      "spanish": "Hãy tin tưởng, vào kết quả.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174007"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "spanish": "Chờ đợi thời điểm, thích hợp.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174008"
+    },
+    {
+      "english": "Your patience, will pay off.",
+      "spanish": "Sự kiên nhẫn của bạn, sẽ được đền đáp.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174009"
+    },
+    {
+      "english": "Rome wasn't built, overnight.",
+      "spanish": "Thành Rome, không được xây qua đêm.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174010"
+    },
+    {
+      "english": "Give it time, to blossom.",
+      "spanish": "Cho nó thời gian, để nở rộ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174010"
+    },
+    {
+      "english": "The best things, take time.",
+      "spanish": "Những điều tốt đẹp nhất, cần thời gian.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174011"
+    },
+    {
+      "english": "Trust the journey, not the speed.",
+      "spanish": "Tin vào hành trình, đừng tin tốc độ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174012"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "spanish": "Chậm mà chắc, thắng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174013"
+    },
+    {
+      "english": "Wait for the harvest, to come.",
+      "spanish": "Chờ đợi mùa gặt, đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174014"
+    },
+    {
+      "english": "Slow down, enjoy the moment.",
+      "spanish": "Chậm lại, tận hưởng khoảnh khắc.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174015"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "spanish": "Cứ từ từ, đừng vội.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174015"
+    },
+    {
+      "english": "Wait a bit, it’s coming.",
+      "spanish": "Đợi chút, sắp có rồi.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174016"
+    },
+    {
+      "english": "Be patient, good things bloom.",
+      "spanish": "Kiên nhẫn nhé, điều tốt đẹp sẽ đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174017"
+    },
+    {
+      "english": "Give it a little more time.",
+      "spanish": "Cho thêm chút thời gian.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174018"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "spanish": "Tin tưởng quá trình, nó hiệu quả.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174019"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "spanish": "Không ai xây thành Rome, trong một ngày.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174020"
+    },
+    {
+      "english": "It takes time, to master.",
+      "spanish": "Cần thời gian, để thành thạo.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174020"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "spanish": "Kiên nhẫn, là một đức tính.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174021"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "spanish": "Cứ để nó tự nhiên, diễn ra.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174022"
+    },
+    {
+      "english": "Hold on, a moment longer.",
+      "spanish": "Chờ thêm, một lát nữa.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174025"
+    },
+    {
+      "english": "Be steady, don't falter.",
+      "spanish": "Vững vàng lên, đừng nao núng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174026"
+    },
+    {
+      "english": "This too, shall pass.",
+      "spanish": "Chuyện này, rồi cũng qua.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174026"
+    },
+    {
+      "english": "A little more effort, please.",
+      "spanish": "Thêm chút cố gắng, nhé.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174027"
+    },
+    {
+      "english": "Don't get discouraged, try again.",
+      "spanish": "Đừng nản lòng, thử lại.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174028"
+    },
+    {
+      "english": "It's a marathon, not sprint.",
+      "spanish": "Đây là một cuộc chạy dài, không phải tốc độ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174029"
+    },
+    {
+      "english": "Cultivate your patience.",
+      "spanish": "Nuôi dưỡng sự kiên nhẫn của bạn.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174029"
+    },
+    {
+      "english": "Everything in its own time.",
+      "spanish": "Mọi thứ, đúng lúc nó sẽ đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174030"
+    },
+    {
+      "english": "Keep a positive mindset.",
+      "spanish": "Giữ suy nghĩ, tích cực.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174031"
+    },
+    {
+      "english": "You're almost there, hang in.",
+      "spanish": "Bạn gần tới rồi, cố lên.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174032"
+    },
+    {
+      "english": "Let the good vibes, flow.",
+      "spanish": "Hãy để những điều tốt đẹp, tuôn chảy.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174033"
+    },
+    {
+      "english": "Patience yields, sweet rewards.",
+      "spanish": "Kiên nhẫn mang lại, phần thưởng ngọt ngào.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174033"
+    },
+    {
+      "english": "Take a moment, to reflect.",
+      "spanish": "Dành một chút, để suy ngẫm.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174034"
+    },
+    {
+      "english": "It's worth the wait, trust me.",
+      "spanish": "Đáng để chờ đợi, tin tôi đi.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174035"
+    },
+    {
+      "english": "Don't rush the journey, enjoy it.",
+      "spanish": "Đừng vội vàng, hãy tận hưởng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174036"
+    },
+    {
+      "english": "Gradual progress, is still progress.",
+      "spanish": "Tiến bộ dần dần, vẫn là tiến bộ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174037"
+    },
+    {
+      "english": "Have faith, in the outcome.",
+      "spanish": "Hãy tin tưởng, vào kết quả.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174037"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "spanish": "Chờ đợi thời điểm, thích hợp.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174038"
+    },
+    {
+      "english": "Your patience, will pay off.",
+      "spanish": "Sự kiên nhẫn của bạn, sẽ được đền đáp.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174039"
+    },
+    {
+      "english": "Rome wasn't built, overnight.",
+      "spanish": "Thành Rome, không được xây qua đêm.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174040"
+    },
+    {
+      "english": "Give it time, to blossom.",
+      "spanish": "Cho nó thời gian, để nở rộ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174041"
+    },
+    {
+      "english": "The best things, take time.",
+      "spanish": "Những điều tốt đẹp nhất, cần thời gian.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174041"
+    },
+    {
+      "english": "Trust the journey, not the speed.",
+      "spanish": "Tin vào hành trình, đừng tin tốc độ.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174042"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "spanish": "Chậm mà chắc, thắng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174043"
+    },
+    {
+      "english": "Wait for the harvest, to come.",
+      "spanish": "Chờ đợi mùa gặt, đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174044"
+    },
+    {
+      "english": "Slow down, enjoy the moment.",
+      "spanish": "Chậm lại, tận hưởng khoảnh khắc.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174045"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "spanish": "Cứ từ từ, đừng vội.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174046"
+    },
+    {
+      "english": "Wait a bit, it’s coming.",
+      "spanish": "Đợi chút, sắp có rồi.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174046"
+    },
+    {
+      "english": "Be patient, good things bloom.",
+      "spanish": "Kiên nhẫn nhé, điều tốt đẹp sẽ đến.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174047"
+    },
+    {
+      "english": "Give it a little more time.",
+      "spanish": "Cho thêm chút thời gian.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174048"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "spanish": "Tin tưởng quá trình, nó hiệu quả.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174049"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "spanish": "Không ai xây thành Rome, trong một ngày.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174051"
+    },
+    {
+      "english": "It takes time, to master.",
+      "spanish": "Cần thời gian, để thành thạo.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174052"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "spanish": "Kiên nhẫn, là một đức tính.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174053"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "spanish": "Cứ để nó tự nhiên, diễn ra.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174053"
+    },
+    {
+      "english": "Hold on, a moment longer.",
+      "spanish": "Chờ thêm, một lát nữa.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174054"
+    },
+    {
+      "english": "Be steady, don't falter.",
+      "spanish": "Vững vàng lên, đừng nao núng.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174055"
+    },
+    {
+      "english": "This too, shall pass.",
+      "spanish": "Chuyện này, rồi cũng qua.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174056"
+    },
+    {
+      "english": "A little more effort, please.",
+      "spanish": "Thêm chút cố gắng, nhé.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174057"
+    },
+    {
+      "english": "Don't get discouraged, try again.",
+      "spanish": "Đừng nản lòng, thử lại.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T03:21:52.174058"
     }
   ],
-  "last_updated": "2026-08-12T03:16:57.679404"
+  "last_updated": "2026-08-13T03:21:52.174060"
 }
