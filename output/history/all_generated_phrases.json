@@ -24629,7 +24629,247 @@
       "vietnamese": "Bạn là mọi thứ, tôi thích nhất.",
       "category": "Love",
       "generated_at": "2026-09-19T05:13:58.188699"
+    },
+    {
+      "english": "This word, changes everything.",
+      "vietnamese": "Từ này, thay đổi mọi thứ.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086701"
+    },
+    {
+      "english": "They actually, eat that?",
+      "vietnamese": "Họ ăn cái đó, thật sao?",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086712"
+    },
+    {
+      "english": "You can buy, that here?",
+      "vietnamese": "Bạn có thể mua, cái đó ở đây?",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086714"
+    },
+    {
+      "english": "This is the, oldest trick.",
+      "vietnamese": "Đây là, chiêu cũ nhất.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086716"
+    },
+    {
+      "english": "It's much, cheaper now.",
+      "vietnamese": "Nó rẻ hơn, nhiều rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086718"
+    },
+    {
+      "english": "People really, do that?",
+      "vietnamese": "Người ta làm vậy, thật hả?",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086719"
+    },
+    {
+      "english": "This has, a hidden meaning.",
+      "vietnamese": "Cái này có, ý nghĩa ẩn.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086721"
+    },
+    {
+      "english": "You can learn, this quickly.",
+      "vietnamese": "Bạn có thể học, cái này nhanh.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086724"
+    },
+    {
+      "english": "This mistake, costs a lot.",
+      "vietnamese": "Lỗi này, tốn nhiều lắm.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086726"
+    },
+    {
+      "english": "They invented, this for us.",
+      "vietnamese": "Họ đã phát minh, cái này cho ta.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086728"
+    },
+    {
+      "english": "This animal, is quite smart.",
+      "vietnamese": "Con vật này, khá thông minh.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086730"
+    },
+    {
+      "english": "You can grow, this at home.",
+      "vietnamese": "Bạn có thể trồng, cái này ở nhà.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086731"
+    },
+    {
+      "english": "This music, makes you dance.",
+      "vietnamese": "Nhạc này, làm bạn nhảy.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086733"
+    },
+    {
+      "english": "They eat this, for luck.",
+      "vietnamese": "Họ ăn cái này, để may mắn.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086734"
+    },
+    {
+      "english": "This color, means something.",
+      "vietnamese": "Màu này, có ý nghĩa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086735"
+    },
+    {
+      "english": "You can build, this easily.",
+      "vietnamese": "Bạn có thể xây, cái này dễ.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086737"
+    },
+    {
+      "english": "This fruit, tastes amazing.",
+      "vietnamese": "Trái cây này, ngon tuyệt.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086738"
+    },
+    {
+      "english": "They use this, every day.",
+      "vietnamese": "Họ dùng cái này, mỗi ngày.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086739"
+    },
+    {
+      "english": "This river, flows backward.",
+      "vietnamese": "Con sông này, chảy ngược.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086741"
+    },
+    {
+      "english": "You can see, stars here.",
+      "vietnamese": "Bạn có thể thấy, sao ở đây.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086742"
+    },
+    {
+      "english": "This language, has tones.",
+      "vietnamese": "Ngôn ngữ này, có thanh điệu.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086744"
+    },
+    {
+      "english": "They believe, this story.",
+      "vietnamese": "Họ tin, câu chuyện này.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086745"
+    },
+    {
+      "english": "This game, is very old.",
+      "vietnamese": "Trò chơi này, rất cổ.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086746"
+    },
+    {
+      "english": "You can wear, this inside.",
+      "vietnamese": "Bạn có thể mặc, cái này trong nhà.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086748"
+    },
+    {
+      "english": "This food, is very spicy.",
+      "vietnamese": "Món ăn này, rất cay.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086749"
+    },
+    {
+      "english": "They paint, with their feet.",
+      "vietnamese": "Họ vẽ, bằng chân.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086750"
+    },
+    {
+      "english": "This house, is very small.",
+      "vietnamese": "Ngôi nhà này, rất nhỏ.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086751"
+    },
+    {
+      "english": "You can find, this in markets.",
+      "vietnamese": "Bạn có thể tìm, cái này ở chợ.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086752"
+    },
+    {
+      "english": "This plant, heals wounds.",
+      "vietnamese": "Cây này, chữa lành vết thương.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086754"
+    },
+    {
+      "english": "They sing, in the rain.",
+      "vietnamese": "Họ hát, dưới mưa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086755"
+    },
+    {
+      "english": "This machine, makes noise.",
+      "vietnamese": "Máy móc này, kêu to.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086756"
+    },
+    {
+      "english": "You can drink, this cold.",
+      "vietnamese": "Bạn có thể uống, cái này lạnh.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086757"
+    },
+    {
+      "english": "This story, is a legend.",
+      "vietnamese": "Câu chuyện này, là truyền thuyết.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086758"
+    },
+    {
+      "english": "They whisper, secrets often.",
+      "vietnamese": "Họ thì thầm, bí mật thường xuyên.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086760"
+    },
+    {
+      "english": "This path, leads somewhere.",
+      "vietnamese": "Lối đi này, dẫn đến đâu đó.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086761"
+    },
+    {
+      "english": "You can taste, the salt.",
+      "vietnamese": "Bạn có thể nếm, vị mặn.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086762"
+    },
+    {
+      "english": "This city, never sleeps.",
+      "vietnamese": "Thành phố này, không ngủ.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086763"
+    },
+    {
+      "english": "They draw, with charcoal.",
+      "vietnamese": "Họ vẽ, bằng than củi.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086764"
+    },
+    {
+      "english": "This tradition, is ancient.",
+      "vietnamese": "Truyền thống này, rất xưa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086766"
+    },
+    {
+      "english": "You can swim, here safely.",
+      "vietnamese": "Bạn có thể bơi, ở đây an toàn.",
+      "category": "Purpose",
+      "generated_at": "2026-09-20T05:30:49.086767"
     }
   ],
-  "last_updated": "2026-09-19T05:13:58.188724"
+  "last_updated": "2026-09-20T05:30:49.086797"
 }
