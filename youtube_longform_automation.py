@@ -78,7 +78,7 @@ CATEGORIES_VIETNAMESE = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 VIETNAMESE_VOICE = "vi-VN-HoaiMyNeural"
 
 # Phrase history file (NEVER delete this!)
