@@ -368,7 +368,7 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
             time.sleep(1)
 
     # Trim to exact count and save to history
-        if not all_phrases:
+    if not all_phrases:
         print(f"[content] AI generation produced 0 phrases. Loading fresh fallback phrases for '{category_english}'...")
         all_phrases = get_fresh_fallback_phrases(category_english, num_phrases)
     elif len(all_phrases) < num_phrases:
@@ -597,7 +597,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             "ffmpeg", "-y",
             "-i", str(english_file),
             "-i", str(vietnamese_file),
-            "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
+            "-filter_complex", f"[0:a]apad=pad_dur=0.5[a0];[a0][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
         ]
