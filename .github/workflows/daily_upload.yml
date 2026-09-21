@@ -2,13 +2,13 @@ name: Velocity Vietnamese - Daily Long-Form Upload
 
 on:
   workflow_dispatch:
-    inputs:
-      manual:
-        description: 'Manual run trigger'
-        required: false
-        default: 'true'
   schedule:
     - cron: '0 1 * * *'  # 8:00 PM EST (1:00 AM UTC)
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/daily_upload.yml'
 
 permissions:
   contents: write
