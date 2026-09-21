@@ -56,6 +56,8 @@ jobs:
           echo "YT_CLIENT_ID=${{ secrets.YT_CLIENT_ID }}" >> .env
           echo "YT_CLIENT_SECRET=${{ secrets.YT_CLIENT_SECRET }}" >> .env
           echo "YT_REFRESH_TOKEN=${{ secrets.YT_REFRESH_TOKEN }}" >> .env
+echo "FACEBOOK_ACCESS_TOKEN=${{ secrets.FACEBOOK_ACCESS_TOKEN }}" >> .env
+          echo "FACEBOOK_PAGE_ID=${{ secrets.FACEBOOK_PAGE_ID }}" >> .env
 
       - name: 🎬 Generate video
         run: python youtube_longform_automation.py
@@ -76,6 +78,7 @@ jobs:
           path: |
             output/longform_videos/*/final_video.mp4
             output/longform_videos/*/thumbnail.jpg
+            ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}facebook_upload_result.json
             output/longform_videos/*/video_metadata.json
           retention-days: 7
 
