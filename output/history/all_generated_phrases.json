@@ -24869,7 +24869,187 @@
       "vietnamese": "Bạn có thể bơi, ở đây an toàn.",
       "category": "Purpose",
       "generated_at": "2026-09-20T05:30:49.086767"
+    },
+    {
+      "english": "Speak slowly, please.",
+      "vietnamese": "Nói chậm, thôi.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271813"
+    },
+    {
+      "english": "Try again, little by little.",
+      "vietnamese": "Thử lại, từng chút.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271826"
+    },
+    {
+      "english": "You can do it, for sure.",
+      "vietnamese": "Bạn làm được, chắc chắn.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271828"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "vietnamese": "Hít sâu, thư giãn.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271830"
+    },
+    {
+      "english": "Listen carefully, always.",
+      "vietnamese": "Nghe kỹ, luôn luôn.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271832"
+    },
+    {
+      "english": "Understand bit by bit.",
+      "vietnamese": "Hiểu dần, dần dần.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271834"
+    },
+    {
+      "english": "It gets easier, trust me.",
+      "vietnamese": "Dễ hơn, tin tôi.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271835"
+    },
+    {
+      "english": "This is progress, see?",
+      "vietnamese": "Đây là tiến bộ, thấy không?",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271839"
+    },
+    {
+      "english": "Don't give up, at all.",
+      "vietnamese": "Đừng bỏ cuộc, nhé.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271841"
+    },
+    {
+      "english": "Mistakes are okay, learn.",
+      "vietnamese": "Sai lầm được, học.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271842"
+    },
+    {
+      "english": "You're getting closer, good.",
+      "vietnamese": "Gần hơn rồi, tốt.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271844"
+    },
+    {
+      "english": "Little wins, matter much.",
+      "vietnamese": "Thắng nhỏ, quý lắm.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271846"
+    },
+    {
+      "english": "You understand, slowly.",
+      "vietnamese": "Bạn hiểu, từ từ.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271847"
+    },
+    {
+      "english": "This sounds right, yes.",
+      "vietnamese": "Nghe đúng rồi, vâng.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271849"
+    },
+    {
+      "english": "Keep the momentum, going.",
+      "vietnamese": "Giữ đà, tiếp tục.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271850"
+    },
+    {
+      "english": "You're speaking, clearly.",
+      "vietnamese": "Bạn nói rõ ràng.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271851"
+    },
+    {
+      "english": "Persistence pays off, friend.",
+      "vietnamese": "Kiên trì, bạn ơi.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271852"
+    },
+    {
+      "english": "This is normal, for learners.",
+      "vietnamese": "Chuyện thường, người học.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271854"
+    },
+    {
+      "english": "You have courage, great.",
+      "vietnamese": "Bạn can đảm, tuyệt.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271855"
+    },
+    {
+      "english": "Focus on one thing, first.",
+      "vietnamese": "Tập trung một, trước.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271856"
+    },
+    {
+      "english": "This is a good start.",
+      "vietnamese": "Đây là khởi đầu tốt.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271858"
+    },
+    {
+      "english": "You're making sense, now.",
+      "vietnamese": "Bạn có lý, rồi.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271859"
+    },
+    {
+      "english": "Your effort shows, wow.",
+      "vietnamese": "Nỗ lực bạn, thấy.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271860"
+    },
+    {
+      "english": "Keep learning, always grow.",
+      "vietnamese": "Học mãi, luôn lên.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271861"
+    },
+    {
+      "english": "You can express, yourself.",
+      "vietnamese": "Bạn diễn đạt, mình.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271863"
+    },
+    {
+      "english": "This sounds natural, yes.",
+      "vietnamese": "Nghe tự nhiên, quá.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271864"
+    },
+    {
+      "english": "Your pronunciation improves.",
+      "vietnamese": "Bạn phát âm tốt.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271865"
+    },
+    {
+      "english": "This word makes sense.",
+      "vietnamese": "Từ này có nghĩa.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271866"
+    },
+    {
+      "english": "You understand now, good.",
+      "vietnamese": "Giờ hiểu rồi, tốt.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271868"
+    },
+    {
+      "english": "This sentence, works well.",
+      "vietnamese": "Câu này, ổn mà.",
+      "category": "Success",
+      "generated_at": "2026-09-21T19:19:09.271869"
     }
   ],
-  "last_updated": "2026-09-20T05:30:49.086797"
+  "last_updated": "2026-09-21T19:19:09.271904"
 }
