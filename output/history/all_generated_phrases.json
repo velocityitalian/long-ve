@@ -27707,7 +27707,283 @@
       "vietnamese": "Tìm nhịp điệu của bạn, bình yên nội tâm.",
       "category": "Balance",
       "generated_at": "2026-10-05T06:26:35.744589"
+    },
+    {
+      "english": "Keep pushing, you're closer than you think.",
+      "vietnamese": "Cứ tiến lên, bạn gần hơn bạn nghĩ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452449"
+    },
+    {
+      "english": "Small steps, lead to big results.",
+      "vietnamese": "Bước nhỏ, dẫn đến kết quả lớn.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452457"
+    },
+    {
+      "english": "Don't give up, on your dreams.",
+      "vietnamese": "Đừng bỏ cuộc, vì ước mơ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452458"
+    },
+    {
+      "english": "Every effort, counts in the end.",
+      "vietnamese": "Mọi nỗ lực, đều đáng giá.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452460"
+    },
+    {
+      "english": "Stay strong, through challenges.",
+      "vietnamese": "Hãy kiên cường, vượt thử thách.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452461"
+    },
+    {
+      "english": "One more try, can make a difference.",
+      "vietnamese": "Thêm một lần thử, có thể thay đổi.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452462"
+    },
+    {
+      "english": "Believe in your, own power.",
+      "vietnamese": "Hãy tin vào, sức mạnh của bạn.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452463"
+    },
+    {
+      "english": "When it's hard, try again.",
+      "vietnamese": "Khi khó khăn, hãy thử lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452466"
+    },
+    {
+      "english": "Your will, is your way.",
+      "vietnamese": "Ý chí của bạn, là con đường của bạn.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452467"
+    },
+    {
+      "english": "Never surrender, to doubt.",
+      "vietnamese": "Đừng bao giờ, đầu hàng nghi ngờ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452468"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "vietnamese": "Tiếp tục học hỏi, tiếp tục phát triển.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452470"
+    },
+    {
+      "english": "The tough get going, when it's tough.",
+      "vietnamese": "Người mạnh mẽ, tiếp tục khi khó khăn.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452470"
+    },
+    {
+      "english": "Push through, the pain.",
+      "vietnamese": "Vượt qua, nỗi đau.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452471"
+    },
+    {
+      "english": "You've got this, don't stop.",
+      "vietnamese": "Bạn có thể làm được, đừng dừng lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452477"
+    },
+    {
+      "english": "Keep your focus, forward.",
+      "vietnamese": "Giữ vững sự tập trung, về phía trước.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452478"
+    },
+    {
+      "english": "Don't quit, when tired.",
+      "vietnamese": "Đừng bỏ cuộc, khi mệt mỏi.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452478"
+    },
+    {
+      "english": "Breathe deep, and try again.",
+      "vietnamese": "Hít thở sâu, và thử lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452479"
+    },
+    {
+      "english": "Fall down, get up.",
+      "vietnamese": "Ngã xuống, đứng dậy.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452480"
+    },
+    {
+      "english": "Keep the faith, alive.",
+      "vietnamese": "Giữ vững niềm tin, sống mãi.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452481"
+    },
+    {
+      "english": "Don't stop, until proud.",
+      "vietnamese": "Đừng ngừng lại, cho đến khi tự hào.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452481"
+    },
+    {
+      "english": "One step, then another.",
+      "vietnamese": "Một bước, rồi bước nữa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452482"
+    },
+    {
+      "english": "Success, is built on effort.",
+      "vietnamese": "Thành công, được xây dựng từ nỗ lực.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452483"
+    },
+    {
+      "english": "Keep going, don't look back.",
+      "vietnamese": "Tiếp tục đi, đừng nhìn lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452484"
+    },
+    {
+      "english": "Never give in, to fear.",
+      "vietnamese": "Đừng bao giờ, nhượng bộ nỗi sợ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452484"
+    },
+    {
+      "english": "The finish line, is near.",
+      "vietnamese": "Vạch đích, đã gần.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452485"
+    },
+    {
+      "english": "Keep pushing, the limits.",
+      "vietnamese": "Vượt qua, giới hạn của bạn.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452486"
+    },
+    {
+      "english": "Your grit, will shine.",
+      "vietnamese": "Sự kiên trì của bạn, sẽ tỏa sáng.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452487"
+    },
+    {
+      "english": "Through the storm, you'll rise.",
+      "vietnamese": "Vượt qua bão tố, bạn sẽ vươn lên.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452488"
+    },
+    {
+      "english": "Keep your vision, clear.",
+      "vietnamese": "Giữ cho tầm nhìn, của bạn rõ ràng.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452489"
+    },
+    {
+      "english": "The struggle, makes you stronger.",
+      "vietnamese": "Cuộc đấu tranh, làm bạn mạnh mẽ hơn.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452489"
+    },
+    {
+      "english": "Never stop, believing.",
+      "vietnamese": "Đừng bao giờ, ngừng tin tưởng.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452490"
+    },
+    {
+      "english": "Keep going, don't stop, you're close.",
+      "vietnamese": "Tiếp tục đi, đừng dừng lại, bạn sắp tới rồi.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452512"
+    },
+    {
+      "english": "One step, at a time, you'll get there.",
+      "vietnamese": "Một bước, mỗi lần, bạn sẽ đến nơi.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452513"
+    },
+    {
+      "english": "Small wins, add up, big progress.",
+      "vietnamese": "Thắng lợi nhỏ, cộng lại, tiến bộ lớn.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452515"
+    },
+    {
+      "english": "Don't quit, just pivot, try again.",
+      "vietnamese": "Đừng bỏ cuộc, hãy xoay chuyển, thử lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452516"
+    },
+    {
+      "english": "Push through, the hard part, is temporary.",
+      "vietnamese": "Vượt qua, phần khó, chỉ là tạm thời.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452517"
+    },
+    {
+      "english": "Keep the faith, believe in yourself.",
+      "vietnamese": "Giữ vững niềm tin, tin vào bản thân.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452517"
+    },
+    {
+      "english": "Every effort, counts, don't give up.",
+      "vietnamese": "Mọi nỗ lực, đều đáng giá, đừng bỏ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452518"
+    },
+    {
+      "english": "Stay focused, on your goal, always.",
+      "vietnamese": "Luôn tập trung, vào mục tiêu, luôn luôn.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452519"
+    },
+    {
+      "english": "Be patient, things take time, to bloom.",
+      "vietnamese": "Kiên nhẫn nhé, mọi thứ cần thời gian, để nở.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452520"
+    },
+    {
+      "english": "Don't be afraid, to start over.",
+      "vietnamese": "Đừng sợ hãi, bắt đầu lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452520"
+    },
+    {
+      "english": "Keep chipping away, at the stone.",
+      "vietnamese": "Tiếp tục gọt giũa, tảng đá.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452521"
+    },
+    {
+      "english": "This challenge, will pass, you'll see.",
+      "vietnamese": "Thử thách này, sẽ qua, bạn sẽ thấy.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452522"
+    },
+    {
+      "english": "Never give in, never surrender.",
+      "vietnamese": "Không bao giờ nhượng bộ, không bao giờ đầu hàng.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452522"
+    },
+    {
+      "english": "Dig deep, find your strength.",
+      "vietnamese": "Đào sâu, tìm sức mạnh.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452523"
+    },
+    {
+      "english": "Keep pushing, the limits, will expand.",
+      "vietnamese": "Tiếp tục đẩy, giới hạn, sẽ mở rộng.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-06T07:02:35.452524"
     }
   ],
-  "last_updated": "2026-10-05T06:26:35.744618"
+  "last_updated": "2026-10-06T07:02:35.452527"
 }
