@@ -28799,7 +28799,235 @@
       "vietnamese": "Em/Anh là, mảnh ghép hoàn hảo của anh/em.",
       "category": "Love",
       "generated_at": "2026-10-10T07:04:42.512543"
+    },
+    {
+      "english": "Let's learn, Vietnamese, today!",
+      "vietnamese": "Cùng học, tiếng Việt, hôm nay!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516193"
+    },
+    {
+      "english": "Vietnamese food, is delicious, really!",
+      "vietnamese": "Món Việt, rất ngon, thật đó!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516206"
+    },
+    {
+      "english": "Speak slowly, please, my friend.",
+      "vietnamese": "Nói chậm, thôi, bạn ơi.",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516208"
+    },
+    {
+      "english": "This is, so cool, wow!",
+      "vietnamese": "Cái này, hay ghê, ghê luôn!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516210"
+    },
+    {
+      "english": "Thank you, so much, everyone!",
+      "vietnamese": "Cảm ơn, nhiều lắm, mọi người!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516211"
+    },
+    {
+      "english": "Can you repeat, that, please?",
+      "vietnamese": "Bạn nói lại, được không?",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516212"
+    },
+    {
+      "english": "Where is, the bathroom, quickly?",
+      "vietnamese": "Nhà vệ sinh, ở đâu, lẹ?",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516214"
+    },
+    {
+      "english": "How much, is this, for me?",
+      "vietnamese": "Cái này, bao nhiêu tiền?",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516217"
+    },
+    {
+      "english": "I want, to try, this one.",
+      "vietnamese": "Tôi muốn, thử, cái này.",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516218"
+    },
+    {
+      "english": "This is, my favorite, now!",
+      "vietnamese": "Đây là, món tôi thích, nhất!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516220"
+    },
+    {
+      "english": "Vietnamese is, interesting, yes!",
+      "vietnamese": "Tiếng Việt, thú vị, nhỉ!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516221"
+    },
+    {
+      "english": "Let's go, explore, together!",
+      "vietnamese": "Đi khám, phá, thôi!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516222"
+    },
+    {
+      "english": "You are, very kind, thank you.",
+      "vietnamese": "Bạn thật, tốt bụng, cảm ơn.",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516223"
+    },
+    {
+      "english": "What's this, called, in Vietnamese?",
+      "vietnamese": "Cái này, gọi là gì?",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516225"
+    },
+    {
+      "english": "I understand, a little, slowly.",
+      "vietnamese": "Tôi hiểu, một ít, từ từ.",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516225"
+    },
+    {
+      "english": "I'm learning, Vietnamese, every day.",
+      "vietnamese": "Tôi học, tiếng Việt, mỗi ngày.",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516226"
+    },
+    {
+      "english": "Have a, good day, always!",
+      "vietnamese": "Chúc bạn, vui vẻ, nhé!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516228"
+    },
+    {
+      "english": "This is, my favorite, drink!",
+      "vietnamese": "Đây là, nước tôi thích, nhất!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516228"
+    },
+    {
+      "english": "Wow, that's, amazing!",
+      "vietnamese": "Ồ, thật, tuyệt vời!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516229"
+    },
+    {
+      "english": "Can I, have the bill, please?",
+      "vietnamese": "Cho tôi, tính tiền, nhé?",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516230"
+    },
+    {
+      "english": "Delicious, very delicious, wow!",
+      "vietnamese": "Ngon lắm, rất ngon, ôi!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516231"
+    },
+    {
+      "english": "I love, this city, so much!",
+      "vietnamese": "Tôi yêu, thành phố này, lắm!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516232"
+    },
+    {
+      "english": "Let's take, a photo, here!",
+      "vietnamese": "Chụp ảnh, ở đây, nào!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516233"
+    },
+    {
+      "english": "You are, a good teacher, really!",
+      "vietnamese": "Bạn là, giáo viên, giỏi!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516234"
+    },
+    {
+      "english": "I need, some help, please.",
+      "vietnamese": "Tôi cần, giúp đỡ, ạ.",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516235"
+    },
+    {
+      "english": "Vietnamese culture, is rich, wow!",
+      "vietnamese": "Văn hóa Việt, phong phú, quá!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516236"
+    },
+    {
+      "english": "Let's relax, for a bit.",
+      "vietnamese": "Nghỉ ngơi, một chút, nào.",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516237"
+    },
+    {
+      "english": "This is, very helpful, thank you.",
+      "vietnamese": "Cái này, hữu ích, cảm ơn.",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516238"
+    },
+    {
+      "english": "I like, your accent, very much!",
+      "vietnamese": "Tôi thích, giọng bạn, lắm!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516239"
+    },
+    {
+      "english": "Can you, teach me, more?",
+      "vietnamese": "Bạn dạy, tôi thêm, nhé?",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516239"
+    },
+    {
+      "english": "This is, a great, experience!",
+      "vietnamese": "Đây là, một trải nghiệm, tuyệt!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516240"
+    },
+    {
+      "english": "Have fun, learning, Vietnamese!",
+      "vietnamese": "Chúc học, vui vẻ, nhé!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516241"
+    },
+    {
+      "english": "I feel, so happy, here!",
+      "vietnamese": "Tôi thấy, vui lắm, ở đây!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516242"
+    },
+    {
+      "english": "Vietnamese coffee, is strong, yes!",
+      "vietnamese": "Cà phê Việt, đậm đà, nhỉ!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516243"
+    },
+    {
+      "english": "Let's explore, new places, soon!",
+      "vietnamese": "Đi khám, phá nơi mới, nha!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516244"
+    },
+    {
+      "english": "This is, absolutely, perfect!",
+      "vietnamese": "Cái này, hoàn hảo, luôn!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516245"
+    },
+    {
+      "english": "I'm proud, of my progress, yay!",
+      "vietnamese": "Tôi tự hào, tiến bộ, quá!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516246"
+    },
+    {
+      "english": "Keep practicing, you'll succeed!",
+      "vietnamese": "Cứ luyện, bạn sẽ thành công!",
+      "category": "Joy",
+      "generated_at": "2026-10-11T06:39:36.516247"
     }
   ],
-  "last_updated": "2026-10-10T07:04:42.512572"
+  "last_updated": "2026-10-11T06:39:36.516281"
 }
