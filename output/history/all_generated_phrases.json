@@ -29183,7 +29183,727 @@
       "vietnamese": "Sống có mục đích, làm cho ý nghĩa.",
       "category": "Positive Life",
       "generated_at": "2026-10-12T06:48:51.894215"
+    },
+    {
+      "english": "This food, tastes amazing!",
+      "spanish": "Món này, ngon tuyệt vời!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860664"
+    },
+    {
+      "english": "What a beautiful, day today!",
+      "spanish": "Hôm nay, ngày đẹp quá!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860676"
+    },
+    {
+      "english": "I’m so happy, to be here!",
+      "spanish": "Tôi rất vui, ở đây!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860677"
+    },
+    {
+      "english": "This music, makes me dance!",
+      "spanish": "Nhạc này, làm tôi muốn nhảy!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860678"
+    },
+    {
+      "english": "That's hilarious, I’m laughing!",
+      "spanish": "Buồn cười quá, tôi đang cười!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860679"
+    },
+    {
+      "english": "Feeling wonderful, right now!",
+      "spanish": "Cảm thấy tuyệt vời, lúc này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860680"
+    },
+    {
+      "english": "Such a great, idea, wow!",
+      "spanish": "Ý tưởng hay quá, wow!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860681"
+    },
+    {
+      "english": "I love this, vibe so much!",
+      "spanish": "Tôi yêu bầu không khí này, lắm!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860685"
+    },
+    {
+      "english": "This view, is breathtaking!",
+      "spanish": "Cảnh này, đẹp đến nghẹt thở!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860686"
+    },
+    {
+      "english": "So lucky, to have met you!",
+      "spanish": "Thật may mắn, gặp bạn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860687"
+    },
+    {
+      "english": "What a surprise, a good one!",
+      "spanish": "Bất ngờ thật, một bất ngờ tốt!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860688"
+    },
+    {
+      "english": "My heart, feels so full!",
+      "spanish": "Trái tim tôi, thấy thật đầy!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860689"
+    },
+    {
+      "english": "Feeling so refreshed, ahh!",
+      "spanish": "Thấy sảng khoái quá, à!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860690"
+    },
+    {
+      "english": "You make, me so happy!",
+      "spanish": "Bạn làm, tôi rất vui!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860691"
+    },
+    {
+      "english": "So excited, for what's next!",
+      "spanish": "Rất háo hức, cho điều tiếp theo!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860692"
+    },
+    {
+      "english": "What a lovely, surprise, thank you!",
+      "spanish": "Một bất ngờ đáng yêu, cảm ơn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860693"
+    },
+    {
+      "english": "Feeling energized, today!",
+      "spanish": "Cảm thấy tràn đầy năng lượng, hôm nay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860694"
+    },
+    {
+      "english": "This conversation, is great!",
+      "spanish": "Cuộc trò chuyện này, thật hay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860694"
+    },
+    {
+      "english": "So grateful, for this!",
+      "spanish": "Rất biết ơn, vì điều này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860695"
+    },
+    {
+      "english": "Loving every, single second!",
+      "spanish": "Yêu từng, giây phút!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860696"
+    },
+    {
+      "english": "What a fun, time we’re having!",
+      "spanish": "Chúng ta đang có, một khoảng thời gian vui vẻ!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860696"
+    },
+    {
+      "english": "Feeling so inspired, now!",
+      "spanish": "Cảm thấy rất truyền cảm hứng, bây giờ!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860697"
+    },
+    {
+      "english": "This is, a dream come true!",
+      "spanish": "Đây là, giấc mơ thành sự thật!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860698"
+    },
+    {
+      "english": "So glad, we did this!",
+      "spanish": "Rất vui, chúng ta đã làm điều này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860698"
+    },
+    {
+      "english": "This feels, so right!",
+      "spanish": "Cảm giác này, thật đúng đắn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860699"
+    },
+    {
+      "english": "What a treat, for sure!",
+      "spanish": "Thật là một điều thú vị, chắc chắn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860700"
+    },
+    {
+      "english": "Feeling so content, today!",
+      "spanish": "Cảm thấy thật mãn nguyện, hôm nay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860701"
+    },
+    {
+      "english": "This is, just wonderful!",
+      "spanish": "Điều này, thật tuyệt vời!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860701"
+    },
+    {
+      "english": "So much fun, yay!",
+      "spanish": "Vui quá, yay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860702"
+    },
+    {
+      "english": "This energy, is amazing!",
+      "spanish": "Năng lượng này, thật tuyệt!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860703"
+    },
+    {
+      "english": "What a joy, to see!",
+      "spanish": "Thật là một niềm vui, để nhìn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860703"
+    },
+    {
+      "english": "Feeling very, optimistic, yes!",
+      "spanish": "Cảm thấy rất lạc quan, vâng!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860704"
+    },
+    {
+      "english": "This makes me, so happy!",
+      "spanish": "Điều này làm, tôi rất vui!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860705"
+    },
+    {
+      "english": "Pure delight, right here!",
+      "spanish": "Niềm vui thuần túy, ngay tại đây!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860705"
+    },
+    {
+      "english": "This food, tastes amazing!",
+      "spanish": "Món này, ngon tuyệt vời!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860707"
+    },
+    {
+      "english": "What a beautiful, day today!",
+      "spanish": "Hôm nay, ngày đẹp quá!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860708"
+    },
+    {
+      "english": "I’m so happy, to be here!",
+      "spanish": "Tôi rất vui, ở đây!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860708"
+    },
+    {
+      "english": "This music, makes me dance!",
+      "spanish": "Nhạc này, làm tôi muốn nhảy!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860709"
+    },
+    {
+      "english": "That's hilarious, I’m laughing!",
+      "spanish": "Buồn cười quá, tôi đang cười!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860710"
+    },
+    {
+      "english": "Feeling wonderful, right now!",
+      "spanish": "Cảm thấy tuyệt vời, lúc này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860711"
+    },
+    {
+      "english": "Such a great, idea, wow!",
+      "spanish": "Ý tưởng hay quá, wow!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860712"
+    },
+    {
+      "english": "I love this, vibe so much!",
+      "spanish": "Tôi yêu bầu không khí này, lắm!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860712"
+    },
+    {
+      "english": "This view, is breathtaking!",
+      "spanish": "Cảnh này, đẹp đến nghẹt thở!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860713"
+    },
+    {
+      "english": "So lucky, to have met you!",
+      "spanish": "Thật may mắn, gặp bạn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860714"
+    },
+    {
+      "english": "What a surprise, a good one!",
+      "spanish": "Bất ngờ thật, một bất ngờ tốt!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860715"
+    },
+    {
+      "english": "My heart, feels so full!",
+      "spanish": "Trái tim tôi, thấy thật đầy!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860716"
+    },
+    {
+      "english": "Feeling so refreshed, ahh!",
+      "spanish": "Thấy sảng khoái quá, à!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860717"
+    },
+    {
+      "english": "You make, me so happy!",
+      "spanish": "Bạn làm, tôi rất vui!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860718"
+    },
+    {
+      "english": "So excited, for what's next!",
+      "spanish": "Rất háo hức, cho điều tiếp theo!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860718"
+    },
+    {
+      "english": "What a lovely, surprise, thank you!",
+      "spanish": "Một bất ngờ đáng yêu, cảm ơn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860719"
+    },
+    {
+      "english": "Feeling energized, today!",
+      "spanish": "Cảm thấy tràn đầy năng lượng, hôm nay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860720"
+    },
+    {
+      "english": "This conversation, is great!",
+      "spanish": "Cuộc trò chuyện này, thật hay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860721"
+    },
+    {
+      "english": "So grateful, for this!",
+      "spanish": "Rất biết ơn, vì điều này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860722"
+    },
+    {
+      "english": "Loving every, single second!",
+      "spanish": "Yêu từng, giây phút!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860722"
+    },
+    {
+      "english": "What a fun, time we’re having!",
+      "spanish": "Chúng ta đang có, một khoảng thời gian vui vẻ!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860723"
+    },
+    {
+      "english": "Feeling so inspired, now!",
+      "spanish": "Cảm thấy rất truyền cảm hứng, bây giờ!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860724"
+    },
+    {
+      "english": "This is, a dream come true!",
+      "spanish": "Đây là, giấc mơ thành sự thật!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860725"
+    },
+    {
+      "english": "So glad, we did this!",
+      "spanish": "Rất vui, chúng ta đã làm điều này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860725"
+    },
+    {
+      "english": "This feels, so right!",
+      "spanish": "Cảm giác này, thật đúng đắn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860726"
+    },
+    {
+      "english": "What a treat, for sure!",
+      "spanish": "Thật là một điều thú vị, chắc chắn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860727"
+    },
+    {
+      "english": "Feeling so content, today!",
+      "spanish": "Cảm thấy thật mãn nguyện, hôm nay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860728"
+    },
+    {
+      "english": "This is, just wonderful!",
+      "spanish": "Điều này, thật tuyệt vời!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860729"
+    },
+    {
+      "english": "So much fun, yay!",
+      "spanish": "Vui quá, yay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860730"
+    },
+    {
+      "english": "This energy, is amazing!",
+      "spanish": "Năng lượng này, thật tuyệt!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860730"
+    },
+    {
+      "english": "What a joy, to see!",
+      "spanish": "Thật là một niềm vui, để nhìn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860731"
+    },
+    {
+      "english": "Feeling very, optimistic, yes!",
+      "spanish": "Cảm thấy rất lạc quan, vâng!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860732"
+    },
+    {
+      "english": "This makes me, so happy!",
+      "spanish": "Điều này làm, tôi rất vui!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860733"
+    },
+    {
+      "english": "Pure delight, right here!",
+      "spanish": "Niềm vui thuần túy, ngay tại đây!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860734"
+    },
+    {
+      "english": "This food, tastes amazing!",
+      "spanish": "Món này, ngon tuyệt vời!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860735"
+    },
+    {
+      "english": "What a beautiful, day today!",
+      "spanish": "Hôm nay, ngày đẹp quá!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860736"
+    },
+    {
+      "english": "I’m so happy, to be here!",
+      "spanish": "Tôi rất vui, ở đây!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860737"
+    },
+    {
+      "english": "This music, makes me dance!",
+      "spanish": "Nhạc này, làm tôi muốn nhảy!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860737"
+    },
+    {
+      "english": "That's hilarious, I’m laughing!",
+      "spanish": "Buồn cười quá, tôi đang cười!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860738"
+    },
+    {
+      "english": "Feeling wonderful, right now!",
+      "spanish": "Cảm thấy tuyệt vời, lúc này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860739"
+    },
+    {
+      "english": "Such a great, idea, wow!",
+      "spanish": "Ý tưởng hay quá, wow!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860740"
+    },
+    {
+      "english": "I love this, vibe so much!",
+      "spanish": "Tôi yêu bầu không khí này, lắm!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860741"
+    },
+    {
+      "english": "This view, is breathtaking!",
+      "spanish": "Cảnh này, đẹp đến nghẹt thở!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860742"
+    },
+    {
+      "english": "So lucky, to have met you!",
+      "spanish": "Thật may mắn, gặp bạn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860743"
+    },
+    {
+      "english": "What a surprise, a good one!",
+      "spanish": "Bất ngờ thật, một bất ngờ tốt!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860743"
+    },
+    {
+      "english": "My heart, feels so full!",
+      "spanish": "Trái tim tôi, thấy thật đầy!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860744"
+    },
+    {
+      "english": "Feeling so refreshed, ahh!",
+      "spanish": "Thấy sảng khoái quá, à!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860745"
+    },
+    {
+      "english": "You make, me so happy!",
+      "spanish": "Bạn làm, tôi rất vui!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860746"
+    },
+    {
+      "english": "So excited, for what's next!",
+      "spanish": "Rất háo hức, cho điều tiếp theo!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860746"
+    },
+    {
+      "english": "What a lovely, surprise, thank you!",
+      "spanish": "Một bất ngờ đáng yêu, cảm ơn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860747"
+    },
+    {
+      "english": "Feeling energized, today!",
+      "spanish": "Cảm thấy tràn đầy năng lượng, hôm nay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860748"
+    },
+    {
+      "english": "This conversation, is great!",
+      "spanish": "Cuộc trò chuyện này, thật hay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860749"
+    },
+    {
+      "english": "So grateful, for this!",
+      "spanish": "Rất biết ơn, vì điều này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860750"
+    },
+    {
+      "english": "Loving every, single second!",
+      "spanish": "Yêu từng, giây phút!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860751"
+    },
+    {
+      "english": "What a fun, time we’re having!",
+      "spanish": "Chúng ta đang có, một khoảng thời gian vui vẻ!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860751"
+    },
+    {
+      "english": "Feeling so inspired, now!",
+      "spanish": "Cảm thấy rất truyền cảm hứng, bây giờ!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860752"
+    },
+    {
+      "english": "This is, a dream come true!",
+      "spanish": "Đây là, giấc mơ thành sự thật!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860753"
+    },
+    {
+      "english": "So glad, we did this!",
+      "spanish": "Rất vui, chúng ta đã làm điều này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860754"
+    },
+    {
+      "english": "This feels, so right!",
+      "spanish": "Cảm giác này, thật đúng đắn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860755"
+    },
+    {
+      "english": "What a treat, for sure!",
+      "spanish": "Thật là một điều thú vị, chắc chắn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860755"
+    },
+    {
+      "english": "Feeling so content, today!",
+      "spanish": "Cảm thấy thật mãn nguyện, hôm nay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860756"
+    },
+    {
+      "english": "This is, just wonderful!",
+      "spanish": "Điều này, thật tuyệt vời!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860757"
+    },
+    {
+      "english": "So much fun, yay!",
+      "spanish": "Vui quá, yay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860758"
+    },
+    {
+      "english": "This energy, is amazing!",
+      "spanish": "Năng lượng này, thật tuyệt!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860758"
+    },
+    {
+      "english": "What a joy, to see!",
+      "spanish": "Thật là một niềm vui, để nhìn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860759"
+    },
+    {
+      "english": "Feeling very, optimistic, yes!",
+      "spanish": "Cảm thấy rất lạc quan, vâng!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860760"
+    },
+    {
+      "english": "This makes me, so happy!",
+      "spanish": "Điều này làm, tôi rất vui!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860761"
+    },
+    {
+      "english": "Pure delight, right here!",
+      "spanish": "Niềm vui thuần túy, ngay tại đây!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860761"
+    },
+    {
+      "english": "This food, tastes amazing!",
+      "spanish": "Món này, ngon tuyệt vời!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860762"
+    },
+    {
+      "english": "What a beautiful, day today!",
+      "spanish": "Hôm nay, ngày đẹp quá!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860763"
+    },
+    {
+      "english": "I’m so happy, to be here!",
+      "spanish": "Tôi rất vui, ở đây!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860764"
+    },
+    {
+      "english": "This music, makes me dance!",
+      "spanish": "Nhạc này, làm tôi muốn nhảy!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860765"
+    },
+    {
+      "english": "That's hilarious, I’m laughing!",
+      "spanish": "Buồn cười quá, tôi đang cười!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860766"
+    },
+    {
+      "english": "Feeling wonderful, right now!",
+      "spanish": "Cảm thấy tuyệt vời, lúc này!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860767"
+    },
+    {
+      "english": "Such a great, idea, wow!",
+      "spanish": "Ý tưởng hay quá, wow!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860768"
+    },
+    {
+      "english": "I love this, vibe so much!",
+      "spanish": "Tôi yêu bầu không khí này, lắm!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860768"
+    },
+    {
+      "english": "This view, is breathtaking!",
+      "spanish": "Cảnh này, đẹp đến nghẹt thở!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860769"
+    },
+    {
+      "english": "So lucky, to have met you!",
+      "spanish": "Thật may mắn, gặp bạn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860770"
+    },
+    {
+      "english": "What a surprise, a good one!",
+      "spanish": "Bất ngờ thật, một bất ngờ tốt!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860771"
+    },
+    {
+      "english": "My heart, feels so full!",
+      "spanish": "Trái tim tôi, thấy thật đầy!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860772"
+    },
+    {
+      "english": "Feeling so refreshed, ahh!",
+      "spanish": "Thấy sảng khoái quá, à!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860773"
+    },
+    {
+      "english": "You make, me so happy!",
+      "spanish": "Bạn làm, tôi rất vui!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860774"
+    },
+    {
+      "english": "So excited, for what's next!",
+      "spanish": "Rất háo hức, cho điều tiếp theo!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860775"
+    },
+    {
+      "english": "What a lovely, surprise, thank you!",
+      "spanish": "Một bất ngờ đáng yêu, cảm ơn!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860776"
+    },
+    {
+      "english": "Feeling energized, today!",
+      "spanish": "Cảm thấy tràn đầy năng lượng, hôm nay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860776"
+    },
+    {
+      "english": "This conversation, is great!",
+      "spanish": "Cuộc trò chuyện này, thật hay!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T07:15:06.860777"
     }
   ],
-  "last_updated": "2026-10-12T06:48:51.894253"
+  "last_updated": "2026-10-13T07:15:06.860779"
 }
