@@ -31343,7 +31343,727 @@
       "spanish": "Thế giới im lặng, khi bạn im lặng.",
       "category": "Balance",
       "generated_at": "2026-10-15T05:26:05.630008"
+    },
+    {
+      "english": "Let's grow, together.",
+      "vietnamese": "Cùng nhau, phát triển nhé.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719014"
+    },
+    {
+      "english": "What's new, today?",
+      "vietnamese": "Hôm nay, có gì mới không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719027"
+    },
+    {
+      "english": "I learned, something new.",
+      "vietnamese": "Tôi học, được điều mới.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719031"
+    },
+    {
+      "english": "How was, your day?",
+      "vietnamese": "Ngày của bạn, thế nào?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719034"
+    },
+    {
+      "english": "It's going, well.",
+      "vietnamese": "Mọi thứ, ổn cả.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719037"
+    },
+    {
+      "english": "Any updates, on that?",
+      "vietnamese": "Có tin tức, gì về việc đó?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719042"
+    },
+    {
+      "english": "That's a good, idea.",
+      "vietnamese": "Đó là, một ý hay.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719045"
+    },
+    {
+      "english": "I'm so, excited!",
+      "vietnamese": "Tôi rất, hào hứng!",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719050"
+    },
+    {
+      "english": "What are, your plans?",
+      "vietnamese": "Kế hoạch, của bạn là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719053"
+    },
+    {
+      "english": "Keep up, the good work.",
+      "vietnamese": "Cứ tiếp, tục làm tốt.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719057"
+    },
+    {
+      "english": "That's impressive, really.",
+      "vietnamese": "Thật ấn, tượng đấy.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719059"
+    },
+    {
+      "english": "What did, you achieve?",
+      "vietnamese": "Bạn đã, đạt được gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719062"
+    },
+    {
+      "english": "I'm learning, a lot.",
+      "vietnamese": "Tôi đang, học hỏi nhiều.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719065"
+    },
+    {
+      "english": "What's the, next step?",
+      "vietnamese": "Bước tiếp, theo là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719068"
+    },
+    {
+      "english": "That sounds, promising.",
+      "vietnamese": "Nghe có, vẻ hứa hẹn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719070"
+    },
+    {
+      "english": "How can, I help?",
+      "vietnamese": "Tôi có thể, giúp gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719072"
+    },
+    {
+      "english": "This is, working out.",
+      "vietnamese": "Mọi thứ, đang ổn thỏa.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719075"
+    },
+    {
+      "english": "What's the, goal here?",
+      "vietnamese": "Mục tiêu, ở đây là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719079"
+    },
+    {
+      "english": "We're moving, forward.",
+      "vietnamese": "Chúng ta, đang tiến lên.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719084"
+    },
+    {
+      "english": "That's a, big step.",
+      "vietnamese": "Đó là, một bước lớn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719086"
+    },
+    {
+      "english": "I feel, confident.",
+      "vietnamese": "Tôi cảm, thấy tự tin.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719089"
+    },
+    {
+      "english": "What's next, for us?",
+      "vietnamese": "Tiếp theo, là gì cho chúng ta?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719091"
+    },
+    {
+      "english": "Let's achieve, this.",
+      "vietnamese": "Hãy chinh, phục điều này.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719094"
+    },
+    {
+      "english": "It's a, learning curve.",
+      "vietnamese": "Đó là, một đường cong học hỏi.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719097"
+    },
+    {
+      "english": "We're adapting, well.",
+      "vietnamese": "Chúng ta, đang thích nghi tốt.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719099"
+    },
+    {
+      "english": "This is, a breakthrough.",
+      "vietnamese": "Đây là, một bước đột phá.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719102"
+    },
+    {
+      "english": "Keep going, strong.",
+      "vietnamese": "Cứ tiếp, tục mạnh mẽ.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719104"
+    },
+    {
+      "english": "What's your advice, for me?",
+      "vietnamese": "Lời khuyên của bạn, cho tôi là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719107"
+    },
+    {
+      "english": "Could you explain, this concept?",
+      "vietnamese": "Bạn có thể giải thích, khái niệm này không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719110"
+    },
+    {
+      "english": "How did you overcome, that challenge?",
+      "vietnamese": "Bạn đã vượt qua, thử thách đó như thế nào?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719113"
+    },
+    {
+      "english": "What's your perspective, on this?",
+      "vietnamese": "Quan điểm của bạn, về vấn đề này là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719115"
+    },
+    {
+      "english": "Can we discuss, this further?",
+      "vietnamese": "Chúng ta có thể thảo luận, kỹ hơn về điều này không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719118"
+    },
+    {
+      "english": "What are your thoughts, on growth?",
+      "vietnamese": "Suy nghĩ của bạn, về sự phát triển là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719121"
+    },
+    {
+      "english": "Is there another way, to do this?",
+      "vietnamese": "Có cách nào khác, để làm điều này không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719123"
+    },
+    {
+      "english": "How can we improve, together?",
+      "vietnamese": "Chúng ta có thể cải thiện, cùng nhau như thế nào?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719128"
+    },
+    {
+      "english": "What's the biggest lesson, learned?",
+      "vietnamese": "Bài học lớn nhất, bạn học được là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719131"
+    },
+    {
+      "english": "Can you share, your experience?",
+      "vietnamese": "Bạn có thể chia sẻ, kinh nghiệm của mình không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719133"
+    },
+    {
+      "english": "What's your strategy, for success?",
+      "vietnamese": "Chiến lược của bạn, để thành công là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719136"
+    },
+    {
+      "english": "Do you have, any questions?",
+      "vietnamese": "Bạn có, câu hỏi nào không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719139"
+    },
+    {
+      "english": "What do you think, about that?",
+      "vietnamese": "Bạn nghĩ gì, về điều đó?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719141"
+    },
+    {
+      "english": "How do you stay, motivated?",
+      "vietnamese": "Bạn giữ động lực, như thế nào?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719144"
+    },
+    {
+      "english": "What's a good habit, to build?",
+      "vietnamese": "Thói quen tốt nào, nên xây dựng?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719147"
+    },
+    {
+      "english": "Can I get, your opinion?",
+      "vietnamese": "Tôi có thể xin, ý kiến của bạn không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719149"
+    },
+    {
+      "english": "What makes you, feel accomplished?",
+      "vietnamese": "Điều gì làm bạn, cảm thấy hoàn thành?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719152"
+    },
+    {
+      "english": "Where do you see, yourself in five years?",
+      "vietnamese": "Bạn thấy mình, ở đâu trong năm năm tới?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719156"
+    },
+    {
+      "english": "What's something, you're proud of?",
+      "vietnamese": "Có điều gì, bạn tự hào không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719159"
+    },
+    {
+      "english": "How do you handle, setbacks?",
+      "vietnamese": "Bạn xử lý, những thất bại ra sao?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719162"
+    },
+    {
+      "english": "What's the best, way to learn?",
+      "vietnamese": "Cách tốt nhất, để học là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719164"
+    },
+    {
+      "english": "Can you recommend, a book?",
+      "vietnamese": "Bạn có thể giới thiệu, một cuốn sách không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719167"
+    },
+    {
+      "english": "What are your goals, this week?",
+      "vietnamese": "Mục tiêu của bạn, tuần này là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719170"
+    },
+    {
+      "english": "How do you measure, success?",
+      "vietnamese": "Bạn đo lường, sự thành công như thế nào?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719174"
+    },
+    {
+      "english": "What keeps you, moving forward?",
+      "vietnamese": "Điều gì giúp bạn, tiến về phía trước?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719177"
+    },
+    {
+      "english": "Any tips, for staying focused?",
+      "vietnamese": "Có mẹo nào, để giữ tập trung không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719179"
+    },
+    {
+      "english": "What's your definition, of growth?",
+      "vietnamese": "Định nghĩa của bạn, về sự phát triển là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719182"
+    },
+    {
+      "english": "Can we collaborate, on this project?",
+      "vietnamese": "Chúng ta có thể hợp tác, trong dự án này không?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719185"
+    },
+    {
+      "english": "What's your favorite, part of learning?",
+      "vietnamese": "Phần yêu thích nhất, trong việc học của bạn là gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719188"
+    },
+    {
+      "english": "Positive thinking, opens doors.",
+      "vietnamese": "Suy nghĩ tích cực, mở ra cơ hội.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719190"
+    },
+    {
+      "english": "Embrace challenges, they make you stronger.",
+      "vietnamese": "Đón nhận thử thách, chúng giúp bạn mạnh mẽ hơn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719193"
+    },
+    {
+      "english": "You have the power, within you.",
+      "vietnamese": "Bạn có sức mạnh, ở bên trong.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719195"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "vietnamese": "Tập trung vào tiến bộ, đừng cầu toàn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719198"
+    },
+    {
+      "english": "Growth happens, outside your comfort zone.",
+      "vietnamese": "Phát triển xảy ra, ngoài vùng an toàn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719201"
+    },
+    {
+      "english": "Be patient, with your journey.",
+      "vietnamese": "Hãy kiên nhẫn, với hành trình của bạn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719204"
+    },
+    {
+      "english": "It's okay, to not know everything.",
+      "vietnamese": "Không sao đâu, nếu bạn không biết hết.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719206"
+    },
+    {
+      "english": "Your effort, is noticeable.",
+      "vietnamese": "Sự nỗ lực của bạn, rất đáng chú ý.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719209"
+    },
+    {
+      "english": "Stay curious, stay open-minded.",
+      "vietnamese": "Luôn tò mò, luôn cởi mở.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719212"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "vietnamese": "Bạn làm được, hãy tin đi.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719215"
+    },
+    {
+      "english": "What a great, attitude!",
+      "vietnamese": "Thái độ thật tuyệt vời!",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719217"
+    },
+    {
+      "english": "You inspire, others.",
+      "vietnamese": "Bạn truyền cảm hứng, cho người khác.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719220"
+    },
+    {
+      "english": "Embrace the new, possibilities.",
+      "vietnamese": "Nắm bắt những, khả năng mới.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719223"
+    },
+    {
+      "english": "Your dedication, is admirable.",
+      "vietnamese": "Sự cống hiến của bạn, thật đáng ngưỡng mộ.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719225"
+    },
+    {
+      "english": "Keep pushing, your boundaries.",
+      "vietnamese": "Tiếp tục vượt qua, giới hạn của mình.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719228"
+    },
+    {
+      "english": "You're learning, so much.",
+      "vietnamese": "Bạn đang học, rất nhiều điều.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719230"
+    },
+    {
+      "english": "Great work, on that!",
+      "vietnamese": "Làm tốt lắm, về việc đó!",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719233"
+    },
+    {
+      "english": "Focus your energy, wisely.",
+      "vietnamese": "Tập trung năng lượng, một cách khôn ngoan.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719237"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "vietnamese": "Đừng sợ sai lầm, hãy học hỏi.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719240"
+    },
+    {
+      "english": "Keep digging, for your treasure.",
+      "vietnamese": "Cứ đào sâu, tìm kho báu.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719243"
+    },
+    {
+      "english": "Today's effort, is tomorrow's reward.",
+      "vietnamese": "Nỗ lực hôm nay, là phần thưởng ngày mai.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719246"
+    },
+    {
+      "english": "Every failure, is a lesson disguised.",
+      "vietnamese": "Mỗi thất bại, là bài học ẩn giấu.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719249"
+    },
+    {
+      "english": "Build momentum, day by day.",
+      "vietnamese": "Tạo đà tiến lên, từng ngày.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719251"
+    },
+    {
+      "english": "What seeds, are you planting?",
+      "vietnamese": "Bạn đang gieo hạt giống gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719254"
+    },
+    {
+      "english": "Adjust your sails, not the wind.",
+      "vietnamese": "Điều chỉnh buồm, đừng đổi gió.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719256"
+    },
+    {
+      "english": "Seek knowledge, relentlessly.",
+      "vietnamese": "Tìm kiếm tri thức, không ngừng nghỉ.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719261"
+    },
+    {
+      "english": "Growth is, a journey, not a destination.",
+      "vietnamese": "Trưởng thành là, một hành trình, không đích đến.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719264"
+    },
+    {
+      "english": "Water your dreams, daily.",
+      "vietnamese": "Tưới tắm ước mơ, mỗi ngày.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719266"
+    },
+    {
+      "english": "What path, did you take?",
+      "vietnamese": "Bạn đã đi con đường nào?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719269"
+    },
+    {
+      "english": "Learn to adapt, and thrive.",
+      "vietnamese": "Học cách thích nghi, và phát triển.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719271"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "vietnamese": "Thách thức bản thân, mỗi ngày.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719274"
+    },
+    {
+      "english": "The best time, was yesterday.",
+      "vietnamese": "Thời điểm tốt nhất, là ngày hôm qua.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719276"
+    },
+    {
+      "english": "Plant seeds, of positivity.",
+      "vietnamese": "Gieo những hạt mầm, tích cực.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719279"
+    },
+    {
+      "english": "Keep evolving, stay relevant.",
+      "vietnamese": "Tiếp tục tiến hóa, luôn phù hợp.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719281"
+    },
+    {
+      "english": "What did you discover, today?",
+      "vietnamese": "Hôm nay bạn đã khám phá gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719284"
+    },
+    {
+      "english": "Growth requires, intentionality.",
+      "vietnamese": "Phát triển đòi hỏi, sự chủ đích.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719286"
+    },
+    {
+      "english": "Bloom where, you are planted.",
+      "vietnamese": "Nở rộ nơi, bạn được trồng.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719289"
+    },
+    {
+      "english": "Keep adding, value.",
+      "vietnamese": "Tiếp tục gia tăng, giá trị.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719292"
+    },
+    {
+      "english": "Every moment, is a chance.",
+      "vietnamese": "Mỗi khoảnh khắc, là một cơ hội.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719294"
+    },
+    {
+      "english": "True self, starts within.",
+      "vietnamese": "Bản ngã thật sự, bắt đầu từ bên trong.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719297"
+    },
+    {
+      "english": "Honesty with yourself, is key.",
+      "vietnamese": "Trung thực với mình, là chìa khóa.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719299"
+    },
+    {
+      "english": "Feelings are guides, not masters.",
+      "vietnamese": "Cảm xúc là người dẫn đường, không phải chủ nhân.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719302"
+    },
+    {
+      "english": "Reflect often, learn deeply.",
+      "vietnamese": "Chiêm nghiệm thường xuyên, học hỏi sâu sắc.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719306"
+    },
+    {
+      "english": "Vulnerability builds connection.",
+      "vietnamese": "Sự tổn thương xây dựng kết nối.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719309"
+    },
+    {
+      "english": "What are you grateful, for today?",
+      "vietnamese": "Hôm nay bạn biết ơn, điều gì?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719311"
+    },
+    {
+      "english": "Kindness starts, with self-compassion.",
+      "vietnamese": "Lòng tốt bắt đầu, từ lòng trắc ẩn với bản thân.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719316"
+    },
+    {
+      "english": "Inner peace, is the true wealth.",
+      "vietnamese": "Sự bình yên nội tâm, là sự giàu có đích thực.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719319"
+    },
+    {
+      "english": "Emotions are data, use them.",
+      "vietnamese": "Cảm xúc là dữ liệu, hãy dùng nó.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719321"
+    },
+    {
+      "english": "Authenticity, is your superpower.",
+      "vietnamese": "Tính chân thật, là siêu năng lực của bạn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719324"
+    },
+    {
+      "english": "What truth, are you seeking?",
+      "vietnamese": "Bạn đang tìm kiếm, sự thật nào?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719327"
+    },
+    {
+      "english": "Gentleness with yourself, is strength.",
+      "vietnamese": "Sự dịu dàng với bản thân, là sức mạnh.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719330"
+    },
+    {
+      "english": "Understand your patterns, change them.",
+      "vietnamese": "Hiểu rõ khuôn mẫu của bạn, thay đổi chúng.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719332"
+    },
+    {
+      "english": "Emotional honesty, leads to clarity.",
+      "vietnamese": "Sự chân thành trong cảm xúc, dẫn đến minh mẫn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719335"
+    },
+    {
+      "english": "Let your heart, lead the way.",
+      "vietnamese": "Hãy để trái tim, dẫn lối.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719337"
+    },
+    {
+      "english": "What are you learning, about yourself?",
+      "vietnamese": "Bạn đang học hỏi, điều gì về bản thân?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719340"
+    },
+    {
+      "english": "Release the need, to control.",
+      "vietnamese": "Buông bỏ nhu cầu, kiểm soát.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719342"
+    },
+    {
+      "english": "Your inner world, shapes reality.",
+      "vietnamese": "Thế giới nội tâm của bạn, định hình thực tại.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719345"
+    },
+    {
+      "english": "Trust the process, of becoming.",
+      "vietnamese": "Tin tưởng vào quá trình, trở thành.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719349"
+    },
+    {
+      "english": "Self-reflection, is self-love.",
+      "vietnamese": "Tự suy ngẫm, là yêu bản thân.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719352"
+    },
+    {
+      "english": "Embrace your shadows, they teach.",
+      "vietnamese": "Hãy đón nhận bóng tối, chúng dạy bạn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719354"
+    },
+    {
+      "english": "What emotions, are you feeling?",
+      "vietnamese": "Bạn đang cảm thấy, những cảm xúc nào?",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719357"
+    },
+    {
+      "english": "Quiet your mind, listen deeper.",
+      "vietnamese": "Làm dịu tâm trí, lắng nghe sâu hơn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719360"
+    },
+    {
+      "english": "Try new things, often.",
+      "vietnamese": "Thử điều mới, thường xuyên.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719362"
+    },
+    {
+      "english": "Small steps, make big impact.",
+      "vietnamese": "Bước nhỏ, tạo ảnh hưởng lớn.",
+      "category": "Growth",
+      "generated_at": "2026-10-17T05:13:41.719365"
     }
   ],
-  "last_updated": "2026-10-15T05:26:05.630010"
+  "last_updated": "2026-10-17T05:13:41.719367"
 }
