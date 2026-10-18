@@ -32063,7 +32063,727 @@
       "vietnamese": "Bước nhỏ, tạo ảnh hưởng lớn.",
       "category": "Growth",
       "generated_at": "2026-10-17T05:13:41.719365"
+    },
+    {
+      "english": "What a happy surprise!",
+      "vietnamese": "Thật là một bất ngờ vui!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611055"
+    },
+    {
+      "english": "Feeling great today!",
+      "vietnamese": "Hôm nay cảm thấy tuyệt vời!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611068"
+    },
+    {
+      "english": "Wonderful news!",
+      "vietnamese": "Tin tức tuyệt vời!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611085"
+    },
+    {
+      "english": "Such a lovely day.",
+      "vietnamese": "Một ngày thật đáng yêu.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611089"
+    },
+    {
+      "english": "I'm truly content.",
+      "vietnamese": "Tôi thực sự hài lòng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611092"
+    },
+    {
+      "english": "Absolutely thrilled!",
+      "vietnamese": "Thật sự phấn khích!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611095"
+    },
+    {
+      "english": "Peace in my heart.",
+      "vietnamese": "Bình yên trong tim tôi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611097"
+    },
+    {
+      "english": "Everything feels right.",
+      "vietnamese": "Mọi thứ đều ổn thỏa.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611103"
+    },
+    {
+      "english": "What a delight!",
+      "vietnamese": "Thật là một sự thích thú!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611106"
+    },
+    {
+      "english": "My heart is full.",
+      "vietnamese": "Trái tim tôi tràn đầy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611109"
+    },
+    {
+      "english": "Simply wonderful.",
+      "vietnamese": "Đơn giản là tuyệt vời.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611112"
+    },
+    {
+      "english": "Such a happy occasion.",
+      "vietnamese": "Một dịp thật vui vẻ.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611114"
+    },
+    {
+      "english": "Pure bliss.",
+      "vietnamese": "Hạnh phúc thuần khiết.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611117"
+    },
+    {
+      "english": "Radiating happiness.",
+      "vietnamese": "Tỏa ra sự hạnh phúc.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611120"
+    },
+    {
+      "english": "So much to be grateful for.",
+      "vietnamese": "Có quá nhiều điều để biết ơn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611122"
+    },
+    {
+      "english": "This fills me with joy.",
+      "vietnamese": "Điều này lấp đầy tôi bằng niềm vui.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611125"
+    },
+    {
+      "english": "A moment of pure delight.",
+      "vietnamese": "Một khoảnh khắc thích thú thuần túy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611128"
+    },
+    {
+      "english": "Feeling uplifted.",
+      "vietnamese": "Cảm thấy phấn chấn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611130"
+    },
+    {
+      "english": "Everything's coming up roses.",
+      "vietnamese": "Mọi thứ đang diễn ra tốt đẹp.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611133"
+    },
+    {
+      "english": "What a lovely outcome!",
+      "vietnamese": "Thật là một kết quả đáng yêu!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611136"
+    },
+    {
+      "english": "My spirit feels light.",
+      "vietnamese": "Linh hồn tôi cảm thấy nhẹ nhõm.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611138"
+    },
+    {
+      "english": "This is truly satisfying.",
+      "vietnamese": "Điều này thực sự thỏa mãn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611141"
+    },
+    {
+      "english": "All is well.",
+      "vietnamese": "Mọi thứ đều ổn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611143"
+    },
+    {
+      "english": "Feeling so positive.",
+      "vietnamese": "Cảm thấy rất tích cực.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611145"
+    },
+    {
+      "english": "What a joyful experience!",
+      "vietnamese": "Thật là một trải nghiệm vui vẻ!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611151"
+    },
+    {
+      "english": "How are you feeling today?",
+      "vietnamese": "Hôm nay bạn cảm thấy thế nào?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611154"
+    },
+    {
+      "english": "Are you happy with this?",
+      "vietnamese": "Bạn có vui với điều này không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611157"
+    },
+    {
+      "english": "What makes you happy?",
+      "vietnamese": "Điều gì làm bạn vui?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611159"
+    },
+    {
+      "english": "Can you share your joy?",
+      "vietnamese": "Bạn có thể chia sẻ niềm vui không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611162"
+    },
+    {
+      "english": "Is everything okay?",
+      "vietnamese": "Mọi thứ ổn chứ?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611164"
+    },
+    {
+      "english": "What's your secret to happiness?",
+      "vietnamese": "Bí quyết hạnh phúc của bạn là gì?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611168"
+    },
+    {
+      "english": "Did you have fun?",
+      "vietnamese": "Bạn có vui không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611170"
+    },
+    {
+      "english": "Do you feel content?",
+      "vietnamese": "Bạn có cảm thấy hài lòng không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611173"
+    },
+    {
+      "english": "Tell me about your day.",
+      "vietnamese": "Kể cho tôi nghe về ngày của bạn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611175"
+    },
+    {
+      "english": "Is this a good sign?",
+      "vietnamese": "Đây là một dấu hiệu tốt chứ?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611178"
+    },
+    {
+      "english": "How was your experience?",
+      "vietnamese": "Trải nghiệm của bạn thế nào?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611182"
+    },
+    {
+      "english": "Are you satisfied?",
+      "vietnamese": "Bạn có hài lòng không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611185"
+    },
+    {
+      "english": "What brought you here?",
+      "vietnamese": "Điều gì đã đưa bạn đến đây?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611188"
+    },
+    {
+      "english": "How did you achieve this?",
+      "vietnamese": "Bạn đã đạt được điều này như thế nào?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611190"
+    },
+    {
+      "english": "What's your advice?",
+      "vietnamese": "Lời khuyên của bạn là gì?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611193"
+    },
+    {
+      "english": "Are you enjoying yourself?",
+      "vietnamese": "Bạn có đang tận hưởng không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611196"
+    },
+    {
+      "english": "What's the good news?",
+      "vietnamese": "Tin vui là gì?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611201"
+    },
+    {
+      "english": "How do you stay positive?",
+      "vietnamese": "Bạn làm thế nào để giữ tích cực?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611203"
+    },
+    {
+      "english": "What makes you smile?",
+      "vietnamese": "Điều gì khiến bạn mỉm cười?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611206"
+    },
+    {
+      "english": "Do you feel hopeful?",
+      "vietnamese": "Bạn có cảm thấy hy vọng không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611209"
+    },
+    {
+      "english": "Is this your happy place?",
+      "vietnamese": "Đây có phải là nơi hạnh phúc của bạn?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611212"
+    },
+    {
+      "english": "What's new with you?",
+      "vietnamese": "Bạn có gì mới?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611214"
+    },
+    {
+      "english": "Are you feeling better?",
+      "vietnamese": "Bạn cảm thấy tốt hơn chưa?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611217"
+    },
+    {
+      "english": "Did you find what you sought?",
+      "vietnamese": "Bạn có tìm thấy thứ mình tìm kiếm không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611220"
+    },
+    {
+      "english": "What's the best part?",
+      "vietnamese": "Phần hay nhất là gì?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611222"
+    },
+    {
+      "english": "How was the journey?",
+      "vietnamese": "Chuyến đi thế nào?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611226"
+    },
+    {
+      "english": "What do you recommend?",
+      "vietnamese": "Bạn đề xuất gì?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611229"
+    },
+    {
+      "english": "Think positive, stay happy.",
+      "vietnamese": "Nghĩ tích cực, vui vẻ lên.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611232"
+    },
+    {
+      "english": "Keep smiling, brighter days ahead.",
+      "vietnamese": "Cứ cười lên, ngày tươi sáng hơn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611235"
+    },
+    {
+      "english": "Good job, well done buddy!",
+      "vietnamese": "Làm tốt lắm, bạn giỏi lắm!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611238"
+    },
+    {
+      "english": "Don't worry, be happy, okay?",
+      "vietnamese": "Đừng lo, vui lên nha?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611241"
+    },
+    {
+      "english": "You're amazing, keep shining.",
+      "vietnamese": "Bạn tuyệt vời, cứ tỏa sáng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611244"
+    },
+    {
+      "english": "Hang in there, almost done.",
+      "vietnamese": "Cố lên nào, sắp xong rồi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611247"
+    },
+    {
+      "english": "Focus on the good things.",
+      "vietnamese": "Tập trung vào điều tốt đẹp.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611249"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "vietnamese": "Bạn mạnh mẽ hơn bạn nghĩ.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611252"
+    },
+    {
+      "english": "Every step counts, keep moving.",
+      "vietnamese": "Mọi bước chân đều quan trọng, tiến lên.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611255"
+    },
+    {
+      "english": "You're doing your best, that's enough.",
+      "vietnamese": "Bạn đang cố gắng hết sức, thế là đủ.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611258"
+    },
+    {
+      "english": "That's fantastic, you nailed it!",
+      "vietnamese": "Tuyệt vời quá, bạn làm xuất sắc!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611261"
+    },
+    {
+      "english": "Sending good vibes your way.",
+      "vietnamese": "Gửi năng lượng tích cực cho bạn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611264"
+    },
+    {
+      "english": "You're a star, keep shining bright.",
+      "vietnamese": "Bạn là ngôi sao, cứ tỏa sáng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611267"
+    },
+    {
+      "english": "Chin up, a new day is coming.",
+      "vietnamese": "Ngẩng cao đầu lên, ngày mới sắp đến.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611270"
+    },
+    {
+      "english": "You've overcome so much already.",
+      "vietnamese": "Bạn đã vượt qua nhiều thứ rồi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611273"
+    },
+    {
+      "english": "You're making progress, great job.",
+      "vietnamese": "Bạn đang tiến bộ, làm tốt lắm.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611278"
+    },
+    {
+      "english": "Stay hopeful, brighter futures await.",
+      "vietnamese": "Hãy giữ hy vọng, tương lai tươi sáng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611280"
+    },
+    {
+      "english": "You've got a great attitude.",
+      "vietnamese": "Bạn có thái độ tuyệt vời.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611283"
+    },
+    {
+      "english": "You make things better, truly.",
+      "vietnamese": "Bạn làm mọi thứ tốt đẹp hơn, thật.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611286"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "vietnamese": "Hãy đón nhận hành trình, tận hưởng nó.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611289"
+    },
+    {
+      "english": "Your effort is appreciated.",
+      "vietnamese": "Nỗ lực của bạn được trân trọng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611291"
+    },
+    {
+      "english": "Life is sweet, you know?",
+      "vietnamese": "Cuộc sống ngọt ngào, bạn biết không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611294"
+    },
+    {
+      "english": "Everything's falling into place.",
+      "vietnamese": "Mọi thứ đang vào đúng vị trí.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611297"
+    },
+    {
+      "english": "Just go with the flow.",
+      "vietnamese": "Cứ thuận theo dòng chảy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611300"
+    },
+    {
+      "english": "The simple things, ah!",
+      "vietnamese": "Những điều giản dị, à!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611302"
+    },
+    {
+      "english": "Feeling like a million bucks.",
+      "vietnamese": "Cảm thấy tuyệt vời như triệu đô.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611307"
+    },
+    {
+      "english": "This is the good life.",
+      "vietnamese": "Đây là cuộc sống tốt đẹp.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611310"
+    },
+    {
+      "english": "Living the dream, really.",
+      "vietnamese": "Đang sống trong mơ, thật đấy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611313"
+    },
+    {
+      "english": "Can't complain, honestly.",
+      "vietnamese": "Không thể phàn nàn, thật lòng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611316"
+    },
+    {
+      "english": "Got that sunshine feeling.",
+      "vietnamese": "Có cái cảm giác nắng ấm.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611318"
+    },
+    {
+      "english": "It just feels right.",
+      "vietnamese": "Nó chỉ cảm thấy đúng đắn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611321"
+    },
+    {
+      "english": "Happy as a clam, you know.",
+      "vietnamese": "Hạnh phúc như con sò, bạn biết đấy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611323"
+    },
+    {
+      "english": "What a wonderful feeling!",
+      "vietnamese": "Thật là một cảm giác tuyệt vời!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611326"
+    },
+    {
+      "english": "Soaking up the good vibes.",
+      "vietnamese": "Tận hưởng những rung cảm tốt đẹp.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611328"
+    },
+    {
+      "english": "Feeling on top of the world.",
+      "vietnamese": "Cảm thấy như đứng trên đỉnh thế giới.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611331"
+    },
+    {
+      "english": "Life's a picnic, seriously.",
+      "vietnamese": "Cuộc sống là một bữa tiệc, nghiêm túc đấy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611334"
+    },
+    {
+      "english": "Just vibing, you know?",
+      "vietnamese": "Chỉ là hòa mình, bạn biết không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611336"
+    },
+    {
+      "english": "Couldn't be happier, truly.",
+      "vietnamese": "Không thể hạnh phúc hơn, thật sự.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611339"
+    },
+    {
+      "english": "This is all I needed.",
+      "vietnamese": "Đây là tất cả những gì tôi cần.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611342"
+    },
+    {
+      "english": "My happy little bubble.",
+      "vietnamese": "bong bóng hạnh phúc nhỏ bé của tôi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611344"
+    },
+    {
+      "english": "Everything is sunshine and rainbows.",
+      "vietnamese": "Mọi thứ đều là nắng và cầu vồng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611347"
+    },
+    {
+      "english": "Feeling blessed, very blessed.",
+      "vietnamese": "Cảm thấy được ban phước, rất ban phước.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611350"
+    },
+    {
+      "english": "This is the peak moment.",
+      "vietnamese": "Đây là khoảnh khắc đỉnh cao.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611352"
+    },
+    {
+      "english": "Pure contentment, right?",
+      "vietnamese": "Sự mãn nguyện thuần túy, đúng không?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611355"
+    },
+    {
+      "english": "Just enjoying the ride.",
+      "vietnamese": "Chỉ là tận hưởng chuyến đi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611357"
+    },
+    {
+      "english": "Feeling pretty darn good.",
+      "vietnamese": "Cảm thấy khá tốt đấy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611360"
+    },
+    {
+      "english": "A full heart is happy.",
+      "vietnamese": "Trái tim đầy đặn là hạnh phúc.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611362"
+    },
+    {
+      "english": "True happiness, comes from within.",
+      "vietnamese": "Hạnh phúc thật sự, đến từ bên trong.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611371"
+    },
+    {
+      "english": "What truly matters, is peace.",
+      "vietnamese": "Điều thực sự quan trọng, là bình yên.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611374"
+    },
+    {
+      "english": "My heart, feels full today.",
+      "vietnamese": "Lòng tôi, thấy đầy đủ hôm nay.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611376"
+    },
+    {
+      "english": "Acceptance brings, inner calm.",
+      "vietnamese": "Sự chấp nhận mang lại, bình an nội tâm.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611379"
+    },
+    {
+      "english": "Let go, of what burdens you.",
+      "vietnamese": "Buông bỏ, những gì đè nặng bạn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611384"
+    },
+    {
+      "english": "Gratitude, opens the heart.",
+      "vietnamese": "Lòng biết ơn, mở rộng trái tim.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611386"
+    },
+    {
+      "english": "This feeling, is pure bliss.",
+      "vietnamese": "Cảm giác này, là hạnh phúc thuần khiết.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611462"
+    },
+    {
+      "english": "Reflect often, find your truth.",
+      "vietnamese": "Suy ngẫm thường xuyên, tìm sự thật của bạn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611466"
+    },
+    {
+      "english": "Contentment, is a quiet joy.",
+      "vietnamese": "Sự mãn nguyện, là niềm vui thầm lặng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611469"
+    },
+    {
+      "english": "Honesty with self, brings peace.",
+      "vietnamese": "Trung thực với bản thân, mang lại bình yên.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611472"
+    },
+    {
+      "english": "I cherish, this peaceful moment.",
+      "vietnamese": "Tôi trân trọng, khoảnh khắc bình yên này.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611475"
+    },
+    {
+      "english": "Embrace imperfections, find beauty.",
+      "vietnamese": "Ôm lấy những điều không hoàn hảo, tìm vẻ đẹp.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611480"
+    },
+    {
+      "english": "Self-love, is the foundation.",
+      "vietnamese": "Yêu bản thân, là nền tảng.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611483"
+    },
+    {
+      "english": "This calm, feels so good.",
+      "vietnamese": "Sự tĩnh lặng này, cảm giác thật tốt.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611486"
+    },
+    {
+      "english": "Let your spirit, soar freely.",
+      "vietnamese": "Hãy để tâm hồn, bay lượn tự do.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611489"
+    },
+    {
+      "english": "Authenticity, leads to joy.",
+      "vietnamese": "Sự chân thật, dẫn đến niềm vui.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611491"
+    },
+    {
+      "english": "The present, is all we have.",
+      "vietnamese": "Hiện tại, là tất cả chúng ta có.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611494"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "vietnamese": "Sự tha thứ, giải phóng bạn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611497"
+    },
+    {
+      "english": "Find balance, in life's chaos.",
+      "vietnamese": "Tìm sự cân bằng, trong cuộc sống hỗn loạn.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611500"
+    },
+    {
+      "english": "A gentle heart, finds peace.",
+      "vietnamese": "Trái tim nhân hậu, tìm thấy bình yên.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611502"
+    },
+    {
+      "english": "My soul, feels truly at rest.",
+      "vietnamese": "Linh hồn tôi, cảm thấy thực sự nghỉ ngơi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:18:00.611505"
     }
   ],
-  "last_updated": "2026-10-17T05:13:41.719367"
+  "last_updated": "2026-10-18T05:18:00.611507"
 }
