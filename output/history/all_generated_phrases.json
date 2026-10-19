@@ -32783,7 +32783,727 @@
       "vietnamese": "Linh hồn tôi, cảm thấy thực sự nghỉ ngơi.",
       "category": "Happiness",
       "generated_at": "2026-10-18T05:18:00.611505"
+    },
+    {
+      "english": "What's up, dude?",
+      "vietnamese": "Ê, dạo này sao rồi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555072"
+    },
+    {
+      "english": "Totally, man!",
+      "vietnamese": "Chuẩn luôn, ông ơi!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555087"
+    },
+    {
+      "english": "No way, really?",
+      "vietnamese": "Trời, thiệt hả?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555091"
+    },
+    {
+      "english": "My bad, sorry!",
+      "vietnamese": "Lỗi em, xin lỗi!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555094"
+    },
+    {
+      "english": "So annoying, ugh!",
+      "vietnamese": "Bực mình ghê, á!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555097"
+    },
+    {
+      "english": "Let's go, hurry!",
+      "vietnamese": "Đi thôi, nhanh lên!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555100"
+    },
+    {
+      "english": "I'm starving, dude.",
+      "vietnamese": "Đói bụng quá, bạn ơi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555102"
+    },
+    {
+      "english": "So tired, sleepy.",
+      "vietnamese": "Mệt quá, buồn ngủ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555108"
+    },
+    {
+      "english": "You got this, cheer up!",
+      "vietnamese": "Cố lên, vui lên!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555112"
+    },
+    {
+      "english": "Just kidding, haha!",
+      "vietnamese": "Đùa thôi, haha!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555115"
+    },
+    {
+      "english": "That's awesome, wow!",
+      "vietnamese": "Tuyệt vời, wow!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555118"
+    },
+    {
+      "english": "What a mess, oh no!",
+      "vietnamese": "Bừa bộn quá, thôi rồi!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555120"
+    },
+    {
+      "english": "Let's chill, relax.",
+      "vietnamese": "Thư giãn đi, nghỉ ngơi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555123"
+    },
+    {
+      "english": "So boring, yawn.",
+      "vietnamese": "Chán quá, ngáp.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555126"
+    },
+    {
+      "english": "Not bad, pretty good.",
+      "vietnamese": "Cũng ổn, khá tốt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555128"
+    },
+    {
+      "english": "I'm broke, empty pockets.",
+      "vietnamese": "Hết tiền rồi, túi rỗng.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555131"
+    },
+    {
+      "english": "So hungry, need food!",
+      "vietnamese": "Đói bụng quá, cần ăn!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555137"
+    },
+    {
+      "english": "Let's hang out, buddy.",
+      "vietnamese": "Đi chơi đi, bạn hiền.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555140"
+    },
+    {
+      "english": "Don't be late, hurry!",
+      "vietnamese": "Đừng trễ, nhanh lên!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555142"
+    },
+    {
+      "english": "This is crazy, wow!",
+      "vietnamese": "Điên rồ quá, wow!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555145"
+    },
+    {
+      "english": "So happy, yay!",
+      "vietnamese": "Vui quá, yeah!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555147"
+    },
+    {
+      "english": "I'm confused, huh?",
+      "vietnamese": "Tôi bối rối, hả?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555150"
+    },
+    {
+      "english": "So cool, awesome!",
+      "vietnamese": "Ngầu quá, đỉnh!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555154"
+    },
+    {
+      "english": "I'm full, no more.",
+      "vietnamese": "No rồi, không ăn nữa.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555157"
+    },
+    {
+      "english": "That's true, I agree.",
+      "vietnamese": "Đúng vậy, tôi đồng ý.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555159"
+    },
+    {
+      "english": "Watch out, careful!",
+      "vietnamese": "Coi chừng, cẩn thận!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555162"
+    },
+    {
+      "english": "Let's grab a bite.",
+      "vietnamese": "Đi ăn chút đi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555164"
+    },
+    {
+      "english": "You're kidding me, right?",
+      "vietnamese": "Bạn đùa tôi hả?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555167"
+    },
+    {
+      "english": "What do you think, man?",
+      "vietnamese": "Mày nghĩ sao, ông?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555169"
+    },
+    {
+      "english": "Can you tell me, please?",
+      "vietnamese": "Bạn chỉ mình với, được không?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555172"
+    },
+    {
+      "english": "Is that okay, buddy?",
+      "vietnamese": "Vậy ổn không, bạn?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555175"
+    },
+    {
+      "english": "What's the plan, boss?",
+      "vietnamese": "Kế hoạch là gì, sếp?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555178"
+    },
+    {
+      "english": "Any advice for me?",
+      "vietnamese": "Có lời khuyên gì cho tôi không?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555180"
+    },
+    {
+      "english": "You know that place, right?",
+      "vietnamese": "Chỗ đó biết rồi hen?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555183"
+    },
+    {
+      "english": "How should I say this?",
+      "vietnamese": "Tôi nên nói thế nào?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555186"
+    },
+    {
+      "english": "Is this correct, hmm?",
+      "vietnamese": "Cái này đúng không, ừm?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555189"
+    },
+    {
+      "english": "What's happening now?",
+      "vietnamese": "Giờ có chuyện gì?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555191"
+    },
+    {
+      "english": "Can we talk, briefly?",
+      "vietnamese": "Mình nói chuyện chút, nhanh thôi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555194"
+    },
+    {
+      "english": "Do you understand, friend?",
+      "vietnamese": "Hiểu không bạn ơi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555196"
+    },
+    {
+      "english": "Should I do this, or that?",
+      "vietnamese": "Tôi nên làm cái này, hay cái kia?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555199"
+    },
+    {
+      "english": "How's it going, mate?",
+      "vietnamese": "Dạo này sao rồi, chiến hữu?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555202"
+    },
+    {
+      "english": "Can you help me out?",
+      "vietnamese": "Giúp mình một tay nhé?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555204"
+    },
+    {
+      "english": "What's the situation, dude?",
+      "vietnamese": "Tình hình sao rồi, ông?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555207"
+    },
+    {
+      "english": "Is it far from here?",
+      "vietnamese": "Chỗ đó có xa đây không?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555209"
+    },
+    {
+      "english": "Can I ask one more thing?",
+      "vietnamese": "Tôi hỏi thêm một cái nữa nhé?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555212"
+    },
+    {
+      "english": "Are you free now, busy?",
+      "vietnamese": "Bây giờ rảnh không, có bận không?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555214"
+    },
+    {
+      "english": "What's this called, really?",
+      "vietnamese": "Cái này gọi là gì, thật vậy?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555217"
+    },
+    {
+      "english": "Should we go together?",
+      "vietnamese": "Mình đi chung nhé?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555221"
+    },
+    {
+      "english": "What's your opinion, friend?",
+      "vietnamese": "Ý kiến của bạn là gì?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555225"
+    },
+    {
+      "english": "Did you get it, man?",
+      "vietnamese": "Hiểu rồi ha, ông?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555227"
+    },
+    {
+      "english": "What happened earlier?",
+      "vietnamese": "Lúc nãy có chuyện gì?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555230"
+    },
+    {
+      "english": "Shall we try this, then?",
+      "vietnamese": "Mình thử cái này đi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555232"
+    },
+    {
+      "english": "Are you sure about that?",
+      "vietnamese": "Bạn chắc về điều đó chứ?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555234"
+    },
+    {
+      "english": "What else can we do?",
+      "vietnamese": "Ngoài ra còn làm gì nữa?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555237"
+    },
+    {
+      "english": "Try your best, seriously.",
+      "vietnamese": "Cố gắng hết sức, thật đấy.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555239"
+    },
+    {
+      "english": "Focus on your goals, okay?",
+      "vietnamese": "Tập trung mục tiêu, nhé?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555242"
+    },
+    {
+      "english": "Positive vibes only, please.",
+      "vietnamese": "Chỉ năng lượng tích cực thôi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555245"
+    },
+    {
+      "english": "Don't stress, take it easy.",
+      "vietnamese": "Đừng căng thẳng, cứ thư giãn.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555248"
+    },
+    {
+      "english": "Dream big, start small.",
+      "vietnamese": "Mơ lớn, bắt đầu nhỏ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555251"
+    },
+    {
+      "english": "Stay strong, my friend.",
+      "vietnamese": "Mạnh mẽ lên nhé, bạn.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555254"
+    },
+    {
+      "english": "You've got this, totally.",
+      "vietnamese": "Bạn xử lý được thôi, chắc chắn.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555257"
+    },
+    {
+      "english": "Keep a good attitude, always.",
+      "vietnamese": "Giữ thái độ tốt, luôn luôn.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555259"
+    },
+    {
+      "english": "Never give up hope, ever.",
+      "vietnamese": "Đừng bao giờ mất hy vọng.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555261"
+    },
+    {
+      "english": "You're a star, truly.",
+      "vietnamese": "Bạn là ngôi sao, thật đó.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555264"
+    },
+    {
+      "english": "Let's push through, together.",
+      "vietnamese": "Cùng vượt qua nhé, chúng ta.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555267"
+    },
+    {
+      "english": "Keep your chin up, please.",
+      "vietnamese": "Giữ tinh thần lạc quan nhé.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555269"
+    },
+    {
+      "english": "You are capable, believe it.",
+      "vietnamese": "Bạn có năng lực, hãy tin.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555272"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "vietnamese": "Bước nhỏ, tiến lớn.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555274"
+    },
+    {
+      "english": "Stay motivated, keep going.",
+      "vietnamese": "Luôn có động lực, tiến lên.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555277"
+    },
+    {
+      "english": "You're awesome, seriously.",
+      "vietnamese": "Bạn đỉnh lắm, thật đó.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555280"
+    },
+    {
+      "english": "You have potential, unlock it.",
+      "vietnamese": "Bạn có tiềm năng, khai phá.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555282"
+    },
+    {
+      "english": "Keep a smile on, please.",
+      "vietnamese": "Luôn giữ nụ cười nhé.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555285"
+    },
+    {
+      "english": "You'll get there, eventually.",
+      "vietnamese": "Bạn sẽ tới đích, sớm thôi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555287"
+    },
+    {
+      "english": "You're doing amazing work.",
+      "vietnamese": "Bạn đang làm việc tuyệt vời.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555291"
+    },
+    {
+      "english": "Stay focused, on track.",
+      "vietnamese": "Giữ sự tập trung, đúng hướng.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555294"
+    },
+    {
+      "english": "Have faith, it'll work.",
+      "vietnamese": "Hãy tin tưởng, sẽ ổn thôi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555296"
+    },
+    {
+      "english": "You're making progress, good.",
+      "vietnamese": "Bạn đang tiến bộ, tốt lắm.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555299"
+    },
+    {
+      "english": "It's a long story, really.",
+      "vietnamese": "Chuyện dài lắm, kể sao giờ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555302"
+    },
+    {
+      "english": "Don't beat around the bush.",
+      "vietnamese": "Đừng có vòng vo tam quốc.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555304"
+    },
+    {
+      "english": "This is easier said than done.",
+      "vietnamese": "Nói dễ hơn làm nhiều.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555308"
+    },
+    {
+      "english": "It's all the same, honestly.",
+      "vietnamese": "Cũng vậy thôi, thật mà.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555311"
+    },
+    {
+      "english": "He's just pulling my leg.",
+      "vietnamese": "Anh ấy chỉ đùa thôi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555313"
+    },
+    {
+      "english": "Don't make a fuss, please.",
+      "vietnamese": "Đừng có làm ầm ĩ lên.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555316"
+    },
+    {
+      "english": "It's water under the bridge.",
+      "vietnamese": "Chuyện đã qua rồi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555318"
+    },
+    {
+      "english": "Let's get down to business.",
+      "vietnamese": "Bắt tay vào việc chính nào.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555321"
+    },
+    {
+      "english": "It's a piece of cake, easy.",
+      "vietnamese": "Dễ như ăn cháo vậy.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555323"
+    },
+    {
+      "english": "Don't worry, it's no big deal.",
+      "vietnamese": "Đừng lo, chuyện nhỏ thôi mà.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555326"
+    },
+    {
+      "english": "He's playing dumb, isn't he?",
+      "vietnamese": "Anh ta giả vờ ngây ngô.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555329"
+    },
+    {
+      "english": "It's just a matter of time.",
+      "vietnamese": "Rồi mọi chuyện sẽ đâu vào đó.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555332"
+    },
+    {
+      "english": "I'm feeling a bit under the weather.",
+      "vietnamese": "Tôi hơi khó ở.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555335"
+    },
+    {
+      "english": "Let's call it a day, okay?",
+      "vietnamese": "Nghỉ thôi, hôm nay vậy nhé.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555338"
+    },
+    {
+      "english": "That's the way it goes, sadly.",
+      "vietnamese": "Cuộc đời là vậy mà.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555340"
+    },
+    {
+      "english": "Don't get on my nerves, please.",
+      "vietnamese": "Đừng có chọc tức tôi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555343"
+    },
+    {
+      "english": "It's a win-win situation, really.",
+      "vietnamese": "Đôi bên cùng có lợi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555346"
+    },
+    {
+      "english": "He's a good egg, always.",
+      "vietnamese": "Anh ấy là người tốt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555349"
+    },
+    {
+      "english": "Let's clear the air, now.",
+      "vietnamese": "Nói thẳng ra cho rõ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555351"
+    },
+    {
+      "english": "It's not rocket science, friend.",
+      "vietnamese": "Không có gì khó khăn đâu.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555354"
+    },
+    {
+      "english": "Don't count your chickens, you know.",
+      "vietnamese": "Đừng vội mừng sớm quá.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555357"
+    },
+    {
+      "english": "This is really bumping me out.",
+      "vietnamese": "Cái này làm tôi chán quá.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555359"
+    },
+    {
+      "english": "It's a tough pill to swallow.",
+      "vietnamese": "Thật khó mà chấp nhận.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555362"
+    },
+    {
+      "english": "He's got a screw loose, maybe.",
+      "vietnamese": "Anh ấy hơi điên rồi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555365"
+    },
+    {
+      "english": "Let's make things right, okay?",
+      "vietnamese": "Làm cho mọi thứ ổn lại.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555368"
+    },
+    {
+      "english": "It's a blessing in disguise, you see.",
+      "vietnamese": "Trong cái rủi có cái may.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555371"
+    },
+    {
+      "english": "Don't sweat the small stuff, really.",
+      "vietnamese": "Đừng bận tâm chuyện nhỏ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555374"
+    },
+    {
+      "english": "We're in the same boat, you know.",
+      "vietnamese": "Chúng ta cùng cảnh ngộ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555376"
+    },
+    {
+      "english": "It's a wild goose chase, man.",
+      "vietnamese": "Làm gì có chuyện đó.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555379"
+    },
+    {
+      "english": "Need to grab a bite, quickly.",
+      "vietnamese": "Cần làm một miếng, lẹ lên.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555381"
+    },
+    {
+      "english": "Where to find cheap eats?",
+      "vietnamese": "Tìm chỗ ăn rẻ đâu?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555384"
+    },
+    {
+      "english": "This place is a hidden gem.",
+      "vietnamese": "Chỗ này là bảo bối á.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555386"
+    },
+    {
+      "english": "How much for this, negotiable?",
+      "vietnamese": "Cái này nhiêu, bớt được không?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555389"
+    },
+    {
+      "english": "Can you recommend a good spot?",
+      "vietnamese": "Có chỗ nào hay không?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555391"
+    },
+    {
+      "english": "Need a taxi, right now.",
+      "vietnamese": "Gọi taxi, liền liền.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555395"
+    },
+    {
+      "english": "Is this the right way?",
+      "vietnamese": "Đi đường này đúng không?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555397"
+    },
+    {
+      "english": "Which bus goes there?",
+      "vietnamese": "Xe buýt nào đi đó?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555399"
+    },
+    {
+      "english": "The signal's weak, darn it.",
+      "vietnamese": "Sóng yếu, bực ghê.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555402"
+    },
+    {
+      "english": "My phone's dead, no power.",
+      "vietnamese": "Điện thoại hết pin.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555405"
+    },
+    {
+      "english": "Can I borrow your charger?",
+      "vietnamese": "Mượn sạc nhờ chút.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555407"
+    },
+    {
+      "english": "Need to charge my phone, fast.",
+      "vietnamese": "Sạc điện thoại gấp.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555410"
+    },
+    {
+      "english": "This Wi-Fi is so slow.",
+      "vietnamese": "Wifi chậm như rùa.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555413"
+    },
+    {
+      "english": "Got any cash on you?",
+      "vietnamese": "Có tiền mặt không?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-19T05:31:39.555415"
     }
   ],
-  "last_updated": "2026-10-18T05:18:00.611507"
+  "last_updated": "2026-10-19T05:31:39.555417"
 }
