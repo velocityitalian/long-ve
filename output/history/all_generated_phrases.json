@@ -33503,7 +33503,727 @@
       "vietnamese": "Có tiền mặt không?",
       "category": "Common Native Slang",
       "generated_at": "2026-10-19T05:31:39.555415"
+    },
+    {
+      "english": "Listen well, speak wisely.",
+      "vietnamese": "Nghe kỹ, nói khôn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739791"
+    },
+    {
+      "english": "Be patient, great things grow.",
+      "vietnamese": "Kiên nhẫn, điều hay sẽ đến.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739805"
+    },
+    {
+      "english": "Learn from past, build future.",
+      "vietnamese": "Học quá khứ, xây tương lai.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739809"
+    },
+    {
+      "english": "A kind word, warms the heart.",
+      "vietnamese": "Lời tử tế, ấm lòng người.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739813"
+    },
+    {
+      "english": "Observe much, say little.",
+      "vietnamese": "Quan sát nhiều, nói ít.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739815"
+    },
+    {
+      "english": "Do good, feel good.",
+      "vietnamese": "Làm điều tốt, thấy tốt.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739820"
+    },
+    {
+      "english": "Think deeply, act boldly.",
+      "vietnamese": "Nghĩ sâu, làm dũng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739824"
+    },
+    {
+      "english": "Truth is simple, often hidden.",
+      "vietnamese": "Sự thật đơn giản, thường ẩn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739829"
+    },
+    {
+      "english": "Wisdom comes, with experience.",
+      "vietnamese": "Trí khôn đến, từ kinh nghiệm.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739833"
+    },
+    {
+      "english": "A quiet mind, sees clearly.",
+      "vietnamese": "Tâm tĩnh, nhìn rõ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739836"
+    },
+    {
+      "english": "Help others, help yourself.",
+      "vietnamese": "Giúp người, giúp ta.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739839"
+    },
+    {
+      "english": "Honesty, the best policy.",
+      "vietnamese": "Trung thực, là tốt nhất.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739842"
+    },
+    {
+      "english": "Understand first, then judge.",
+      "vietnamese": "Hiểu trước, rồi phán xét.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739845"
+    },
+    {
+      "english": "Kindness costs nothing.",
+      "vietnamese": "Tử tế không tốn tiền.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739847"
+    },
+    {
+      "english": "Life is a teacher.",
+      "vietnamese": "Cuộc đời là thầy dạy.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739850"
+    },
+    {
+      "english": "Learn to forgive.",
+      "vietnamese": "Học cách tha thứ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739852"
+    },
+    {
+      "english": "A smile, a bridge.",
+      "vietnamese": "Nụ cười, là cầu nối.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739857"
+    },
+    {
+      "english": "Be humble, stay strong.",
+      "vietnamese": "Khiêm tốn, vững mạnh.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739859"
+    },
+    {
+      "english": "Cherish the moment.",
+      "vietnamese": "Trân trọng khoảnh khắc.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739862"
+    },
+    {
+      "english": "Wisdom is light.",
+      "vietnamese": "Minh triết là ánh sáng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739864"
+    },
+    {
+      "english": "Could you explain?, this more?",
+      "vietnamese": "Bạn có thể giải thích?, rõ hơn không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739867"
+    },
+    {
+      "english": "How should I, approach this?",
+      "vietnamese": "Tôi nên tiếp cận, việc này thế nào?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739944"
+    },
+    {
+      "english": "What's your opinion?, on this?",
+      "vietnamese": "Ý kiến của bạn?, là gì về việc này?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739948"
+    },
+    {
+      "english": "Can we discuss?, this later?",
+      "vietnamese": "Chúng ta có thể, bàn chuyện này sau?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739951"
+    },
+    {
+      "english": "Do you understand?, what I mean?",
+      "vietnamese": "Bạn có hiểu, ý tôi không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739954"
+    },
+    {
+      "english": "Is this correct?, my friend?",
+      "vietnamese": "Điều này đúng, chứ bạn tôi?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739957"
+    },
+    {
+      "english": "What should we, do next?",
+      "vietnamese": "Chúng ta nên, làm gì tiếp theo?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739960"
+    },
+    {
+      "english": "Tell me more, please.",
+      "vietnamese": "Kể tôi nghe thêm, ơn bạn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739962"
+    },
+    {
+      "english": "What's the problem?, we face?",
+      "vietnamese": "Vấn đề chúng ta, gặp phải là gì?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739966"
+    },
+    {
+      "english": "Can you show me?, how to do?",
+      "vietnamese": "Bạn có thể chỉ tôi, cách làm không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739968"
+    },
+    {
+      "english": "What are your, thoughts?",
+      "vietnamese": "Suy nghĩ của bạn, là gì?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739971"
+    },
+    {
+      "english": "How do you say?, this word?",
+      "vietnamese": "Bạn nói từ này, như thế nào?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739976"
+    },
+    {
+      "english": "Is there another, way?",
+      "vietnamese": "Có cách nào, khác không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739979"
+    },
+    {
+      "english": "What's the best, approach?",
+      "vietnamese": "Cách tiếp cận, nào tốt nhất?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739982"
+    },
+    {
+      "english": "Can I ask, a question?",
+      "vietnamese": "Tôi có thể, hỏi một câu không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739985"
+    },
+    {
+      "english": "What does this, mean?",
+      "vietnamese": "Điều này có nghĩa, là gì?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739988"
+    },
+    {
+      "english": "Are you okay?, with this?",
+      "vietnamese": "Bạn có ổn, với điều này không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739991"
+    },
+    {
+      "english": "What is your, goal?",
+      "vietnamese": "Mục tiêu của bạn, là gì?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739993"
+    },
+    {
+      "english": "Can we collaborate?, together?",
+      "vietnamese": "Chúng ta có thể, hợp tác không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739996"
+    },
+    {
+      "english": "Why did you, choose this?",
+      "vietnamese": "Tại sao bạn, chọn điều này?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.739999"
+    },
+    {
+      "english": "What lessons, learned?",
+      "vietnamese": "Bài học rút ra, là gì?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740001"
+    },
+    {
+      "english": "How do we, solve this?",
+      "vietnamese": "Chúng ta giải quyết, điều này thế nào?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740004"
+    },
+    {
+      "english": "What's your wisdom?, to share?",
+      "vietnamese": "Lời khôn ngoan của bạn, là gì?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740007"
+    },
+    {
+      "english": "Did you hear?, that?",
+      "vietnamese": "Bạn có nghe, thấy không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740010"
+    },
+    {
+      "english": "What's the plan?, then?",
+      "vietnamese": "Kế hoạch tiếp theo, là gì?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740015"
+    },
+    {
+      "english": "Can you help, me understand?",
+      "vietnamese": "Bạn có thể giúp tôi, hiểu không?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740017"
+    },
+    {
+      "english": "Your effort shines, brightly.",
+      "vietnamese": "Nỗ lực của bạn thật tỏa sáng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740020"
+    },
+    {
+      "english": "Positive thoughts, win.",
+      "vietnamese": "Suy nghĩ tích cực, sẽ thắng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740023"
+    },
+    {
+      "english": "Never give up, on dreams.",
+      "vietnamese": "Đừng bao giờ bỏ cuộc mơ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740028"
+    },
+    {
+      "english": "Your strength is amazing.",
+      "vietnamese": "Sức mạnh của bạn thật tuyệt vời.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740030"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "vietnamese": "Đón nhận thử thách, mạnh mẽ hơn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740033"
+    },
+    {
+      "english": "You can overcome, anything.",
+      "vietnamese": "Bạn có thể vượt qua, mọi thứ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740036"
+    },
+    {
+      "english": "Your determination, inspires me.",
+      "vietnamese": "Sự quyết tâm của bạn, truyền cảm hứng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740039"
+    },
+    {
+      "english": "Small steps, big results.",
+      "vietnamese": "Những bước nhỏ, kết quả lớn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740042"
+    },
+    {
+      "english": "Be brave, take risks.",
+      "vietnamese": "Hãy dũng cảm, chấp nhận rủi ro.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740045"
+    },
+    {
+      "english": "Your attitude, is everything.",
+      "vietnamese": "Thái độ của bạn, là tất cả.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740047"
+    },
+    {
+      "english": "Believe in the good, always.",
+      "vietnamese": "Luôn tin vào điều tốt đẹp.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740052"
+    },
+    {
+      "english": "Embrace change, with a smile.",
+      "vietnamese": "Đón nhận sự thay đổi, với nụ cười.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740055"
+    },
+    {
+      "english": "You've got this, I know.",
+      "vietnamese": "Bạn làm được mà, tôi biết.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740059"
+    },
+    {
+      "english": "Inner peace, brings outward calm.",
+      "vietnamese": "Bình yên nội tâm, mang lại sự tĩnh lặng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740062"
+    },
+    {
+      "english": "Your resilience, is admirable.",
+      "vietnamese": "Sự kiên cường của bạn, thật đáng ngưỡng mộ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740065"
+    },
+    {
+      "english": "Trust the process, patiently.",
+      "vietnamese": "Tin tưởng vào quá trình, một cách kiên nhẫn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740067"
+    },
+    {
+      "english": "Growth happens, outside comfort.",
+      "vietnamese": "Sự phát triển xảy ra, ngoài vùng an toàn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740070"
+    },
+    {
+      "english": "Your spirit, is unbreakable.",
+      "vietnamese": "Tinh thần của bạn, không thể phá vỡ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740073"
+    },
+    {
+      "english": "Better late, than never.",
+      "vietnamese": "Thà muộn, còn hơn không.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740076"
+    },
+    {
+      "english": "Look before, you leap.",
+      "vietnamese": "Suy đi, tính lại.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740079"
+    },
+    {
+      "english": "An apple a day, keeps the doctor away.",
+      "vietnamese": "Ăn quả táo mỗi ngày, khỏe cả ngày.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740082"
+    },
+    {
+      "english": "When in Rome, do as Romans do.",
+      "vietnamese": "Nhập gia, tùy tục.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740084"
+    },
+    {
+      "english": "Where there's a will, there's a way.",
+      "vietnamese": "Có chí, thì nên.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740088"
+    },
+    {
+      "english": "A friend in need, is a friend indeed.",
+      "vietnamese": "Hoạn nạn, tương thân.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740091"
+    },
+    {
+      "english": "Don't count your chickens, before they hatch.",
+      "vietnamese": "Đừng đếm gà, khi chưa nở.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740094"
+    },
+    {
+      "english": "Haste makes, waste.",
+      "vietnamese": "Vội vàng, thì hấp tấp.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740097"
+    },
+    {
+      "english": "Every cloud, has a silver lining.",
+      "vietnamese": "Trong cái khó, ló cái khôn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740100"
+    },
+    {
+      "english": "Two heads, are better than one.",
+      "vietnamese": "Hai người, hơn một người.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740103"
+    },
+    {
+      "english": "A bird in the hand, is worth two in the bush.",
+      "vietnamese": "Thà được, cái nhỏ mà chắc.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740108"
+    },
+    {
+      "english": "The early bird, catches the worm.",
+      "vietnamese": "Trâu chậm, uống nước đục.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740110"
+    },
+    {
+      "english": "When the cat's away, the mice will play.",
+      "vietnamese": "Vắng chủ, nhà mọc lá.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740114"
+    },
+    {
+      "english": "Actions speak, louder than words.",
+      "vietnamese": "Lời nói, gió bay.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740116"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "vietnamese": "Chậm mà, chắc.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740119"
+    },
+    {
+      "english": "Necessity is the mother, of invention.",
+      "vietnamese": "Cái khó, ló cái khôn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740124"
+    },
+    {
+      "english": "You reap, what you sow.",
+      "vietnamese": "Gieo nhân, nào gặt quả ấy.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740127"
+    },
+    {
+      "english": "A picture is, worth a thousand words.",
+      "vietnamese": "Trăm nghe, không bằng một thấy.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740129"
+    },
+    {
+      "english": "The grass is always, greener on the other side.",
+      "vietnamese": "Núi này, trông núi nọ, còn cao hơn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740132"
+    },
+    {
+      "english": "Too many cooks, spoil the broth.",
+      "vietnamese": "Quá nhiều người, làm hỏng việc.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740135"
+    },
+    {
+      "english": "Out of sight, out of mind.",
+      "vietnamese": "Xa mặt, cách lòng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740138"
+    },
+    {
+      "english": "A watched pot, never boils.",
+      "vietnamese": "Trông nồi, không sôi.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740140"
+    },
+    {
+      "english": "When it rains, it pours.",
+      "vietnamese": "Họa vô, đơn chí.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740143"
+    },
+    {
+      "english": "The squeaky wheel, gets the grease.",
+      "vietnamese": "Tiếng kêu, thì được đáp ứng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740147"
+    },
+    {
+      "english": "You can't judge a book, by its cover.",
+      "vietnamese": "Không thể đoán, sách qua bìa.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740151"
+    },
+    {
+      "english": "Better safe, than sorry.",
+      "vietnamese": "Phòng bệnh, hơn chữa bệnh.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740153"
+    },
+    {
+      "english": "Feelings first, then action.",
+      "vietnamese": "Cảm xúc trước, hành động sau.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740156"
+    },
+    {
+      "english": "Honesty, costs nothing.",
+      "vietnamese": "Thành thật, không tốn kém.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740159"
+    },
+    {
+      "english": "My heart, feels heavy.",
+      "vietnamese": "Lòng tôi, thấy nặng trĩu.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740162"
+    },
+    {
+      "english": "Reflect deeply, understand.",
+      "vietnamese": "Suy ngẫm sâu, để hiểu.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740164"
+    },
+    {
+      "english": "This makes me, sad.",
+      "vietnamese": "Điều này làm tôi, buồn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740167"
+    },
+    {
+      "english": "I'm truly, sorry.",
+      "vietnamese": "Tôi thật sự, xin lỗi.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740170"
+    },
+    {
+      "english": "My thoughts, wander.",
+      "vietnamese": "Tâm trí tôi, lan man.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740172"
+    },
+    {
+      "english": "Let it go, find peace.",
+      "vietnamese": "Buông bỏ đi, tìm bình yên.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740175"
+    },
+    {
+      "english": "Express yourself, clearly.",
+      "vietnamese": "Bày tỏ, rõ ràng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740178"
+    },
+    {
+      "english": "This feeling, is strong.",
+      "vietnamese": "Cảm giác này, thật mạnh.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740181"
+    },
+    {
+      "english": "Wisdom, comes with time.",
+      "vietnamese": "Trí tuệ, đến theo thời gian.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740184"
+    },
+    {
+      "english": "I feel, misunderstood.",
+      "vietnamese": "Tôi cảm thấy, bị hiểu lầm.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740186"
+    },
+    {
+      "english": "It’s okay, to cry.",
+      "vietnamese": "Khóc cũng, không sao.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740190"
+    },
+    {
+      "english": "Doubt arises, seek clarity.",
+      "vietnamese": "Nghi ngờ nảy sinh, tìm sự rõ ràng.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740193"
+    },
+    {
+      "english": "This brings, me joy.",
+      "vietnamese": "Điều này mang lại, cho tôi niềm vui.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740196"
+    },
+    {
+      "english": "Understand your, inner self.",
+      "vietnamese": "Thấu hiểu, bản ngã bên trong.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740199"
+    },
+    {
+      "english": "Regret is, a lesson.",
+      "vietnamese": "Hối tiếc là, một bài học.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740201"
+    },
+    {
+      "english": "My heart, aches.",
+      "vietnamese": "Trái tim tôi, đau.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740206"
+    },
+    {
+      "english": "Accept what is, now.",
+      "vietnamese": "Chấp nhận những gì, đang là.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740209"
+    },
+    {
+      "english": "True wisdom, is knowing.",
+      "vietnamese": "Minh triết thực sự, là sự thấu hiểu.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740211"
+    },
+    {
+      "english": "Be honest, with yourself.",
+      "vietnamese": "Hãy thật lòng, với mình.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740214"
+    },
+    {
+      "english": "Let go, of anger.",
+      "vietnamese": "Buông bỏ, sự tức giận.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740218"
+    },
+    {
+      "english": "Reflection, brings clarity.",
+      "vietnamese": "Chiêm nghiệm, mang lại sự sáng suốt.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740221"
+    },
+    {
+      "english": "I feel, relieved.",
+      "vietnamese": "Tôi cảm thấy, nhẹ nhõm.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740224"
+    },
+    {
+      "english": "My soul, is calm.",
+      "vietnamese": "Tâm hồn tôi, bình an.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740226"
+    },
+    {
+      "english": "Share your, true feelings.",
+      "vietnamese": "Chia sẻ, cảm xúc thật.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740229"
+    },
+    {
+      "english": "Be prepared, for anything.",
+      "vietnamese": "Chuẩn bị sẵn sàng, cho mọi thứ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740232"
+    },
+    {
+      "english": "Ask for help, if needed.",
+      "vietnamese": "Cần thì nhờ, đừng ngại.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740237"
+    },
+    {
+      "english": "Learn from mistakes, grow wiser.",
+      "vietnamese": "Sai lầm là bài học, để khôn hơn.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740240"
+    },
+    {
+      "english": "Patience brings, good results.",
+      "vietnamese": "Kiên nhẫn rồi sẽ, có thành quả.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-20T05:35:12.740242"
     }
   ],
-  "last_updated": "2026-10-19T05:31:39.555417"
+  "last_updated": "2026-10-20T05:35:12.740244"
 }
