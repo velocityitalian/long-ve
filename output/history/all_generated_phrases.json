@@ -34223,7 +34223,727 @@
       "vietnamese": "Kiên nhẫn rồi sẽ, có thành quả.",
       "category": "Wisdom",
       "generated_at": "2026-10-20T05:35:12.740242"
+    },
+    {
+      "english": "Are you free, tonight?",
+      "vietnamese": "Tối nay bạn rảnh không?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970729"
+    },
+    {
+      "english": "Let's go out, sometime.",
+      "vietnamese": "Chúng mình đi chơi, đi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970748"
+    },
+    {
+      "english": "You look great, today.",
+      "vietnamese": "Hôm nay bạn xinh quá.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970752"
+    },
+    {
+      "english": "I like your smile.",
+      "vietnamese": "Tôi thích nụ cười của bạn.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970755"
+    },
+    {
+      "english": "What are you doing, later?",
+      "vietnamese": "Lát nữa bạn làm gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970759"
+    },
+    {
+      "english": "You're very kind.",
+      "vietnamese": "Bạn thật tốt bụng.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970762"
+    },
+    {
+      "english": "Let's have coffee, soon.",
+      "vietnamese": "Mình đi cà phê, sớm nhé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970766"
+    },
+    {
+      "english": "This is nice, isn't it?",
+      "vietnamese": "Ở đây đẹp nhỉ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970772"
+    },
+    {
+      "english": "I miss you, already.",
+      "vietnamese": "Em nhớ anh quá.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970776"
+    },
+    {
+      "english": "What's your favorite color?",
+      "vietnamese": "Màu sắc yêu thích của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970780"
+    },
+    {
+      "english": "Can we meet, again?",
+      "vietnamese": "Chúng ta gặp lại, được không?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970783"
+    },
+    {
+      "english": "Are you single, by any chance?",
+      "vietnamese": "Bạn có độc thân không?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970786"
+    },
+    {
+      "english": "I find you interesting.",
+      "vietnamese": "Tôi thấy bạn thú vị.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970789"
+    },
+    {
+      "english": "You have nice eyes.",
+      "vietnamese": "Mắt bạn đẹp lắm.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970792"
+    },
+    {
+      "english": "What do you do, for fun?",
+      "vietnamese": "Bạn làm gì để giải trí?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970795"
+    },
+    {
+      "english": "I'm a little nervous.",
+      "vietnamese": "Tôi hơi hồi hộp.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970798"
+    },
+    {
+      "english": "This is unexpected.",
+      "vietnamese": "Điều này thật bất ngờ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970800"
+    },
+    {
+      "english": "You smell nice.",
+      "vietnamese": "Bạn có mùi hương dễ chịu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970803"
+    },
+    {
+      "english": "What's your plan, for the weekend?",
+      "vietnamese": "Kế hoạch cuối tuần của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970809"
+    },
+    {
+      "english": "I'm really enjoying this.",
+      "vietnamese": "Tôi thực sự thích điều này.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970812"
+    },
+    {
+      "english": "You're quite charming.",
+      "vietnamese": "Bạn quyến rũ ghê.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970815"
+    },
+    {
+      "english": "Can I walk you, home?",
+      "vietnamese": "Tôi đưa bạn về nhà nhé?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970818"
+    },
+    {
+      "english": "You're easy to talk to.",
+      "vietnamese": "Bạn dễ nói chuyện ghê.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970821"
+    },
+    {
+      "english": "Let's do this, again.",
+      "vietnamese": "Mình làm việc này, lần nữa nhé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970824"
+    },
+    {
+      "english": "What's on your mind, lately?",
+      "vietnamese": "Dạo này bạn đang nghĩ gì thế?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970827"
+    },
+    {
+      "english": "Tell me more, about yourself.",
+      "vietnamese": "Kể thêm cho tôi nghe, về bạn đi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970830"
+    },
+    {
+      "english": "What's your ideal, date like?",
+      "vietnamese": "Buổi hẹn hò lý tưởng của bạn thế nào?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970834"
+    },
+    {
+      "english": "Do you believe, in love at first sight?",
+      "vietnamese": "Bạn có tin vào, tình yêu sét đánh không?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970837"
+    },
+    {
+      "english": "What are you looking, for in a partner?",
+      "vietnamese": "Bạn tìm kiếm điều gì, ở một nửa kia?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970840"
+    },
+    {
+      "english": "Have you been, hurt before?",
+      "vietnamese": "Bạn từng bị, tổn thương trước đây chưa?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970846"
+    },
+    {
+      "english": "What's your relationship, status?",
+      "vietnamese": "Tình trạng mối quan hệ, của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970849"
+    },
+    {
+      "english": "Are you open, to dating someone new?",
+      "vietnamese": "Bạn có cởi mở, với việc hẹn hò người mới không?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970852"
+    },
+    {
+      "english": "What's something, that makes you laugh?",
+      "vietnamese": "Điều gì khiến bạn, bật cười thế?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970855"
+    },
+    {
+      "english": "Do you prefer, texting or calling?",
+      "vietnamese": "Bạn thích nhắn tin, hay gọi điện hơn?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970858"
+    },
+    {
+      "english": "What's your biggest, turn-on?",
+      "vietnamese": "Điểm nào khiến bạn, bị thu hút nhất?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970862"
+    },
+    {
+      "english": "What's your dream, vacation spot?",
+      "vietnamese": "Điểm đến du lịch, trong mơ của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970865"
+    },
+    {
+      "english": "What's your favorite, type of music?",
+      "vietnamese": "Thể loại nhạc, yêu thích của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970870"
+    },
+    {
+      "english": "How do you handle, disagreements?",
+      "vietnamese": "Bạn giải quyết, mâu thuẫn thế nào?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970873"
+    },
+    {
+      "english": "What are your, hobbies?",
+      "vietnamese": "Sở thích, của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970876"
+    },
+    {
+      "english": "What's a deal-breaker, for you?",
+      "vietnamese": "Điều gì khiến bạn, quyết định dừng lại?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970879"
+    },
+    {
+      "english": "What makes a relationship, last?",
+      "vietnamese": "Điều gì làm cho, một mối quan hệ bền lâu?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970882"
+    },
+    {
+      "english": "Are you looking, for something serious?",
+      "vietnamese": "Bạn đang tìm kiếm, điều gì đó nghiêm túc?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970885"
+    },
+    {
+      "english": "What's your love, language?",
+      "vietnamese": "Ngôn ngữ tình yêu, của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970888"
+    },
+    {
+      "english": "What's your biggest, fear?",
+      "vietnamese": "Nỗi sợ lớn nhất, của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970891"
+    },
+    {
+      "english": "What's your favorite, food?",
+      "vietnamese": "Món ăn, yêu thích của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970894"
+    },
+    {
+      "english": "What's your pet, peeve?",
+      "vietnamese": "Điều gì khiến bạn, khó chịu nhất?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970896"
+    },
+    {
+      "english": "What's your favorite, movie genre?",
+      "vietnamese": "Thể loại phim, yêu thích của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970899"
+    },
+    {
+      "english": "What are you passionate, about?",
+      "vietnamese": "Bạn đam mê, điều gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970904"
+    },
+    {
+      "english": "What's your opinion, on kids?",
+      "vietnamese": "Quan điểm của bạn, về con cái thế nào?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970907"
+    },
+    {
+      "english": "What's your favorite, season?",
+      "vietnamese": "Mùa yêu thích, của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970910"
+    },
+    {
+      "english": "What are your, life goals?",
+      "vietnamese": "Mục tiêu cuộc sống, của bạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970913"
+    },
+    {
+      "english": "What's your definition, of romance?",
+      "vietnamese": "Định nghĩa của bạn, về sự lãng mạn là gì?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970916"
+    },
+    {
+      "english": "What's a skill, you want to learn?",
+      "vietnamese": "Bạn muốn học, một kỹ năng nào?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970919"
+    },
+    {
+      "english": "Your confidence is attractive.",
+      "vietnamese": "Sự tự tin của bạn rất cuốn hút.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970922"
+    },
+    {
+      "english": "Be open to new possibilities.",
+      "vietnamese": "Hãy cởi mở với những khả năng mới.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970925"
+    },
+    {
+      "english": "Every connection is a lesson.",
+      "vietnamese": "Mọi kết nối đều là một bài học.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970928"
+    },
+    {
+      "english": "Don't be afraid to be vulnerable.",
+      "vietnamese": "Đừng ngại thể hiện sự yếu đuối.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970931"
+    },
+    {
+      "english": "You deserve happiness, truly.",
+      "vietnamese": "Bạn xứng đáng có được hạnh phúc.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970934"
+    },
+    {
+      "english": "Focus on what you can control.",
+      "vietnamese": "Tập trung vào những gì bạn kiểm soát.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970937"
+    },
+    {
+      "english": "Kindness goes a long way.",
+      "vietnamese": "Lòng tốt sẽ đi được xa lắm.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970943"
+    },
+    {
+      "english": "Let your heart guide you.",
+      "vietnamese": "Hãy để trái tim dẫn lối.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970945"
+    },
+    {
+      "english": "Your positive energy shines.",
+      "vietnamese": "Năng lượng tích cực của bạn tỏa sáng.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970950"
+    },
+    {
+      "english": "You're doing great, honestly.",
+      "vietnamese": "Bạn đang làm rất tốt, thật lòng.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970953"
+    },
+    {
+      "english": "Stay true to yourself, always.",
+      "vietnamese": "Luôn là chính mình nhé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970957"
+    },
+    {
+      "english": "Good things take time.",
+      "vietnamese": "Điều tốt đẹp cần có thời gian.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970959"
+    },
+    {
+      "english": "Be patient with the process.",
+      "vietnamese": "Hãy kiên nhẫn với quá trình.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970962"
+    },
+    {
+      "english": "Radiate love, receive love.",
+      "vietnamese": "Tỏa ra tình yêu, nhận lại tình yêu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970966"
+    },
+    {
+      "english": "Believe in the possibility of magic.",
+      "vietnamese": "Hãy tin vào phép màu có thể xảy ra.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970969"
+    },
+    {
+      "english": "Let go of what doesn't serve you.",
+      "vietnamese": "Buông bỏ những gì không còn phù hợp.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970972"
+    },
+    {
+      "english": "Your smile brightens the room.",
+      "vietnamese": "Nụ cười của bạn làm bừng sáng căn phòng.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970975"
+    },
+    {
+      "english": "You have a good heart.",
+      "vietnamese": "Bạn có một trái tim nhân hậu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970978"
+    },
+    {
+      "english": "Keep an open mind, dear.",
+      "vietnamese": "Hãy giữ một cái đầu cởi mở nhé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970981"
+    },
+    {
+      "english": "You are worthy of love.",
+      "vietnamese": "Bạn xứng đáng nhận được tình yêu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970984"
+    },
+    {
+      "english": "Trust your intuition, it's strong.",
+      "vietnamese": "Hãy tin vào trực giác của bạn, nó mạnh mẽ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970989"
+    },
+    {
+      "english": "Be brave, be bold.",
+      "vietnamese": "Hãy dũng cảm, hãy táo bạo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970992"
+    },
+    {
+      "english": "You are capable of great love.",
+      "vietnamese": "Bạn có khả năng yêu rất nhiều.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970995"
+    },
+    {
+      "english": "Let your true self shine.",
+      "vietnamese": "Hãy để con người thật của bạn tỏa sáng.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.970998"
+    },
+    {
+      "english": "This is a beautiful beginning.",
+      "vietnamese": "Đây là một khởi đầu đẹp đẽ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971000"
+    },
+    {
+      "english": "Love at first sight, maybe?",
+      "vietnamese": "Yêu từ cái nhìn đầu tiên, có lẽ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971004"
+    },
+    {
+      "english": "We click, like magnets.",
+      "vietnamese": "Chúng ta hợp nhau, như nam châm.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971006"
+    },
+    {
+      "english": "My heart skipped a beat.",
+      "vietnamese": "Tim tôi đã lỡ nhịp.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971009"
+    },
+    {
+      "english": "Are we falling for each other?",
+      "vietnamese": "Chúng ta có đang yêu nhau không?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971012"
+    },
+    {
+      "english": "This feels like destiny.",
+      "vietnamese": "Cảm giác như định mệnh vậy.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971015"
+    },
+    {
+      "english": "You're my missing piece.",
+      "vietnamese": "Bạn là mảnh ghép còn thiếu của tôi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971018"
+    },
+    {
+      "english": "Butterflies in my stomach.",
+      "vietnamese": "Bụng tôi cứ bồn chồn.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971021"
+    },
+    {
+      "english": "We're on the same wavelength.",
+      "vietnamese": "Chúng ta cùng tần số.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971024"
+    },
+    {
+      "english": "You make me feel complete.",
+      "vietnamese": "Bạn làm tôi cảm thấy trọn vẹn.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971026"
+    },
+    {
+      "english": "My world lit up, seeing you.",
+      "vietnamese": "Thế giới của tôi bừng sáng khi thấy bạn.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971029"
+    },
+    {
+      "english": "I'm head over heels for you.",
+      "vietnamese": "Tôi yêu bạn điên cuồng.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971032"
+    },
+    {
+      "english": "This love is worth fighting for.",
+      "vietnamese": "Tình yêu này đáng để đấu tranh.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971035"
+    },
+    {
+      "english": "You stole my heart away.",
+      "vietnamese": "Bạn đã đánh cắp trái tim tôi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971038"
+    },
+    {
+      "english": "Our souls connect deeply.",
+      "vietnamese": "Linh hồn chúng ta kết nối sâu sắc.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971040"
+    },
+    {
+      "english": "You're the one I've dreamed of.",
+      "vietnamese": "Bạn là người tôi hằng mơ ước.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971044"
+    },
+    {
+      "english": "This feels like a fairytale.",
+      "vietnamese": "Cảm giác như chuyện cổ tích.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971049"
+    },
+    {
+      "english": "We're a perfect match, aren't we?",
+      "vietnamese": "Chúng ta là một cặp hoàn hảo, phải không?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971053"
+    },
+    {
+      "english": "You're my soulmate, I feel it.",
+      "vietnamese": "Bạn là tri kỷ của tôi, tôi cảm nhận được.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971056"
+    },
+    {
+      "english": "This connection is special.",
+      "vietnamese": "Sự kết nối này thật đặc biệt.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971058"
+    },
+    {
+      "english": "I think this is love.",
+      "vietnamese": "Tôi nghĩ đây là tình yêu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971061"
+    },
+    {
+      "english": "Our hearts beat as one.",
+      "vietnamese": "Trái tim chúng ta cùng nhịp đập.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971067"
+    },
+    {
+      "english": "You're the one I want.",
+      "vietnamese": "Bạn là người tôi muốn.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971071"
+    },
+    {
+      "english": "Let's try new things together, okay?",
+      "vietnamese": "Mình thử những điều mới cùng nhau nhé?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971074"
+    },
+    {
+      "english": "Don't overthink it, just enjoy.",
+      "vietnamese": "Đừng nghĩ nhiều, cứ tận hưởng đi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971078"
+    },
+    {
+      "english": "Compliment them sincerely, always.",
+      "vietnamese": "Khen họ chân thành, luôn luôn nhé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971081"
+    },
+    {
+      "english": "Ask about their day, show you care.",
+      "vietnamese": "Hỏi về ngày của họ, thể hiện sự quan tâm.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971084"
+    },
+    {
+      "english": "Learn a few local phrases first.",
+      "vietnamese": "Học vài câu địa phương trước đã.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971087"
+    },
+    {
+      "english": "Food is a great conversation starter.",
+      "vietnamese": "Đồ ăn là khởi đầu câu chuyện tuyệt vời.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971090"
+    },
+    {
+      "english": "Be respectful of their culture, please.",
+      "vietnamese": "Hãy tôn trọng văn hóa của họ nhé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971092"
+    },
+    {
+      "english": "Listen more than you speak, usually.",
+      "vietnamese": "Nghe nhiều hơn nói, thường thì vậy.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971096"
+    },
+    {
+      "english": "Suggest simple, low-pressure activities.",
+      "vietnamese": "Gợi ý hoạt động đơn giản, không áp lực.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971099"
+    },
+    {
+      "english": "Send a sweet message, unexpectedly.",
+      "vietnamese": "Gửi một tin nhắn ngọt ngào, bất ngờ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971102"
+    },
+    {
+      "english": "Remember small details they share.",
+      "vietnamese": "Nhớ những chi tiết nhỏ họ từng kể.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971104"
+    },
+    {
+      "english": "Offer help when they need it.",
+      "vietnamese": "Đề nghị giúp đỡ khi họ cần.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971107"
+    },
+    {
+      "english": "Be present, put your phone away.",
+      "vietnamese": "Hãy có mặt, cất điện thoại đi nhé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971110"
+    },
+    {
+      "english": "Introduce them to your friends soon.",
+      "vietnamese": "Sớm giới thiệu họ với bạn bè nhé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971113"
+    },
+    {
+      "english": "Share your hobbies, passions too.",
+      "vietnamese": "Chia sẻ sở thích, đam mê của bạn nữa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971116"
+    },
+    {
+      "english": "Make them laugh, it's important.",
+      "vietnamese": "Làm họ cười, điều đó quan trọng lắm.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971119"
+    },
+    {
+      "english": "Plan a surprise, thoughtful gesture.",
+      "vietnamese": "Lên kế hoạch một bất ngờ chu đáo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971122"
+    },
+    {
+      "english": "Ask for their opinion, value it.",
+      "vietnamese": "Hỏi ý kiến của họ, trân trọng nó.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971125"
+    },
+    {
+      "english": "Send a postcard from your travels.",
+      "vietnamese": "Gửi bưu thiếp từ chuyến đi của bạn.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971128"
+    },
+    {
+      "english": "Learn their love language, try it.",
+      "vietnamese": "Học ngôn ngữ tình yêu của họ, thử xem.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T05:34:57.971130"
     }
   ],
-  "last_updated": "2026-10-20T05:35:12.740244"
+  "last_updated": "2026-10-21T05:34:57.971133"
 }
