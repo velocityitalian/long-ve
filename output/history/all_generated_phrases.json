@@ -34943,7 +34943,727 @@
       "vietnamese": "Học ngôn ngữ tình yêu của họ, thử xem.",
       "category": "Dating & Romance",
       "generated_at": "2026-10-21T05:34:57.971130"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "vietnamese": "Xin hỏi, trạm xe buýt ở đâu ạ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882614"
+    },
+    {
+      "english": "How much is the ticket, to...",
+      "vietnamese": "Vé xe buýt đi... bao nhiêu tiền ạ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882627"
+    },
+    {
+      "english": "Does this bus go to...",
+      "vietnamese": "Chuyến xe này có đi... không ạ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882631"
+    },
+    {
+      "english": "I want to get off here.",
+      "vietnamese": "Tôi muốn xuống ở đây.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882634"
+    },
+    {
+      "english": "Excuse me, is this seat taken?",
+      "vietnamese": "Xin lỗi, ghế này có ai ngồi chưa ạ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882637"
+    },
+    {
+      "english": "Can I pay with cash?",
+      "vietnamese": "Tôi có thể trả bằng tiền mặt không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882640"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "vietnamese": "Tôi có thể mua vé ở đâu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882643"
+    },
+    {
+      "english": "What time does the last bus leave?",
+      "vietnamese": "Chuyến xe cuối cùng rời đi lúc mấy giờ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882648"
+    },
+    {
+      "english": "This is my stop, thank you.",
+      "vietnamese": "Đây là bến của tôi, cảm ơn.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882652"
+    },
+    {
+      "english": "Is it crowded today?",
+      "vietnamese": "Hôm nay có đông không ạ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882655"
+    },
+    {
+      "english": "Can you help me, please?",
+      "vietnamese": "Bạn có thể giúp tôi được không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882658"
+    },
+    {
+      "english": "I'm looking for the train station.",
+      "vietnamese": "Tôi đang tìm ga tàu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882661"
+    },
+    {
+      "english": "Which platform do I need?",
+      "vietnamese": "Tôi cần ra sân ga nào?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882663"
+    },
+    {
+      "english": "Can I have a map, please?",
+      "vietnamese": "Cho tôi xin một bản đồ ạ.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882666"
+    },
+    {
+      "english": "How often do the buses run?",
+      "vietnamese": "Xe buýt chạy bao lâu một chuyến?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882669"
+    },
+    {
+      "english": "Is there a toilet on board?",
+      "vietnamese": "Trên xe có nhà vệ sinh không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882673"
+    },
+    {
+      "english": "I missed my bus, oh no!",
+      "vietnamese": "Tôi lỡ chuyến xe buýt rồi, ôi không!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882676"
+    },
+    {
+      "english": "Can I use my phone here?",
+      "vietnamese": "Tôi có thể dùng điện thoại ở đây không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882679"
+    },
+    {
+      "english": "This is very convenient.",
+      "vietnamese": "Cái này tiện lợi thật.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882681"
+    },
+    {
+      "english": "The ride was smooth.",
+      "vietnamese": "Chuyến đi êm ái quá.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882684"
+    },
+    {
+      "english": "Are we there yet?",
+      "vietnamese": "Chúng ta sắp đến nơi chưa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882686"
+    },
+    {
+      "english": "I need to go to the airport.",
+      "vietnamese": "Tôi cần đi sân bay.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882689"
+    },
+    {
+      "english": "Is there a connection to...?",
+      "vietnamese": "Có chuyến nối đi... không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882692"
+    },
+    {
+      "english": "Please drive carefully.",
+      "vietnamese": "Xin hãy lái xe cẩn thận.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882695"
+    },
+    {
+      "english": "I'm running late.",
+      "vietnamese": "Tôi bị trễ rồi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882697"
+    },
+    {
+      "english": "This bus is very full.",
+      "vietnamese": "Xe buýt này đông quá.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882702"
+    },
+    {
+      "english": "Can I get a transfer ticket?",
+      "vietnamese": "Tôi có thể lấy vé chuyển tuyến không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882704"
+    },
+    {
+      "english": "What's the next stop?",
+      "vietnamese": "Trạm kế tiếp là gì?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882707"
+    },
+    {
+      "english": "This is the last stop.",
+      "vietnamese": "Đây là trạm cuối.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882709"
+    },
+    {
+      "english": "I'm a bit lost.",
+      "vietnamese": "Tôi hơi bị lạc.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882712"
+    },
+    {
+      "english": "Could you tell me, the next stop?",
+      "vietnamese": "Bạn cho mình biết, điểm dừng tiếp theo ạ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882715"
+    },
+    {
+      "english": "Is this the right bus, for district 1?",
+      "vietnamese": "Xe này có phải, đi quận 1 không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882718"
+    },
+    {
+      "english": "How do I get, to the market?",
+      "vietnamese": "Làm sao để đi, đến chợ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882721"
+    },
+    {
+      "english": "Can I get a discount, if I buy a return ticket?",
+      "vietnamese": "Vé khứ hồi có giảm giá không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882724"
+    },
+    {
+      "english": "Where should I wait, for the bus?",
+      "vietnamese": "Tôi nên đợi xe buýt, ở đâu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882727"
+    },
+    {
+      "english": "Is there a restroom, nearby?",
+      "vietnamese": "Có nhà vệ sinh, gần đây không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882730"
+    },
+    {
+      "english": "Excuse me, can I ask a question?",
+      "vietnamese": "Xin lỗi, tôi có thể hỏi một chút không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882733"
+    },
+    {
+      "english": "What's the best route, to the beach?",
+      "vietnamese": "Đường nào đi, ra biển là tiện nhất?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882736"
+    },
+    {
+      "english": "Does this train, stop at the central station?",
+      "vietnamese": "Chuyến tàu này, có dừng ở ga trung tâm không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882739"
+    },
+    {
+      "english": "How long does the journey take, roughly?",
+      "vietnamese": "Chuyến đi mất, khoảng bao lâu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882742"
+    },
+    {
+      "english": "Can I bring my luggage, on the bus?",
+      "vietnamese": "Tôi có thể mang hành lý, lên xe buýt không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882745"
+    },
+    {
+      "english": "Where is the nearest, subway entrance?",
+      "vietnamese": "Lối vào tàu điện ngầm, gần nhất là ở đâu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882747"
+    },
+    {
+      "english": "Is it possible, to get a transfer?",
+      "vietnamese": "Có thể đổi xe, được không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882750"
+    },
+    {
+      "english": "Could you recommend, a good route?",
+      "vietnamese": "Bạn có thể gợi ý, một tuyến đường tốt không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882753"
+    },
+    {
+      "english": "When is the first bus, in the morning?",
+      "vietnamese": "Chuyến xe buýt đầu tiên, vào buổi sáng là lúc mấy giờ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882755"
+    },
+    {
+      "english": "Do I need exact change, for the fare?",
+      "vietnamese": "Tiền vé có cần, đủ tiền lẻ không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882758"
+    },
+    {
+      "english": "Is there Wi-Fi, on this bus?",
+      "vietnamese": "Xe buýt này có Wi-Fi, không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882761"
+    },
+    {
+      "english": "How do I signal, the driver to stop?",
+      "vietnamese": "Làm sao để báo, cho tài xế dừng xe?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882765"
+    },
+    {
+      "english": "Is it safe, to travel alone at night?",
+      "vietnamese": "Đi một mình vào ban đêm, có an toàn không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882768"
+    },
+    {
+      "english": "Where can I get, a day pass?",
+      "vietnamese": "Tôi có thể mua vé ngày, ở đâu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882771"
+    },
+    {
+      "english": "Can I use my phone, to pay?",
+      "vietnamese": "Tôi có thể dùng điện thoại, để thanh toán không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882773"
+    },
+    {
+      "english": "What's the schedule, like today?",
+      "vietnamese": "Lịch trình hôm nay, thế nào?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882776"
+    },
+    {
+      "english": "Is this seat, available?",
+      "vietnamese": "Chỗ này còn, trống không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882779"
+    },
+    {
+      "english": "How often, does the train run?",
+      "vietnamese": "Tàu chạy, bao lâu một chuyến?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882782"
+    },
+    {
+      "english": "Can I get off, at any stop?",
+      "vietnamese": "Tôi có thể xuống, ở bất kỳ trạm nào không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882784"
+    },
+    {
+      "english": "Where is the ticket machine, located?",
+      "vietnamese": "Máy bán vé, nằm ở đâu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882787"
+    },
+    {
+      "english": "Is there a lost and found, office?",
+      "vietnamese": "Có bộ phận, tìm đồ thất lạc không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882789"
+    },
+    {
+      "english": "Could you help me, find my way?",
+      "vietnamese": "Bạn có thể giúp tôi, tìm đường không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882792"
+    },
+    {
+      "english": "What time does the first train, depart?",
+      "vietnamese": "Chuyến tàu đầu tiên, khởi hành lúc mấy giờ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882795"
+    },
+    {
+      "english": "Are there any delays, expected?",
+      "vietnamese": "Có dự kiến, chậm trễ nào không?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882799"
+    },
+    {
+      "english": "This bus, is packed like sardines.",
+      "vietnamese": "Xe này, đông như nêm.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882802"
+    },
+    {
+      "english": "He travels, light as a feather.",
+      "vietnamese": "Anh ấy đi, nhẹ tênh.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882805"
+    },
+    {
+      "english": "The train journey, felt like forever.",
+      "vietnamese": "Đi tàu, dài như thế kỷ.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882807"
+    },
+    {
+      "english": "He's always, on the go.",
+      "vietnamese": "Anh ấy, chạy như ngựa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882812"
+    },
+    {
+      "english": "This route, is a lifesaver.",
+      "vietnamese": "Tuyến này, cứu cánh.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882815"
+    },
+    {
+      "english": "He missed the bus, by a hair.",
+      "vietnamese": "Anh ấy lỡ xe, trong gang tấc.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882821"
+    },
+    {
+      "english": "This bus is, a snail's pace.",
+      "vietnamese": "Xe chạy, rùa bò.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882824"
+    },
+    {
+      "english": "He's always, rushing.",
+      "vietnamese": "Anh ấy, vội như vịt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882827"
+    },
+    {
+      "english": "This bus ride, was a breeze.",
+      "vietnamese": "Đi xe này, nhàn như đi chợ.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882830"
+    },
+    {
+      "english": "He's very punctual, never late.",
+      "vietnamese": "Anh ấy, đúng giờ như tàu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882833"
+    },
+    {
+      "english": "This ticket, is golden.",
+      "vietnamese": "Vé này, quý như vàng.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882836"
+    },
+    {
+      "english": "He arrived, just in the nick of time.",
+      "vietnamese": "Anh ấy đến, sát nút.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882839"
+    },
+    {
+      "english": "This bus is, a time machine.",
+      "vietnamese": "Xe này, đưa ta về quá khứ.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882841"
+    },
+    {
+      "english": "He travels, cheap and cheerful.",
+      "vietnamese": "Anh ấy đi, rẻ như cho.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882844"
+    },
+    {
+      "english": "This route, is a shortcut.",
+      "vietnamese": "Tuyến này, tắt một quãng.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882847"
+    },
+    {
+      "english": "He catches the bus, at the last minute.",
+      "vietnamese": "Anh ấy đón xe, giờ chót.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882849"
+    },
+    {
+      "english": "This bus is, always on time.",
+      "vietnamese": "Xe này, đúng giờ như chỉ.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882852"
+    },
+    {
+      "english": "He waits, patiently.",
+      "vietnamese": "Anh ấy đợi, như tằm ăn dâu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882854"
+    },
+    {
+      "english": "This bus driver, is a pro.",
+      "vietnamese": "Anh tài xế này, đẳng cấp.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882859"
+    },
+    {
+      "english": "This bus is, smooth sailing.",
+      "vietnamese": "Đi xe này, êm ru.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882862"
+    },
+    {
+      "english": "He travels, like a king.",
+      "vietnamese": "Anh ấy đi, như ông hoàng.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882864"
+    },
+    {
+      "english": "This bus is, a bumpy ride.",
+      "vietnamese": "Xe này, xóc như brasileiros.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882867"
+    },
+    {
+      "english": "He's very laid-back, on the bus.",
+      "vietnamese": "Anh ấy, ung dung trên xe.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882870"
+    },
+    {
+      "english": "This bus is, my escape.",
+      "vietnamese": "Xe buýt này, là lối thoát.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882873"
+    },
+    {
+      "english": "He travels, at his own pace.",
+      "vietnamese": "Anh ấy đi, tùy hứng.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882875"
+    },
+    {
+      "english": "This bus has, too many stops.",
+      "vietnamese": "Xe này, lắm trạm quá.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882878"
+    },
+    {
+      "english": "He's always, the first one on.",
+      "vietnamese": "Anh ấy, lên xe đầu tiên.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882955"
+    },
+    {
+      "english": "This bus route, is a maze.",
+      "vietnamese": "Tuyến xe này, như mê cung.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882961"
+    },
+    {
+      "english": "He travels, without a care.",
+      "vietnamese": "Anh ấy đi, thảnh thơi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882964"
+    },
+    {
+      "english": "This bus ride, makes me reflect.",
+      "vietnamese": "Chuyến xe buýt này, khiến tôi suy ngẫm.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882967"
+    },
+    {
+      "english": "I appreciate the quiet moments, here.",
+      "vietnamese": "Tôi trân trọng những khoảnh khắc yên tĩnh, ở đây.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882969"
+    },
+    {
+      "english": "Sometimes, I just watch the world go by.",
+      "vietnamese": "Đôi khi, tôi chỉ ngắm nhìn thế giới trôi qua.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882972"
+    },
+    {
+      "english": "This journey, helps me clear my head.",
+      "vietnamese": "Chuyến đi này, giúp tôi giải tỏa tâm trí.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882975"
+    },
+    {
+      "english": "I feel a sense of calm, on the train.",
+      "vietnamese": "Tôi cảm thấy bình yên, trên tàu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882978"
+    },
+    {
+      "english": "It's a good time to think, honestly.",
+      "vietnamese": "Đây là lúc tốt để suy nghĩ, thành thật.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882981"
+    },
+    {
+      "english": "I'm learning to be more patient, now.",
+      "vietnamese": "Tôi đang học cách kiên nhẫn hơn, bây giờ.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882984"
+    },
+    {
+      "english": "This commute, really grounds me.",
+      "vietnamese": "Chuyến đi làm này, thực sự giúp tôi bình tâm.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882987"
+    },
+    {
+      "english": "I find beauty, in the everyday.",
+      "vietnamese": "Tôi tìm thấy vẻ đẹp, trong cuộc sống thường nhật.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882989"
+    },
+    {
+      "english": "It’s okay to just be, sometimes.",
+      "vietnamese": "Đôi khi, cứ là chính mình cũng tốt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882993"
+    },
+    {
+      "english": "This ride, offers perspective.",
+      "vietnamese": "Chuyến đi này, mang lại góc nhìn.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882996"
+    },
+    {
+      "english": "I feel more connected, to the city.",
+      "vietnamese": "Tôi cảm thấy gắn kết hơn, với thành phố.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.882999"
+    },
+    {
+      "english": "Public transport, has a soul.",
+      "vietnamese": "Phương tiện công cộng, có tâm hồn.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883002"
+    },
+    {
+      "english": "I'm grateful for this service.",
+      "vietnamese": "Tôi biết ơn dịch vụ này.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883005"
+    },
+    {
+      "english": "It's a small part, of my day.",
+      "vietnamese": "Đó là một phần nhỏ, trong ngày của tôi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883007"
+    },
+    {
+      "english": "This train, feels like a moving room.",
+      "vietnamese": "Tàu này, giống như một căn phòng di động.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883010"
+    },
+    {
+      "english": "I embrace the slow pace, today.",
+      "vietnamese": "Tôi đón nhận nhịp độ chậm rãi, hôm nay.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883013"
+    },
+    {
+      "english": "Finding peace, in the chaos.",
+      "vietnamese": "Tìm thấy sự bình yên, giữa hỗn loạn.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883016"
+    },
+    {
+      "english": "This journey, reminds me to breathe.",
+      "vietnamese": "Chuyến đi này, nhắc nhở tôi hít thở.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883019"
+    },
+    {
+      "english": "I feel surprisingly content, here.",
+      "vietnamese": "Tôi ngạc nhiên thấy hài lòng, ở đây.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883021"
+    },
+    {
+      "english": "Sharing this space, unites us.",
+      "vietnamese": "Chia sẻ không gian này, gắn kết chúng ta.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883024"
+    },
+    {
+      "english": "Every ride, is a learning experience.",
+      "vietnamese": "Mỗi chuyến đi, là một trải nghiệm học hỏi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883029"
+    },
+    {
+      "english": "I'm finding my rhythm, on this bus.",
+      "vietnamese": "Tôi đang tìm thấy nhịp điệu của mình, trên xe buýt này.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883032"
+    },
+    {
+      "english": "This quiet ride, is a gift.",
+      "vietnamese": "Chuyến đi yên tĩnh này, là một món quà.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883034"
+    },
+    {
+      "english": "I cherish these simple moments.",
+      "vietnamese": "Tôi trân trọng những khoảnh khắc giản dị này.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883037"
+    },
+    {
+      "english": "Letting go, of the rush.",
+      "vietnamese": "Buông bỏ, sự vội vã.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883040"
+    },
+    {
+      "english": "This travel time, is my time.",
+      "vietnamese": "Thời gian di chuyển này, là thời gian của tôi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883042"
+    },
+    {
+      "english": "I'm observing, with gratitude.",
+      "vietnamese": "Tôi quan sát, với lòng biết ơn.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883045"
+    },
+    {
+      "english": "This feeling, is so grounding.",
+      "vietnamese": "Cảm giác này, thật sự giúp tôi bình tâm.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883048"
+    },
+    {
+      "english": "A moment of honesty, on the go.",
+      "vietnamese": "Khoảnh khắc chân thật, khi đang di chuyển.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883051"
+    },
+    {
+      "english": "Excuse me, where's the nearest stop?",
+      "vietnamese": "Xin lỗi, trạm gần nhất ở đâu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:39:02.883054"
     }
   ],
-  "last_updated": "2026-10-21T05:34:57.971133"
+  "last_updated": "2026-10-22T05:39:02.883061"
 }
