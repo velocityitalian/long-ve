@@ -35663,7 +35663,727 @@
       "vietnamese": "Xin lỗi, trạm gần nhất ở đâu?",
       "category": "Public Transportation",
       "generated_at": "2026-10-22T05:39:02.883054"
+    },
+    {
+      "english": "Don't hesitate, just go.",
+      "vietnamese": "Đừng ngần ngại, cứ tiến lên.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956271"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "vietnamese": "Bạn làm được thôi, không nghi ngờ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956285"
+    },
+    {
+      "english": "Take the leap, it's worth it.",
+      "vietnamese": "Hãy mạnh dạn, đáng giá lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956289"
+    },
+    {
+      "english": "Trust your instincts, they're good.",
+      "vietnamese": "Tin vào trực giác, nó tốt lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956292"
+    },
+    {
+      "english": "Your opinion is valuable.",
+      "vietnamese": "Ý kiến của bạn rất đáng giá.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956295"
+    },
+    {
+      "english": "Step forward, you're ready.",
+      "vietnamese": "Bước tới đi, bạn sẵn sàng rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956298"
+    },
+    {
+      "english": "Own your mistakes, learn from them.",
+      "vietnamese": "Chấp nhận sai lầm, học hỏi từ đó.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956301"
+    },
+    {
+      "english": "Stand tall, be confident.",
+      "vietnamese": "Đứng thẳng lên, hãy tự tin.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956306"
+    },
+    {
+      "english": "You have the power, use it.",
+      "vietnamese": "Bạn có sức mạnh, hãy dùng nó.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956310"
+    },
+    {
+      "english": "Be assertive, kindly.",
+      "vietnamese": "Hãy quyết đoán, nhưng nhẹ nhàng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956313"
+    },
+    {
+      "english": "Your voice deserves to be heard.",
+      "vietnamese": "Giọng nói của bạn xứng đáng được lắng nghe.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956316"
+    },
+    {
+      "english": "Speak your truth, clearly.",
+      "vietnamese": "Nói sự thật của bạn, rõ ràng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956319"
+    },
+    {
+      "english": "Don't shrink yourself, expand.",
+      "vietnamese": "Đừng thu mình lại, hãy mở rộng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956322"
+    },
+    {
+      "english": "Assert your boundaries, respectfully.",
+      "vietnamese": "Khẳng định ranh giới của bạn, một cách tôn trọng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956325"
+    },
+    {
+      "english": "Be bold, take action.",
+      "vietnamese": "Hãy táo bạo, hành động đi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956328"
+    },
+    {
+      "english": "Your contributions are valued.",
+      "vietnamese": "Những đóng góp của bạn được coi trọng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956330"
+    },
+    {
+      "english": "Speak with authority, gently.",
+      "vietnamese": "Nói với sự uy quyền, nhẹ nhàng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956333"
+    },
+    {
+      "english": "Trust your gut feeling.",
+      "vietnamese": "Tin vào cảm giác ruột gan của bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956336"
+    },
+    {
+      "english": "You have strength within.",
+      "vietnamese": "Bạn có sức mạnh bên trong.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956338"
+    },
+    {
+      "english": "Be confident in your choices.",
+      "vietnamese": "Tự tin vào những lựa chọn của bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956352"
+    },
+    {
+      "english": "Let your confidence shine.",
+      "vietnamese": "Hãy để sự tự tin của bạn tỏa sáng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956356"
+    },
+    {
+      "english": "What do you think, really?",
+      "vietnamese": "Bạn nghĩ sao, thật sự?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956362"
+    },
+    {
+      "english": "Is this correct, perhaps?",
+      "vietnamese": "Câu này đúng không, nhỉ?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956365"
+    },
+    {
+      "english": "Could you help me understand?",
+      "vietnamese": "Bạn giúp tôi hiểu được không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956368"
+    },
+    {
+      "english": "What's the best way, usually?",
+      "vietnamese": "Cách tốt nhất là gì, thường?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956371"
+    },
+    {
+      "english": "Am I saying this right?",
+      "vietnamese": "Tôi nói vậy có đúng không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956375"
+    },
+    {
+      "english": "Is it okay to ask this?",
+      "vietnamese": "Hỏi vậy có được không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956378"
+    },
+    {
+      "english": "How do you feel about it?",
+      "vietnamese": "Bạn cảm thấy thế nào?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956381"
+    },
+    {
+      "english": "Can we talk about this?",
+      "vietnamese": "Chúng ta nói về chuyện này được không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956383"
+    },
+    {
+      "english": "Do you have any advice?",
+      "vietnamese": "Bạn có lời khuyên nào không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956386"
+    },
+    {
+      "english": "Can you explain that better?",
+      "vietnamese": "Bạn giải thích rõ hơn được không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956389"
+    },
+    {
+      "english": "What's the real situation?",
+      "vietnamese": "Tình hình thực tế là gì?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956392"
+    },
+    {
+      "english": "Tell me more about it.",
+      "vietnamese": "Kể cho tôi nghe thêm đi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956394"
+    },
+    {
+      "english": "Are you sure about this?",
+      "vietnamese": "Bạn chắc về điều này chứ?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956397"
+    },
+    {
+      "english": "What is your honest opinion?",
+      "vietnamese": "Ý kiến thật lòng của bạn là gì?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956400"
+    },
+    {
+      "english": "What are your expectations?",
+      "vietnamese": "Kỳ vọng của bạn là gì?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956402"
+    },
+    {
+      "english": "Should I consider this option?",
+      "vietnamese": "Tôi có nên xem xét lựa chọn này?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956405"
+    },
+    {
+      "english": "What's the most important thing?",
+      "vietnamese": "Điều quan trọng nhất là gì?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956408"
+    },
+    {
+      "english": "How do you see this working?",
+      "vietnamese": "Bạn thấy việc này sẽ thế nào?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956410"
+    },
+    {
+      "english": "Can I offer a suggestion?",
+      "vietnamese": "Tôi đề xuất một ý được không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956413"
+    },
+    {
+      "english": "Is there anything else?",
+      "vietnamese": "Còn gì nữa không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956415"
+    },
+    {
+      "english": "Can we agree on this?",
+      "vietnamese": "Chúng ta có thể đồng ý về điều này?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956418"
+    },
+    {
+      "english": "Keep going, you're improving.",
+      "vietnamese": "Cứ tiếp tục, bạn đang tiến bộ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956421"
+    },
+    {
+      "english": "That's a great idea!",
+      "vietnamese": "Ý hay đó!",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956424"
+    },
+    {
+      "english": "You handled that well.",
+      "vietnamese": "Bạn xử lý tốt lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956427"
+    },
+    {
+      "english": "Every step counts forward.",
+      "vietnamese": "Mọi bước đi đều tiến lên.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956430"
+    },
+    {
+      "english": "Your progress is amazing.",
+      "vietnamese": "Sự tiến bộ của bạn thật tuyệt.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956432"
+    },
+    {
+      "english": "Feel proud of yourself.",
+      "vietnamese": "Hãy tự hào về mình.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956435"
+    },
+    {
+      "english": "Just breathe, and try.",
+      "vietnamese": "Cứ hít thở, rồi thử.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956437"
+    },
+    {
+      "english": "Don't give up easily.",
+      "vietnamese": "Đừng bỏ cuộc dễ dàng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956440"
+    },
+    {
+      "english": "You can do this, yes!",
+      "vietnamese": "Bạn làm được mà, đúng vậy!",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956443"
+    },
+    {
+      "english": "Your ideas are welcome.",
+      "vietnamese": "Ý tưởng của bạn rất đáng hoan nghênh.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956447"
+    },
+    {
+      "english": "This is progress, celebrate.",
+      "vietnamese": "Đây là tiến bộ, hãy ăn mừng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956450"
+    },
+    {
+      "english": "You have good judgment.",
+      "vietnamese": "Bạn có óc phán đoán tốt.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956455"
+    },
+    {
+      "english": "Be proud of your journey.",
+      "vietnamese": "Hãy tự hào về hành trình của mình.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956457"
+    },
+    {
+      "english": "Believe it's possible.",
+      "vietnamese": "Hãy tin là điều đó có thể.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956460"
+    },
+    {
+      "english": "Give it your best shot.",
+      "vietnamese": "Hãy cố gắng hết sức.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956463"
+    },
+    {
+      "english": "You are growing, see?",
+      "vietnamese": "Bạn đang trưởng thành mà, thấy không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956467"
+    },
+    {
+      "english": "Confidence looks good on you.",
+      "vietnamese": "Sự tự tin rất hợp với bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956470"
+    },
+    {
+      "english": "Keep shining your light.",
+      "vietnamese": "Hãy tiếp tục tỏa sáng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956473"
+    },
+    {
+      "english": "Stand tall, be proud.",
+      "vietnamese": "Đứng thẳng, tự hào lên.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956475"
+    },
+    {
+      "english": "Don't hold back your thoughts.",
+      "vietnamese": "Đừng kìm nén suy nghĩ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956478"
+    },
+    {
+      "english": "Own your voice, speak it.",
+      "vietnamese": "Giữ lấy giọng nói, nói đi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956481"
+    },
+    {
+      "english": "Act like you know it.",
+      "vietnamese": "Cứ làm như mình biết.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956483"
+    },
+    {
+      "english": "Be bold, take the lead.",
+      "vietnamese": "Dũng cảm lên, dẫn đầu đi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956486"
+    },
+    {
+      "english": "Your opinion truly matters.",
+      "vietnamese": "Ý kiến bạn thật sự quan trọng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956489"
+    },
+    {
+      "english": "Believe in your own strength.",
+      "vietnamese": "Tin vào sức mạnh bản thân.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956491"
+    },
+    {
+      "english": "Don't be afraid to stand out.",
+      "vietnamese": "Đừng sợ khác biệt.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956495"
+    },
+    {
+      "english": "You're capable, prove it.",
+      "vietnamese": "Bạn có năng lực, hãy chứng minh.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956497"
+    },
+    {
+      "english": "Speak your mind, clearly.",
+      "vietnamese": "Nói thẳng suy nghĩ của bạn.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956500"
+    },
+    {
+      "english": "Confidence is your best asset.",
+      "vietnamese": "Tự tin là tài sản lớn nhất.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956503"
+    },
+    {
+      "english": "Don't second-guess yourself.",
+      "vietnamese": "Đừng nghi ngờ bản thân.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956506"
+    },
+    {
+      "english": "Be assertive, not aggressive.",
+      "vietnamese": "Kiên quyết, không hung hăng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956508"
+    },
+    {
+      "english": "Your presence is powerful.",
+      "vietnamese": "Sự hiện diện của bạn rất mạnh mẽ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956511"
+    },
+    {
+      "english": "Take charge of the moment.",
+      "vietnamese": "Nắm quyền chủ động khoảnh khắc này.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956513"
+    },
+    {
+      "english": "Embrace your unique talents.",
+      "vietnamese": "Ôm lấy tài năng độc đáo.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956516"
+    },
+    {
+      "english": "Let your actions speak.",
+      "vietnamese": "Hãy để hành động nói lên.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956521"
+    },
+    {
+      "english": "You have the right to succeed.",
+      "vietnamese": "Bạn có quyền thành công.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956524"
+    },
+    {
+      "english": "Speak with conviction, always.",
+      "vietnamese": "Luôn nói với niềm tin.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956527"
+    },
+    {
+      "english": "Don't shrink yourself small.",
+      "vietnamese": "Đừng thu mình nhỏ bé.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956529"
+    },
+    {
+      "english": "Assert your position firmly.",
+      "vietnamese": "Khẳng định vị trí vững chắc.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956532"
+    },
+    {
+      "english": "Show your inner strength.",
+      "vietnamese": "Thể hiện sức mạnh nội tâm.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956534"
+    },
+    {
+      "english": "Be the master of your fate.",
+      "vietnamese": "Làm chủ số phận của mình.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956537"
+    },
+    {
+      "english": "Your confidence is magnetic.",
+      "vietnamese": "Sự tự tin của bạn rất cuốn hút.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956540"
+    },
+    {
+      "english": "Don't hide your true self.",
+      "vietnamese": "Đừng che giấu con người thật.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956543"
+    },
+    {
+      "english": "Speak your truth, bravely.",
+      "vietnamese": "Nói ra sự thật của bạn, dũng cảm.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956547"
+    },
+    {
+      "english": "Own your space, confidently.",
+      "vietnamese": "Tự tin làm chủ không gian.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956550"
+    },
+    {
+      "english": "Be brave, speak your mind.",
+      "vietnamese": "Hãy dũng cảm, nói suy nghĩ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956552"
+    },
+    {
+      "english": "This feels right, trust it.",
+      "vietnamese": "Cảm giác này đúng, tin nó đi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956555"
+    },
+    {
+      "english": "Reflect deeply, then speak.",
+      "vietnamese": "Suy nghĩ sâu, rồi nói.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956557"
+    },
+    {
+      "english": "My inner voice guides me.",
+      "vietnamese": "Tiếng nói bên trong dẫn lối tôi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956560"
+    },
+    {
+      "english": "It's okay to be vulnerable.",
+      "vietnamese": "Không sao đâu, cứ yếu đuối.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956563"
+    },
+    {
+      "english": "Patience brings true growth.",
+      "vietnamese": "Kiên nhẫn mang lại trưởng thành thật.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956566"
+    },
+    {
+      "english": "Understanding takes time, right?",
+      "vietnamese": "Thấu hiểu cần thời gian, phải không?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956569"
+    },
+    {
+      "english": "I feel it in my heart.",
+      "vietnamese": "Tôi cảm nhận điều đó trong tim.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956571"
+    },
+    {
+      "english": "Expressing feelings is strength.",
+      "vietnamese": "Bộc lộ cảm xúc là mạnh mẽ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956574"
+    },
+    {
+      "english": "Letting go brings peace.",
+      "vietnamese": "Buông bỏ mang lại bình yên.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956576"
+    },
+    {
+      "english": "My truth is valid.",
+      "vietnamese": "Sự thật của tôi là hợp lý.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956579"
+    },
+    {
+      "english": "Listening helps me understand.",
+      "vietnamese": "Lắng nghe giúp tôi thấu hiểu.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956581"
+    },
+    {
+      "english": "I am learning to trust myself.",
+      "vietnamese": "Tôi đang học cách tin mình.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956584"
+    },
+    {
+      "english": "My intuition is strong.",
+      "vietnamese": "Trực giác của tôi rất mạnh.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956587"
+    },
+    {
+      "english": "What if I just try?",
+      "vietnamese": "Nếu cứ thử thì sao nhỉ?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956591"
+    },
+    {
+      "english": "Doubt fades with action.",
+      "vietnamese": "Nghi ngờ tan biến với hành động.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956594"
+    },
+    {
+      "english": "Feeling uncertain is normal.",
+      "vietnamese": "Cảm thấy không chắc là bình thường.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956596"
+    },
+    {
+      "english": "Authenticity is key.",
+      "vietnamese": "Chân thật là chìa khóa.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956599"
+    },
+    {
+      "english": "I allow myself to feel.",
+      "vietnamese": "Tôi cho phép mình cảm nhận.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956601"
+    },
+    {
+      "english": "My feelings are valid, always.",
+      "vietnamese": "Cảm xúc của tôi luôn đúng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956604"
+    },
+    {
+      "english": "Reflecting brings clarity.",
+      "vietnamese": "Suy ngẫm mang lại sự rõ ràng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956606"
+    },
+    {
+      "english": "This path feels right.",
+      "vietnamese": "Con đường này có vẻ đúng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956609"
+    },
+    {
+      "english": "Inner peace is my goal.",
+      "vietnamese": "Bình yên nội tâm là mục tiêu.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956611"
+    },
+    {
+      "english": "I choose to be patient.",
+      "vietnamese": "Tôi chọn cách kiên nhẫn.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956614"
+    },
+    {
+      "english": "My perspective matters.",
+      "vietnamese": "Quan điểm của tôi quan trọng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956616"
+    },
+    {
+      "english": "Trust the process, slowly.",
+      "vietnamese": "Tin vào quá trình, từ từ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956619"
+    },
+    {
+      "english": "Self-compassion is vital.",
+      "vietnamese": "Lòng trắc ẩn với bản thân rất cần.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956622"
+    },
+    {
+      "english": "My emotions inform me.",
+      "vietnamese": "Cảm xúc của tôi thông báo cho tôi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956624"
+    },
+    {
+      "english": "Start small, speak often.",
+      "vietnamese": "Bắt đầu nhỏ, nói nhiều.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956627"
+    },
+    {
+      "english": "Ask questions, be curious.",
+      "vietnamese": "Hỏi câu hỏi, hãy tò mò.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956631"
+    },
+    {
+      "english": "Mistakes happen, learn fast.",
+      "vietnamese": "Sai lầm xảy ra, học nhanh.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956634"
+    },
+    {
+      "english": "Listen more, judge less.",
+      "vietnamese": "Nghe nhiều hơn, bớt phán xét.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956637"
+    },
+    {
+      "english": "Share your ideas, kindly.",
+      "vietnamese": "Chia sẻ ý tưởng, một cách nhẹ nhàng.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T05:36:38.956639"
     }
   ],
-  "last_updated": "2026-10-22T05:39:02.883061"
+  "last_updated": "2026-10-23T05:36:38.956641"
 }
