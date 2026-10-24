@@ -36383,7 +36383,727 @@
       "vietnamese": "Chia sẻ ý tưởng, một cách nhẹ nhàng.",
       "category": "Confidence",
       "generated_at": "2026-10-23T05:36:38.956639"
+    },
+    {
+      "english": "Any plans, for the weekend?",
+      "vietnamese": "Có kế hoạch gì, cuối tuần không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279634"
+    },
+    {
+      "english": "Let's meet up, soon.",
+      "vietnamese": "Mình gặp nhau, sớm nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279647"
+    },
+    {
+      "english": "Are you free, this Saturday?",
+      "vietnamese": "Bạn có rảnh, thứ Bảy này không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279651"
+    },
+    {
+      "english": "How about, coffee tomorrow?",
+      "vietnamese": "Mai đi cà phê, nhé?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279654"
+    },
+    {
+      "english": "What time, works for you?",
+      "vietnamese": "Mấy giờ, tiện cho bạn?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279657"
+    },
+    {
+      "english": "Sounds good, I'm in.",
+      "vietnamese": "Nghe hay đó, mình đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279660"
+    },
+    {
+      "english": "I'm not sure, yet.",
+      "vietnamese": "Mình chưa chắc, lắm.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279663"
+    },
+    {
+      "english": "Maybe, another time.",
+      "vietnamese": "Thôi, lần khác nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279669"
+    },
+    {
+      "english": "Let's catch up, soon.",
+      "vietnamese": "Lâu rồi, mình cà phê đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279672"
+    },
+    {
+      "english": "What do you want, to do?",
+      "vietnamese": "Bạn muốn làm, gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279676"
+    },
+    {
+      "english": "Are you busy, tonight?",
+      "vietnamese": "Tối nay bạn bận, không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279678"
+    },
+    {
+      "english": "Let's go out, tonight.",
+      "vietnamese": "Tối nay đi chơi, nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279681"
+    },
+    {
+      "english": "I'm free, all day.",
+      "vietnamese": "Tôi rảnh, cả ngày.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279684"
+    },
+    {
+      "english": "We should hang out, sometime.",
+      "vietnamese": "Mình nên đi chơi, dịp nào đó.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279687"
+    },
+    {
+      "english": "Do you have, any ideas?",
+      "vietnamese": "Bạn có ý tưởng, gì không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279689"
+    },
+    {
+      "english": "Let's make some, plans.",
+      "vietnamese": "Mình lên kế hoạch, đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279692"
+    },
+    {
+      "english": "I'm looking forward, to it.",
+      "vietnamese": "Tôi mong chờ, lắm.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279695"
+    },
+    {
+      "english": "Can we reschedule, please?",
+      "vietnamese": "Mình có thể dời lịch, không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279698"
+    },
+    {
+      "english": "Are you up for, a movie?",
+      "vietnamese": "Đi xem phim, không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279700"
+    },
+    {
+      "english": "What time, should we meet?",
+      "vietnamese": "Mấy giờ, mình gặp?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279703"
+    },
+    {
+      "english": "I'm busy, this evening.",
+      "vietnamese": "Tôi bận, tối nay rồi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279706"
+    },
+    {
+      "english": "Let's do something, fun.",
+      "vietnamese": "Mình làm gì đó, vui đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279709"
+    },
+    {
+      "english": "I'll check my, schedule.",
+      "vietnamese": "Tôi sẽ kiểm tra, lịch đã.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279711"
+    },
+    {
+      "english": "Maybe, next week then.",
+      "vietnamese": "Vậy chắc là, tuần sau.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279714"
+    },
+    {
+      "english": "What are you, up to?",
+      "vietnamese": "Bạn đang làm, gì đó?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279717"
+    },
+    {
+      "english": "Let's finalize, the plan.",
+      "vietnamese": "Chốt kế hoạch, nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279722"
+    },
+    {
+      "english": "I'm free, on Sunday.",
+      "vietnamese": "Chủ nhật tôi rảnh.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279725"
+    },
+    {
+      "english": "Any thoughts, for tonight?",
+      "vietnamese": "Có ý tưởng gì, cho tối nay không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279728"
+    },
+    {
+      "english": "What's your, availability?",
+      "vietnamese": "Bạn rảnh, lúc nào?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279733"
+    },
+    {
+      "english": "Shall we try, something new?",
+      "vietnamese": "Mình thử, cái gì mới nhé?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279736"
+    },
+    {
+      "english": "Is that, a good time?",
+      "vietnamese": "Thời gian đó, có ổn không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279738"
+    },
+    {
+      "english": "What do you, feel like doing?",
+      "vietnamese": "Bạn muốn làm, gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279741"
+    },
+    {
+      "english": "Can we decide, later?",
+      "vietnamese": "Mình quyết định, sau được không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279744"
+    },
+    {
+      "english": "My schedule, is quite open.",
+      "vietnamese": "Lịch của tôi, khá trống.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279747"
+    },
+    {
+      "english": "Are you interested, in that?",
+      "vietnamese": "Bạn có hứng thú, với việc đó không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279750"
+    },
+    {
+      "english": "Let's confirm, the details.",
+      "vietnamese": "Mình chốt, chi tiết nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279755"
+    },
+    {
+      "english": "What's the, agenda?",
+      "vietnamese": "Chương trình, là gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279758"
+    },
+    {
+      "english": "I'm open, to suggestions.",
+      "vietnamese": "Tôi cởi mở, với gợi ý.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279761"
+    },
+    {
+      "english": "When would be, convenient?",
+      "vietnamese": "Khi nào thì, tiện?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279763"
+    },
+    {
+      "english": "How about, we discuss it?",
+      "vietnamese": "Hay là mình, bàn bạc nhé?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279766"
+    },
+    {
+      "english": "Do you have, a preference?",
+      "vietnamese": "Bạn có ưu tiên, gì không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279769"
+    },
+    {
+      "english": "Let's coordinate, our time.",
+      "vietnamese": "Mình sắp xếp, thời gian nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279772"
+    },
+    {
+      "english": "I'm flexible, with times.",
+      "vietnamese": "Tôi linh hoạt, về thời gian.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279774"
+    },
+    {
+      "english": "Should we invite, others?",
+      "vietnamese": "Mình có nên, mời người khác không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279777"
+    },
+    {
+      "english": "What's the, vibe?",
+      "vietnamese": "Không khí, thế nào?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279780"
+    },
+    {
+      "english": "Let's decide, on a day.",
+      "vietnamese": "Mình chốt, một ngày đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279783"
+    },
+    {
+      "english": "What's your, current mood?",
+      "vietnamese": "Tâm trạng bạn, thế nào?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279785"
+    },
+    {
+      "english": "Can we make, a reservation?",
+      "vietnamese": "Mình đặt chỗ, được không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279788"
+    },
+    {
+      "english": "What's the, best option?",
+      "vietnamese": "Lựa chọn nào, tốt nhất?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279791"
+    },
+    {
+      "english": "Let's get, something organized.",
+      "vietnamese": "Mình sắp xếp, mọi thứ nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279794"
+    },
+    {
+      "english": "What time, is reasonable?",
+      "vietnamese": "Mấy giờ thì, hợp lý?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279796"
+    },
+    {
+      "english": "Any constraints, on your end?",
+      "vietnamese": "Bên bạn có, giới hạn gì không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279800"
+    },
+    {
+      "english": "Let's talk, about it.",
+      "vietnamese": "Mình nói chuyện, về nó nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279803"
+    },
+    {
+      "english": "What are we, aiming for?",
+      "vietnamese": "Chúng ta, nhắm tới gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279806"
+    },
+    {
+      "english": "Let's firm, up the plan.",
+      "vietnamese": "Mình chốt, kế hoạch lại nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279900"
+    },
+    {
+      "english": "Positive thoughts, attract good things.",
+      "vietnamese": "Suy nghĩ tích cực, thu hút điều tốt.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279904"
+    },
+    {
+      "english": "You've got, this handled.",
+      "vietnamese": "Bạn xử lý, được hết mà.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279907"
+    },
+    {
+      "english": "Your effort, is impressive.",
+      "vietnamese": "Nỗ lực của bạn, thật đáng nể.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279910"
+    },
+    {
+      "english": "We'll achieve, great results.",
+      "vietnamese": "Chúng ta sẽ đạt, kết quả tuyệt vời.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279913"
+    },
+    {
+      "english": "This is, a learning opportunity.",
+      "vietnamese": "Đây là, cơ hội để học hỏi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279916"
+    },
+    {
+      "english": "Focus on, the goal ahead.",
+      "vietnamese": "Tập trung vào, mục tiêu phía trước.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279921"
+    },
+    {
+      "english": "Great work, on the planning.",
+      "vietnamese": "Làm tốt lắm, khâu lên kế hoạch.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279924"
+    },
+    {
+      "english": "Your idea, is brilliant.",
+      "vietnamese": "Ý tưởng của bạn, thật xuất sắc.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279926"
+    },
+    {
+      "english": "We're making, good progress.",
+      "vietnamese": "Chúng ta đang có, tiến triển tốt.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279929"
+    },
+    {
+      "english": "Just start, then refine.",
+      "vietnamese": "Cứ bắt đầu, rồi chỉnh sửa.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279932"
+    },
+    {
+      "english": "This will be, a success.",
+      "vietnamese": "Chuyến này sẽ là, một thành công.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279935"
+    },
+    {
+      "english": "Let's stay, motivated together.",
+      "vietnamese": "Cùng nhau, giữ động lực nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279938"
+    },
+    {
+      "english": "Every challenge, makes us stronger.",
+      "vietnamese": "Mọi thử thách, làm ta mạnh mẽ hơn.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279941"
+    },
+    {
+      "english": "Keep that, positive energy.",
+      "vietnamese": "Giữ vững, năng lượng tích cực đó.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279943"
+    },
+    {
+      "english": "What a, fantastic plan.",
+      "vietnamese": "Thật là, một kế hoạch tuyệt vời.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279946"
+    },
+    {
+      "english": "You're doing, an amazing job.",
+      "vietnamese": "Bạn đang làm, rất tốt.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279949"
+    },
+    {
+      "english": "Let's seize, the opportunity.",
+      "vietnamese": "Hãy nắm bắt, cơ hội này.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279952"
+    },
+    {
+      "english": "Aim high, dream big.",
+      "vietnamese": "Đặt mục tiêu cao, ước mơ lớn.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279954"
+    },
+    {
+      "english": "This is achievable, with effort.",
+      "vietnamese": "Điều này có thể, đạt được nếu cố gắng.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279957"
+    },
+    {
+      "english": "Your attitude, is key.",
+      "vietnamese": "Thái độ của bạn, là chìa khóa.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279960"
+    },
+    {
+      "english": "We'll overcome, any obstacle.",
+      "vietnamese": "Chúng ta sẽ vượt qua, mọi trở ngại.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279963"
+    },
+    {
+      "english": "What's the main idea?",
+      "vietnamese": "Ý chính là gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279965"
+    },
+    {
+      "english": "Let's nail down the details.",
+      "vietnamese": "Mình chốt chi tiết nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279970"
+    },
+    {
+      "english": "We need to get on the same page.",
+      "vietnamese": "Chúng ta cần thống nhất ý tưởng.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279973"
+    },
+    {
+      "english": "What's the game plan?",
+      "vietnamese": "Kế hoạch là gì nào?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279975"
+    },
+    {
+      "english": "Let's brainstorm some ideas.",
+      "vietnamese": "Mình cùng nghĩ vài ý tưởng đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279978"
+    },
+    {
+      "english": "We should table this for now.",
+      "vietnamese": "Tạm gác lại chuyện này đã.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279981"
+    },
+    {
+      "english": "What's the best way forward?",
+      "vietnamese": "Hướng giải quyết nào tốt nhất?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279983"
+    },
+    {
+      "english": "Let's sync up soon.",
+      "vietnamese": "Mình gặp nhau sớm nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279986"
+    },
+    {
+      "english": "Let's put our heads together.",
+      "vietnamese": "Chúng ta cùng suy nghĩ.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279989"
+    },
+    {
+      "english": "We need to get organized.",
+      "vietnamese": "Chúng ta cần sắp xếp lại.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279991"
+    },
+    {
+      "english": "Let's map out the strategy.",
+      "vietnamese": "Mình lên chiến lược đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279994"
+    },
+    {
+      "english": "What are the key priorities?",
+      "vietnamese": "Ưu tiên chính là gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279997"
+    },
+    {
+      "english": "Let's set some ground rules.",
+      "vietnamese": "Mình đặt ra vài quy tắc đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.279999"
+    },
+    {
+      "english": "How do we want to proceed?",
+      "vietnamese": "Chúng ta muốn tiến hành thế nào?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280002"
+    },
+    {
+      "english": "Let's circle back on this.",
+      "vietnamese": "Mình quay lại chuyện này sau.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280004"
+    },
+    {
+      "english": "What's the big picture here?",
+      "vietnamese": "Bức tranh lớn ở đây là gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280007"
+    },
+    {
+      "english": "Let's get the ball rolling.",
+      "vietnamese": "Bắt đầu thôi nào.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280012"
+    },
+    {
+      "english": "We need to iron out the kinks.",
+      "vietnamese": "Mình cần giải quyết các vấn đề.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280014"
+    },
+    {
+      "english": "What are we working with?",
+      "vietnamese": "Chúng ta đang làm việc với gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280016"
+    },
+    {
+      "english": "Let's touch base later.",
+      "vietnamese": "Mình liên lạc lại sau nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280019"
+    },
+    {
+      "english": "What's the end goal?",
+      "vietnamese": "Mục tiêu cuối cùng là gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280021"
+    },
+    {
+      "english": "Let's get everyone aligned.",
+      "vietnamese": "Mình làm mọi người đồng lòng.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280024"
+    },
+    {
+      "english": "What's the scope of this?",
+      "vietnamese": "Phạm vi của việc này là gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280028"
+    },
+    {
+      "english": "Let's set a deadline.",
+      "vietnamese": "Mình đặt hạn chót đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280031"
+    },
+    {
+      "english": "Are we all on board?",
+      "vietnamese": "Mọi người đã sẵn sàng chưa?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280034"
+    },
+    {
+      "english": "Let's knock this out.",
+      "vietnamese": "Mình làm xong cái này đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280036"
+    },
+    {
+      "english": "What's the rundown?",
+      "vietnamese": "Tóm tắt là gì?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280039"
+    },
+    {
+      "english": "Let's make it happen.",
+      "vietnamese": "Mình làm cho nó xảy ra.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280043"
+    },
+    {
+      "english": "Let's meet up, this weekend.",
+      "vietnamese": "Cuối tuần mình gặp nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280046"
+    },
+    {
+      "english": "Should we grab coffee, sometime?",
+      "vietnamese": "Mình đi cà phê nhé?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280049"
+    },
+    {
+      "english": "Are you free, for lunch?",
+      "vietnamese": "Bạn có rảnh ăn trưa không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280052"
+    },
+    {
+      "english": "How about, a movie night?",
+      "vietnamese": "Đi xem phim thì sao?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280054"
+    },
+    {
+      "english": "Let's plan, a get-together.",
+      "vietnamese": "Lên kế hoạch, tụ tập đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280057"
+    },
+    {
+      "english": "When is a good time, to call?",
+      "vietnamese": "Khi nào tiện gọi điện?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280060"
+    },
+    {
+      "english": "I'll confirm, later.",
+      "vietnamese": "Mình xác nhận sau nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280063"
+    },
+    {
+      "english": "Sounds like a plan.",
+      "vietnamese": "Nghe hợp lý.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280066"
+    },
+    {
+      "english": "What's your schedule, like?",
+      "vietnamese": "Lịch của bạn thế nào?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280069"
+    },
+    {
+      "english": "Let's make some time, soon.",
+      "vietnamese": "Sớm thu xếp thời gian nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280072"
+    },
+    {
+      "english": "I'm free, on Tuesday.",
+      "vietnamese": "Thứ Ba mình rảnh.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280074"
+    },
+    {
+      "english": "Let's go for it.",
+      "vietnamese": "Cứ làm đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280077"
+    },
+    {
+      "english": "We should organize, that trip.",
+      "vietnamese": "Mình nên sắp xếp chuyến đi.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280080"
+    },
+    {
+      "english": "Let's set, a meeting.",
+      "vietnamese": "Chúng ta đặt lịch họp nhé.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280083"
+    },
+    {
+      "english": "Is that okay, with you?",
+      "vietnamese": "Bạn thấy vậy ổn không?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280085"
+    },
+    {
+      "english": "We need to plan, ahead.",
+      "vietnamese": "Chúng ta cần lên kế hoạch trước.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-24T05:15:05.280088"
     }
   ],
-  "last_updated": "2026-10-23T05:36:38.956641"
+  "last_updated": "2026-10-24T05:15:05.280090"
 }
