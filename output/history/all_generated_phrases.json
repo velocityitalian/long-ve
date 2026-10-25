@@ -37103,7 +37103,727 @@
       "vietnamese": "Chúng ta cần lên kế hoạch trước.",
       "category": "Making Plans",
       "generated_at": "2026-10-24T05:15:05.280088"
+    },
+    {
+      "english": "Go on, try it.",
+      "vietnamese": "Cứ mạnh dạn thử đi.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513656"
+    },
+    {
+      "english": "Don't be afraid, friend.",
+      "vietnamese": "Đừng sợ hãi, bạn ơi.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513673"
+    },
+    {
+      "english": "Let's be brave, together.",
+      "vietnamese": "Mình cùng dũng cảm nhé.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513678"
+    },
+    {
+      "english": "That takes real guts.",
+      "vietnamese": "Thế mới là gan dạ.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513681"
+    },
+    {
+      "english": "Push your limits.",
+      "vietnamese": "Vượt qua giới hạn của mình.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513684"
+    },
+    {
+      "english": "Show some backbone.",
+      "vietnamese": "Thể hiện chút bản lĩnh.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513686"
+    },
+    {
+      "english": "Don't back down now.",
+      "vietnamese": "Đừng chùn bước bây giờ.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513690"
+    },
+    {
+      "english": "Have courage, speak up.",
+      "vietnamese": "Dũng cảm lên, lên tiếng.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513695"
+    },
+    {
+      "english": "It's okay to be scared.",
+      "vietnamese": "Sợ cũng không sao đâu.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513699"
+    },
+    {
+      "english": "We need more boldness.",
+      "vietnamese": "Chúng ta cần sự táo bạo hơn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513702"
+    },
+    {
+      "english": "Don't give up hope.",
+      "vietnamese": "Đừng từ bỏ hy vọng.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513706"
+    },
+    {
+      "english": "Be tough, keep going.",
+      "vietnamese": "Kiên cường lên, tiếp tục.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513709"
+    },
+    {
+      "english": "What a brave soul.",
+      "vietnamese": "Thật là một tâm hồn dũng cảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513711"
+    },
+    {
+      "english": "That was gutsy.",
+      "vietnamese": "Liều lĩnh thật đấy.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513714"
+    },
+    {
+      "english": "Show your true colors.",
+      "vietnamese": "Thể hiện con người thật của bạn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513717"
+    },
+    {
+      "english": "This requires bravery.",
+      "vietnamese": "Việc này cần sự can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513722"
+    },
+    {
+      "english": "Be audacious, my friend.",
+      "vietnamese": "Hãy táo bạo lên, bạn của tôi.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513726"
+    },
+    {
+      "english": "Don't let fear win.",
+      "vietnamese": "Đừng để nỗi sợ chiến thắng.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513729"
+    },
+    {
+      "english": "It's a bold move.",
+      "vietnamese": "Đó là một hành động táo bạo.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513732"
+    },
+    {
+      "english": "Stand up for yourself.",
+      "vietnamese": "Đứng lên vì chính mình.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513735"
+    },
+    {
+      "english": "Let's take a chance.",
+      "vietnamese": "Chúng ta thử mạo hiểm xem.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513738"
+    },
+    {
+      "english": "That's impressive spirit.",
+      "vietnamese": "Tinh thần đó thật đáng nể.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513741"
+    },
+    {
+      "english": "Be resolute, be strong.",
+      "vietnamese": "Kiên định lên, mạnh mẽ lên.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513744"
+    },
+    {
+      "english": "You've got the nerve.",
+      "vietnamese": "Bạn có đủ can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513746"
+    },
+    {
+      "english": "Go make it happen.",
+      "vietnamese": "Cứ đi mà làm thôi.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513749"
+    },
+    {
+      "english": "What's stopping you, really?",
+      "vietnamese": "Điều gì đang cản trở bạn, thật sự?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513752"
+    },
+    {
+      "english": "Could you give me, advice?",
+      "vietnamese": "Bạn có thể cho tôi, lời khuyên không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513755"
+    },
+    {
+      "english": "What if we, tried something new?",
+      "vietnamese": "Nếu chúng ta, thử một cái mới thì sao?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513758"
+    },
+    {
+      "english": "Are you willing, to take a leap?",
+      "vietnamese": "Bạn có sẵn sàng, nhảy một bước không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513762"
+    },
+    {
+      "english": "How do you, find your strength?",
+      "vietnamese": "Bạn tìm thấy sức mạnh của mình, như thế nào?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513765"
+    },
+    {
+      "english": "Should I speak, my mind now?",
+      "vietnamese": "Tôi có nên nói, suy nghĩ của mình bây giờ?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513767"
+    },
+    {
+      "english": "Do you believe, in yourself?",
+      "vietnamese": "Bạn có tin, vào chính mình không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513770"
+    },
+    {
+      "english": "What makes you, feel brave?",
+      "vietnamese": "Điều gì khiến bạn, cảm thấy dũng cảm?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513773"
+    },
+    {
+      "english": "Can we discuss, this idea?",
+      "vietnamese": "Chúng ta có thể, thảo luận ý tưởng này không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513776"
+    },
+    {
+      "english": "What’s your plan, if it fails?",
+      "vietnamese": "Kế hoạch của bạn là gì, nếu nó thất bại?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513780"
+    },
+    {
+      "english": "Are you ready, for change?",
+      "vietnamese": "Bạn đã sẵn sàng, cho sự thay đổi chưa?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513783"
+    },
+    {
+      "english": "What if we, aim higher?",
+      "vietnamese": "Nếu chúng ta, nhắm cao hơn thì sao?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513786"
+    },
+    {
+      "english": "Would you dare, to ask them?",
+      "vietnamese": "Bạn có dám, hỏi họ không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513789"
+    },
+    {
+      "english": "Can you guide, me through this?",
+      "vietnamese": "Bạn có thể dẫn dắt, tôi qua chuyện này không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513792"
+    },
+    {
+      "english": "What is your, biggest challenge?",
+      "vietnamese": "Thử thách lớn nhất của bạn, là gì?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513795"
+    },
+    {
+      "english": "Are you feeling, adventurous today?",
+      "vietnamese": "Hôm nay bạn có cảm thấy, phiêu lưu không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513798"
+    },
+    {
+      "english": "Should I pursue, this passion?",
+      "vietnamese": "Tôi có nên theo đuổi, đam mê này không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513800"
+    },
+    {
+      "english": "What inspires, your boldness?",
+      "vietnamese": "Điều gì truyền cảm hứng, cho sự táo bạo của bạn?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513805"
+    },
+    {
+      "english": "Can you show me, how it’s done?",
+      "vietnamese": "Bạn có thể chỉ cho tôi, cách làm được không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513808"
+    },
+    {
+      "english": "Do you think, we can win?",
+      "vietnamese": "Bạn có nghĩ, chúng ta có thể thắng không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513811"
+    },
+    {
+      "english": "What if we, don't try?",
+      "vietnamese": "Nếu chúng ta, không thử thì sao?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513814"
+    },
+    {
+      "english": "How can I, be more confident?",
+      "vietnamese": "Làm thế nào để tôi, tự tin hơn?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513819"
+    },
+    {
+      "english": "Are you ready, to lead?",
+      "vietnamese": "Bạn đã sẵn sàng, để dẫn đầu chưa?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513822"
+    },
+    {
+      "english": "What’s holding you, back?",
+      "vietnamese": "Điều gì đang giữ bạn, lại?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513825"
+    },
+    {
+      "english": "Could we perhaps, explore options?",
+      "vietnamese": "Chúng ta có thể, khám phá các lựa chọn không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513828"
+    },
+    {
+      "english": "What gives you, courage?",
+      "vietnamese": "Điều gì mang lại cho bạn, sự can đảm?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513831"
+    },
+    {
+      "english": "Do you feel, courageous now?",
+      "vietnamese": "Bây giờ bạn có cảm thấy, dũng cảm không?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513833"
+    },
+    {
+      "english": "Shall we make, a bold promise?",
+      "vietnamese": "Chúng ta hãy, hứa một lời táo bạo nhé?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513836"
+    },
+    {
+      "english": "What's the worst, that could happen?",
+      "vietnamese": "Điều tồi tệ nhất, có thể xảy ra là gì?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513839"
+    },
+    {
+      "english": "Believe in your gut feeling.",
+      "vietnamese": "Tin vào cảm giác của bạn đi.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513841"
+    },
+    {
+      "english": "Push past your comfort zone.",
+      "vietnamese": "Vượt ra khỏi vùng an toàn của bạn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513844"
+    },
+    {
+      "english": "Your inner strength is real.",
+      "vietnamese": "Sức mạnh nội tại của bạn là có thật.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513847"
+    },
+    {
+      "english": "Let your spirit guide you.",
+      "vietnamese": "Hãy để tinh thần dẫn lối bạn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513850"
+    },
+    {
+      "english": "Face challenges head-on.",
+      "vietnamese": "Đối mặt trực diện với thử thách.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513853"
+    },
+    {
+      "english": "Find courage in small steps.",
+      "vietnamese": "Tìm thấy sự can đảm qua từng bước nhỏ.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513855"
+    },
+    {
+      "english": "Don't shy away from risks.",
+      "vietnamese": "Đừng né tránh rủi ro.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513858"
+    },
+    {
+      "english": "Trust your instincts, please.",
+      "vietnamese": "Hãy tin vào trực giác của bạn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513861"
+    },
+    {
+      "english": "Be bold in your pursuits.",
+      "vietnamese": "Hãy táo bạo trong theo đuổi của bạn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513864"
+    },
+    {
+      "english": "This is your moment to shine.",
+      "vietnamese": "Đây là khoảnh khắc để bạn tỏa sáng.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513866"
+    },
+    {
+      "english": "Rise above your doubts.",
+      "vietnamese": "Vươn lên trên những nghi ngờ của bạn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513869"
+    },
+    {
+      "english": "Take that leap of faith.",
+      "vietnamese": "Hãy thực hiện bước nhảy niềm tin đó.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513872"
+    },
+    {
+      "english": "Seize opportunities boldly.",
+      "vietnamese": "Nắm bắt cơ hội một cách táo bạo.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513874"
+    },
+    {
+      "english": "Courage is a choice, make it.",
+      "vietnamese": "Can đảm là một lựa chọn, hãy chọn nó.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513878"
+    },
+    {
+      "english": "Don't let fear dictate.",
+      "vietnamese": "Đừng để nỗi sợ quyết định.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513883"
+    },
+    {
+      "english": "Keep moving forward, bravely.",
+      "vietnamese": "Tiếp tục tiến về phía trước, dũng cảm lên.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513888"
+    },
+    {
+      "english": "Your passion fuels your courage.",
+      "vietnamese": "Đam mê của bạn thúc đẩy lòng dũng cảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513891"
+    },
+    {
+      "english": "Be brave enough to be imperfect.",
+      "vietnamese": "Đủ dũng cảm để không hoàn hảo.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513894"
+    },
+    {
+      "english": "Stand tall, speak your truth.",
+      "vietnamese": "Đứng thẳng, nói lên sự thật của bạn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513897"
+    },
+    {
+      "english": "Let your confidence bloom.",
+      "vietnamese": "Hãy để sự tự tin của bạn nở rộ.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513900"
+    },
+    {
+      "english": "Embrace vulnerability, find strength.",
+      "vietnamese": "Đón nhận sự tổn thương, tìm thấy sức mạnh.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513903"
+    },
+    {
+      "english": "Go explore new horizons.",
+      "vietnamese": "Đi khám phá những chân trời mới.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513906"
+    },
+    {
+      "english": "Face it, head up.",
+      "vietnamese": "Đối mặt, ngẩng cao đầu.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513909"
+    },
+    {
+      "english": "Be brave, when it counts.",
+      "vietnamese": "Hãy can đảm, khi cần.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513912"
+    },
+    {
+      "english": "Stand firm, don't waver.",
+      "vietnamese": "Vững vàng, đừng nao núng.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513917"
+    },
+    {
+      "english": "Take the plunge, now.",
+      "vietnamese": "Nhảy vào, ngay thôi.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513919"
+    },
+    {
+      "english": "Your spirit, leads.",
+      "vietnamese": "Tinh thần, dẫn lối.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513922"
+    },
+    {
+      "english": "Push limits, explore.",
+      "vietnamese": "Vượt giới hạn, khám phá.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513925"
+    },
+    {
+      "english": "Brave heart, strong will.",
+      "vietnamese": "Gan dạ, ý chí mạnh.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513928"
+    },
+    {
+      "english": "Don't back down, fight.",
+      "vietnamese": "Đừng lùi bước, chiến đấu.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513931"
+    },
+    {
+      "english": "Conviction, fuels action.",
+      "vietnamese": "Niềm tin, thúc đẩy hành động.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513934"
+    },
+    {
+      "english": "Go forth, with courage.",
+      "vietnamese": "Tiến lên, với lòng can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513936"
+    },
+    {
+      "english": "Unleash your bravery.",
+      "vietnamese": "Giải phóng sự dũng cảm của bạn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513953"
+    },
+    {
+      "english": "Dare greatly, live fully.",
+      "vietnamese": "Dám liều, sống trọn vẹn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513956"
+    },
+    {
+      "english": "Be the first, to try.",
+      "vietnamese": "Hãy là người đầu tiên, thử.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513959"
+    },
+    {
+      "english": "Inner fire, burns bright.",
+      "vietnamese": "Ngọn lửa trong tim, cháy sáng.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513962"
+    },
+    {
+      "english": "What if you, succeed?",
+      "vietnamese": "Nếu bạn, thành công thì sao?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513965"
+    },
+    {
+      "english": "Rise above, the fear.",
+      "vietnamese": "Vượt lên, nỗi sợ.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513968"
+    },
+    {
+      "english": "Bold move, pays off.",
+      "vietnamese": "Quyết định táo bạo, đền đáp.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513970"
+    },
+    {
+      "english": "Face the storm, head-on.",
+      "vietnamese": "Đối mặt bão táp, trực diện.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513974"
+    },
+    {
+      "english": "Courage is, contagious.",
+      "vietnamese": "Lòng can đảm, lan truyền.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513977"
+    },
+    {
+      "english": "Take heart, keep going.",
+      "vietnamese": "Hãy vững lòng, tiếp tục.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513982"
+    },
+    {
+      "english": "Be daring, be bold.",
+      "vietnamese": "Hãy liều lĩnh, hãy táo bạo.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513984"
+    },
+    {
+      "english": "One step, forward bravely.",
+      "vietnamese": "Một bước, dũng cảm tiến tới.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513987"
+    },
+    {
+      "english": "True courage, is quiet strength.",
+      "vietnamese": "Can đảm thật sự, là sức mạnh thầm lặng.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513990"
+    },
+    {
+      "english": "Sometimes, kindness is bravery.",
+      "vietnamese": "Đôi khi, lòng tốt chính là dũng cảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513993"
+    },
+    {
+      "english": "Honest feelings, need courage.",
+      "vietnamese": "Cảm xúc thật lòng, cần sự can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513996"
+    },
+    {
+      "english": "It takes guts, to be vulnerable.",
+      "vietnamese": "Cần có gan lắm, mới dám yếu đuối.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.513999"
+    },
+    {
+      "english": "Admitting mistakes, shows character.",
+      "vietnamese": "Thừa nhận sai lầm, thể hiện bản lĩnh.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514002"
+    },
+    {
+      "english": "Patience rewards, the brave.",
+      "vietnamese": "Sự kiên nhẫn, đền đáp người dũng cảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514004"
+    },
+    {
+      "english": "Deep thoughts, require courage.",
+      "vietnamese": "Suy nghĩ sâu sắc, đòi hỏi can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514007"
+    },
+    {
+      "english": "Facing truth, is powerful.",
+      "vietnamese": "Đối mặt sự thật, thật mạnh mẽ.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514010"
+    },
+    {
+      "english": "Being yourself, takes guts.",
+      "vietnamese": "Làm chính mình, cần rất nhiều can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514013"
+    },
+    {
+      "english": "Forgiveness needs courage.",
+      "vietnamese": "Tha thứ cần có lòng can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514016"
+    },
+    {
+      "english": "Accepting change, is brave.",
+      "vietnamese": "Chấp nhận thay đổi, là rất dũng cảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514018"
+    },
+    {
+      "english": "Learning from failure, is smart.",
+      "vietnamese": "Học từ thất bại, là thông minh.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514021"
+    },
+    {
+      "english": "Letting go, shows strength.",
+      "vietnamese": "Buông bỏ, thể hiện sức mạnh.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514026"
+    },
+    {
+      "english": "Saying 'no', requires courage.",
+      "vietnamese": "Nói 'không', cần có sự can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514029"
+    },
+    {
+      "english": "Embracing silence, is brave.",
+      "vietnamese": "Ôm lấy sự im lặng, thật can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514032"
+    },
+    {
+      "english": "Your resilience, is courage.",
+      "vietnamese": "Sự kiên cường của bạn, là dũng khí.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514035"
+    },
+    {
+      "english": "Asking for help, shows strength.",
+      "vietnamese": "Xin giúp đỡ, thể hiện sức mạnh.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514037"
+    },
+    {
+      "english": "Authenticity, needs bravery.",
+      "vietnamese": "Sự chân thật, cần lòng can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514040"
+    },
+    {
+      "english": "Processing grief, is courage.",
+      "vietnamese": "Xử lý nỗi đau buồn, là dũng cảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514043"
+    },
+    {
+      "english": "Being patient, is a virtue.",
+      "vietnamese": "Biết kiên nhẫn, là một đức tính.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514046"
+    },
+    {
+      "english": "Reflection takes courage.",
+      "vietnamese": "Suy ngẫm cần sự can đảm.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514048"
+    },
+    {
+      "english": "Understanding others, needs patience.",
+      "vietnamese": "Hiểu người khác, cần sự kiên nhẫn.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T05:32:30.514051"
     }
   ],
-  "last_updated": "2026-10-24T05:15:05.280090"
+  "last_updated": "2026-10-25T05:32:30.514053"
 }
