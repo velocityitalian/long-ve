@@ -37823,7 +37823,727 @@
       "vietnamese": "Hiểu người khác, cần sự kiên nhẫn.",
       "category": "Courage",
       "generated_at": "2026-10-25T05:32:30.514051"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "vietnamese": "Chào buổi sáng, cả nhà.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032125"
+    },
+    {
+      "english": "I'm doing well, thanks.",
+      "vietnamese": "Tôi khỏe, cảm ơn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032138"
+    },
+    {
+      "english": "Let's get started.",
+      "vietnamese": "Chúng ta bắt đầu nhé.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032142"
+    },
+    {
+      "english": "I need your help.",
+      "vietnamese": "Tôi cần sự giúp đỡ của bạn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032145"
+    },
+    {
+      "english": "I don't understand.",
+      "vietnamese": "Tôi không hiểu.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032148"
+    },
+    {
+      "english": "It's a bit urgent.",
+      "vietnamese": "Việc này hơi gấp.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032151"
+    },
+    {
+      "english": "Let me think.",
+      "vietnamese": "Để tôi suy nghĩ đã.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032153"
+    },
+    {
+      "english": "I'll get on it.",
+      "vietnamese": "Tôi sẽ làm ngay.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032159"
+    },
+    {
+      "english": "Just a moment.",
+      "vietnamese": "Chờ một chút.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032163"
+    },
+    {
+      "english": "Take your time.",
+      "vietnamese": "Cứ từ từ thôi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032165"
+    },
+    {
+      "english": "I'm on my way.",
+      "vietnamese": "Tôi đang trên đường.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032168"
+    },
+    {
+      "english": "It's not a problem.",
+      "vietnamese": "Không có vấn đề gì.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032171"
+    },
+    {
+      "english": "What time is it?",
+      "vietnamese": "Mấy giờ rồi?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032174"
+    },
+    {
+      "english": "Almost done.",
+      "vietnamese": "Sắp xong rồi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032176"
+    },
+    {
+      "english": "Let's wrap it up.",
+      "vietnamese": "Chúng ta kết thúc thôi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032179"
+    },
+    {
+      "english": "See you tomorrow.",
+      "vietnamese": "Hẹn gặp lại ngày mai.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032181"
+    },
+    {
+      "english": "I'm ready.",
+      "vietnamese": "Tôi sẵn sàng rồi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032184"
+    },
+    {
+      "english": "Let's go over this.",
+      "vietnamese": "Chúng ta xem lại cái này.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032186"
+    },
+    {
+      "english": "Can I help?",
+      "vietnamese": "Tôi giúp gì được không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032194"
+    },
+    {
+      "english": "It's done.",
+      "vietnamese": "Xong rồi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032197"
+    },
+    {
+      "english": "No worries.",
+      "vietnamese": "Không sao đâu.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032200"
+    },
+    {
+      "english": "Just checking in.",
+      "vietnamese": "Chỉ để kiểm tra thôi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032202"
+    },
+    {
+      "english": "Thanks for your help.",
+      "vietnamese": "Cảm ơn sự giúp đỡ của bạn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032206"
+    },
+    {
+      "english": "What's the main task, today?",
+      "vietnamese": "Nhiệm vụ chính, hôm nay là gì?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032209"
+    },
+    {
+      "english": "Any updates, on the project?",
+      "vietnamese": "Có cập nhật gì, về dự án không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032212"
+    },
+    {
+      "english": "Could you explain, that again?",
+      "vietnamese": "Bạn có thể giải thích, lại được không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032215"
+    },
+    {
+      "english": "Is there anything, I can do?",
+      "vietnamese": "Có điều gì, tôi có thể làm không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032218"
+    },
+    {
+      "english": "Where should I send, this file?",
+      "vietnamese": "Tôi nên gửi, tệp này đi đâu?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032223"
+    },
+    {
+      "english": "Who is responsible, for this?",
+      "vietnamese": "Ai chịu trách nhiệm, cho việc này?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032226"
+    },
+    {
+      "english": "When is the deadline, exactly?",
+      "vietnamese": "Hạn chót là, khi nào vậy?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032228"
+    },
+    {
+      "english": "Do you need, more information?",
+      "vietnamese": "Bạn có cần, thêm thông tin không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032231"
+    },
+    {
+      "english": "How was your weekend, by the way?",
+      "vietnamese": "Cuối tuần của bạn, sao rồi?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032235"
+    },
+    {
+      "english": "Can we brainstorm, some ideas?",
+      "vietnamese": "Chúng ta có thể, cùng nghĩ ý tưởng không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032237"
+    },
+    {
+      "english": "What's the priority, right now?",
+      "vietnamese": "Ưu tiên hàng đầu, bây giờ là gì?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032240"
+    },
+    {
+      "english": "Is this the correct, version?",
+      "vietnamese": "Đây có phải, là phiên bản đúng không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032243"
+    },
+    {
+      "english": "Can you clarify, that point?",
+      "vietnamese": "Bạn có thể làm rõ, điểm đó không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032246"
+    },
+    {
+      "english": "What feedback, do you have?",
+      "vietnamese": "Bạn có phản hồi, gì không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032248"
+    },
+    {
+      "english": "Are you free, for a quick chat?",
+      "vietnamese": "Bạn có rảnh, để nói chuyện nhanh không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032251"
+    },
+    {
+      "english": "Shall we discuss, this later?",
+      "vietnamese": "Chúng ta có nên, bàn việc này sau không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032254"
+    },
+    {
+      "english": "How do you handle, stress?",
+      "vietnamese": "Bạn xử lý, căng thẳng thế nào?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032256"
+    },
+    {
+      "english": "Could you summarize, briefly?",
+      "vietnamese": "Bạn có thể tóm tắt, lại ngắn gọn không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032259"
+    },
+    {
+      "english": "Is the meeting, still on?",
+      "vietnamese": "Cuộc họp, vẫn diễn ra chứ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032262"
+    },
+    {
+      "english": "What are the expectations, for me?",
+      "vietnamese": "Kỳ vọng dành cho tôi, là gì?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032264"
+    },
+    {
+      "english": "Who should I ask, about this?",
+      "vietnamese": "Tôi nên hỏi, ai về việc này?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032267"
+    },
+    {
+      "english": "Can we review, this proposal?",
+      "vietnamese": "Chúng ta có thể, xem lại đề xuất này không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032270"
+    },
+    {
+      "english": "What's the main challenge, here?",
+      "vietnamese": "Thách thức chính, ở đây là gì?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032273"
+    },
+    {
+      "english": "How can we improve, this?",
+      "vietnamese": "Chúng ta có thể cải thiện, điều này thế nào?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032275"
+    },
+    {
+      "english": "Are there any, pending tasks?",
+      "vietnamese": "Có nhiệm vụ nào, còn tồn đọng không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032278"
+    },
+    {
+      "english": "What's the plan, for today?",
+      "vietnamese": "Kế hoạch cho hôm nay, là gì?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032282"
+    },
+    {
+      "english": "Can you suggest, a solution?",
+      "vietnamese": "Bạn có thể đề xuất, một giải pháp không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032285"
+    },
+    {
+      "english": "Keep up, the great work!",
+      "vietnamese": "Cứ phát huy, tinh thần này nhé!",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032290"
+    },
+    {
+      "english": "I believe, in your abilities.",
+      "vietnamese": "Tôi tin, vào khả năng của bạn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032293"
+    },
+    {
+      "english": "Stay positive, stay focused.",
+      "vietnamese": "Giữ tích cực, giữ tập trung.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032296"
+    },
+    {
+      "english": "Let's conquer, this challenge.",
+      "vietnamese": "Chúng ta hãy, chinh phục thử thách này.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032299"
+    },
+    {
+      "english": "Don't give up, keep pushing.",
+      "vietnamese": "Đừng bỏ cuộc, cứ tiến lên.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032302"
+    },
+    {
+      "english": "Your ideas, are very valuable.",
+      "vietnamese": "Ý tưởng của bạn, rất đáng giá.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032304"
+    },
+    {
+      "english": "Think big, and act boldly.",
+      "vietnamese": "Nghĩ lớn, và hành động mạnh mẽ.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032307"
+    },
+    {
+      "english": "Every small step, counts.",
+      "vietnamese": "Mỗi bước nhỏ, đều quan trọng.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032310"
+    },
+    {
+      "english": "Let's aim, for excellence.",
+      "vietnamese": "Hãy hướng tới, sự xuất sắc.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032313"
+    },
+    {
+      "english": "Stay motivated, every day.",
+      "vietnamese": "Luôn có động lực, mỗi ngày.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032316"
+    },
+    {
+      "english": "Your dedication, is inspiring.",
+      "vietnamese": "Sự cống hiến của bạn, thật truyền cảm hứng.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032319"
+    },
+    {
+      "english": "Let's learn, and grow.",
+      "vietnamese": "Hãy học hỏi, và phát triển.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032322"
+    },
+    {
+      "english": "You're a real, asset.",
+      "vietnamese": "Bạn là một, tài sản thực sự.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032325"
+    },
+    {
+      "english": "Confidence is, key.",
+      "vietnamese": "Sự tự tin, là chìa khóa.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032327"
+    },
+    {
+      "english": "Embrace change, with optimism.",
+      "vietnamese": "Đón nhận thay đổi, với lạc quan.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032330"
+    },
+    {
+      "english": "Your perspective, is unique.",
+      "vietnamese": "Góc nhìn của bạn, rất độc đáo.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032333"
+    },
+    {
+      "english": "You're capable, of great things.",
+      "vietnamese": "Bạn có khả năng, làm những điều tuyệt vời.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032337"
+    },
+    {
+      "english": "Stay resilient, stay strong.",
+      "vietnamese": "Luôn kiên cường, luôn mạnh mẽ.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032339"
+    },
+    {
+      "english": "Your contribution, matters.",
+      "vietnamese": "Sự đóng góp của bạn, rất quan trọng.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032342"
+    },
+    {
+      "english": "Believe you can, and you will.",
+      "vietnamese": "Tin rằng bạn có thể, và bạn sẽ làm được.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032345"
+    },
+    {
+      "english": "Let's be proactive, always.",
+      "vietnamese": "Hãy chủ động, luôn luôn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032348"
+    },
+    {
+      "english": "Your hard work, pays off.",
+      "vietnamese": "Sự chăm chỉ của bạn, sẽ được đền đáp.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032351"
+    },
+    {
+      "english": "Maintain, a positive outlook.",
+      "vietnamese": "Duy trì, một cái nhìn tích cực.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032353"
+    },
+    {
+      "english": "You are, a team player.",
+      "vietnamese": "Bạn là một, người đồng đội tuyệt vời.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032356"
+    },
+    {
+      "english": "Let's make, progress daily.",
+      "vietnamese": "Hãy tạo ra, sự tiến bộ mỗi ngày.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032361"
+    },
+    {
+      "english": "Let's get to the point, quickly.",
+      "vietnamese": "Đi thẳng vào vấn đề, nhanh nhé.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032364"
+    },
+    {
+      "english": "This is a tough nut to crack.",
+      "vietnamese": "Đây là bài toán khó nhằn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032367"
+    },
+    {
+      "english": "Let's table this discussion.",
+      "vietnamese": "Chúng ta tạm gác lại vụ này.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032370"
+    },
+    {
+      "english": "He's pulling your leg.",
+      "vietnamese": "Anh ta đang đùa ông/bà đấy.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032372"
+    },
+    {
+      "english": "We need to think outside the box.",
+      "vietnamese": "Chúng ta cần nghĩ khác biệt.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032375"
+    },
+    {
+      "english": "This project is going nowhere.",
+      "vietnamese": "Dự án này đi vào ngõ cụt.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032378"
+    },
+    {
+      "english": "I'm swamped with work.",
+      "vietnamese": "Tôi đang ngập đầu trong công việc.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032381"
+    },
+    {
+      "english": "He's the boss, but not really.",
+      "vietnamese": "Anh ta chỉ là cái mác thôi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032385"
+    },
+    {
+      "english": "That's water under the bridge.",
+      "vietnamese": "Chuyện đó đã qua rồi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032388"
+    },
+    {
+      "english": "He's not playing with a full deck.",
+      "vietnamese": "Anh ta hơi bị khùng.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032391"
+    },
+    {
+      "english": "Let's cross that bridge when we come to it.",
+      "vietnamese": "Đến đâu hay đến đó.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032394"
+    },
+    {
+      "english": "This is a tough pill to swallow.",
+      "vietnamese": "Đây là điều khó chấp nhận.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032396"
+    },
+    {
+      "english": "He's got his head in the clouds.",
+      "vietnamese": "Anh ta mơ mộng hão huyền.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032399"
+    },
+    {
+      "english": "Let's get on the same page.",
+      "vietnamese": "Chúng ta cần thống nhất ý kiến.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032402"
+    },
+    {
+      "english": "This is a big fish.",
+      "vietnamese": "Đây là một vụ lớn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032404"
+    },
+    {
+      "english": "Let's burn the midnight oil.",
+      "vietnamese": "Chúng ta thức khuya làm việc.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032407"
+    },
+    {
+      "english": "He's got a bee in his bonnet.",
+      "vietnamese": "Anh ta đang bực bội chuyện gì đó.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032412"
+    },
+    {
+      "english": "Let's keep our eyes peeled.",
+      "vietnamese": "Chúng ta hãy cảnh giác cao độ.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032414"
+    },
+    {
+      "english": "This is the last straw.",
+      "vietnamese": "Đây là giọt nước tràn ly.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032417"
+    },
+    {
+      "english": "He's just a yes-man.",
+      "vietnamese": "Anh ta chỉ biết nghe lời.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032420"
+    },
+    {
+      "english": "Let's cut to the chase.",
+      "vietnamese": "Đi thẳng vấn đề chính.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032423"
+    },
+    {
+      "english": "This is a win-win situation.",
+      "vietnamese": "Đây là đôi bên cùng có lợi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032425"
+    },
+    {
+      "english": "He's got eyes in the back of his head.",
+      "vietnamese": "Anh ta rất tinh mắt.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032428"
+    },
+    {
+      "english": "Let's not rock the boat.",
+      "vietnamese": "Chúng ta đừng gây xáo trộn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032431"
+    },
+    {
+      "english": "Feeling a bit drained, today.",
+      "vietnamese": "Hôm nay thấy hơi đuối.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032433"
+    },
+    {
+      "english": "This task, requires deep thought.",
+      "vietnamese": "Việc này, cần suy nghĩ sâu.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032436"
+    },
+    {
+      "english": "I need some quiet, to focus.",
+      "vietnamese": "Tôi cần yên tĩnh, để tập trung.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032441"
+    },
+    {
+      "english": "Are you happy, with the progress?",
+      "vietnamese": "Bạn có hài lòng, với tiến độ không?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032444"
+    },
+    {
+      "english": "It's okay, to feel overwhelmed.",
+      "vietnamese": "Thấy quá tải, cũng không sao đâu.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032447"
+    },
+    {
+      "english": "Let's be patient, with each other.",
+      "vietnamese": "Hãy kiên nhẫn, với nhau nhé.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032450"
+    },
+    {
+      "english": "Sometimes, things take time.",
+      "vietnamese": "Đôi khi, mọi việc cần thời gian.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032453"
+    },
+    {
+      "english": "I'm reflecting, on my approach.",
+      "vietnamese": "Tôi đang suy ngẫm, về cách làm.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032456"
+    },
+    {
+      "english": "This situation, makes me think.",
+      "vietnamese": "Tình huống này, làm tôi suy nghĩ.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032458"
+    },
+    {
+      "english": "I appreciate, your honesty.",
+      "vietnamese": "Tôi trân trọng, sự thẳng thắn của bạn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032461"
+    },
+    {
+      "english": "Let's try, a different angle.",
+      "vietnamese": "Ta thử, một góc nhìn khác.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032464"
+    },
+    {
+      "english": "Feeling quite, contemplative now.",
+      "vietnamese": "Giờ thấy khá, trầm ngâm.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032467"
+    },
+    {
+      "english": "This requires, genuine effort.",
+      "vietnamese": "Việc này đòi hỏi, nỗ lực thật sự.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032469"
+    },
+    {
+      "english": "How do you, truly feel?",
+      "vietnamese": "Bạn cảm thấy, thực sự thế nào?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032472"
+    },
+    {
+      "english": "Let's not rush, the outcome.",
+      "vietnamese": "Đừng vội vàng, kết quả nhé.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032477"
+    },
+    {
+      "english": "I'm taking a step back, mentally.",
+      "vietnamese": "Tôi đang lùi lại, một bước về tinh thần.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032480"
+    },
+    {
+      "english": "This is, more complex than it looks.",
+      "vietnamese": "Việc này, phức tạp hơn vẻ ngoài.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032483"
+    },
+    {
+      "english": "Let's embrace, the uncertainty.",
+      "vietnamese": "Hãy chấp nhận, sự không chắc chắn.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032486"
+    },
+    {
+      "english": "I need to process, this information.",
+      "vietnamese": "Tôi cần xử lý, thông tin này.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032489"
+    },
+    {
+      "english": "This calls, for deep reflection.",
+      "vietnamese": "Việc này đòi hỏi, suy ngẫm sâu sắc.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032491"
+    },
+    {
+      "english": "I'm feeling, a bit thoughtful.",
+      "vietnamese": "Tôi đang thấy, hơi trầm tư.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-26T05:38:04.032495"
     }
   ],
-  "last_updated": "2026-10-25T05:32:30.514053"
+  "last_updated": "2026-10-26T05:38:04.032497"
 }
