@@ -38543,7 +38543,727 @@
       "vietnamese": "Tôi đang thấy, hơi trầm tư.",
       "category": "Work & Office",
       "generated_at": "2026-10-26T05:38:04.032495"
+    },
+    {
+      "english": "You're so thoughtful, really.",
+      "vietnamese": "Bạn thật là tâm lý, quá.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083590"
+    },
+    {
+      "english": "That was very considerate, thank you.",
+      "vietnamese": "Thật là chu đáo, cảm ơn bạn.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083604"
+    },
+    {
+      "english": "I appreciate your kindness, deeply.",
+      "vietnamese": "Tôi quý sự tốt bụng của bạn, lắm.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083607"
+    },
+    {
+      "english": "Such a nice gesture, wow.",
+      "vietnamese": "Một hành động thật đẹp, ôi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083609"
+    },
+    {
+      "english": "That's very generous of you.",
+      "vietnamese": "Bạn thật là rộng lượng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083611"
+    },
+    {
+      "english": "Your kindness brightens my day.",
+      "vietnamese": "Sự tử tế của bạn làm ngày tôi tươi sáng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083614"
+    },
+    {
+      "english": "What a kind soul you are.",
+      "vietnamese": "Bạn đúng là một tâm hồn nhân ái.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083615"
+    },
+    {
+      "english": "You're always so helpful.",
+      "vietnamese": "Bạn luôn luôn giúp đỡ.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083620"
+    },
+    {
+      "english": "That's a lovely thing to do.",
+      "vietnamese": "Đó là một việc làm đáng yêu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083623"
+    },
+    {
+      "english": "Your spirit is so kind.",
+      "vietnamese": "Tinh thần của bạn thật nhân hậu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083625"
+    },
+    {
+      "english": "You make people feel good.",
+      "vietnamese": "Bạn làm cho mọi người cảm thấy tốt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083627"
+    },
+    {
+      "english": "That’s incredibly thoughtful.",
+      "vietnamese": "Thật là chu đáo không ngờ.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083630"
+    },
+    {
+      "english": "Your actions speak volumes.",
+      "vietnamese": "Hành động của bạn nói lên tất cả.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083633"
+    },
+    {
+      "english": "You’ve got a big heart.",
+      "vietnamese": "Bạn có một trái tim lớn.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083637"
+    },
+    {
+      "english": "That was so sweet of you.",
+      "vietnamese": "Bạn thật là ngọt ngào.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083639"
+    },
+    {
+      "english": "You’re a true gem.",
+      "vietnamese": "Bạn đúng là một viên ngọc quý.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083641"
+    },
+    {
+      "english": "Your generosity is amazing.",
+      "vietnamese": "Sự hào phóng của bạn thật tuyệt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083643"
+    },
+    {
+      "english": "That was so kind-hearted.",
+      "vietnamese": "Thật là giàu lòng tốt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083645"
+    },
+    {
+      "english": "You're a blessing to others.",
+      "vietnamese": "Bạn là một phước lành cho người khác.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083648"
+    },
+    {
+      "english": "Your empathy is touching.",
+      "vietnamese": "Sự đồng cảm của bạn thật cảm động.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083649"
+    },
+    {
+      "english": "You always know what to say.",
+      "vietnamese": "Bạn luôn biết phải nói gì.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083651"
+    },
+    {
+      "english": "That’s a thoughtful gesture.",
+      "vietnamese": "Đó là một cử chỉ tâm lý.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083656"
+    },
+    {
+      "english": "Your kindness shines through.",
+      "vietnamese": "Sự tử tế của bạn tỏa sáng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083658"
+    },
+    {
+      "english": "You have such a giving nature.",
+      "vietnamese": "Bạn có một bản chất cho đi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083660"
+    },
+    {
+      "english": "That was truly considerate.",
+      "vietnamese": "Thật sự là chu đáo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083662"
+    },
+    {
+      "english": "You make the world better.",
+      "vietnamese": "Bạn làm cho thế giới tốt đẹp hơn.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083664"
+    },
+    {
+      "english": "Your compassion is admirable.",
+      "vietnamese": "Lòng trắc ẩn của bạn thật đáng ngưỡng mộ.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083665"
+    },
+    {
+      "english": "What a generous spirit!",
+      "vietnamese": "Thật là một tinh thần hào phóng!",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083667"
+    },
+    {
+      "english": "Any advice, for a beginner?",
+      "vietnamese": "Có lời khuyên nào, cho người mới không?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083669"
+    },
+    {
+      "english": "How can I, be more helpful?",
+      "vietnamese": "Tôi có thể, giúp ích hơn thế nào?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083672"
+    },
+    {
+      "english": "What's your opinion, on kindness?",
+      "vietnamese": "Ý kiến của bạn, về sự tử tế?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083674"
+    },
+    {
+      "english": "Do you agree, with me?",
+      "vietnamese": "Bạn có đồng ý, với tôi không?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083676"
+    },
+    {
+      "english": "Could you show me, how?",
+      "vietnamese": "Bạn có thể chỉ tôi, cách làm không?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083678"
+    },
+    {
+      "english": "Have you faced, similar problems?",
+      "vietnamese": "Bạn đã từng gặp, vấn đề tương tự?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083680"
+    },
+    {
+      "english": "Who inspires, your kindness?",
+      "vietnamese": "Ai truyền cảm hứng, cho lòng tốt bạn?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083682"
+    },
+    {
+      "english": "How do you, handle criticism?",
+      "vietnamese": "Bạn đối mặt, với lời chỉ trích sao?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083684"
+    },
+    {
+      "english": "Is there something, I missed?",
+      "vietnamese": "Có điều gì, tôi bỏ lỡ không?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083686"
+    },
+    {
+      "english": "What's your favorite, kind act?",
+      "vietnamese": "Hành động tử tế, bạn thích nhất?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083688"
+    },
+    {
+      "english": "Do you believe, in karma?",
+      "vietnamese": "Bạn có tin, vào luật nhân quả?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083691"
+    },
+    {
+      "english": "How do you show, appreciation?",
+      "vietnamese": "Bạn thể hiện, sự cảm kích thế nào?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083694"
+    },
+    {
+      "english": "What’s a common, mistake?",
+      "vietnamese": "Một lỗi phổ biến, là gì?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083696"
+    },
+    {
+      "english": "Are you open, to suggestions?",
+      "vietnamese": "Bạn có cởi mở, với gợi ý không?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083698"
+    },
+    {
+      "english": "How can we, connect better?",
+      "vietnamese": "Chúng ta có thể, kết nối tốt hơn?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083700"
+    },
+    {
+      "english": "What's your goal, today?",
+      "vietnamese": "Mục tiêu của bạn, hôm nay?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083702"
+    },
+    {
+      "english": "Did you learn, something new?",
+      "vietnamese": "Bạn có học, điều gì mới không?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083705"
+    },
+    {
+      "english": "Can I ask, for your help?",
+      "vietnamese": "Tôi có thể xin, sự giúp đỡ bạn?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083708"
+    },
+    {
+      "english": "What's your take, on this?",
+      "vietnamese": "Quan điểm của bạn, về việc này?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083710"
+    },
+    {
+      "english": "How do you practice, empathy?",
+      "vietnamese": "Bạn thực hành, sự đồng cảm thế nào?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083712"
+    },
+    {
+      "english": "What would you do, differently?",
+      "vietnamese": "Bạn sẽ làm, khác đi thế nào?",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083714"
+    },
+    {
+      "english": "Keep that good vibe going!",
+      "vietnamese": "Cứ giữ vững năng lượng tích cực đó!",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083716"
+    },
+    {
+      "english": "Stay positive, it pays off.",
+      "vietnamese": "Luôn tích cực, sẽ gặt hái thành quả.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083718"
+    },
+    {
+      "english": "Believe in your good heart.",
+      "vietnamese": "Hãy tin vào trái tim nhân hậu của bạn.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083720"
+    },
+    {
+      "english": "Your effort is noticed.",
+      "vietnamese": "Nỗ lực của bạn được ghi nhận.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083722"
+    },
+    {
+      "english": "That's a wonderful mindset.",
+      "vietnamese": "Đó là một tư duy tuyệt vời.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083724"
+    },
+    {
+      "english": "Your positive energy is contagious.",
+      "vietnamese": "Năng lượng tích cực của bạn lan tỏa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083726"
+    },
+    {
+      "english": "You've got this, keep going!",
+      "vietnamese": "Bạn làm được mà, cố lên!",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083729"
+    },
+    {
+      "english": "That's a brilliant way to think.",
+      "vietnamese": "Đó là một cách suy nghĩ thông minh.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083731"
+    },
+    {
+      "english": "You're planting good seeds.",
+      "vietnamese": "Bạn đang gieo những hạt giống tốt đẹp.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083734"
+    },
+    {
+      "english": "That's the spirit!",
+      "vietnamese": "Đúng là tinh thần đó!",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083737"
+    },
+    {
+      "english": "You have a growth mindset.",
+      "vietnamese": "Bạn có một tư duy phát triển.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083739"
+    },
+    {
+      "english": "Every little bit helps.",
+      "vietnamese": "Mỗi chút ít đều giúp ích.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083741"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "vietnamese": "Góc nhìn của bạn rất có giá trị.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083743"
+    },
+    {
+      "english": "Never underestimate your impact.",
+      "vietnamese": "Đừng bao giờ đánh giá thấp ảnh hưởng của bạn.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083745"
+    },
+    {
+      "english": "Keep that positivity flowing.",
+      "vietnamese": "Hãy để sự tích cực tuôn chảy.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083748"
+    },
+    {
+      "english": "You're building something great.",
+      "vietnamese": "Bạn đang xây dựng điều gì đó tuyệt vời.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083750"
+    },
+    {
+      "english": "That's a true strength.",
+      "vietnamese": "Đó là một sức mạnh đích thực.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083752"
+    },
+    {
+      "english": "Your attitude is inspiring.",
+      "vietnamese": "Thái độ của bạn thật truyền cảm hứng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083754"
+    },
+    {
+      "english": "You're making a difference.",
+      "vietnamese": "Bạn đang tạo ra sự khác biệt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083756"
+    },
+    {
+      "english": "That's a winning attitude.",
+      "vietnamese": "Đó là một thái độ chiến thắng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083758"
+    },
+    {
+      "english": "Your kindness creates ripples.",
+      "vietnamese": "Sự tử tế của bạn tạo ra những làn sóng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083760"
+    },
+    {
+      "english": "You have a great outlook.",
+      "vietnamese": "Bạn có một cái nhìn tuyệt vời.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083762"
+    },
+    {
+      "english": "Keep that spark alive.",
+      "vietnamese": "Hãy giữ cho ngọn lửa đó luôn bùng cháy.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083764"
+    },
+    {
+      "english": "Your kindness is your superpower.",
+      "vietnamese": "Sự tử tế là siêu năng lực của bạn.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083766"
+    },
+    {
+      "english": "That's incredibly encouraging.",
+      "vietnamese": "Điều đó thật đáng khích lệ.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083768"
+    },
+    {
+      "english": "Lend a hand, help a friend.",
+      "vietnamese": "Giúp một tay, bạn bè vui.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083770"
+    },
+    {
+      "english": "A good deed, a good life.",
+      "vietnamese": "Việc tốt, đời đẹp.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083771"
+    },
+    {
+      "english": "Share the joy, spread the love.",
+      "vietnamese": "Chia sẻ vui, lan tỏa yêu thương.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083773"
+    },
+    {
+      "english": "Kind words, heal the soul.",
+      "vietnamese": "Lời hay, ấm lòng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083776"
+    },
+    {
+      "english": "Small kindness, big impact.",
+      "vietnamese": "Tốt bụng, thành công.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083778"
+    },
+    {
+      "english": "Help the needy, feel happy.",
+      "vietnamese": "Giúp người khó, lòng vui.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083781"
+    },
+    {
+      "english": "Be understanding, be kind.",
+      "vietnamese": "Biết thông cảm, mới tốt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083782"
+    },
+    {
+      "english": "Give a smile, get a smile.",
+      "vietnamese": "Cười một cái, nhận nụ cười.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083784"
+    },
+    {
+      "english": "Kindness costs nothing, means everything.",
+      "vietnamese": "Tử tế, không tốn gì, quý lắm.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083786"
+    },
+    {
+      "english": "Be generous, be happy.",
+      "vietnamese": "Hào phóng, vui vẻ.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083788"
+    },
+    {
+      "english": "A listening ear, a helping hand.",
+      "vietnamese": "Lắng nghe, giúp đỡ.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083790"
+    },
+    {
+      "english": "Good intentions, good results.",
+      "vietnamese": "Ý tốt, kết quả tốt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083792"
+    },
+    {
+      "english": "Support each other, grow together.",
+      "vietnamese": "Hỗ trợ nhau, cùng phát triển.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083794"
+    },
+    {
+      "english": "Be considerate, be thoughtful.",
+      "vietnamese": "Quan tâm, chu đáo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083796"
+    },
+    {
+      "english": "One kind word, can change a day.",
+      "vietnamese": "Lời tốt, đổi ngày.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083798"
+    },
+    {
+      "english": "Compassion, is true strength.",
+      "vietnamese": "Lòng trắc ẩn, sức mạnh.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083800"
+    },
+    {
+      "english": "Share what you have, help others thrive.",
+      "vietnamese": "Chia sẻ, giúp người vươn lên.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083802"
+    },
+    {
+      "english": "Empathy, builds bridges.",
+      "vietnamese": "Đồng cảm, xây cầu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083805"
+    },
+    {
+      "english": "A moment of kindness, lasts forever.",
+      "vietnamese": "Phút tử tế, còn mãi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083807"
+    },
+    {
+      "english": "Spread positivity, like sunshine.",
+      "vietnamese": "Lan tỏa tích cực, như nắng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083809"
+    },
+    {
+      "english": "Be a good listener, be a good friend.",
+      "vietnamese": "Biết lắng nghe, bạn tốt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083812"
+    },
+    {
+      "english": "Kindness is contagious, spread it.",
+      "vietnamese": "Tốt bụng, lây lan.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083814"
+    },
+    {
+      "english": "Help without expecting, in return.",
+      "vietnamese": "Giúp không mong đền đáp.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083815"
+    },
+    {
+      "english": "Your support, means a lot.",
+      "vietnamese": "Bạn giúp, tôi quý lắm.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083817"
+    },
+    {
+      "english": "Gentle words, win hearts.",
+      "vietnamese": "Lời nói nhẹ, thắng lòng.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083819"
+    },
+    {
+      "english": "Give a little, gain a lot.",
+      "vietnamese": "Cho đi ít, nhận lại nhiều.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083821"
+    },
+    {
+      "english": "Be the reason, someone smiles.",
+      "vietnamese": "Là lý do, người ta cười.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083823"
+    },
+    {
+      "english": "Kindness is a language, everyone understands.",
+      "vietnamese": "Tử tế, ai cũng hiểu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083825"
+    },
+    {
+      "english": "Offer help, even when not asked.",
+      "vietnamese": "Giúp đỡ, dù không được nhờ.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083827"
+    },
+    {
+      "english": "Remember, everyone has struggles.",
+      "vietnamese": "Hãy nhớ, ai cũng có khó khăn.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083829"
+    },
+    {
+      "english": "A small favor, goes a long way.",
+      "vietnamese": "Một ơn nhỏ, giúp ích nhiều.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083831"
+    },
+    {
+      "english": "Be patient, with those learning.",
+      "vietnamese": "Kiên nhẫn, với người đang học.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083833"
+    },
+    {
+      "english": "Leave places, better than you found them.",
+      "vietnamese": "Để lại nơi, tốt hơn lúc bạn đến.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083834"
+    },
+    {
+      "english": "Share your knowledge, freely.",
+      "vietnamese": "Chia sẻ kiến thức, thoải mái.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083836"
+    },
+    {
+      "english": "Offer a compliment, genuinely.",
+      "vietnamese": "Khen ngợi, một cách chân thành.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083838"
+    },
+    {
+      "english": "Don't judge, just understand.",
+      "vietnamese": "Đừng phán xét, hãy thấu hiểu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083841"
+    },
+    {
+      "english": "Forgive quickly, hold no grudges.",
+      "vietnamese": "Tha thứ nhanh, đừng giữ oán.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083843"
+    },
+    {
+      "english": "Apologize, when you are wrong.",
+      "vietnamese": "Xin lỗi, khi bạn sai.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083845"
+    },
+    {
+      "english": "Give space, to those who need it.",
+      "vietnamese": "Nhường chỗ, cho người cần.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083846"
+    },
+    {
+      "english": "Celebrate small victories, with others.",
+      "vietnamese": "Chúc mừng thành công nhỏ, cùng mọi người.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083848"
+    },
+    {
+      "english": "Offer encouragement, when spirits are low.",
+      "vietnamese": "Động viên, khi tinh thần xuống.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083850"
+    },
+    {
+      "english": "Respect different opinions.",
+      "vietnamese": "Tôn trọng ý kiến khác biệt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083852"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "vietnamese": "Thực hành biết ơn, mỗi ngày.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083854"
+    },
+    {
+      "english": "Be mindful, of others' feelings.",
+      "vietnamese": "Quan tâm, đến cảm xúc người khác.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083856"
+    },
+    {
+      "english": "Share resources, if you can.",
+      "vietnamese": "Chia sẻ nguồn lực, nếu có thể.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083858"
+    },
+    {
+      "english": "Offer a seat, to someone elderly.",
+      "vietnamese": "Nhường ghế, cho người lớn tuổi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T05:50:15.083860"
     }
   ],
-  "last_updated": "2026-10-26T05:38:04.032497"
+  "last_updated": "2026-10-27T05:50:15.083862"
 }
