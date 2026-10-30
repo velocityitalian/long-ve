@@ -40703,7 +40703,727 @@
       "vietnamese": "Cởi mở để thử, những điều mới.",
       "category": "Celebrations & Parties",
       "generated_at": "2026-10-29T06:39:45.671740"
+    },
+    {
+      "english": "Can't stop, smiling.",
+      "vietnamese": "Cứ tủm tỉm, cười mãi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341416"
+    },
+    {
+      "english": "My favorite, person.",
+      "vietnamese": "Người em/anh thích nhất.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341434"
+    },
+    {
+      "english": "Wish you, were here.",
+      "vietnamese": "Ước gì, người ở đây.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341438"
+    },
+    {
+      "english": "You're stuck, in my head.",
+      "vietnamese": "Người cứ, luẩn quẩn trong đầu.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341441"
+    },
+    {
+      "english": "Need you, right now.",
+      "vietnamese": "Cần người, ngay lập tức.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341444"
+    },
+    {
+      "english": "You're so, cute!",
+      "vietnamese": "Trông người, yêu ghê!",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341446"
+    },
+    {
+      "english": "Can't wait, to see you.",
+      "vietnamese": "Nôn nao, gặp người.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341449"
+    },
+    {
+      "english": "Just for, you.",
+      "vietnamese": "Chỉ vì, người thôi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341457"
+    },
+    {
+      "english": "You make, life exciting.",
+      "vietnamese": "Cuộc sống, có người thú vị hẳn.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341462"
+    },
+    {
+      "english": "Just thinking, about you.",
+      "vietnamese": "Chỉ nghĩ, đến người thôi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341465"
+    },
+    {
+      "english": "You're my, favorite notification.",
+      "vietnamese": "Thông báo, em/anh chờ nhất.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341468"
+    },
+    {
+      "english": "You have, my heart.",
+      "vietnamese": "Người giữ, trái tim em/anh.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341471"
+    },
+    {
+      "english": "So happy, you're mine.",
+      "vietnamese": "Mừng quá, là của em/anh.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341474"
+    },
+    {
+      "english": "You're my, little secret.",
+      "vietnamese": "Là bí mật, nho nhỏ của em/anh.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341477"
+    },
+    {
+      "english": "Can't stop, thinking about us.",
+      "vietnamese": "Cứ nghĩ, về hai ta.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341482"
+    },
+    {
+      "english": "My heart, leaps for you.",
+      "vietnamese": "Tim em/anh, nhảy cẫng vì người.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341485"
+    },
+    {
+      "english": "You make, me blush.",
+      "vietnamese": "Anh/Em làm, em/anh đỏ mặt.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341487"
+    },
+    {
+      "english": "My favorite, hello.",
+      "vietnamese": "Lời chào, em/anh thích nhất.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341490"
+    },
+    {
+      "english": "Sending you, a smile.",
+      "vietnamese": "Gửi anh/em, một nụ cười.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341493"
+    },
+    {
+      "english": "You're my, biggest crush.",
+      "vietnamese": "Anh/Em là, người em/anh mê nhất.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341496"
+    },
+    {
+      "english": "Always thinking, of us.",
+      "vietnamese": "Luôn nghĩ, về chúng ta.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341498"
+    },
+    {
+      "english": "A shared smile, means a lot.",
+      "vietnamese": "Nụ cười chung, có ý nghĩa lắm.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341501"
+    },
+    {
+      "english": "Kindness, is love's, true beauty.",
+      "vietnamese": "Sự tử tế, là vẻ đẹp, thật sự của tình yêu.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341504"
+    },
+    {
+      "english": "A gentle touch, speaks volumes.",
+      "vietnamese": "Cái chạm nhẹ, nói lên nhiều điều.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341506"
+    },
+    {
+      "english": "Your presence, lights my day.",
+      "vietnamese": "Sự có mặt của anh/em, thắp sáng ngày em/anh.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341509"
+    },
+    {
+      "english": "Love sees, the good.",
+      "vietnamese": "Tình yêu nhìn, thấy điều tốt.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341511"
+    },
+    {
+      "english": "A warm hug, feels like home.",
+      "vietnamese": "Cái ôm ấm áp, giống như ở nhà.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341514"
+    },
+    {
+      "english": "I miss your, laugh.",
+      "vietnamese": "Em/Anh nhớ, tiếng cười của anh/em.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341518"
+    },
+    {
+      "english": "What are you thinking, about?",
+      "vietnamese": "Bạn đang nghĩ gì, thế?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341521"
+    },
+    {
+      "english": "Did you eat, yet?",
+      "vietnamese": "Anh/Em ăn cơm, chưa?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341523"
+    },
+    {
+      "english": "Do you like, this song?",
+      "vietnamese": "Bạn có thích, bài này không?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341526"
+    },
+    {
+      "english": "Should we go, there?",
+      "vietnamese": "Mình đi đến, đó nhé?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341528"
+    },
+    {
+      "english": "Can I ask, you something?",
+      "vietnamese": "Tôi có thể hỏi, bạn một chút?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341531"
+    },
+    {
+      "english": "Do you miss, me?",
+      "vietnamese": "Anh/Em có nhớ, tôi không?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341534"
+    },
+    {
+      "english": "Can you give, me advice?",
+      "vietnamese": "Bạn có thể cho, tôi lời khuyên?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341536"
+    },
+    {
+      "english": "Shall we get, married?",
+      "vietnamese": "Chúng ta kết hôn, nhé?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341539"
+    },
+    {
+      "english": "Do you believe, in fate?",
+      "vietnamese": "Bạn có tin, vào định mệnh?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341541"
+    },
+    {
+      "english": "What's your dream, job?",
+      "vietnamese": "Ước mơ nghề nghiệp, của bạn là gì?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341544"
+    },
+    {
+      "english": "Can we talk, later?",
+      "vietnamese": "Chúng ta nói chuyện, sau nhé?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341546"
+    },
+    {
+      "english": "What are we, doing now?",
+      "vietnamese": "Bây giờ chúng ta, làm gì?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341549"
+    },
+    {
+      "english": "Do you feel, the same?",
+      "vietnamese": "Bạn có cảm thấy, giống vậy không?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341551"
+    },
+    {
+      "english": "Can we be, friends?",
+      "vietnamese": "Chúng ta có thể làm, bạn bè?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341557"
+    },
+    {
+      "english": "Do you trust, me?",
+      "vietnamese": "Bạn có tin, tưởng tôi không?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341560"
+    },
+    {
+      "english": "What makes you, laugh?",
+      "vietnamese": "Điều gì làm bạn, cười?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341563"
+    },
+    {
+      "english": "Should we explore, together?",
+      "vietnamese": "Chúng ta khám phá, cùng nhau nhé?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341565"
+    },
+    {
+      "english": "Believe in our love story.",
+      "vietnamese": "Hãy tin vào câu chuyện tình yêu của chúng ta.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341568"
+    },
+    {
+      "english": "Our connection feels magical.",
+      "vietnamese": "Sự kết nối của chúng ta thật kỳ diệu.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341571"
+    },
+    {
+      "english": "Keep shining, my love.",
+      "vietnamese": "Cứ tỏa sáng nhé, tình yêu của tôi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341574"
+    },
+    {
+      "english": "We're building something special.",
+      "vietnamese": "Chúng ta đang xây dựng điều gì đó đặc biệt.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341577"
+    },
+    {
+      "english": "Your positivity is contagious.",
+      "vietnamese": "Sự tích cực của bạn thật dễ lây lan.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341579"
+    },
+    {
+      "english": "I admire your strength.",
+      "vietnamese": "Tôi ngưỡng mộ sức mạnh của bạn.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341581"
+    },
+    {
+      "english": "Focus on the good vibes.",
+      "vietnamese": "Hãy tập trung vào những rung cảm tích cực.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341584"
+    },
+    {
+      "english": "Our future looks bright.",
+      "vietnamese": "Tương lai của chúng ta thật tươi sáng.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341586"
+    },
+    {
+      "english": "You make loving easy.",
+      "vietnamese": "Bạn làm cho việc yêu trở nên dễ dàng.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341588"
+    },
+    {
+      "english": "Your support means everything.",
+      "vietnamese": "Sự ủng hộ của bạn là tất cả.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341590"
+    },
+    {
+      "english": "You're my greatest adventure.",
+      "vietnamese": "Bạn là cuộc phiêu lưu tuyệt vời nhất của tôi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341593"
+    },
+    {
+      "english": "Let's chase dreams together.",
+      "vietnamese": "Hãy cùng nhau theo đuổi ước mơ.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341595"
+    },
+    {
+      "english": "Your belief empowers me.",
+      "vietnamese": "Niềm tin của bạn trao cho tôi sức mạnh.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341597"
+    },
+    {
+      "english": "Love grows stronger daily.",
+      "vietnamese": "Tình yêu ngày càng thêm mạnh mẽ.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341599"
+    },
+    {
+      "english": "Keep believing, my dear.",
+      "vietnamese": "Hãy tiếp tục tin tưởng nhé, người yêu dấu.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341602"
+    },
+    {
+      "english": "Our journey is just beginning.",
+      "vietnamese": "Hành trình của chúng ta chỉ mới bắt đầu.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341604"
+    },
+    {
+      "english": "Let's build a legacy.",
+      "vietnamese": "Hãy cùng nhau xây dựng một di sản.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341606"
+    },
+    {
+      "english": "Your smile brightens everything.",
+      "vietnamese": "Nụ cười của bạn làm bừng sáng mọi thứ.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341609"
+    },
+    {
+      "english": "We have something special.",
+      "vietnamese": "Chúng ta có một điều gì đó đặc biệt.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341611"
+    },
+    {
+      "english": "You're my sunshine, every day.",
+      "vietnamese": "Em/Anh là nắng, của anh/em mỗi ngày.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341614"
+    },
+    {
+      "english": "You stole my heart, didn't you?",
+      "vietnamese": "Em/Anh cướp mất trái tim, của tôi rồi nhé?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341617"
+    },
+    {
+      "english": "Love makes me, a better person.",
+      "vietnamese": "Tình yêu làm anh/em, tốt hơn.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341619"
+    },
+    {
+      "english": "I'm hooked on you, truly.",
+      "vietnamese": "Anh/Em say nắng, em/anh thật rồi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341623"
+    },
+    {
+      "english": "Our love is, like a sweet song.",
+      "vietnamese": "Tình mình như, bài hát ngọt ngào.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341627"
+    },
+    {
+      "english": "You make my soul, sing.",
+      "vietnamese": "Em/Anh làm tâm hồn anh/em, ngân nga.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341629"
+    },
+    {
+      "english": "You're the missing piece, of my puzzle.",
+      "vietnamese": "Em/Anh là mảnh ghép, còn thiếu của anh/em.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341632"
+    },
+    {
+      "english": "Falling for you, was easy.",
+      "vietnamese": "Yêu em/anh, dễ như trở bàn tay.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341634"
+    },
+    {
+      "english": "You're the dream, I never want to wake from.",
+      "vietnamese": "Em/Anh là giấc mơ, anh/em không muốn tỉnh.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341638"
+    },
+    {
+      "english": "You complete me, in every way.",
+      "vietnamese": "Em/Anh bù đắp cho anh/em, mọi mặt.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341640"
+    },
+    {
+      "english": "My heart sings, when I see you.",
+      "vietnamese": "Tim anh/em vui hát, khi thấy em/anh.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341642"
+    },
+    {
+      "english": "You're my one and only, forever.",
+      "vietnamese": "Em/Anh là duy nhất, của anh/em mãi mãi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341645"
+    },
+    {
+      "english": "My soulmate, found at last.",
+      "vietnamese": "Định mệnh của anh/em, cuối cùng cũng gặp.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341647"
+    },
+    {
+      "english": "You're the reason, I smile.",
+      "vietnamese": "Em/Anh là lý do, anh/em mỉm cười.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341650"
+    },
+    {
+      "english": "You feel like home, to me.",
+      "vietnamese": "Ở bên em/anh, như ở nhà.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341654"
+    },
+    {
+      "english": "You're the light, of my life.",
+      "vietnamese": "Em/Anh là ánh sáng, cuộc đời anh/em.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341656"
+    },
+    {
+      "english": "My love is deep, like the ocean.",
+      "vietnamese": "Tình anh/em sâu, như biển cả.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341659"
+    },
+    {
+      "english": "You captured my heart, completely.",
+      "vietnamese": "Em/Anh đã chiếm trọn, trái tim anh/em.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341662"
+    },
+    {
+      "english": "Tell me your deepest thoughts, please.",
+      "vietnamese": "Hãy chia sẻ suy nghĩ sâu kín của bạn, làm ơn.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341664"
+    },
+    {
+      "english": "I'm learning to be more patient, with us.",
+      "vietnamese": "Tôi đang học cách kiên nhẫn hơn, với chúng ta.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341667"
+    },
+    {
+      "english": "What are you truly feeling, right now?",
+      "vietnamese": "Bạn đang cảm thấy thật sự thế nào, ngay bây giờ?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341671"
+    },
+    {
+      "english": "My feelings for you, have grown so much.",
+      "vietnamese": "Tình cảm của tôi dành cho bạn, đã lớn rất nhiều.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341674"
+    },
+    {
+      "english": "I'm reflecting, on our time together.",
+      "vietnamese": "Tôi đang suy ngẫm, về thời gian chúng ta bên nhau.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341677"
+    },
+    {
+      "english": "This connection, feels deeper than before.",
+      "vietnamese": "Sự kết nối này, cảm thấy sâu sắc hơn trước.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341679"
+    },
+    {
+      "english": "Can we talk, about our future?",
+      "vietnamese": "Chúng ta có thể nói chuyện, về tương lai của mình không?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341681"
+    },
+    {
+      "english": "Your presence, brings me so much peace.",
+      "vietnamese": "Sự hiện diện của bạn, mang lại cho tôi thật nhiều bình yên.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341686"
+    },
+    {
+      "english": "I'm learning to trust, this feeling.",
+      "vietnamese": "Tôi đang học cách tin tưởng, cảm xúc này.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341688"
+    },
+    {
+      "english": "Let's be honest, about our needs.",
+      "vietnamese": "Chúng ta hãy thẳng thắn, về nhu cầu của mình.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341691"
+    },
+    {
+      "english": "What truly makes you, feel loved?",
+      "vietnamese": "Điều gì thực sự khiến bạn, cảm thấy được yêu?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341693"
+    },
+    {
+      "english": "I appreciate, your genuine spirit.",
+      "vietnamese": "Tôi trân trọng, tinh thần chân thật của bạn.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341696"
+    },
+    {
+      "english": "We're growing, as individuals, and together.",
+      "vietnamese": "Chúng ta đang trưởng thành, với tư cách cá nhân, và cùng nhau.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341699"
+    },
+    {
+      "english": "This journey, is more meaningful with you.",
+      "vietnamese": "Hành trình này, ý nghĩa hơn khi có bạn.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341701"
+    },
+    {
+      "english": "I'm finding comfort, in our silence.",
+      "vietnamese": "Tôi tìm thấy sự an ủi, trong sự im lặng của chúng ta.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341704"
+    },
+    {
+      "english": "What brings you, genuine joy?",
+      "vietnamese": "Điều gì mang lại cho bạn, niềm vui đích thực?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341706"
+    },
+    {
+      "english": "Your understanding, means so much.",
+      "vietnamese": "Sự thấu hiểu của bạn, có ý nghĩa rất lớn.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341709"
+    },
+    {
+      "english": "Let's nurture, this beautiful bond.",
+      "vietnamese": "Chúng ta hãy nuôi dưỡng, mối liên kết đẹp đẽ này.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341711"
+    },
+    {
+      "english": "I'm reflecting, on how far we've come.",
+      "vietnamese": "Tôi đang suy ngẫm, về quãng đường chúng ta đã đi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341714"
+    },
+    {
+      "english": "Your kindness, touches my soul.",
+      "vietnamese": "Sự tử tế của bạn, chạm đến tâm hồn tôi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341718"
+    },
+    {
+      "english": "We are building, a foundation of trust.",
+      "vietnamese": "Chúng ta đang xây dựng, một nền tảng vững chắc của lòng tin.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341720"
+    },
+    {
+      "english": "What do you need, from me?",
+      "vietnamese": "Bạn cần gì, từ tôi?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341723"
+    },
+    {
+      "english": "Let's communicate, openly and honestly.",
+      "vietnamese": "Chúng ta hãy giao tiếp, cởi mở và chân thành.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341725"
+    },
+    {
+      "english": "I'm cherishing, every moment with you.",
+      "vietnamese": "Tôi đang trân trọng, từng khoảnh khắc bên bạn.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341728"
+    },
+    {
+      "english": "Your perspective, enriches my life.",
+      "vietnamese": "Góc nhìn của bạn, làm phong phú thêm cuộc sống của tôi.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341731"
+    },
+    {
+      "english": "Love requires, patience and effort.",
+      "vietnamese": "Tình yêu đòi hỏi, sự kiên nhẫn và nỗ lực.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341733"
+    },
+    {
+      "english": "I feel a deep, genuine connection.",
+      "vietnamese": "Tôi cảm nhận một sự kết nối, sâu sắc và chân thật.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341736"
+    },
+    {
+      "english": "Let's find, a quiet place, to talk.",
+      "vietnamese": "Tìm một nơi yên tĩnh, mình nói chuyện nhé.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341740"
+    },
+    {
+      "english": "What’s a small thing, that makes you happy?",
+      "vietnamese": "Việc gì nhỏ thôi, mà khiến bạn vui?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341744"
+    },
+    {
+      "english": "Can we schedule, our date night, this week?",
+      "vietnamese": "Tuần này mình lên lịch, hẹn hò được không?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341747"
+    },
+    {
+      "english": "I’m trying to cook, your favorite meal.",
+      "vietnamese": "Em đang tập nấu, món bạn thích nhất.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341750"
+    },
+    {
+      "english": "Remember this, happy memory, with me?",
+      "vietnamese": "Nhớ kỷ niệm này, vui vẻ với anh/em không?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341753"
+    },
+    {
+      "english": "How can I support, your big dreams?",
+      "vietnamese": "Anh/Em có thể giúp, ước mơ lớn của bạn thế nào?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341756"
+    },
+    {
+      "english": "Let’s make time, for just us, today.",
+      "vietnamese": "Hôm nay mình dành, thời gian, cho riêng hai ta.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341759"
+    },
+    {
+      "english": "Did you have, a good day, at work?",
+      "vietnamese": "Hôm nay đi làm, có vui không?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341762"
+    },
+    {
+      "english": "Let's forgive, and move forward, together.",
+      "vietnamese": "Hãy tha thứ, và cùng nhau tiến lên.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341765"
+    },
+    {
+      "english": "I want to learn, something new, with you.",
+      "vietnamese": "Em muốn học, điều mới, cùng anh/em.",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341767"
+    },
+    {
+      "english": "Are you comfortable, telling me this?",
+      "vietnamese": "Bạn có thoải mái, nói điều này với tôi?",
+      "category": "Love",
+      "generated_at": "2026-10-30T06:40:27.341770"
     }
   ],
-  "last_updated": "2026-10-29T06:39:45.671741"
+  "last_updated": "2026-10-30T06:40:27.341772"
 }
