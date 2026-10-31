@@ -41423,7 +41423,727 @@
       "vietnamese": "Bạn có thoải mái, nói điều này với tôi?",
       "category": "Love",
       "generated_at": "2026-10-30T06:40:27.341770"
+    },
+    {
+      "english": "Just breathe, deeply.",
+      "vietnamese": "Cứ thở, thật sâu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020850"
+    },
+    {
+      "english": "Everything's okay, really.",
+      "vietnamese": "Mọi thứ ổn, thật mà.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020867"
+    },
+    {
+      "english": "No worries, at all.",
+      "vietnamese": "Không lo lắng, chút nào.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020871"
+    },
+    {
+      "english": "Just chill, okay?",
+      "vietnamese": "Cứ thư giãn, nhé?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020874"
+    },
+    {
+      "english": "Take it easy, friend.",
+      "vietnamese": "Thong thả thôi, bạn ơi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020878"
+    },
+    {
+      "english": "Feeling calm, inside.",
+      "vietnamese": "Thấy bình yên, trong lòng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020880"
+    },
+    {
+      "english": "It's all good, yeah.",
+      "vietnamese": "Mọi thứ ổn, nhỉ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020884"
+    },
+    {
+      "english": "Let's pause, a bit.",
+      "vietnamese": "Nghỉ một lát, nhé.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020889"
+    },
+    {
+      "english": "My mind, is clear.",
+      "vietnamese": "Đầu óc tôi, thật nhẹ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020893"
+    },
+    {
+      "english": "Just enjoying, this.",
+      "vietnamese": "Chỉ tận hưởng, điều này.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020896"
+    },
+    {
+      "english": "So peaceful, right?",
+      "vietnamese": "Thật thanh thản, phải không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020899"
+    },
+    {
+      "english": "Don't stress, okay?",
+      "vietnamese": "Đừng căng thẳng, nhé?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020902"
+    },
+    {
+      "english": "Feeling light, today.",
+      "vietnamese": "Cảm thấy nhẹ nhõm, hôm nay.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020907"
+    },
+    {
+      "english": "Just be, yourself.",
+      "vietnamese": "Cứ là, chính bạn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020910"
+    },
+    {
+      "english": "This is, enough for now.",
+      "vietnamese": "Vậy là đủ, rồi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020913"
+    },
+    {
+      "english": "Feeling good, inside out.",
+      "vietnamese": "Thấy tốt, từ trong ra ngoài.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020916"
+    },
+    {
+      "english": "Just smile, always.",
+      "vietnamese": "Cứ mỉm cười, luôn nhé.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020918"
+    },
+    {
+      "english": "Everything's gonna be fine.",
+      "vietnamese": "Mọi thứ sẽ ổn thôi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020921"
+    },
+    {
+      "english": "Let's just relax.",
+      "vietnamese": "Chúng ta, thư giãn thôi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020924"
+    },
+    {
+      "english": "Finding my center.",
+      "vietnamese": "Tìm lại sự cân bằng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020927"
+    },
+    {
+      "english": "This calm, feels right.",
+      "vietnamese": "Sự tĩnh lặng này, thật đúng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020930"
+    },
+    {
+      "english": "Just being, present.",
+      "vietnamese": "Chỉ cần hiện diện.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020933"
+    },
+    {
+      "english": "Happy thoughts, only.",
+      "vietnamese": "Chỉ nghĩ điều vui.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020935"
+    },
+    {
+      "english": "No need, to rush.",
+      "vietnamese": "Không cần, vội vàng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020938"
+    },
+    {
+      "english": "Feeling at peace, yeah.",
+      "vietnamese": "Thấy an yên, nhỉ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020941"
+    },
+    {
+      "english": "Just flow, with it.",
+      "vietnamese": "Cứ thuận theo, dòng chảy.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020946"
+    },
+    {
+      "english": "How do you find calm?",
+      "vietnamese": "Bạn tìm thấy sự bình yên thế nào?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020949"
+    },
+    {
+      "english": "What brings you peace?",
+      "vietnamese": "Điều gì mang lại cho bạn sự tĩnh lặng?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020952"
+    },
+    {
+      "english": "Any advice for a quiet mind?",
+      "vietnamese": "Có lời khuyên nào cho tâm trí tĩnh lặng không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020955"
+    },
+    {
+      "english": "What helps you feel centered?",
+      "vietnamese": "Điều gì giúp bạn cảm thấy vững tâm?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020957"
+    },
+    {
+      "english": "How can I be more present?",
+      "vietnamese": "Làm sao để tôi hiện diện hơn?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020960"
+    },
+    {
+      "english": "Are you feeling relaxed now?",
+      "vietnamese": "Bây giờ bạn cảm thấy thư thái chứ?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020965"
+    },
+    {
+      "english": "What should I let go of?",
+      "vietnamese": "Tôi nên buông bỏ điều gì?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020968"
+    },
+    {
+      "english": "What's your secret to inner calm?",
+      "vietnamese": "Bí quyết nào cho sự bình yên nội tâm của bạn?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020971"
+    },
+    {
+      "english": "Is there a simpler way?",
+      "vietnamese": "Có cách nào đơn giản hơn không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020974"
+    },
+    {
+      "english": "Do you agree with this?",
+      "vietnamese": "Bạn có đồng ý với điều này không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020977"
+    },
+    {
+      "english": "Can we share our feelings?",
+      "vietnamese": "Chúng ta có thể chia sẻ cảm xúc của mình không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020979"
+    },
+    {
+      "english": "What's your perspective on peace?",
+      "vietnamese": "Quan điểm của bạn về sự bình yên là gì?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020982"
+    },
+    {
+      "english": "How can I cultivate inner joy?",
+      "vietnamese": "Làm sao để tôi nuôi dưỡng niềm vui nội tâm?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020987"
+    },
+    {
+      "english": "Tell me more about that.",
+      "vietnamese": "Hãy kể cho tôi nghe thêm về điều đó.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020989"
+    },
+    {
+      "english": "What do you think is best?",
+      "vietnamese": "Bạn nghĩ điều gì là tốt nhất?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020992"
+    },
+    {
+      "english": "Are you seeking inner stillness?",
+      "vietnamese": "Bạn có đang tìm kiếm sự tĩnh lặng nội tâm không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020995"
+    },
+    {
+      "english": "How do we find harmony?",
+      "vietnamese": "Chúng ta tìm thấy sự hài hòa thế nào?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020997"
+    },
+    {
+      "english": "What helps you stay grounded?",
+      "vietnamese": "Điều gì giúp bạn giữ vững sự ổn định?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.020999"
+    },
+    {
+      "english": "Can I ask for your opinion?",
+      "vietnamese": "Tôi có thể xin ý kiến của bạn không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021002"
+    },
+    {
+      "english": "What makes you feel serene?",
+      "vietnamese": "Điều gì khiến bạn cảm thấy thanh thản?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021004"
+    },
+    {
+      "english": "How do you practice self-compassion?",
+      "vietnamese": "Bạn thực hành lòng trắc ẩn với bản thân thế nào?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021007"
+    },
+    {
+      "english": "What is your advice for today?",
+      "vietnamese": "Lời khuyên của bạn cho ngày hôm nay là gì?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021010"
+    },
+    {
+      "english": "Are we on the same page?",
+      "vietnamese": "Chúng ta có cùng quan điểm không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021012"
+    },
+    {
+      "english": "What helps you embrace change?",
+      "vietnamese": "Điều gì giúp bạn đón nhận sự thay đổi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021015"
+    },
+    {
+      "english": "Believe in your journey, always.",
+      "vietnamese": "Luôn tin vào hành trình của bạn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021017"
+    },
+    {
+      "english": "Each step forward counts.",
+      "vietnamese": "Mỗi bước tiến đều có giá trị.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021020"
+    },
+    {
+      "english": "Your inner strength is growing.",
+      "vietnamese": "Sức mạnh nội tâm bạn đang lớn dần.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021023"
+    },
+    {
+      "english": "Be proud of who you are.",
+      "vietnamese": "Hãy tự hào về con người bạn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021025"
+    },
+    {
+      "english": "You are capable of so much.",
+      "vietnamese": "Bạn có khả năng làm rất nhiều.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021028"
+    },
+    {
+      "english": "Today feels hopeful, doesn't it?",
+      "vietnamese": "Hôm nay thấy thật nhiều hy vọng, đúng không?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021031"
+    },
+    {
+      "english": "Embrace the quiet moments.",
+      "vietnamese": "Hãy trân trọng những khoảnh khắc yên tĩnh.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021034"
+    },
+    {
+      "english": "Gentle reminders, for your soul.",
+      "vietnamese": "Những lời nhắc nhở dịu dàng, cho tâm hồn bạn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021037"
+    },
+    {
+      "english": "You deserve this tranquility.",
+      "vietnamese": "Bạn xứng đáng với sự tĩnh lặng này.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021039"
+    },
+    {
+      "english": "Let kindness lead the way.",
+      "vietnamese": "Hãy để lòng tốt dẫn lối.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021042"
+    },
+    {
+      "english": "You are exactly where you need to be.",
+      "vietnamese": "Bạn đang ở đúng nơi bạn cần đến.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021045"
+    },
+    {
+      "english": "Positive thoughts create positive outcomes.",
+      "vietnamese": "Suy nghĩ tích cực tạo ra kết quả tích cực.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021048"
+    },
+    {
+      "english": "Trust the process, it's unfolding.",
+      "vietnamese": "Tin tưởng vào quá trình, nó đang diễn ra.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021053"
+    },
+    {
+      "english": "Your inner voice knows best.",
+      "vietnamese": "Giọng nói bên trong bạn biết rõ nhất.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021056"
+    },
+    {
+      "english": "Cultivate inner joy, daily.",
+      "vietnamese": "Nuôi dưỡng niềm vui nội tâm, mỗi ngày.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021059"
+    },
+    {
+      "english": "This moment is a gift.",
+      "vietnamese": "Khoảnh khắc này là một món quà.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021062"
+    },
+    {
+      "english": "Let go of what no longer serves.",
+      "vietnamese": "Buông bỏ những gì không còn phục vụ bạn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021067"
+    },
+    {
+      "english": "You radiate gentle energy.",
+      "vietnamese": "Bạn tỏa ra năng lượng dịu dàng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021069"
+    },
+    {
+      "english": "Peace begins with you.",
+      "vietnamese": "Bình yên bắt đầu từ bạn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021072"
+    },
+    {
+      "english": "Mindfulness is a practice.",
+      "vietnamese": "Chánh niệm là một sự luyện tập.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021074"
+    },
+    {
+      "english": "You are creating your reality.",
+      "vietnamese": "Bạn đang kiến tạo thực tại của mình.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021077"
+    },
+    {
+      "english": "Your resilience is inspiring.",
+      "vietnamese": "Sự kiên cường của bạn thật đáng ngưỡng mộ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021080"
+    },
+    {
+      "english": "Find beauty in the ordinary.",
+      "vietnamese": "Tìm vẻ đẹp trong những điều bình dị.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021082"
+    },
+    {
+      "english": "May your heart be light.",
+      "vietnamese": "Chúc trái tim bạn luôn nhẹ nhàng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021085"
+    },
+    {
+      "english": "Peace of mind, like calm water.",
+      "vietnamese": "Tâm thanh tịnh, như nước lặng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021088"
+    },
+    {
+      "english": "Don't chase worries, let them go.",
+      "vietnamese": "Đừng đuổi theo lo lắng, hãy buông.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021091"
+    },
+    {
+      "english": "A peaceful heart, a sweet dream.",
+      "vietnamese": "Lòng bình yên, giấc mộng đẹp.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021094"
+    },
+    {
+      "english": "Stillness within, is true wealth.",
+      "vietnamese": "Tĩnh lặng nơi tâm, là giàu sang.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021097"
+    },
+    {
+      "english": "Let your spirit breathe, freely.",
+      "vietnamese": "Để tâm hồn thở, tự do.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021100"
+    },
+    {
+      "english": "Contentment blossoms, from within.",
+      "vietnamese": "Tri túc đơm hoa, từ bên trong.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021103"
+    },
+    {
+      "english": "Find joy, in simple things.",
+      "vietnamese": "Tìm vui, trong điều giản dị.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021105"
+    },
+    {
+      "english": "Let go of anger, embrace peace.",
+      "vietnamese": "Buông giận dữ, đón bình yên.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021108"
+    },
+    {
+      "english": "The present moment, is sacred.",
+      "vietnamese": "Khoảnh khắc này, thật linh thiêng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021111"
+    },
+    {
+      "english": "Serenity, a gentle breeze.",
+      "vietnamese": "Thanh thản, như cơn gió mát.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021113"
+    },
+    {
+      "english": "Inner peace, lights up life.",
+      "vietnamese": "An nhiên nội tại, soi sáng đời.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021116"
+    },
+    {
+      "english": "Be like bamboo, bend, don't break.",
+      "vietnamese": "Như cây tre, mềm mại vững.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021121"
+    },
+    {
+      "english": "Calm mind, clear path.",
+      "vietnamese": "Tâm tĩnh, đường quang đãng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021124"
+    },
+    {
+      "english": "Let kindness, be your guide.",
+      "vietnamese": "Hãy để lòng tốt, dẫn lối.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021127"
+    },
+    {
+      "english": "Don't carry burdens, walk lightly.",
+      "vietnamese": "Đừng gánh nặng, đi nhẹ nhàng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021130"
+    },
+    {
+      "english": "Every breath, a fresh start.",
+      "vietnamese": "Mỗi hơi thở, một khởi đầu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021133"
+    },
+    {
+      "english": "Inner peace, a quiet garden.",
+      "vietnamese": "Tâm an tĩnh, khu vườn lặng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021136"
+    },
+    {
+      "english": "Harmony within, reflects without.",
+      "vietnamese": "Hài hòa trong, hiện ngoài.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021139"
+    },
+    {
+      "english": "Let go, of past regrets.",
+      "vietnamese": "Buông bỏ, những tiếc nuối xưa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021144"
+    },
+    {
+      "english": "A peaceful soul, sings.",
+      "vietnamese": "Linh hồn bình yên, cất tiếng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021147"
+    },
+    {
+      "english": "Still your mind, hear wisdom.",
+      "vietnamese": "Tĩnh tâm lại, nghe lời khôn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021151"
+    },
+    {
+      "english": "Find your center, in chaos.",
+      "vietnamese": "Tìm trung tâm, giữa bộn bề.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021154"
+    },
+    {
+      "english": "Peace is a choice, every day.",
+      "vietnamese": "Bình yên là chọn, mỗi ngày.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021157"
+    },
+    {
+      "english": "Let nature, heal your spirit.",
+      "vietnamese": "Để thiên nhiên, chữa lành tâm.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021160"
+    },
+    {
+      "english": "Quiet the noise, find your truth.",
+      "vietnamese": "Lặng tiếng ồn, tìm chân lý.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021163"
+    },
+    {
+      "english": "True peace, comes from within.",
+      "vietnamese": "An yên thật sự, đến từ trong.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021166"
+    },
+    {
+      "english": "Sow seeds, of tranquility.",
+      "vietnamese": "Gieo mầm, sự tĩnh tại.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021168"
+    },
+    {
+      "english": "Start small, breathe deep, then act.",
+      "vietnamese": "Bắt đầu nhỏ, hít sâu, rồi hành động.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021171"
+    },
+    {
+      "english": "Listen more, speak less, understand.",
+      "vietnamese": "Nghe nhiều hơn, nói ít đi, thấu hiểu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021174"
+    },
+    {
+      "english": "When lost, pause, look around.",
+      "vietnamese": "Khi lạc đường, dừng lại, nhìn quanh.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021177"
+    },
+    {
+      "english": "Simple meals, clear mind, happy life.",
+      "vietnamese": "Bữa ăn đơn giản, đầu óc minh mẫn, sống vui.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021180"
+    },
+    {
+      "english": "Share your worries, lighten your load.",
+      "vietnamese": "Chia sẻ nỗi lo, nhẹ gánh đời.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021183"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "vietnamese": "Xin giúp đỡ, không sao đâu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021186"
+    },
+    {
+      "english": "Observe people, learn silently.",
+      "vietnamese": "Quan sát mọi người, học thầm lặng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021189"
+    },
+    {
+      "english": "Accept imperfections, be human.",
+      "vietnamese": "Chấp nhận lỗi lầm, là con người.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021192"
+    },
+    {
+      "english": "Walk slowly, see everything.",
+      "vietnamese": "Đi chậm thôi, nhìn mọi thứ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021195"
+    },
+    {
+      "english": "If you're tired, rest, don't quit.",
+      "vietnamese": "Mệt thì nghỉ, đừng bỏ cuộc.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021198"
+    },
+    {
+      "english": "Greet everyone, with a smile.",
+      "vietnamese": "Chào mọi người, bằng nụ cười.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021201"
+    },
+    {
+      "english": "Learn a new skill, stay curious.",
+      "vietnamese": "Học kỹ năng mới, giữ sự tò mò.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021204"
+    },
+    {
+      "english": "Organize your space, calm your mind.",
+      "vietnamese": "Sắp xếp không gian, tâm trí bình yên.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021207"
+    },
+    {
+      "english": "Drink water, feel refreshed.",
+      "vietnamese": "Uống nước vào, thấy sảng khoái.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021209"
+    },
+    {
+      "english": "Help a stranger, feel good.",
+      "vietnamese": "Giúp người lạ, thấy vui.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021212"
+    },
+    {
+      "english": "Be present, for yourself.",
+      "vietnamese": "Hiện diện, cho chính mình.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021215"
+    },
+    {
+      "english": "Seek quiet places, recharge.",
+      "vietnamese": "Tìm nơi yên tĩnh, nạp năng lượng.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021218"
+    },
+    {
+      "english": "Clean your thoughts, like your home.",
+      "vietnamese": "Dọn dẹp suy nghĩ, như dọn nhà.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021220"
+    },
+    {
+      "english": "Embrace change, it's natural.",
+      "vietnamese": "Đón nhận thay đổi, là lẽ thường.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-31T06:30:44.021223"
     }
   ],
-  "last_updated": "2026-10-30T06:40:27.341772"
+  "last_updated": "2026-10-31T06:30:44.021225"
 }
