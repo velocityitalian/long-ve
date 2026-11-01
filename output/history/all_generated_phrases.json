@@ -42143,7 +42143,727 @@
       "vietnamese": "Đón nhận thay đổi, là lẽ thường.",
       "category": "Inner Peace",
       "generated_at": "2026-10-31T06:30:44.021223"
+    },
+    {
+      "english": "Yes, exactly.",
+      "vietnamese": "Ừ, đúng rồi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834954"
+    },
+    {
+      "english": "I agree, totally.",
+      "vietnamese": "Tôi đồng ý, hoàn toàn.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834969"
+    },
+    {
+      "english": "That's so true.",
+      "vietnamese": "Thật đúng như vậy.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834972"
+    },
+    {
+      "english": "You're right.",
+      "vietnamese": "Bạn nói đúng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834975"
+    },
+    {
+      "english": "I think so too.",
+      "vietnamese": "Tôi cũng nghĩ vậy.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834978"
+    },
+    {
+      "english": "Of course.",
+      "vietnamese": "Tất nhiên rồi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834980"
+    },
+    {
+      "english": "Couldn't agree more.",
+      "vietnamese": "Không thể đồng ý hơn nữa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834983"
+    },
+    {
+      "english": "Makes sense.",
+      "vietnamese": "Hợp lý mà.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834989"
+    },
+    {
+      "english": "Fair enough.",
+      "vietnamese": "Cũng được.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834994"
+    },
+    {
+      "english": "I see your point.",
+      "vietnamese": "Tôi hiểu ý bạn.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.834999"
+    },
+    {
+      "english": "No, not really.",
+      "vietnamese": "Không, không hẳn.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835001"
+    },
+    {
+      "english": "I disagree.",
+      "vietnamese": "Tôi không đồng ý.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835004"
+    },
+    {
+      "english": "That's not right.",
+      "vietnamese": "Điều đó không đúng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835006"
+    },
+    {
+      "english": "I don't think so.",
+      "vietnamese": "Tôi không nghĩ vậy.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835009"
+    },
+    {
+      "english": "Not at all.",
+      "vietnamese": "Không chút nào.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835012"
+    },
+    {
+      "english": "That's debatable.",
+      "vietnamese": "Điều đó còn bàn cãi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835014"
+    },
+    {
+      "english": "I'm not so sure.",
+      "vietnamese": "Tôi không chắc lắm.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835016"
+    },
+    {
+      "english": "That's an opinion.",
+      "vietnamese": "Đó là ý kiến thôi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835019"
+    },
+    {
+      "english": "We'll have to agree to disagree.",
+      "vietnamese": "Chúng ta đành chấp nhận khác biệt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835022"
+    },
+    {
+      "english": "I've got a different view.",
+      "vietnamese": "Tôi có một quan điểm khác.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835025"
+    },
+    {
+      "english": "That's not how I see it.",
+      "vietnamese": "Tôi không nhìn nhận như vậy.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835027"
+    },
+    {
+      "english": "With all due respect.",
+      "vietnamese": "Thành thật xin lỗi, nhưng mà...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835030"
+    },
+    {
+      "english": "I beg to differ.",
+      "vietnamese": "Tôi xin phép không đồng ý.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835032"
+    },
+    {
+      "english": "That's one way to look at it.",
+      "vietnamese": "Đó là một cách nhìn nhận.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835035"
+    },
+    {
+      "english": "I have my doubts.",
+      "vietnamese": "Tôi có chút nghi ngờ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835037"
+    },
+    {
+      "english": "No way.",
+      "vietnamese": "Không thể nào.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835040"
+    },
+    {
+      "english": "Are you sure?",
+      "vietnamese": "Bạn có chắc không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835042"
+    },
+    {
+      "english": "That's hard to believe.",
+      "vietnamese": "Khó tin quá.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835047"
+    },
+    {
+      "english": "I'm not convinced.",
+      "vietnamese": "Tôi chưa bị thuyết phục.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835049"
+    },
+    {
+      "english": "What do you think, truly?",
+      "vietnamese": "Bạn nghĩ sao, thật sự?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835112"
+    },
+    {
+      "english": "Is that how it is?",
+      "vietnamese": "Thật là vậy sao?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835116"
+    },
+    {
+      "english": "Do you see it my way?",
+      "vietnamese": "Bạn có thấy giống tôi không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835119"
+    },
+    {
+      "english": "What's your take on it?",
+      "vietnamese": "Quan điểm của bạn về việc đó là gì?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835122"
+    },
+    {
+      "english": "Could you clarify that, please?",
+      "vietnamese": "Bạn có thể làm rõ hơn không, làm ơn?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835124"
+    },
+    {
+      "english": "Is this a good idea?",
+      "vietnamese": "Đây có phải ý hay không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835127"
+    },
+    {
+      "english": "Do you want to weigh in?",
+      "vietnamese": "Bạn có muốn góp ý không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835130"
+    },
+    {
+      "english": "What's your perspective, friend?",
+      "vietnamese": "Góc nhìn của bạn là gì, bạn ơi?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835133"
+    },
+    {
+      "english": "Is that your final say?",
+      "vietnamese": "Đó là lời cuối của bạn sao?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835135"
+    },
+    {
+      "english": "Would you reconsider, maybe?",
+      "vietnamese": "Bạn có thể xem xét lại không, có lẽ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835138"
+    },
+    {
+      "english": "What about your input?",
+      "vietnamese": "Còn đóng góp của bạn thì sao?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835140"
+    },
+    {
+      "english": "Let's hear your side.",
+      "vietnamese": "Hãy cho tôi nghe phía bạn.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835143"
+    },
+    {
+      "english": "Do you have any reservations?",
+      "vietnamese": "Bạn có bất kỳ e dè nào không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835148"
+    },
+    {
+      "english": "Can we discuss this more?",
+      "vietnamese": "Chúng ta có thể thảo luận thêm không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835151"
+    },
+    {
+      "english": "Is that the general feeling?",
+      "vietnamese": "Đó có phải là cảm nhận chung?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835153"
+    },
+    {
+      "english": "What's your main concern?",
+      "vietnamese": "Mối quan tâm chính của bạn là gì?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835156"
+    },
+    {
+      "english": "Did I understand correctly?",
+      "vietnamese": "Tôi đã hiểu đúng chưa?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835159"
+    },
+    {
+      "english": "How do you respond to that?",
+      "vietnamese": "Bạn phản hồi thế nào về điều đó?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835161"
+    },
+    {
+      "english": "Can I get your thoughts?",
+      "vietnamese": "Tôi có thể nhận được suy nghĩ của bạn không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835163"
+    },
+    {
+      "english": "Do you think that's wise?",
+      "vietnamese": "Bạn có nghĩ điều đó khôn ngoan không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835166"
+    },
+    {
+      "english": "What's your recommendation?",
+      "vietnamese": "Lời khuyên của bạn là gì?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835169"
+    },
+    {
+      "english": "Can you elaborate further?",
+      "vietnamese": "Bạn có thể giải thích thêm được không?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835171"
+    },
+    {
+      "english": "Are we in agreement, then?",
+      "vietnamese": "Vậy chúng ta đã đồng ý rồi chứ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835173"
+    },
+    {
+      "english": "You've got this, absolutely!",
+      "vietnamese": "Bạn làm được mà, chắc chắn!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835176"
+    },
+    {
+      "english": "That's a brilliant idea, really!",
+      "vietnamese": "Ý tưởng đó thật tuyệt vời, thật sự!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835181"
+    },
+    {
+      "english": "Wow, you nailed it, seriously!",
+      "vietnamese": "Wow, bạn làm tốt lắm, thật đấy!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835185"
+    },
+    {
+      "english": "That's the spirit, keep it up!",
+      "vietnamese": "Đúng là tinh thần đó, tiếp tục đi!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835188"
+    },
+    {
+      "english": "This is progress, big time!",
+      "vietnamese": "Đây là sự tiến bộ, lớn lắm!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835190"
+    },
+    {
+      "english": "Yes, that's a fantastic move!",
+      "vietnamese": "Vâng, đó là một bước đi tuyệt hảo!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835193"
+    },
+    {
+      "english": "You're crushing it, amazing job!",
+      "vietnamese": "Bạn đang làm xuất sắc, công việc tuyệt!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835196"
+    },
+    {
+      "english": "Totally agree, you're unstoppable!",
+      "vietnamese": "Hoàn toàn đồng ý, bạn không thể cản!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835199"
+    },
+    {
+      "english": "Fantastic thinking, I love it!",
+      "vietnamese": "Tư duy tuyệt vời, tôi thích nó!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835202"
+    },
+    {
+      "english": "You've inspired me, truly!",
+      "vietnamese": "Bạn đã truyền cảm hứng cho tôi, thật!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835207"
+    },
+    {
+      "english": "That's the mindset we need!",
+      "vietnamese": "Đó là tư duy chúng ta cần!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835210"
+    },
+    {
+      "english": "Great job, keep that energy!",
+      "vietnamese": "Làm tốt lắm, giữ năng lượng đó!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835213"
+    },
+    {
+      "english": "I second that, wholeheartedly!",
+      "vietnamese": "Tôi hoàn toàn ủng hộ điều đó!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835216"
+    },
+    {
+      "english": "You're a natural, believe it!",
+      "vietnamese": "Bạn là một người tự nhiên, hãy tin!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835219"
+    },
+    {
+      "english": "This effort is commendable, wow!",
+      "vietnamese": "Nỗ lực này đáng khen, wow!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835221"
+    },
+    {
+      "english": "Absolutely right, couldn't agree more!",
+      "vietnamese": "Hoàn toàn đúng, không thể đồng ý hơn!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835224"
+    },
+    {
+      "english": "That perspective is gold, thanks!",
+      "vietnamese": "Góc nhìn đó là vàng, cảm ơn!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835227"
+    },
+    {
+      "english": "Yes, let's run with that idea!",
+      "vietnamese": "Vâng, hãy theo ý tưởng đó!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835230"
+    },
+    {
+      "english": "You're making great strides!",
+      "vietnamese": "Bạn đang tạo ra những bước tiến lớn!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835232"
+    },
+    {
+      "english": "That's a winner, for sure!",
+      "vietnamese": "Đó là một chiến thắng, chắc chắn rồi!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835235"
+    },
+    {
+      "english": "Spot on, my friend, spot on!",
+      "vietnamese": "Chính xác, bạn của tôi, chính xác!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835238"
+    },
+    {
+      "english": "Couldn't have said it better myself!",
+      "vietnamese": "Tôi không thể nói hay hơn thế!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835242"
+    },
+    {
+      "english": "You're powering through, I see!",
+      "vietnamese": "Bạn đang vượt qua, tôi thấy rồi!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835245"
+    },
+    {
+      "english": "That's a solid affirmation, yes!",
+      "vietnamese": "Đó là một lời khẳng định chắc chắn, vâng!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835248"
+    },
+    {
+      "english": "Genius idea, absolutely love it!",
+      "vietnamese": "Ý tưởng thiên tài, thật sự thích nó!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835250"
+    },
+    {
+      "english": "That's the way to think!",
+      "vietnamese": "Đó là cách để suy nghĩ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835253"
+    },
+    {
+      "english": "You're nailing the motivation!",
+      "vietnamese": "Bạn đang làm chủ sự động viên!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835257"
+    },
+    {
+      "english": "Keep that positive vibe going!",
+      "vietnamese": "Giữ vững rung cảm tích cực đó!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835260"
+    },
+    {
+      "english": "My gut feeling, says yes.",
+      "vietnamese": "Trực giác của tôi, mách bảo là có.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835263"
+    },
+    {
+      "english": "I feel it too, deeply.",
+      "vietnamese": "Tôi cũng cảm nhận vậy, sâu sắc.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835265"
+    },
+    {
+      "english": "Honestly, I'm hesitant.",
+      "vietnamese": "Thật lòng, tôi hơi ngần ngại.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835268"
+    },
+    {
+      "english": "This resonates, with me.",
+      "vietnamese": "Điều này chạm, đến tôi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835271"
+    },
+    {
+      "english": "Something feels off, though.",
+      "vietnamese": "Có gì đó không ổn, nhưng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835274"
+    },
+    {
+      "english": "My heart says, go for it.",
+      "vietnamese": "Trái tim tôi bảo, cứ làm.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835276"
+    },
+    {
+      "english": "This just feels right.",
+      "vietnamese": "Cảm giác này, thật đúng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835279"
+    },
+    {
+      "english": "I need more time, to think.",
+      "vietnamese": "Tôi cần thêm thời gian, suy nghĩ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835281"
+    },
+    {
+      "english": "It speaks to me, personally.",
+      "vietnamese": "Nó nói lên tôi, cá nhân.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835284"
+    },
+    {
+      "english": "I have doubts, honestly.",
+      "vietnamese": "Tôi có sự nghi ngờ, thật lòng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835286"
+    },
+    {
+      "english": "This truly clicks, for me.",
+      "vietnamese": "Cái này thực sự hợp, với tôi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835289"
+    },
+    {
+      "english": "My inner voice, agrees.",
+      "vietnamese": "Giọng nói nội tâm, đồng ý.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835292"
+    },
+    {
+      "english": "I can't get behind this.",
+      "vietnamese": "Tôi không ủng hộ, được.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835295"
+    },
+    {
+      "english": "This feels authentic, yes.",
+      "vietnamese": "Cái này có vẻ chân thật, vâng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835297"
+    },
+    {
+      "english": "I’m struggling, to see it.",
+      "vietnamese": "Tôi đang khó, mà thấy.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835301"
+    },
+    {
+      "english": "My spirit, is with you.",
+      "vietnamese": "Linh hồn tôi, đi cùng bạn.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835304"
+    },
+    {
+      "english": "I’m just not feeling it.",
+      "vietnamese": "Tôi chỉ là, không cảm thấy.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835307"
+    },
+    {
+      "english": "This resonates, deeply within.",
+      "vietnamese": "Điều này vang vọng, sâu bên trong.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835310"
+    },
+    {
+      "english": "My intuition, says no.",
+      "vietnamese": "Trực giác của tôi, bảo không.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835312"
+    },
+    {
+      "english": "I feel a connection, here.",
+      "vietnamese": "Tôi cảm nhận sự kết nối, ở đây.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835315"
+    },
+    {
+      "english": "It doesn’t sit well, with me.",
+      "vietnamese": "Nó không ổn, với tôi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835318"
+    },
+    {
+      "english": "My soul, agrees with this.",
+      "vietnamese": "Linh hồn tôi, đồng tình với điều này.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835321"
+    },
+    {
+      "english": "I have reservations, frankly.",
+      "vietnamese": "Tôi có sự e dè, thật sự.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835324"
+    },
+    {
+      "english": "This feels profoundly right.",
+      "vietnamese": "Cảm giác này, sâu sắc đúng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835326"
+    },
+    {
+      "english": "I’m just not on board.",
+      "vietnamese": "Tôi chỉ là, không đồng ý.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835333"
+    },
+    {
+      "english": "My spirit, feels aligned.",
+      "vietnamese": "Linh hồn tôi, cảm thấy đồng điệu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835336"
+    },
+    {
+      "english": "Something’s not quite right.",
+      "vietnamese": "Có gì đó, không hoàn toàn đúng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835341"
+    },
+    {
+      "english": "This feels incredibly true.",
+      "vietnamese": "Cảm giác này, vô cùng thật.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835343"
+    },
+    {
+      "english": "I can’t get with that.",
+      "vietnamese": "Tôi không thể chấp nhận, điều đó.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835346"
+    },
+    {
+      "english": "Sounds good, let's do it.",
+      "vietnamese": "Nghe ổn đấy, làm luôn.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835349"
+    },
+    {
+      "english": "I agree, that's a good plan.",
+      "vietnamese": "Tôi đồng ý, đó là kế hoạch tốt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835352"
+    },
+    {
+      "english": "That makes sense, I support it.",
+      "vietnamese": "Hợp lý đấy, tôi ủng hộ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835355"
+    },
+    {
+      "english": "Totally, you've got my vote.",
+      "vietnamese": "Chắc chắn rồi, bạn có phiếu của tôi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835357"
+    },
+    {
+      "english": "Good thinking, I concur.",
+      "vietnamese": "Suy nghĩ hay đấy, tôi đồng tình.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835360"
+    },
+    {
+      "english": "Right there with you, partner.",
+      "vietnamese": "Tôi cùng ý kiến với bạn, bạn ơi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835363"
+    },
+    {
+      "english": "Absolutely, I'm on board.",
+      "vietnamese": "Tuyệt đối, tôi theo với.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835365"
+    },
+    {
+      "english": "Fair enough, let's proceed.",
+      "vietnamese": "Hợp lý thôi, cứ tiến hành.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835368"
+    },
+    {
+      "english": "I agree, that's the best way.",
+      "vietnamese": "Tôi đồng ý, đó là cách tốt nhất.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835371"
+    },
+    {
+      "english": "I disagree, that won't work.",
+      "vietnamese": "Tôi không đồng ý, cái đó không được.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835374"
+    },
+    {
+      "english": "I'm not so sure about that.",
+      "vietnamese": "Tôi không chắc lắm về điều đó.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-01T07:01:06.835376"
     }
   ],
-  "last_updated": "2026-10-31T06:30:44.021225"
+  "last_updated": "2026-11-01T07:01:06.835378"
 }
