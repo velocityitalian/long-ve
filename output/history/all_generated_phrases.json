@@ -42863,7 +42863,727 @@
       "vietnamese": "Tôi không chắc lắm về điều đó.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-01T07:01:06.835376"
+    },
+    {
+      "english": "Good morning, please.",
+      "vietnamese": "Chào buổi sáng, làm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321222"
+    },
+    {
+      "english": "One coffee, please.",
+      "vietnamese": "Một cà phê, làm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321237"
+    },
+    {
+      "english": "It smells so good!",
+      "vietnamese": "Nó thơm quá!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321240"
+    },
+    {
+      "english": "Is it fresh?",
+      "vietnamese": "Nó có tươi không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321242"
+    },
+    {
+      "english": "Just looking, thanks.",
+      "vietnamese": "Tôi chỉ xem thôi, cảm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321245"
+    },
+    {
+      "english": "How much is this?",
+      "vietnamese": "Cái này bao nhiêu tiền?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321249"
+    },
+    {
+      "english": "I'll take this one.",
+      "vietnamese": "Tôi lấy cái này.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321251"
+    },
+    {
+      "english": "To go, please.",
+      "vietnamese": "Mang đi, làm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321256"
+    },
+    {
+      "english": "For here, please.",
+      "vietnamese": "Ăn ở đây, làm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321259"
+    },
+    {
+      "english": "Can I have a menu?",
+      "vietnamese": "Cho tôi xem thực đơn?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321262"
+    },
+    {
+      "english": "I'll have that too.",
+      "vietnamese": "Tôi cũng lấy món đó.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321264"
+    },
+    {
+      "english": "It's delicious!",
+      "vietnamese": "Ngon quá!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321266"
+    },
+    {
+      "english": "A little sweet, please.",
+      "vietnamese": "Ngọt một chút, làm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321268"
+    },
+    {
+      "english": "Not too sweet, thanks.",
+      "vietnamese": "Đừng ngọt lắm, cảm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321270"
+    },
+    {
+      "english": "Can I have water?",
+      "vietnamese": "Cho tôi xin nước lọc?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321272"
+    },
+    {
+      "english": "Extra sugar, please.",
+      "vietnamese": "Thêm đường, làm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321274"
+    },
+    {
+      "english": "No sugar for me.",
+      "vietnamese": "Tôi không dùng đường.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321276"
+    },
+    {
+      "english": "Have a nice day!",
+      "vietnamese": "Chúc một ngày tốt lành!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321278"
+    },
+    {
+      "english": "Thank you very much.",
+      "vietnamese": "Cảm ơn rất nhiều.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321280"
+    },
+    {
+      "english": "I'm full, thanks.",
+      "vietnamese": "Tôi no rồi, cảm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321282"
+    },
+    {
+      "english": "Can I pay now?",
+      "vietnamese": "Tôi thanh toán được không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321284"
+    },
+    {
+      "english": "Keep the change.",
+      "vietnamese": "Tiền thừa khỏi thối.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321286"
+    },
+    {
+      "english": "See you later!",
+      "vietnamese": "Hẹn gặp lại!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321288"
+    },
+    {
+      "english": "It's too hot.",
+      "vietnamese": "Nó nóng quá.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321290"
+    },
+    {
+      "english": "It's too cold.",
+      "vietnamese": "Nó lạnh quá.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321292"
+    },
+    {
+      "english": "I need caffeine.",
+      "vietnamese": "Tôi cần caffein.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321294"
+    },
+    {
+      "english": "Just a small one.",
+      "vietnamese": "Lấy một ly nhỏ thôi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321296"
+    },
+    {
+      "english": "What's popular today?",
+      "vietnamese": "Hôm nay món nào bán chạy?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321300"
+    },
+    {
+      "english": "Can I try a sample?",
+      "vietnamese": "Cho tôi thử một chút được không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321303"
+    },
+    {
+      "english": "Is this vegan, by any chance?",
+      "vietnamese": "Cái này có thuần chay không, bạn ơi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321305"
+    },
+    {
+      "english": "What's in this pastry?",
+      "vietnamese": "Bánh này có những gì vậy?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321307"
+    },
+    {
+      "english": "Can you explain this dessert?",
+      "vietnamese": "Bạn có thể giải thích món tráng miệng này?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321309"
+    },
+    {
+      "english": "Do you have any gluten-free options?",
+      "vietnamese": "Có món nào không chứa gluten không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321312"
+    },
+    {
+      "english": "How would you make this at home?",
+      "vietnamese": "Ở nhà bạn làm món này thế nào?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321314"
+    },
+    {
+      "english": "What kind of coffee beans do you use?",
+      "vietnamese": "Quán dùng loại hạt cà phê nào?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321316"
+    },
+    {
+      "english": "Is the milk fresh?",
+      "vietnamese": "Sữa này có tươi không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321319"
+    },
+    {
+      "english": "Can I get a double shot?",
+      "vietnamese": "Cho tôi thêm một shot nữa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321321"
+    },
+    {
+      "english": "What's the special today?",
+      "vietnamese": "Món đặc biệt hôm nay là gì?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321323"
+    },
+    {
+      "english": "Could you warm this up slightly?",
+      "vietnamese": "Bạn làm ấm lại chút được không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321327"
+    },
+    {
+      "english": "What's your favorite drink here?",
+      "vietnamese": "Đồ uống yêu thích của bạn ở đây là gì?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321330"
+    },
+    {
+      "english": "Is this baked today?",
+      "vietnamese": "Bánh này nướng hôm nay chứ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321331"
+    },
+    {
+      "english": "Can I have a napkin, please?",
+      "vietnamese": "Cho tôi một cái giấy ăn, làm ơn?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321334"
+    },
+    {
+      "english": "Where can I sit down?",
+      "vietnamese": "Tôi có thể ngồi ở đâu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321336"
+    },
+    {
+      "english": "Do you have Wi-Fi access?",
+      "vietnamese": "Quán có Wi-Fi không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321338"
+    },
+    {
+      "english": "What's the password for the Wi-Fi?",
+      "vietnamese": "Mật khẩu Wi-Fi là gì?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321340"
+    },
+    {
+      "english": "Can I charge my phone here?",
+      "vietnamese": "Tôi có thể sạc điện thoại ở đây?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321342"
+    },
+    {
+      "english": "Can I get a refill on this?",
+      "vietnamese": "Cho tôi thêm một chút nữa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321344"
+    },
+    {
+      "english": "What time do you close?",
+      "vietnamese": "Mấy giờ quán đóng cửa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321346"
+    },
+    {
+      "english": "Do you sell gift cards?",
+      "vietnamese": "Quán có bán thẻ quà tặng không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321348"
+    },
+    {
+      "english": "Can I order for someone else?",
+      "vietnamese": "Tôi có thể đặt cho người khác không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321350"
+    },
+    {
+      "english": "What's the quickest option?",
+      "vietnamese": "Món nào làm nhanh nhất?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321352"
+    },
+    {
+      "english": "Could I have a lid for this?",
+      "vietnamese": "Cho tôi cái nắp cho ly này?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321353"
+    },
+    {
+      "english": "Are there any specials this week?",
+      "vietnamese": "Tuần này có ưu đãi gì không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321356"
+    },
+    {
+      "english": "Can I get a receipt, please?",
+      "vietnamese": "Cho tôi xin hóa đơn, làm ơn?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321358"
+    },
+    {
+      "english": "Each day is a new chance.",
+      "vietnamese": "Mỗi ngày là một cơ hội mới.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321360"
+    },
+    {
+      "english": "Keep striving, don't give up.",
+      "vietnamese": "Cứ cố gắng, đừng bỏ cuộc.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321364"
+    },
+    {
+      "english": "You're doing great work.",
+      "vietnamese": "Bạn đang làm rất tốt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321366"
+    },
+    {
+      "english": "Stay positive, feel the joy.",
+      "vietnamese": "Giữ thái độ tích cực, cảm nhận niềm vui.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321368"
+    },
+    {
+      "english": "You are capable of anything.",
+      "vietnamese": "Bạn có khả năng làm mọi thứ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321370"
+    },
+    {
+      "english": "This creation is wonderful.",
+      "vietnamese": "Sự sáng tạo này thật tuyệt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321372"
+    },
+    {
+      "english": "Don't underestimate your talent.",
+      "vietnamese": "Đừng đánh giá thấp tài năng của bạn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321374"
+    },
+    {
+      "english": "Keep shining, be brilliant.",
+      "vietnamese": "Cứ tỏa sáng, thật rực rỡ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321376"
+    },
+    {
+      "english": "It's okay to start small.",
+      "vietnamese": "Bắt đầu nhỏ cũng không sao.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321379"
+    },
+    {
+      "english": "Your passion is inspiring.",
+      "vietnamese": "Niềm đam mê của bạn thật truyền cảm hứng.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321382"
+    },
+    {
+      "english": "Great job, well done!",
+      "vietnamese": "Làm tốt lắm, xuất sắc!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321384"
+    },
+    {
+      "english": "You can achieve your dreams.",
+      "vietnamese": "Bạn có thể đạt được ước mơ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321387"
+    },
+    {
+      "english": "Stay determined, stay strong.",
+      "vietnamese": "Luôn kiên định, luôn mạnh mẽ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321389"
+    },
+    {
+      "english": "This is a masterpiece.",
+      "vietnamese": "Đây là một kiệt tác.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321391"
+    },
+    {
+      "english": "A small step, a big win.",
+      "vietnamese": "Một bước nhỏ, một chiến thắng lớn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321393"
+    },
+    {
+      "english": "Perfection takes time, be patient.",
+      "vietnamese": "Sự hoàn hảo cần thời gian, hãy kiên nhẫn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321395"
+    },
+    {
+      "english": "Dream big, start now.",
+      "vietnamese": "Mơ lớn, bắt đầu ngay bây giờ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321397"
+    },
+    {
+      "english": "You're truly talented.",
+      "vietnamese": "Bạn thật sự rất tài năng.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321399"
+    },
+    {
+      "english": "A taste of home, right here.",
+      "vietnamese": "Hương vị quê nhà, ngay tại đây.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321402"
+    },
+    {
+      "english": "This bakery, always a delight.",
+      "vietnamese": "Tiệm bánh này, lúc nào cũng tuyệt vời.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321404"
+    },
+    {
+      "english": "A little treat, for your day.",
+      "vietnamese": "Một chút quà vặt, cho ngày của bạn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321406"
+    },
+    {
+      "english": "Coffee's strong, spirit's high.",
+      "vietnamese": "Cà phê đậm, tinh thần sảng khoái.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321408"
+    },
+    {
+      "english": "Enjoy the simple moments, slowly.",
+      "vietnamese": "Thưởng thức khoảnh khắc bình dị, chậm rãi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321410"
+    },
+    {
+      "english": "Baked with love, served with care.",
+      "vietnamese": "Nướng bằng cả tình yêu, phục vụ chu đáo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321415"
+    },
+    {
+      "english": "This coffee shop, feels like family.",
+      "vietnamese": "Quán cà phê này, thân thiết như gia đình.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321417"
+    },
+    {
+      "english": "Sweet moments, happen here.",
+      "vietnamese": "Những khoảnh khắc ngọt ngào, xảy ra tại đây.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321420"
+    },
+    {
+      "english": "A good coffee, changes everything.",
+      "vietnamese": "Một ly cà phê ngon, thay đổi mọi thứ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321422"
+    },
+    {
+      "english": "Freshly baked, smells divine.",
+      "vietnamese": "Mới ra lò, thơm lừng.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321424"
+    },
+    {
+      "english": "Fueling up, for the day.",
+      "vietnamese": "Nạp năng lượng, cho cả ngày.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321426"
+    },
+    {
+      "english": "This pastry, is a work of art.",
+      "vietnamese": "Miếng bánh ngọt này, là một tác phẩm nghệ thuật.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321428"
+    },
+    {
+      "english": "Your daily dose, of happiness.",
+      "vietnamese": "Liều hạnh phúc, mỗi ngày của bạn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321430"
+    },
+    {
+      "english": "The aroma, is irresistible.",
+      "vietnamese": "Mùi hương này, thật khó cưỡng.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321432"
+    },
+    {
+      "english": "Where good conversations start.",
+      "vietnamese": "Nơi những cuộc trò chuyện hay bắt đầu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321434"
+    },
+    {
+      "english": "A sweet escape, from the world.",
+      "vietnamese": "Một chốn thoát ly ngọt ngào, khỏi thế giới.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321438"
+    },
+    {
+      "english": "Let's make today, a sweet one.",
+      "vietnamese": "Hãy làm hôm nay, thật ngọt ngào.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321442"
+    },
+    {
+      "english": "The perfect blend, of flavors.",
+      "vietnamese": "Sự kết hợp hoàn hảo, của các vị.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321444"
+    },
+    {
+      "english": "A moment of peace, with coffee.",
+      "vietnamese": "Một chút bình yên, bên ly cà phê.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321446"
+    },
+    {
+      "english": "This cake, is heavenly good.",
+      "vietnamese": "Chiếc bánh này, ngon như thiên đường.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321453"
+    },
+    {
+      "english": "Coffee break, essential.",
+      "vietnamese": "Nghỉ giải lao uống cà phê, là thiết yếu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321455"
+    },
+    {
+      "english": "Starting the day, the right way.",
+      "vietnamese": "Bắt đầu ngày mới, theo cách đúng đắn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321457"
+    },
+    {
+      "english": "Taste the tradition, feel the love.",
+      "vietnamese": "Nếm thử truyền thống, cảm nhận tình yêu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321459"
+    },
+    {
+      "english": "This croissant, is perfection.",
+      "vietnamese": "Miếng bánh sừng bò này, thật hoàn hảo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321461"
+    },
+    {
+      "english": "Your neighborhood coffee spot.",
+      "vietnamese": "Quán cà phê quen thuộc của khu bạn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321463"
+    },
+    {
+      "english": "Life's too short, eat dessert first.",
+      "vietnamese": "Cuộc sống quá ngắn, hãy ăn tráng miệng trước.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321465"
+    },
+    {
+      "english": "A little indulgence, goes a long way.",
+      "vietnamese": "Một chút nuông chiều, sẽ đi xa lắm.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321467"
+    },
+    {
+      "english": "The best part, of my morning.",
+      "vietnamese": "Phần tuyệt vời nhất, của buổi sáng tôi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321469"
+    },
+    {
+      "english": "What's today's special, please?",
+      "vietnamese": "Món đặc biệt hôm nay, là gì vậy?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321472"
+    },
+    {
+      "english": "Can I get a box for these?",
+      "vietnamese": "Cho tôi xin cái hộp này nhé?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321474"
+    },
+    {
+      "english": "Is this made fresh daily?",
+      "vietnamese": "Cái này có làm mới mỗi ngày không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321476"
+    },
+    {
+      "english": "I'll take this to go.",
+      "vietnamese": "Tôi mang đi cái này.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321478"
+    },
+    {
+      "english": "Can I have a doggy bag?",
+      "vietnamese": "Cho tôi xin túi đựng đồ ăn về.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321480"
+    },
+    {
+      "english": "I need something quick.",
+      "vietnamese": "Tôi cần thứ gì đó nhanh.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321482"
+    },
+    {
+      "english": "What do you recommend for breakfast?",
+      "vietnamese": "Buổi sáng nên ăn gì?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321485"
+    },
+    {
+      "english": "Can I have the receipt, please?",
+      "vietnamese": "Cho tôi xin hóa đơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321487"
+    },
+    {
+      "english": "Are there any gluten-free options?",
+      "vietnamese": "Có lựa chọn nào không chứa gluten không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321489"
+    },
+    {
+      "english": "Is this your signature drink?",
+      "vietnamese": "Đây có phải đồ uống đặc trưng của quán?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321491"
+    },
+    {
+      "english": "I'm just browsing, thanks.",
+      "vietnamese": "Tôi chỉ xem thôi, cảm ơn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321493"
+    },
+    {
+      "english": "Can I try a small piece?",
+      "vietnamese": "Cho tôi thử một miếng nhỏ nhé?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321495"
+    },
+    {
+      "english": "This is exactly what I wanted.",
+      "vietnamese": "Đúng thứ tôi muốn luôn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321497"
+    },
+    {
+      "english": "I'm meeting a friend here.",
+      "vietnamese": "Tôi hẹn bạn ở đây.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321500"
+    },
+    {
+      "english": "Can I sit by the window?",
+      "vietnamese": "Cho tôi ngồi cạnh cửa sổ được không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321501"
+    },
+    {
+      "english": "Is there outdoor seating?",
+      "vietnamese": "Có chỗ ngồi ngoài trời không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321503"
+    },
+    {
+      "english": "Can I get a refill?",
+      "vietnamese": "Cho tôi xin thêm được không?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321505"
+    },
+    {
+      "english": "This is the perfect spot.",
+      "vietnamese": "Đây đúng là chỗ lý tưởng.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321507"
+    },
+    {
+      "english": "How long does this take?",
+      "vietnamese": "Cái này mất bao lâu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321509"
+    },
+    {
+      "english": "I'll have what they're having.",
+      "vietnamese": "Cho tôi giống họ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-02T07:00:48.321515"
     }
   ],
-  "last_updated": "2026-11-01T07:01:06.835378"
+  "last_updated": "2026-11-02T07:00:48.321517"
 }
