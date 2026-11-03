@@ -43583,7 +43583,727 @@
       "vietnamese": "Cho tôi giống họ.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-02T07:00:48.321515"
+    },
+    {
+      "english": "Try again today, even if it's messy.",
+      "vietnamese": "Thử lại hôm nay, dù mọi thứ còn rối.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640204"
+    },
+    {
+      "english": "Mistakes happen, breathe, then continue.",
+      "vietnamese": "Sai thì cứ sai, hít thở, rồi làm tiếp.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640218"
+    },
+    {
+      "english": "Show up, do the basics, repeat.",
+      "vietnamese": "Cứ xuất hiện, làm việc cơ bản, rồi lặp lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640220"
+    },
+    {
+      "english": "If it's hard, do it slower.",
+      "vietnamese": "Nếu khó, làm chậm lại cho chắc.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640222"
+    },
+    {
+      "english": "One more try, that's the deal.",
+      "vietnamese": "Thử thêm một lần, vậy thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640224"
+    },
+    {
+      "english": "Keep your routine, even when you feel off.",
+      "vietnamese": "Giữ nhịp sinh hoạt, dù lúc mình không ổn.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640226"
+    },
+    {
+      "english": "Small effort now, payoff later, trust it.",
+      "vietnamese": "Cố chút bây giờ, hưởng sau, cứ tin đi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640228"
+    },
+    {
+      "english": "Stay calm, fix the next problem.",
+      "vietnamese": "Bình tĩnh, xử lý việc kế tiếp.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640232"
+    },
+    {
+      "english": "Don't wait for motivation, just start.",
+      "vietnamese": "Đừng chờ động lực, cứ bắt đầu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640235"
+    },
+    {
+      "english": "When you fail, learn fast, move on.",
+      "vietnamese": "Lỡ sai rồi, rút kinh nghiệm nhanh, đi tiếp.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640237"
+    },
+    {
+      "english": "Keep your head up, try again.",
+      "vietnamese": "Ngẩng mặt lên, thử lại đi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640239"
+    },
+    {
+      "english": "No drama, just do the work today.",
+      "vietnamese": "Không than vãn, làm việc hôm nay thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640240"
+    },
+    {
+      "english": "Even on bad days, make progress.",
+      "vietnamese": "Ngày tệ cũng tiến lên một chút.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640242"
+    },
+    {
+      "english": "Turn 'stuck' into 'next step', right now.",
+      "vietnamese": "Bí quá thì đổi sang bước tiếp theo, giờ luôn.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640245"
+    },
+    {
+      "english": "Stay consistent, that's how you win long-term.",
+      "vietnamese": "Giữ đều tay, đó là cách thắng đường dài.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640247"
+    },
+    {
+      "english": "If plan A fails, use plan B.",
+      "vietnamese": "Hỏng phương án A, dùng phương án B.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640249"
+    },
+    {
+      "english": "Keep going quietly, results follow later.",
+      "vietnamese": "Cứ làm thầm lặng, rồi kết quả tự đến.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640250"
+    },
+    {
+      "english": "Tell yourself, 'I can handle this.'",
+      "vietnamese": "Nói với mình, 'Tôi làm được mà.'",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640252"
+    },
+    {
+      "english": "After setbacks, reset, then try again.",
+      "vietnamese": "Gặp trượt thì reset, rồi thử lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640254"
+    },
+    {
+      "english": "Patience with pace, not just waiting.",
+      "vietnamese": "Kiên nhẫn với nhịp, không chỉ chờ đợi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640256"
+    },
+    {
+      "english": "Put in the reps, day by day.",
+      "vietnamese": "Cứ luyện theo hiệp, từng ngày một.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640257"
+    },
+    {
+      "english": "Don't quit the habit, even slowly.",
+      "vietnamese": "Đừng bỏ thói quen, dù làm chậm thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640259"
+    },
+    {
+      "english": "When doubt hits, focus on the next task.",
+      "vietnamese": "Nghi quá thì nhìn việc trước mắt.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640261"
+    },
+    {
+      "english": "I can do it, one step at a time.",
+      "vietnamese": "Tôi làm được, từng bước một thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640262"
+    },
+    {
+      "english": "Keep your promise to yourself, daily.",
+      "vietnamese": "Giữ lời hứa với chính mình, mỗi ngày.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640269"
+    },
+    {
+      "english": "Practice now, thank yourself later, seriously.",
+      "vietnamese": "Luyện ngay đi, rồi tự mình cảm ơn sau.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640271"
+    },
+    {
+      "english": "If you want it, work for it consistently.",
+      "vietnamese": "Muốn thì làm, và làm đều đặn.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640272"
+    },
+    {
+      "english": "Keep the momentum, small pace is fine.",
+      "vietnamese": "Giữ đà, chậm chút cũng được.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640274"
+    },
+    {
+      "english": "Talk less, do more, that's persistence.",
+      "vietnamese": "Nói ít, làm nhiều, vậy là bền bỉ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640276"
+    },
+    {
+      "english": "When it's late, start anyway, just begin.",
+      "vietnamese": "Trễ rồi cũng được, cứ bắt đầu thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640279"
+    },
+    {
+      "english": "Quick question, how do I stay focused here?",
+      "vietnamese": "Cho mình hỏi nhanh, làm sao để tập trung hơn ạ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640281"
+    },
+    {
+      "english": "What’s the best way to practice daily, ask?",
+      "vietnamese": "Bạn nghĩ cách nào tốt nhất để luyện mỗi ngày?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640284"
+    },
+    {
+      "english": "Can you help me pick a realistic plan?",
+      "vietnamese": "Bạn giúp mình chọn một kế hoạch vừa sức được không?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640286"
+    },
+    {
+      "english": "Where should I start, if I feel behind?",
+      "vietnamese": "Nếu mình bị trễ, mình nên bắt đầu từ đâu?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640287"
+    },
+    {
+      "english": "Is it better to slow down, or push harder?",
+      "vietnamese": "Nên chậm lại, hay cố thêm một chút?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640289"
+    },
+    {
+      "english": "When you hit a wall, what do you do first?",
+      "vietnamese": "Khi bị kẹt, bạn làm gì trước tiên?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640292"
+    },
+    {
+      "english": "Who can I ask for tips, local style?",
+      "vietnamese": "Mình hỏi ai để xin mẹo thực tế đây?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640294"
+    },
+    {
+      "english": "Any advice for staying patient during practice?",
+      "vietnamese": "Có lời khuyên nào để mình kiên nhẫn khi luyện không?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640296"
+    },
+    {
+      "english": "Should I track progress, or just keep going?",
+      "vietnamese": "Mình nên theo dõi tiến độ, hay cứ làm tiếp?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640298"
+    },
+    {
+      "english": "What’s your trick, to not quit midweek?",
+      "vietnamese": "Bạn có mẹo gì để không bỏ giữa tuần không?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640300"
+    },
+    {
+      "english": "How do you handle days with zero energy?",
+      "vietnamese": "Bạn xử lý ngày không có năng lượng thế nào?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640301"
+    },
+    {
+      "english": "Can I borrow your routine, for tonight?",
+      "vietnamese": "Cho mình mượn lịch hôm nay, được không?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640303"
+    },
+    {
+      "english": "What do you do, when results feel slow?",
+      "vietnamese": "Khi kết quả chậm, bạn làm gì vậy?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640305"
+    },
+    {
+      "english": "Do you set small goals, or big goals?",
+      "vietnamese": "Bạn đặt mục tiêu nhỏ, hay mục tiêu lớn?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640306"
+    },
+    {
+      "english": "Which habit helps you come back after setbacks?",
+      "vietnamese": "Thói quen nào giúp bạn quay lại sau thất bại?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640308"
+    },
+    {
+      "english": "Can we talk, about keeping momentum?",
+      "vietnamese": "Mình nói chuyện được không, về cách giữ động lực?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640310"
+    },
+    {
+      "english": "What’s a good checkpoint, after one week?",
+      "vietnamese": "Sau một tuần, mình nên tự kiểm tra gì?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640312"
+    },
+    {
+      "english": "How do you stay brave, when it’s uncomfortable?",
+      "vietnamese": "Làm sao bạn giữ vững tinh thần, khi hơi khó chịu?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640315"
+    },
+    {
+      "english": "Who taught you to ask for feedback?",
+      "vietnamese": "Ai dạy bạn cách xin ý kiến phản hồi vậy?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640317"
+    },
+    {
+      "english": "Should I ask for help, or try alone?",
+      "vietnamese": "Mình nên xin giúp đỡ, hay tự làm một mình?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640318"
+    },
+    {
+      "english": "What’s your go-to question, for self-check?",
+      "vietnamese": "Câu hỏi quen thuộc của bạn để tự kiểm tra là gì?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640321"
+    },
+    {
+      "english": "How long do you practice, before changing?",
+      "vietnamese": "Bạn luyện bao lâu thì mới đổi cách?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640322"
+    },
+    {
+      "english": "Can you share, how you keep showing up?",
+      "vietnamese": "Bạn chia sẻ giúp mình, cách bạn vẫn đi đều được không?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640324"
+    },
+    {
+      "english": "When motivation drops, what’s your backup plan?",
+      "vietnamese": "Khi hết động lực, bạn có phương án dự phòng gì?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640326"
+    },
+    {
+      "english": "Could you recommend one small step today?",
+      "vietnamese": "Bạn gợi ý cho mình một bước nhỏ hôm nay được không?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640327"
+    },
+    {
+      "english": "What should I say, to stay respectful and steady?",
+      "vietnamese": "Mình nên nói gì, để vững vàng mà vẫn lịch sự?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640329"
+    },
+    {
+      "english": "Do you talk to friends, for accountability?",
+      "vietnamese": "Bạn nhờ bạn bè nhắc nhở, để chịu trách nhiệm không?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640331"
+    },
+    {
+      "english": "How do you turn 'why me' into focus?",
+      "vietnamese": "Làm sao bạn biến 'tại sao là mình' thành tập trung?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640333"
+    },
+    {
+      "english": "What’s your best question, for staying on track?",
+      "vietnamese": "Câu hỏi hay nhất của bạn để giữ đúng hướng là gì?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640336"
+    },
+    {
+      "english": "Small wins today, big confidence tomorrow.",
+      "vietnamese": "Chiến thắng nhỏ hôm nay, tự tin lớn mai.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640338"
+    },
+    {
+      "english": "Your effort counts, even if nobody claps.",
+      "vietnamese": "Công sức của bạn vẫn tính, dù chẳng ai vỗ tay.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640340"
+    },
+    {
+      "english": "Tell yourself, I’m learning, not failing.",
+      "vietnamese": "Nói với mình, mình đang học, không phải fail.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640344"
+    },
+    {
+      "english": "When it’s tough, lean in, not away.",
+      "vietnamese": "Khó thì tiến tới, đừng rút lui.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640346"
+    },
+    {
+      "english": "Mistakes are data, keep going calmly.",
+      "vietnamese": "Sai sót là dữ liệu, cứ bình tĩnh làm tiếp.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640348"
+    },
+    {
+      "english": "Stay kind to yourself, stay consistent.",
+      "vietnamese": "Đối xử tử tế với mình, rồi vẫn đều đặn.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640350"
+    },
+    {
+      "english": "Every day you return, you win.",
+      "vietnamese": "Mỗi lần quay lại, bạn đã thắng rồi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640352"
+    },
+    {
+      "english": "Don’t wait for mood, build discipline.",
+      "vietnamese": "Đừng chờ tâm trạng, hãy rèn kỷ luật.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640354"
+    },
+    {
+      "english": "Focus on progress, not perfect timing.",
+      "vietnamese": "Tập trung tiến bộ, đừng săn thời điểm hoàn hảo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640356"
+    },
+    {
+      "english": "Say it loud, mình làm được.",
+      "vietnamese": "Nói to lên, mình làm được.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640360"
+    },
+    {
+      "english": "Keep showing up, even in small doses.",
+      "vietnamese": "Cứ xuất hiện, dù chỉ một chút mỗi ngày.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640362"
+    },
+    {
+      "english": "You’re one practice away from getting better.",
+      "vietnamese": "Bạn chỉ cách một buổi luyện tập là khá hơn.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640364"
+    },
+    {
+      "english": "No drama, just training, then rest.",
+      "vietnamese": "Không drama, chỉ luyện tập, rồi nghỉ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640366"
+    },
+    {
+      "english": "Give yourself credit, you’ve earned it.",
+      "vietnamese": "Tự khen mình đi, bạn xứng đáng.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640368"
+    },
+    {
+      "english": "Better effort beats big talk every time.",
+      "vietnamese": "Cố gắng thật sự hơn lời nói hay, lúc nào cũng vậy.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640370"
+    },
+    {
+      "english": "Confidence comes after reps, not before.",
+      "vietnamese": "Tự tin đến sau lần luyện, chứ không phải trước.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640371"
+    },
+    {
+      "english": "If you fell off, restart without excuses.",
+      "vietnamese": "Lỡ trượt rồi thì bắt đầu lại, không lý do.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640373"
+    },
+    {
+      "english": "Promise less, follow through more, okay?",
+      "vietnamese": "Hứa ít thôi, làm tới nhiều hơn, được không?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640375"
+    },
+    {
+      "english": "Your future self is rooting for you.",
+      "vietnamese": "Tương lai của bạn đang cổ vũ bạn đó.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640377"
+    },
+    {
+      "english": "When stress shows up, breathe and continue.",
+      "vietnamese": "Stress tới rồi, thở một cái, rồi làm tiếp.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640379"
+    },
+    {
+      "english": "You can be tired, you still can practice.",
+      "vietnamese": "Mệt vẫn được, nhưng vẫn luyện tập nha.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640380"
+    },
+    {
+      "english": "Make it easy to start, every time.",
+      "vietnamese": "Cho việc bắt đầu dễ thôi, lần nào cũng vậy.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640382"
+    },
+    {
+      "english": "Celebrate effort, not just results.",
+      "vietnamese": "Tự ăn mừng sự cố gắng, không chỉ kết quả.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640385"
+    },
+    {
+      "english": "Your brain learns through repetition, period.",
+      "vietnamese": "Não bạn học bằng lặp lại, nói vậy thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640387"
+    },
+    {
+      "english": "Keep it simple, repeat the basics.",
+      "vietnamese": "Giữ nó đơn giản, cứ quay lại phần cơ bản.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640390"
+    },
+    {
+      "english": "Today’s grind builds your tomorrow’s freedom.",
+      "vietnamese": "Nỗ lực hôm nay tạo tự do ngày mai.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640392"
+    },
+    {
+      "english": "If it’s small, do it right now.",
+      "vietnamese": "Nếu nhỏ thì làm liền, ngay bây giờ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640394"
+    },
+    {
+      "english": "Stay positive, but stay ready to adjust.",
+      "vietnamese": "Giữ tinh thần tích cực, nhưng sẵn sàng điều chỉnh.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640396"
+    },
+    {
+      "english": "You’re not behind, you’re building skills.",
+      "vietnamese": "Bạn không hề trễ, bạn đang xây kỹ năng mà.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640400"
+    },
+    {
+      "english": "Quiet consistency beats dramatic motivation, always.",
+      "vietnamese": "Nhất quán âm thầm thắng động lực lớn, luôn luôn.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640402"
+    },
+    {
+      "english": "I feel nervous, so I breathe and continue.",
+      "vietnamese": "Tôi thấy hơi lo, nên tôi hít thở rồi tiếp tục.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640404"
+    },
+    {
+      "english": "Some days, I’m unsure, still I practice.",
+      "vietnamese": "Có ngày tôi không chắc, nhưng vẫn luyện tập.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640406"
+    },
+    {
+      "english": "I admit I’m scared, then I start small.",
+      "vietnamese": "Tôi thừa nhận mình sợ, rồi bắt đầu thật nhỏ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640408"
+    },
+    {
+      "english": "My goal is steady, not instant results.",
+      "vietnamese": "Mục tiêu của tôi là vững vàng, không phải nhanh ngay.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640410"
+    },
+    {
+      "english": "I check in, how do I really feel?",
+      "vietnamese": "Tôi tự hỏi, giờ tôi thật sự thấy sao?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640413"
+    },
+    {
+      "english": "I’m allowed to pause, but I don’t quit.",
+      "vietnamese": "Tôi được phép dừng lại, nhưng không bỏ cuộc.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640415"
+    },
+    {
+      "english": "Even when I doubt, I keep my rhythm.",
+      "vietnamese": "Dù tôi nghi ngờ, tôi vẫn giữ nhịp.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640417"
+    },
+    {
+      "english": "I reflect, what worked, what needs tweaking?",
+      "vietnamese": "Tôi ngẫm lại, cái gì hiệu quả, cái gì cần chỉnh?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640419"
+    },
+    {
+      "english": "I don’t pretend, I just keep going.",
+      "vietnamese": "Tôi không giả vờ, tôi chỉ tiếp tục thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640421"
+    },
+    {
+      "english": "I write it down, my next step only.",
+      "vietnamese": "Tôi ghi lại, bước tiếp theo thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640423"
+    },
+    {
+      "english": "When I get emotional, I slow down.",
+      "vietnamese": "Khi tôi xúc động, tôi chậm lại.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640424"
+    },
+    {
+      "english": "I turn frustration into questions, then action.",
+      "vietnamese": "Tôi biến bực bội thành câu hỏi, rồi hành động.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640426"
+    },
+    {
+      "english": "I trust the process, even if it’s quiet.",
+      "vietnamese": "Tôi tin vào quá trình, dù nó yên lặng.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640428"
+    },
+    {
+      "english": "I can be tired, I choose to continue.",
+      "vietnamese": "Tôi có thể mệt, nhưng tôi chọn tiếp tục.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640430"
+    },
+    {
+      "english": "I give myself permission to learn through mistakes.",
+      "vietnamese": "Tôi cho phép mình học bằng cách sai.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640432"
+    },
+    {
+      "english": "I don’t judge my mood, I still show up.",
+      "vietnamese": "Tôi không phán xét tâm trạng, tôi vẫn xuất hiện.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640434"
+    },
+    {
+      "english": "If today feels heavy, I do one task.",
+      "vietnamese": "Nếu hôm nay nặng nề, tôi làm một việc thôi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640436"
+    },
+    {
+      "english": "I listen to my doubts, then move forward.",
+      "vietnamese": "Tôi lắng nghe nỗi nghi ngờ, rồi bước tới.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640437"
+    },
+    {
+      "english": "I keep a promise to myself, every day.",
+      "vietnamese": "Tôi giữ lời hứa với bản thân, mỗi ngày.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640439"
+    },
+    {
+      "english": "I treat setbacks as part of the journey.",
+      "vietnamese": "Tôi xem thất bại là một phần của hành trình.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640441"
+    },
+    {
+      "english": "I’m not chasing perfection, I’m building consistency.",
+      "vietnamese": "Tôi không chạy theo hoàn hảo, tôi xây sự đều đặn.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640444"
+    },
+    {
+      "english": "I notice progress, even when it feels slow.",
+      "vietnamese": "Tôi nhận ra tiến bộ, dù nó chậm.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640446"
+    },
+    {
+      "english": "I let my worry pass, then I act.",
+      "vietnamese": "Tôi để nỗi lo trôi qua, rồi tôi hành động.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640448"
+    },
+    {
+      "english": "I keep my standards kind, and my effort real.",
+      "vietnamese": "Tôi giữ tiêu chuẩn tử tế, và nỗ lực thật lòng.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640449"
+    },
+    {
+      "english": "I reset my mindset, one breath at a time.",
+      "vietnamese": "Tôi reset tâm trí, từng hơi thở một.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640451"
+    },
+    {
+      "english": "I say, today is enough, not perfect.",
+      "vietnamese": "Tôi nói, hôm nay là đủ, không cần hoàn hảo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640453"
+    },
+    {
+      "english": "I’m proud I didn’t quit in silence.",
+      "vietnamese": "Tôi tự hào vì đã không bỏ cuộc trong im lặng.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640455"
+    },
+    {
+      "english": "I celebrate honesty, I feel it, I move on.",
+      "vietnamese": "Tôi trân trọng sự thật lòng, tôi cảm thấy rồi bước tiếp.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640457"
+    },
+    {
+      "english": "I keep showing up, because I believe.",
+      "vietnamese": "Tôi cứ xuất hiện, vì tôi tin.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640458"
+    },
+    {
+      "english": "I reflect tonight, tomorrow I’ll be kinder.",
+      "vietnamese": "Tối nay tôi ngẫm lại, ngày mai tôi sẽ dịu hơn với mình.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640461"
+    },
+    {
+      "english": "Small wins add up, start with one habit.",
+      "vietnamese": "Những chiến thắng nhỏ cộng dồn, bắt đầu với một thói quen.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-03T07:26:08.640462"
     }
   ],
-  "last_updated": "2026-11-02T07:00:48.321517"
+  "last_updated": "2026-11-03T07:26:08.640464"
 }
