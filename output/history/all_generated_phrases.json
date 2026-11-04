@@ -44303,7 +44303,727 @@
       "vietnamese": "Những chiến thắng nhỏ cộng dồn, bắt đầu với một thói quen.",
       "category": "Perseverance",
       "generated_at": "2026-11-03T07:26:08.640462"
+    },
+    {
+      "english": "Can I see the price tag?",
+      "vietnamese": "Cho tôi xem nhãn giá với, được không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941893"
+    },
+    {
+      "english": "Wow, that’s a great deal!",
+      "vietnamese": "Trời ơi, rẻ thế!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941908"
+    },
+    {
+      "english": "Is there any discount today?",
+      "vietnamese": "Hôm nay có giảm giá không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941912"
+    },
+    {
+      "english": "I’ll take it, how much total?",
+      "vietnamese": "Em lấy, tổng bao nhiêu ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941915"
+    },
+    {
+      "english": "That price seems a bit high.",
+      "vietnamese": "Giá này hơi cao đó.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941917"
+    },
+    {
+      "english": "Can you do a lower price?",
+      "vietnamese": "Anh/chị giảm giá thêm được không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941919"
+    },
+    {
+      "english": "What size do you have?",
+      "vietnamese": "Anh/chị có size nào không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941923"
+    },
+    {
+      "english": "This one looks good on me.",
+      "vietnamese": "Cái này hợp với em.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941928"
+    },
+    {
+      "english": "Do you have it in black?",
+      "vietnamese": "Có màu đen không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941931"
+    },
+    {
+      "english": "I’ll try it on, please.",
+      "vietnamese": "Cho em thử cái này với.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941934"
+    },
+    {
+      "english": "Is this included in the deal?",
+      "vietnamese": "Cái này có được tặng kèm không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941936"
+    },
+    {
+      "english": "Do you accept card or cash?",
+      "vietnamese": "Bên anh nhận thẻ hay tiền mặt?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941940"
+    },
+    {
+      "english": "This is exactly what I need.",
+      "vietnamese": "Đúng cái em cần luôn.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941942"
+    },
+    {
+      "english": "How long is the warranty?",
+      "vietnamese": "Bảo hành bao lâu vậy ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941944"
+    },
+    {
+      "english": "Is it brand new, right?",
+      "vietnamese": "Hàng mới đúng không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941946"
+    },
+    {
+      "english": "Can I exchange if it doesn’t fit?",
+      "vietnamese": "Nếu không vừa, có đổi được không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941949"
+    },
+    {
+      "english": "Any cheaper option around here?",
+      "vietnamese": "Có lựa chọn rẻ hơn không anh/chị?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941951"
+    },
+    {
+      "english": "I’m just browsing, no rush.",
+      "vietnamese": "Em xem thôi, không cần vội.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941956"
+    },
+    {
+      "english": "That’s perfect, I’ll buy it.",
+      "vietnamese": "Quá ổn rồi, em lấy luôn.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941959"
+    },
+    {
+      "english": "Could you wrap it for me?",
+      "vietnamese": "Anh/chị gói giúp em nhé.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941960"
+    },
+    {
+      "english": "This material feels really nice.",
+      "vietnamese": "Chất này sờ đã lắm.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941963"
+    },
+    {
+      "english": "Let’s check the total price first.",
+      "vietnamese": "Mình xem tổng giá trước nha.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941965"
+    },
+    {
+      "english": "Are there any promos on this?",
+      "vietnamese": "Cái này có khuyến mãi gì không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941967"
+    },
+    {
+      "english": "Wait, that’s more than I thought.",
+      "vietnamese": "Khoan đã, đắt hơn em nghĩ.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941969"
+    },
+    {
+      "english": "What’s the best price you can offer?",
+      "vietnamese": "Giá tốt nhất bên anh/chị là bao nhiêu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941972"
+    },
+    {
+      "english": "Thanks, I’ll come back later.",
+      "vietnamese": "Cảm ơn, lát nữa em ghé lại.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941974"
+    },
+    {
+      "english": "Do you have this in a smaller size, love?",
+      "vietnamese": "Em có loại này size nhỏ hơn không, anh?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941977"
+    },
+    {
+      "english": "What’s the price for the set, sweetie?",
+      "vietnamese": "Bộ này giá bao nhiêu vậy em?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941979"
+    },
+    {
+      "english": "Can I ask, is it on sale today?",
+      "vietnamese": "Cho em hỏi, hôm nay có giảm giá không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941982"
+    },
+    {
+      "english": "Which brand is best here, for real?",
+      "vietnamese": "Ở đây hãng nào tốt nhất vậy?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941984"
+    },
+    {
+      "english": "Is this fabric comfortable, like, all day?",
+      "vietnamese": "Chất này mặc cả ngày có thoải mái không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941986"
+    },
+    {
+      "english": "Do you know if it runs small?",
+      "vietnamese": "Anh biết mẫu này có bị nhỏ không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941988"
+    },
+    {
+      "english": "Is there a cheaper option, but still cute?",
+      "vietnamese": "Có mẫu nào rẻ hơn mà vẫn xinh không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941990"
+    },
+    {
+      "english": "May I see similar ones, please?",
+      "vietnamese": "Cho em xem mẫu tương tự được không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941993"
+    },
+    {
+      "english": "What do you recommend for my budget, boss?",
+      "vietnamese": "Chị gợi ý giúp em trong tầm giá này nhé?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941995"
+    },
+    {
+      "english": "Do you offer any points or membership deals?",
+      "vietnamese": "Cửa hàng mình có tích điểm hay ưu đãi thành viên không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941997"
+    },
+    {
+      "english": "Can you show me the next price level?",
+      "vietnamese": "Cho em xem thêm mẫu tầm giá cao hơn được không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.941999"
+    },
+    {
+      "english": "Does this include accessories, like the belt?",
+      "vietnamese": "Cái này có kèm phụ kiện, như thắt lưng không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942001"
+    },
+    {
+      "english": "Is it easy to clean, honestly?",
+      "vietnamese": "Thật sự cái này có dễ giặt không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942005"
+    },
+    {
+      "english": "Where’s the best place to check promotions?",
+      "vietnamese": "Mình xem khuyến mãi ở đâu là chuẩn nhất?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942010"
+    },
+    {
+      "english": "What’s the delivery time, if I order now?",
+      "vietnamese": "Nếu em đặt bây giờ, bao lâu thì giao ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942012"
+    },
+    {
+      "english": "Can I pay in installments, by card?",
+      "vietnamese": "Mình có trả góp được không, trả bằng thẻ ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942014"
+    },
+    {
+      "english": "Is there a fee for home delivery?",
+      "vietnamese": "Giao tận nơi có phí không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942016"
+    },
+    {
+      "english": "How many days can I return, just asking?",
+      "vietnamese": "Cho em hỏi trả lại được trong mấy ngày ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942018"
+    },
+    {
+      "english": "Does it come with a receipt, for sure?",
+      "vietnamese": "Sẽ có hóa đơn đầy đủ đúng không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942020"
+    },
+    {
+      "english": "Which size should I pick for a comfy fit?",
+      "vietnamese": "Em nên chọn size nào để mặc thoải mái ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942022"
+    },
+    {
+      "english": "If I buy two, do I get a deal?",
+      "vietnamese": "Em lấy hai cái thì có ưu đãi gì không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942026"
+    },
+    {
+      "english": "What’s the warranty policy, in simple terms?",
+      "vietnamese": "Cho em hỏi chính sách bảo hành thế nào ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942029"
+    },
+    {
+      "english": "Are there any hidden charges, or just price?",
+      "vietnamese": "Có phí phát sinh nào không, hay chỉ vậy thôi ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942032"
+    },
+    {
+      "english": "Can I reserve it for tonight, please?",
+      "vietnamese": "Chị giữ giúp em tới tối nay được không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942034"
+    },
+    {
+      "english": "Do you have it in stock, right now?",
+      "vietnamese": "Hiện tại còn hàng không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942036"
+    },
+    {
+      "english": "What’s your best suggestion for everyday use?",
+      "vietnamese": "Chị tư vấn giúp em món dùng hằng ngày nhé?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942039"
+    },
+    {
+      "english": "Can I get a quick size check, please?",
+      "vietnamese": "Cho em xin size chuẩn với ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942041"
+    },
+    {
+      "english": "Does the color look the same in real light?",
+      "vietnamese": "Màu này ngoài ánh sáng có y vậy không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942042"
+    },
+    {
+      "english": "If I’m unsure, can I ask for advice?",
+      "vietnamese": "Em chưa chắc, chị tư vấn giúp em được không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942047"
+    },
+    {
+      "english": "What’s the next step if I want to buy?",
+      "vietnamese": "Nếu em muốn lấy, bước tiếp theo là gì ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942049"
+    },
+    {
+      "english": "You’ve got this, pick the best value.",
+      "vietnamese": "Bạn làm được, chọn món đáng tiền nhất.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942052"
+    },
+    {
+      "english": "Small steps today, great buys tomorrow.",
+      "vietnamese": "Hôm nay tiến nhỏ, mai mua sắm to.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942054"
+    },
+    {
+      "english": "Price aside, check quality first, always.",
+      "vietnamese": "Giá thì tính sau, chất lượng mới là chính.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942057"
+    },
+    {
+      "english": "Trust your gut, then compare quickly.",
+      "vietnamese": "Nghe mách bảo trước, rồi so sánh nhanh.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942059"
+    },
+    {
+      "english": "Today’s deal is your future win.",
+      "vietnamese": "Deal hôm nay, lời cho ngày mai.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942062"
+    },
+    {
+      "english": "You’re learning fast, that’s the real discount.",
+      "vietnamese": "Bạn tiến nhanh lắm, đó mới là giảm giá thật.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942065"
+    },
+    {
+      "english": "Keep it simple, go for what fits.",
+      "vietnamese": "Đơn giản thôi, chọn thứ hợp với mình.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942067"
+    },
+    {
+      "english": "Be proud, you’re choosing with confidence.",
+      "vietnamese": "Tự hào đi, bạn đang chọn rất tự tin.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942070"
+    },
+    {
+      "english": "Better value beats flashy, every time.",
+      "vietnamese": "Đáng tiền hơn đồ hào nhoáng, lúc nào cũng vậy.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942072"
+    },
+    {
+      "english": "Start with needs, the price follows.",
+      "vietnamese": "Bắt đầu từ nhu cầu, giá sẽ rõ sau.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942074"
+    },
+    {
+      "english": "Say yes to smart choices, not panic.",
+      "vietnamese": "Chọn thông minh, đừng vội vì hoảng.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942076"
+    },
+    {
+      "english": "You don’t need everything, just the right one.",
+      "vietnamese": "Không cần hết, chỉ cần đúng món.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942079"
+    },
+    {
+      "english": "Fresh mindset, you’ll shop calmer today.",
+      "vietnamese": "Tâm thế mới, hôm nay mua sắm nhẹ hơn.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942082"
+    },
+    {
+      "english": "Focus on total value, not just stickers.",
+      "vietnamese": "Nhìn tổng giá trị, đừng chỉ nhìn nhãn giá.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942084"
+    },
+    {
+      "english": "This is practice, not a test.",
+      "vietnamese": "Đây là luyện tập, không phải thi.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942088"
+    },
+    {
+      "english": "Good enough is powerful, buy with peace.",
+      "vietnamese": "Đủ tốt thôi là mạnh mẽ rồi, mua với bình yên.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942090"
+    },
+    {
+      "english": "You deserve quality, choose what lasts.",
+      "vietnamese": "Bạn xứng đáng với chất lượng, chọn thứ bền.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942093"
+    },
+    {
+      "english": "Stay curious, asking is always smart.",
+      "vietnamese": "Giữ sự tò mò, hỏi vậy là khôn.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942095"
+    },
+    {
+      "english": "One good deal beats ten rushed clicks.",
+      "vietnamese": "Một deal ngon hơn mười lần vội vàng.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942097"
+    },
+    {
+      "english": "You’re building taste, buy what feels right.",
+      "vietnamese": "Bạn đang rèn gu, chọn cái thấy hợp.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942099"
+    },
+    {
+      "english": "Prices change, but your habits stay.",
+      "vietnamese": "Giá có thể đổi, nhưng thói quen của bạn vững.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942101"
+    },
+    {
+      "english": "Take a breath, then decide calmly.",
+      "vietnamese": "Thở nhẹ một chút, rồi quyết định bình tĩnh.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942104"
+    },
+    {
+      "english": "Your budget matters, honor it kindly.",
+      "vietnamese": "Ngân sách của bạn quan trọng, mình tôn trọng nó.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942106"
+    },
+    {
+      "english": "Great finds happen when you stay focused.",
+      "vietnamese": "Đồ hay gặp khi bạn tập trung.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942108"
+    },
+    {
+      "english": "If it’s meant for you, it will feel easy.",
+      "vietnamese": "Nếu đúng với mình, mọi thứ sẽ thấy dễ chịu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942110"
+    },
+    {
+      "english": "You’re not losing, you’re choosing smarter.",
+      "vietnamese": "Không phải thua, mà là chọn khôn hơn.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942113"
+    },
+    {
+      "english": "Celebrate small wins, even on prices.",
+      "vietnamese": "Ăn mừng chiến thắng nhỏ, kể cả chuyện giá.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942115"
+    },
+    {
+      "english": "Let’s be real, you deserve a good deal.",
+      "vietnamese": "Nói thật nha, bạn xứng đáng với deal ngon.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942118"
+    },
+    {
+      "english": "Future you will thank you for this.",
+      "vietnamese": "Mai này bạn sẽ cảm ơn quyết định này.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942122"
+    },
+    {
+      "english": "I want this to feel worth it, not rushed.",
+      "vietnamese": "Mình muốn thứ này thấy xứng đáng, không vội.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942124"
+    },
+    {
+      "english": "I’m okay waiting, I don’t need it now.",
+      "vietnamese": "Mình ổn khi chờ, mình không cần ngay.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942127"
+    },
+    {
+      "english": "If the price feels off, I pause.",
+      "vietnamese": "Nếu giá làm mình thấy lạ, mình dừng lại.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942129"
+    },
+    {
+      "english": "Honestly, I’m more careful with my budget.",
+      "vietnamese": "Thật lòng, mình cẩn thận hơn với ngân sách.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942131"
+    },
+    {
+      "english": "I’m not chasing the lowest price, just fair.",
+      "vietnamese": "Mình không đuổi theo giá rẻ nhất, chỉ cần công bằng.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942134"
+    },
+    {
+      "english": "Can we talk price, and also comfort?",
+      "vietnamese": "Mình trao đổi về giá được không, và cả độ thoải mái?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942137"
+    },
+    {
+      "english": "I feel better buying after I compare twice.",
+      "vietnamese": "Mình thấy yên tâm hơn khi so sánh hai lần.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942139"
+    },
+    {
+      "english": "No pressure, I’m just checking options today.",
+      "vietnamese": "Không áp lực đâu, hôm nay mình chỉ xem lựa chọn.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942141"
+    },
+    {
+      "english": "I want something simple, but still dependable.",
+      "vietnamese": "Mình muốn thứ đơn giản, mà vẫn đáng tin.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942144"
+    },
+    {
+      "english": "I’m learning to shop, not to overspend.",
+      "vietnamese": "Mình đang học cách mua sắm, không phải tiêu quá tay.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942146"
+    },
+    {
+      "english": "What’s the real reason this is priced higher?",
+      "vietnamese": "Vậy giá này cao hơn là vì lý do gì thật sự?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942149"
+    },
+    {
+      "english": "I’d rather pay fair, than gamble on unknown quality.",
+      "vietnamese": "Mình thà trả giá hợp lý, hơn là liều chất lượng không rõ.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942153"
+    },
+    {
+      "english": "I get nervous when deals sound too perfect.",
+      "vietnamese": "Mình hay lo khi ưu đãi nghe quá hoàn hảo.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942155"
+    },
+    {
+      "english": "Please be honest, I’m ready to decide calmly.",
+      "vietnamese": "Làm ơn nói thật, mình sẵn sàng quyết định bình tĩnh.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942158"
+    },
+    {
+      "english": "I can wait for a better moment, honestly.",
+      "vietnamese": "Mình có thể chờ thời điểm tốt hơn, thật lòng.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942160"
+    },
+    {
+      "english": "I’m checking the offer, not just the sticker price.",
+      "vietnamese": "Mình xem ưu đãi, chứ không chỉ nhìn giá in.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942163"
+    },
+    {
+      "english": "I trust quality, even if the price isn’t lowest.",
+      "vietnamese": "Mình tin chất lượng, dù giá không phải rẻ nhất.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942166"
+    },
+    {
+      "english": "I want to feel confident, not just satisfied.",
+      "vietnamese": "Mình muốn cảm thấy tự tin, chứ không chỉ hài lòng.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942170"
+    },
+    {
+      "english": "If it doesn’t fit my life, I skip it.",
+      "vietnamese": "Nếu nó không hợp với cuộc sống của mình, mình bỏ qua.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942173"
+    },
+    {
+      "english": "I’m taking my time, I don’t want regrets.",
+      "vietnamese": "Mình lấy thời gian, mình không muốn hối hận.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942175"
+    },
+    {
+      "english": "I prefer steady value, over hype discounts.",
+      "vietnamese": "Mình thích giá trị ổn định, hơn là giảm giá theo trào lưu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942178"
+    },
+    {
+      "english": "Can you help me think through the cost?",
+      "vietnamese": "Bạn giúp mình tính kỹ phần chi phí được không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942180"
+    },
+    {
+      "english": "I’m not angry, I just need clarity on value.",
+      "vietnamese": "Mình không bực đâu, mình chỉ cần rõ giá trị thôi.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942182"
+    },
+    {
+      "english": "I’ll choose what I can keep using daily.",
+      "vietnamese": "Mình sẽ chọn thứ mình dùng mỗi ngày được.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942185"
+    },
+    {
+      "english": "I want to buy with peace of mind, please.",
+      "vietnamese": "Mình muốn mua với tâm lý yên tâm, làm ơn.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942187"
+    },
+    {
+      "english": "That price is tempting, but I’ll be careful.",
+      "vietnamese": "Giá đó hấp dẫn, nhưng mình sẽ cẩn thận.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942190"
+    },
+    {
+      "english": "I’m listening to myself, this feels right.",
+      "vietnamese": "Mình nghe theo bản thân, cảm giác này đúng.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942193"
+    },
+    {
+      "english": "Let’s compare, then I’ll commit without stress.",
+      "vietnamese": "So sánh xong, mình sẽ quyết không căng thẳng.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942196"
+    },
+    {
+      "english": "I’d like the best option, within my limit.",
+      "vietnamese": "Mình muốn lựa chọn tốt nhất, trong mức của mình.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942198"
+    },
+    {
+      "english": "I’m proud of choosing slow, it saves money.",
+      "vietnamese": "Mình tự hào vì chọn chậm, vậy là tiết kiệm hơn.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942201"
+    },
+    {
+      "english": "How much is it, total, all-in?",
+      "vietnamese": "Cái này bao nhiêu, tổng luôn ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942203"
+    },
+    {
+      "english": "Do you have a cheaper version?",
+      "vietnamese": "Anh/chị có bản rẻ hơn không?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942205"
+    },
+    {
+      "english": "Can I see the receipt, please?",
+      "vietnamese": "Cho em xem hóa đơn được không ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942208"
+    },
+    {
+      "english": "What’s the warranty, and how long?",
+      "vietnamese": "Bảo hành bao lâu vậy ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942212"
+    },
+    {
+      "english": "Does the price include tax, shipping?",
+      "vietnamese": "Giá này đã gồm thuế, ship chưa ạ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:08:13.942214"
     }
   ],
-  "last_updated": "2026-11-03T07:26:08.640464"
+  "last_updated": "2026-11-04T07:08:13.942216"
 }
