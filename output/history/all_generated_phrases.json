@@ -45023,7 +45023,727 @@
       "vietnamese": "Giá này đã gồm thuế, ship chưa ạ?",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-04T07:08:13.942214"
+    },
+    {
+      "english": "Sorry, I didn’t understand that.",
+      "vietnamese": "Xin lỗi, tôi không hiểu chỗ đó.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766798"
+    },
+    {
+      "english": "Come here, try it with me.",
+      "vietnamese": "Lại đây, thử với mình đi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766812"
+    },
+    {
+      "english": "Really? That’s awesome!",
+      "vietnamese": "Thật hả, tuyệt quá!",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766816"
+    },
+    {
+      "english": "Hold on, let me check first.",
+      "vietnamese": "Đợi chút, để tôi kiểm tra đã.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766819"
+    },
+    {
+      "english": "No worries, it’s okay, right?",
+      "vietnamese": "Không sao đâu, ổn mà, đúng không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766821"
+    },
+    {
+      "english": "I’m hungry, can we eat?",
+      "vietnamese": "Tôi đói rồi, mình ăn được không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766824"
+    },
+    {
+      "english": "I’m fine, thanks for asking.",
+      "vietnamese": "Mình ổn, cảm ơn bạn hỏi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766827"
+    },
+    {
+      "english": "That’s too expensive, sorry.",
+      "vietnamese": "Cái này mắc quá, xin lỗi nha.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766832"
+    },
+    {
+      "english": "Where’s the bathroom, please?",
+      "vietnamese": "Cho mình hỏi nhà vệ sinh ở đâu?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766835"
+    },
+    {
+      "english": "Do you have change for me?",
+      "vietnamese": "Bạn có tiền lẻ không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766838"
+    },
+    {
+      "english": "Careful, it’s slippery!",
+      "vietnamese": "Cẩn thận, trơn đó!",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766840"
+    },
+    {
+      "english": "That makes sense, thanks!",
+      "vietnamese": "Nghe hợp lý quá, cảm ơn bạn!",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766843"
+    },
+    {
+      "english": "Let’s go, it’s getting late.",
+      "vietnamese": "Đi thôi, muộn rồi đó.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766845"
+    },
+    {
+      "english": "What time does it open?",
+      "vietnamese": "Nó mở lúc mấy giờ vậy?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766847"
+    },
+    {
+      "english": "Wait, don’t touch that!",
+      "vietnamese": "Khoan, đừng chạm vào đó!",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766850"
+    },
+    {
+      "english": "I’ll be there in ten minutes.",
+      "vietnamese": "Mình đến sau mười phút nha.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766852"
+    },
+    {
+      "english": "Can you speak a bit slower?",
+      "vietnamese": "Bạn nói chậm lại chút được không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766854"
+    },
+    {
+      "english": "Yes, I want two of them.",
+      "vietnamese": "Vâng, cho mình hai cái.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766857"
+    },
+    {
+      "english": "No, I’m not ready yet.",
+      "vietnamese": "Không, mình chưa sẵn sàng.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766862"
+    },
+    {
+      "english": "Oops, my bad, I forgot.",
+      "vietnamese": "Ôi, lỗi mình, mình quên rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766864"
+    },
+    {
+      "english": "That’s good, I’ll try it.",
+      "vietnamese": "Ngon đó, mình thử xem.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766869"
+    },
+    {
+      "english": "Is this for takeaway or eat here?",
+      "vietnamese": "Cái này mang đi hay ăn tại chỗ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766873"
+    },
+    {
+      "english": "Please don’t rush, I need time.",
+      "vietnamese": "Đừng vội, mình cần thêm thời gian.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766876"
+    },
+    {
+      "english": "I like it, it feels easy.",
+      "vietnamese": "Mình thích, thấy dễ làm lắm.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766879"
+    },
+    {
+      "english": "What happened, are you okay?",
+      "vietnamese": "Có chuyện gì vậy, bạn ổn không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766881"
+    },
+    {
+      "english": "Next time, remind me, okay?",
+      "vietnamese": "Lần sau nhắc mình nha, được không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766883"
+    },
+    {
+      "english": "I’m lost, can you help me?",
+      "vietnamese": "Mình bị lạc, bạn giúp mình với.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766886"
+    },
+    {
+      "english": "How do you like my Vietnamese so far?",
+      "vietnamese": "Bạn thấy tiếng Việt của mình thế nào rồi?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766889"
+    },
+    {
+      "english": "Can we ask for directions, please?",
+      "vietnamese": "Cho mình hỏi đường được không ạ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766891"
+    },
+    {
+      "english": "I’m trying to learn, where should I start?",
+      "vietnamese": "Mình muốn học, bắt đầu từ đâu vậy?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766894"
+    },
+    {
+      "english": "Do you want to practice together, later?",
+      "vietnamese": "Khi nào rảnh, mình luyện cùng bạn nha?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766896"
+    },
+    {
+      "english": "What’s the best way to say this politely?",
+      "vietnamese": "Nói lịch sự câu này thế nào là đúng?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766899"
+    },
+    {
+      "english": "Could you help me, just a little?",
+      "vietnamese": "Bạn giúp mình một chút được không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766901"
+    },
+    {
+      "english": "Which one do you think suits me?",
+      "vietnamese": "Cái nào hợp với mình hơn?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766903"
+    },
+    {
+      "english": "When do you usually study Vietnamese?",
+      "vietnamese": "Bạn thường học tiếng Việt lúc nào?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766905"
+    },
+    {
+      "english": "What’s your go-to phrase for ordering food?",
+      "vietnamese": "Bạn hay dùng câu nào để gọi món?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766908"
+    },
+    {
+      "english": "Can I ask, what do you do for work?",
+      "vietnamese": "Mình hỏi bạn một chút, bạn làm nghề gì?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766910"
+    },
+    {
+      "english": "Do you have time to chat for a bit?",
+      "vietnamese": "Bạn rảnh không, mình nói chuyện chút nhé?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766912"
+    },
+    {
+      "english": "Is this sentence natural, or too direct?",
+      "vietnamese": "Câu này tự nhiên không, hay hơi thẳng?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766914"
+    },
+    {
+      "english": "What should I say if I’m running late?",
+      "vietnamese": "Nếu mình trễ, mình nên nói sao?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766917"
+    },
+    {
+      "english": "May I get your advice on dates?",
+      "vietnamese": "Bạn tư vấn cho mình vụ hẹn hò được không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766919"
+    },
+    {
+      "english": "How can I sound more confident?",
+      "vietnamese": "Mình nói sao cho nghe tự tin hơn?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766921"
+    },
+    {
+      "english": "Do you prefer tea, coffee, or milk tea?",
+      "vietnamese": "Bạn thích trà, cà phê, hay trà sữa?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766923"
+    },
+    {
+      "english": "What’s the vibe tonight, chill or busy?",
+      "vietnamese": "Tối nay không khí thế nào, chill hay đông?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766926"
+    },
+    {
+      "english": "Can you correct my tone, please?",
+      "vietnamese": "Bạn chỉnh giúp mình thanh điệu được không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766928"
+    },
+    {
+      "english": "How would you respond to this?",
+      "vietnamese": "Nếu bạn là mình, bạn trả lời sao?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766930"
+    },
+    {
+      "english": "What do you think, should I go?",
+      "vietnamese": "Bạn nghĩ sao, mình có nên đi không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766933"
+    },
+    {
+      "english": "Let me know, what time works for you?",
+      "vietnamese": "Bạn cho mình biết, mấy giờ bạn tiện?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766935"
+    },
+    {
+      "english": "Is it better to say “cảm ơn” or “xin lỗi”?",
+      "vietnamese": "Nên nói “cảm ơn” hay “xin lỗi” thì đúng hơn?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766939"
+    },
+    {
+      "english": "Can we take this slow, together?",
+      "vietnamese": "Mình làm chậm lại được không, cùng nhau nha?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766941"
+    },
+    {
+      "english": "What’s your favorite place to hang out?",
+      "vietnamese": "Chỗ bạn hay đi chơi nhất là ở đâu?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766957"
+    },
+    {
+      "english": "Do you think I’m improving, really?",
+      "vietnamese": "Bạn thấy mình tiến bộ rồi hả?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766961"
+    },
+    {
+      "english": "Can you say it again, in a simpler way?",
+      "vietnamese": "Bạn nói lại giúp mình, dễ hơn được không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766967"
+    },
+    {
+      "english": "What kind of questions do you like answering?",
+      "vietnamese": "Bạn thích ai hỏi kiểu câu như thế nào?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766970"
+    },
+    {
+      "english": "If I mess up, can you be patient?",
+      "vietnamese": "Nếu mình nói sai, bạn kiên nhẫn giúp mình nha?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766974"
+    },
+    {
+      "english": "Small steps today, big confidence tomorrow, okay?",
+      "vietnamese": "Hôm nay bước nhỏ, mai tự tin lớn, được không?",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766977"
+    },
+    {
+      "english": "You’re not behind, you’re building your rhythm.",
+      "vietnamese": "Bạn không trễ đâu, bạn đang xây nhịp của mình.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766980"
+    },
+    {
+      "english": "Trust your effort, results follow the work.",
+      "vietnamese": "Tin công sức của bạn, kết quả sẽ theo sau.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766983"
+    },
+    {
+      "english": "Keep going, even mistakes are progress.",
+      "vietnamese": "Cứ làm tiếp, sai cũng là tiến bộ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766985"
+    },
+    {
+      "english": "Say it anyway, practice beats perfect.",
+      "vietnamese": "Nói luôn đi, tập nhiều hơn hoàn hảo.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766988"
+    },
+    {
+      "english": "Every day counts, even two minutes.",
+      "vietnamese": "Mỗi ngày đều tính, dù chỉ hai phút.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766990"
+    },
+    {
+      "english": "You’ve got this, one sentence at a time.",
+      "vietnamese": "Bạn làm được thôi, từng câu một.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766993"
+    },
+    {
+      "english": "Be proud, you showed up for learning.",
+      "vietnamese": "Tự hào đi, bạn đã đến để học.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766996"
+    },
+    {
+      "english": "Your future self is watching your effort.",
+      "vietnamese": "Người tương lai của bạn đang nhìn thấy nỗ lực.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.766998"
+    },
+    {
+      "english": "Don’t overthink, just start with one word.",
+      "vietnamese": "Đừng nghĩ nhiều, cứ bắt đầu với một từ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767000"
+    },
+    {
+      "english": "Focus on meaning, not only grammar.",
+      "vietnamese": "Tập trung ý nghĩa, không chỉ ngữ pháp.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767002"
+    },
+    {
+      "english": "Praise yourself, progress is real, not luck.",
+      "vietnamese": "Tự khen mình, tiến bộ là thật, không phải may mắn.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767005"
+    },
+    {
+      "english": "When you stumble, breathe, reset, try again.",
+      "vietnamese": "Vấp thì thở, lấy lại nhịp, làm lại.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767007"
+    },
+    {
+      "english": "Learning Vietnamese is your personal upgrade.",
+      "vietnamese": "Học tiếng Việt là nâng cấp bản thân của bạn.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767010"
+    },
+    {
+      "english": "Make it fun, motivation follows enjoyment.",
+      "vietnamese": "Cho nó vui đi, động lực sẽ theo sau.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767012"
+    },
+    {
+      "english": "Your confidence grows with every attempt.",
+      "vietnamese": "Sự tự tin của bạn lớn dần theo từng lần thử.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767014"
+    },
+    {
+      "english": "Today’s goal, understand one more thing.",
+      "vietnamese": "Mục tiêu hôm nay, hiểu thêm một chút.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767016"
+    },
+    {
+      "english": "You don’t need talent, you need time.",
+      "vietnamese": "Không cần thiên phú, chỉ cần thời gian.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767019"
+    },
+    {
+      "english": "Consistency beats intensity, keep showing up.",
+      "vietnamese": "Đều đặn thắng bốc lửa, cứ xuất hiện mỗi ngày.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767021"
+    },
+    {
+      "english": "Let the fear pass, focus on the task.",
+      "vietnamese": "Sợ thì cứ cho qua, làm theo việc chính.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767023"
+    },
+    {
+      "english": "You’re allowed to be a beginner.",
+      "vietnamese": "Bạn được phép làm người mới bắt đầu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767026"
+    },
+    {
+      "english": "Say your lines daily, your mind will adapt.",
+      "vietnamese": "Nói câu của bạn mỗi ngày, não sẽ quen dần.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767028"
+    },
+    {
+      "english": "Be kind to yourself, progress takes time.",
+      "vietnamese": "Hãy tử tế với bản thân, tiến bộ cần thời gian.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767030"
+    },
+    {
+      "english": "Small wins stack up, that’s the secret.",
+      "vietnamese": "Chiến thắng nhỏ xếp chồng, đó là bí quyết.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767033"
+    },
+    {
+      "english": "If you can ask once, you can learn.",
+      "vietnamese": "Biết hỏi một lần, là biết học rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767035"
+    },
+    {
+      "english": "Keep your purpose clear, your effort stays steady.",
+      "vietnamese": "Giữ mục đích rõ ràng, bạn sẽ vững nhịp cố gắng.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767039"
+    },
+    {
+      "english": "Talk to yourself, you’re the coach.",
+      "vietnamese": "Nói chuyện với chính mình, bạn là huấn luyện viên.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767042"
+    },
+    {
+      "english": "Don’t wait for confidence, grow it by doing.",
+      "vietnamese": "Đừng chờ tự tin, cứ làm rồi tự tin lên.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767047"
+    },
+    {
+      "english": "One more try, you’re closer than you think.",
+      "vietnamese": "Thử thêm lần nữa, bạn gần hơn mình nghĩ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767051"
+    },
+    {
+      "english": "I’m still figuring it out, slowly, honestly.",
+      "vietnamese": "Mình vẫn đang tìm cách, chậm thôi, thật lòng.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767056"
+    },
+    {
+      "english": "Some days I’m nervous, but I try anyway.",
+      "vietnamese": "Có ngày mình lo lắng, nhưng vẫn cố.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767059"
+    },
+    {
+      "english": "I want my words to sound real, not forced.",
+      "vietnamese": "Mình muốn câu chữ nghe thật, không gượng.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767062"
+    },
+    {
+      "english": "I don’t need perfect, I need steady.",
+      "vietnamese": "Mình không cần hoàn hảo, mình cần bền.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767065"
+    },
+    {
+      "english": "I’m proud of trying, even when it’s messy.",
+      "vietnamese": "Mình tự hào vì đã thử, dù hơi lộn xộn.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767067"
+    },
+    {
+      "english": "I pause, breathe, then say it again.",
+      "vietnamese": "Mình dừng lại, hít thở, rồi nói lại.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767070"
+    },
+    {
+      "english": "Honestly, I learn best when I feel safe.",
+      "vietnamese": "Nói thật, mình học tốt nhất khi thấy an toàn.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767072"
+    },
+    {
+      "english": "I’m not behind, I’m catching up.",
+      "vietnamese": "Mình không thua kém, mình đang bắt kịp.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767075"
+    },
+    {
+      "english": "I’ll be patient, even with my own mistakes.",
+      "vietnamese": "Mình sẽ kiên nhẫn, kể cả với lỗi của mình.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767078"
+    },
+    {
+      "english": "Sometimes I overthink, then I just speak.",
+      "vietnamese": "Có lúc mình nghĩ nhiều, rồi mình cứ nói.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767080"
+    },
+    {
+      "english": "I’m learning to say what I really mean.",
+      "vietnamese": "Mình đang học cách nói đúng điều mình muốn nói.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767082"
+    },
+    {
+      "english": "I notice my progress, even in small moments.",
+      "vietnamese": "Mình thấy tiến bộ, ngay cả trong khoảnh khắc nhỏ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767085"
+    },
+    {
+      "english": "My heart wants clarity, my brain needs time.",
+      "vietnamese": "Lòng mình cần rõ ràng, trí óc cần thời gian.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767087"
+    },
+    {
+      "english": "I’m allowed to learn slowly, no pressure.",
+      "vietnamese": "Mình được học chậm, không áp lực.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767089"
+    },
+    {
+      "english": "I’ll keep it simple, but I’ll keep it honest.",
+      "vietnamese": "Mình sẽ nói đơn giản, nhưng phải thật.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767092"
+    },
+    {
+      "english": "I want conversations, not just perfect homework.",
+      "vietnamese": "Mình muốn trò chuyện, không chỉ làm bài thật giỏi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767094"
+    },
+    {
+      "english": "When I get stuck, I laugh, then continue.",
+      "vietnamese": "Khi bị kẹt, mình cười một cái, rồi đi tiếp.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767097"
+    },
+    {
+      "english": "I’m listening for meaning, not chasing speed.",
+      "vietnamese": "Mình nghe để hiểu ý, không chạy theo tốc độ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767099"
+    },
+    {
+      "english": "Some lessons hit me later, and that’s okay.",
+      "vietnamese": "Có bài học phải sau mới thấm, vậy thôi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767102"
+    },
+    {
+      "english": "I don’t quit, I just reset my approach.",
+      "vietnamese": "Mình không bỏ cuộc, mình chỉ đổi cách.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767107"
+    },
+    {
+      "english": "I’m learning, and my feelings are part of it.",
+      "vietnamese": "Mình đang học, và cảm xúc của mình cũng là một phần.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767109"
+    },
+    {
+      "english": "I’ll speak up, even if my accent wobbles.",
+      "vietnamese": "Mình sẽ nói ra, dù giọng có lạc nhịp.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767112"
+    },
+    {
+      "english": "I’m not chasing validation, I’m chasing growth.",
+      "vietnamese": "Mình không đi tìm lời khen, mình đi tìm tiến bộ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767115"
+    },
+    {
+      "english": "Today I’m honest, tomorrow I’ll be smoother.",
+      "vietnamese": "Hôm nay mình thật, ngày mai mình nói mượt hơn.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767118"
+    },
+    {
+      "english": "I can be nervous, but I won’t freeze.",
+      "vietnamese": "Mình có thể hồi hộp, nhưng không đứng hình.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767120"
+    },
+    {
+      "english": "I appreciate small feedback, it keeps me grounded.",
+      "vietnamese": "Mình trân trọng góp ý nhỏ, nó giúp mình vững vàng.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767123"
+    },
+    {
+      "english": "I’m learning boundaries, like when to pause.",
+      "vietnamese": "Mình đang học cả ranh giới, như khi nào nên dừng.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767125"
+    },
+    {
+      "english": "I want to feel proud, not just understand.",
+      "vietnamese": "Mình muốn thấy tự hào, không chỉ hiểu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767127"
+    },
+    {
+      "english": "I’ll be kind to myself, even today.",
+      "vietnamese": "Hôm nay mình cũng sẽ tử tế với chính mình.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767130"
+    },
+    {
+      "english": "My purpose is simple, speak, learn, reflect.",
+      "vietnamese": "Mục tiêu của mình đơn giản thôi, nói, học, suy ngẫm.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767133"
+    },
+    {
+      "english": "Before class, review three phrases, then relax.",
+      "vietnamese": "Trước giờ học, ôn ba câu, rồi thả lỏng.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767135"
+    },
+    {
+      "english": "When you freeze, ask, “How do I say this?”",
+      "vietnamese": "Khi bạn đứng hình, hỏi: “Mình nói cái này sao ạ?”",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767140"
+    },
+    {
+      "english": "At cafés, point and practice polite requests.",
+      "vietnamese": "Ở quán cà phê, chỉ tay và luyện lời yêu cầu lịch sự.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767143"
+    },
+    {
+      "english": "Text a friend, ask one simple question daily.",
+      "vietnamese": "Nhắn bạn một tin, hỏi một câu đơn giản mỗi ngày.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767145"
+    },
+    {
+      "english": "If you miss a word, keep going anyway.",
+      "vietnamese": "Nếu bạn quên một từ, cứ nói tiếp thôi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767148"
+    },
+    {
+      "english": "Use short answers, then add one detail.",
+      "vietnamese": "Trả lời ngắn thôi, rồi thêm một chi tiết.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:37:00.767150"
     }
   ],
-  "last_updated": "2026-11-04T07:08:13.942216"
+  "last_updated": "2026-11-05T07:37:00.767151"
 }
