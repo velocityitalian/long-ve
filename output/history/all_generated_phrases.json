@@ -45743,7 +45743,727 @@
       "vietnamese": "Trả lời ngắn thôi, rồi thêm một chi tiết.",
       "category": "Purpose",
       "generated_at": "2026-11-05T07:37:00.767150"
+    },
+    {
+      "english": "Excuse me, where is check-in, please?",
+      "vietnamese": "Xin lỗi, quầy check-in ở đâu ạ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522314"
+    },
+    {
+      "english": "My flight is delayed, what’s happening?",
+      "vietnamese": "Chuyến bay của tôi bị trễ, sao vậy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522328"
+    },
+    {
+      "english": "Where do I go for boarding?",
+      "vietnamese": "Tôi phải đi đâu để lên máy bay?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522332"
+    },
+    {
+      "english": "How long is the wait, roughly?",
+      "vietnamese": "Chờ bao lâu, khoảng bao lâu vậy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522336"
+    },
+    {
+      "english": "I need help with my baggage, please.",
+      "vietnamese": "Tôi cần giúp đỡ về hành lý, làm ơn.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522340"
+    },
+    {
+      "english": "Where is baggage claim, please?",
+      "vietnamese": "Băng chuyền nhận hành lý ở đâu ạ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522343"
+    },
+    {
+      "english": "My bag didn’t arrive, can you check?",
+      "vietnamese": "Hành lý của tôi chưa tới, anh/chị kiểm tra giúp.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522347"
+    },
+    {
+      "english": "Do I need a boarding pass?",
+      "vietnamese": "Tôi có cần vé lên máy bay không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522353"
+    },
+    {
+      "english": "Is this security line for passengers?",
+      "vietnamese": "Hàng an ninh này dành cho hành khách đúng không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522357"
+    },
+    {
+      "english": "Do I put liquids in a bag?",
+      "vietnamese": "Nước có cần cho vào túi riêng không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522360"
+    },
+    {
+      "english": "Sorry, I don’t understand, please speak slowly.",
+      "vietnamese": "Xin lỗi, tôi không hiểu, nói chậm giúp tôi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522364"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "vietnamese": "Ở đây có thanh toán bằng thẻ được không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522366"
+    },
+    {
+      "english": "Is there Wi‑Fi available in this area?",
+      "vietnamese": "Khu này có Wi‑Fi không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522369"
+    },
+    {
+      "english": "Where’s the restroom, please?",
+      "vietnamese": "Nhà vệ sinh ở đâu ạ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522374"
+    },
+    {
+      "english": "It’s my first time here, help me?",
+      "vietnamese": "Lần đầu tôi đến đây, giúp tôi với.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522377"
+    },
+    {
+      "english": "Thank you, that’s very helpful.",
+      "vietnamese": "Cảm ơn, bạn giúp tôi nhiều lắm.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522380"
+    },
+    {
+      "english": "Sorry, is this seat taken?",
+      "vietnamese": "Xin lỗi, chỗ này có ai ngồi chưa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522383"
+    },
+    {
+      "english": "My ticket is e-ticket, is that okay?",
+      "vietnamese": "Vé của tôi là vé điện tử, vậy được không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522386"
+    },
+    {
+      "english": "What gate is my flight leaving from?",
+      "vietnamese": "Chuyến bay của tôi khởi hành từ cổng nào?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522388"
+    },
+    {
+      "english": "Where can I find my passport check?",
+      "vietnamese": "Tôi làm thủ tục hộ chiếu ở đâu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522391"
+    },
+    {
+      "english": "Please stamp my passport, if needed.",
+      "vietnamese": "Làm ơn đóng dấu hộ chiếu cho tôi, nếu cần.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522393"
+    },
+    {
+      "english": "I’m running late, where should I go?",
+      "vietnamese": "Tôi đến trễ rồi, tôi phải đi đâu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522396"
+    },
+    {
+      "english": "Is the gate change announced already?",
+      "vietnamese": "Có thông báo đổi cổng rồi chưa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522398"
+    },
+    {
+      "english": "Can I get a luggage tag, please?",
+      "vietnamese": "Cho tôi xin nhãn hành lý được không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522401"
+    },
+    {
+      "english": "I think I lost my boarding pass.",
+      "vietnamese": "Tôi nghĩ là tôi bị mất vé lên máy bay.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522403"
+    },
+    {
+      "english": "Where is the information desk?",
+      "vietnamese": "Bàn thông tin ở đâu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522406"
+    },
+    {
+      "english": "Do you have power outlets near here?",
+      "vietnamese": "Gần đây có ổ cắm điện không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522408"
+    },
+    {
+      "english": "This line is moving fast, right?",
+      "vietnamese": "Hàng này chạy nhanh đúng không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522411"
+    },
+    {
+      "english": "I need to change my seat, please.",
+      "vietnamese": "Cho tôi đổi chỗ ngồi được không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522413"
+    },
+    {
+      "english": "My flight was canceled, what now?",
+      "vietnamese": "Chuyến bay của tôi bị hủy, bây giờ sao?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522416"
+    },
+    {
+      "english": "Great, thank you, I’m good to go.",
+      "vietnamese": "Tốt quá, cảm ơn, tôi đi được rồi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522419"
+    },
+    {
+      "english": "Hey, what time does this bus leave?",
+      "vietnamese": "Này, xe bus này mấy giờ chạy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522422"
+    },
+    {
+      "english": "Which lane is faster for passport control?",
+      "vietnamese": "Làn nào qua kiểm tra hộ chiếu nhanh hơn?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522424"
+    },
+    {
+      "english": "Is there a quiet place to wait, nearby?",
+      "vietnamese": "Gần đây có chỗ yên tĩnh để chờ không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522427"
+    },
+    {
+      "english": "Do you recommend Thai or Vietnamese food here?",
+      "vietnamese": "Ở đây bạn gợi ý ăn món Thái hay Việt?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522430"
+    },
+    {
+      "english": "Can you suggest a good place to charge?",
+      "vietnamese": "Bạn chỉ mình chỗ sạc điện nào ổn không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522432"
+    },
+    {
+      "english": "What’s the best way to get downtown?",
+      "vietnamese": "Cách nào đi trung tâm nhanh nhất?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522437"
+    },
+    {
+      "english": "Is there a hotel shuttle at this terminal?",
+      "vietnamese": "Ga này có xe đưa khách sạn không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522439"
+    },
+    {
+      "english": "I’m hungry, what do you recommend quickly?",
+      "vietnamese": "Mình đói rồi, bạn gợi ý món nhanh nào?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522444"
+    },
+    {
+      "english": "Do flights usually board early here?",
+      "vietnamese": "Ở đây thường lên máy bay sớm không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522446"
+    },
+    {
+      "english": "Where should I stand to meet you?",
+      "vietnamese": "Mình đứng chỗ nào để gặp bạn?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522448"
+    },
+    {
+      "english": "Can I take a photo in this area?",
+      "vietnamese": "Khu này chụp ảnh được không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522451"
+    },
+    {
+      "english": "What time do the doors close for boarding?",
+      "vietnamese": "Mấy giờ thì cửa lên máy bay đóng?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522453"
+    },
+    {
+      "english": "Is it safe to leave my bag here?",
+      "vietnamese": "Để túi ở đây có an toàn không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522455"
+    },
+    {
+      "english": "Can you point me to the fast track?",
+      "vietnamese": "Bạn chỉ giúp mình chỗ đi nhanh được không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522457"
+    },
+    {
+      "english": "Which airline counter should I check first?",
+      "vietnamese": "Quầy hãng nào mình nên hỏi trước?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522460"
+    },
+    {
+      "english": "Are there stores open even at night?",
+      "vietnamese": "Đêm vẫn có cửa hàng mở không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522462"
+    },
+    {
+      "english": "Do you know where I can buy snacks?",
+      "vietnamese": "Bạn biết mua đồ ăn vặt ở đâu không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522464"
+    },
+    {
+      "english": "Is this the right place for transfers?",
+      "vietnamese": "Đây có phải chỗ nối chuyến không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522467"
+    },
+    {
+      "english": "What do I do if my gate changed?",
+      "vietnamese": "Nếu đổi cổng rồi, mình làm sao?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522469"
+    },
+    {
+      "english": "Excuse me, is there a lounge for passengers?",
+      "vietnamese": "Cho mình hỏi, có phòng chờ cho hành khách không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522472"
+    },
+    {
+      "english": "Can I get help with my seat rebooking?",
+      "vietnamese": "Bạn giúp mình đổi chỗ đặt lại được không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522474"
+    },
+    {
+      "english": "How do I track updates for my flight?",
+      "vietnamese": "Mình xem thông tin chuyến bay ở đâu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522477"
+    },
+    {
+      "english": "What’s the quickest route from here, please?",
+      "vietnamese": "Từ đây đi nhanh nhất đường nào vậy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522480"
+    },
+    {
+      "english": "Do you have a map of this terminal?",
+      "vietnamese": "Bạn có bản đồ của nhà ga này không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522482"
+    },
+    {
+      "english": "If I’m early, where should I wait?",
+      "vietnamese": "Mình đến sớm thì ngồi chờ ở đâu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522485"
+    },
+    {
+      "english": "Can you tell me the local time now?",
+      "vietnamese": "Bây giờ giờ địa phương là mấy giờ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522487"
+    },
+    {
+      "english": "I’d love some travel tips for Vietnam, please.",
+      "vietnamese": "Bạn cho mình xin ít mẹo du lịch Việt Nam nhé.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522491"
+    },
+    {
+      "english": "Which direction is the baggage office?",
+      "vietnamese": "Văn phòng đồ thất lạc ở hướng nào?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522493"
+    },
+    {
+      "english": "Do you know if there’s a customer service desk?",
+      "vietnamese": "Bạn có biết bàn hỗ trợ khách ở đâu không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522496"
+    },
+    {
+      "english": "Can I meet you at the exit, later?",
+      "vietnamese": "Bạn gặp mình ở cổng ra ngoài được không?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522499"
+    },
+    {
+      "english": "Check your boarding time, don’t guess.",
+      "vietnamese": "Xem giờ boarding của bạn, đừng đoán.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522502"
+    },
+    {
+      "english": "Pack light, đi nhanh lắm đó.",
+      "vietnamese": "Gói đồ gọn nhẹ, đi nhanh lắm đó.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522506"
+    },
+    {
+      "english": "Airport’s busy, go early for sure.",
+      "vietnamese": "Sân bay đông lắm, đi sớm là chắc.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522509"
+    },
+    {
+      "english": "Just follow the signs, it’s easy.",
+      "vietnamese": "Cứ đi theo biển chỉ dẫn, dễ thôi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522512"
+    },
+    {
+      "english": "If in doubt, ask the staff.",
+      "vietnamese": "Lỡ không chắc, cứ hỏi nhân viên.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522515"
+    },
+    {
+      "english": "You’ll be called, don’t panic yet.",
+      "vietnamese": "Sẽ có người gọi, đừng vội hoảng.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522518"
+    },
+    {
+      "english": "Bring your passport, keep it handy.",
+      "vietnamese": "Mang hộ chiếu theo, để sẵn cho tiện.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522521"
+    },
+    {
+      "english": "Keep your documents, don’t lose them.",
+      "vietnamese": "Giữ giấy tờ kỹ, đừng để mất.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522526"
+    },
+    {
+      "english": "That counter’s busy, try the next one.",
+      "vietnamese": "Quầy đó đông, qua quầy kế tiếp thử.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522529"
+    },
+    {
+      "english": "Take it slow, security can be strict.",
+      "vietnamese": "Từ từ thôi, qua an ninh hơi gắt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522533"
+    },
+    {
+      "english": "Where’s the baggage carousel, please?",
+      "vietnamese": "Băng chuyền hành lý ở đâu vậy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522536"
+    },
+    {
+      "english": "My bag is late, who do I ask?",
+      "vietnamese": "Hành lý của tôi đến chậm, hỏi ai vậy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522539"
+    },
+    {
+      "english": "I’m heading to arrivals, follow me.",
+      "vietnamese": "Tôi đi khu đến, đi theo tôi nhé.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522541"
+    },
+    {
+      "english": "Customs is next, don’t line up wrong.",
+      "vietnamese": "Tới hải quan rồi, đừng đứng nhầm.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522545"
+    },
+    {
+      "english": "No rush, just wait there a bit.",
+      "vietnamese": "Chưa cần vội, ngồi chờ ở đó chút.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522547"
+    },
+    {
+      "english": "Bring a snack, it helps a lot.",
+      "vietnamese": "Mang đồ ăn nhẹ theo, rất tiện đó.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522550"
+    },
+    {
+      "english": "I’ll check the screen, you wait.",
+      "vietnamese": "Tôi coi bảng, bạn chờ giúp nhé.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522556"
+    },
+    {
+      "english": "If it’s full, get in the other queue.",
+      "vietnamese": "Đông rồi thì xếp hàng bên kia.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522559"
+    },
+    {
+      "english": "I need help with baggage claim, quickly.",
+      "vietnamese": "Nhờ hỗ trợ nhận hành lý, nhanh giúp tôi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522562"
+    },
+    {
+      "english": "Your turn’s coming, keep your phone ready.",
+      "vietnamese": "Sắp tới lượt rồi, giữ điện thoại sẵn.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522565"
+    },
+    {
+      "english": "That way is for transfers, go ahead.",
+      "vietnamese": "Hướng đó dành cho nối chuyến, đi thôi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522568"
+    },
+    {
+      "english": "I’ll meet you by the exit gate.",
+      "vietnamese": "Tôi gặp bạn ở cổng ra cửa nhé.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522571"
+    },
+    {
+      "english": "Just follow the line, it moves steadily.",
+      "vietnamese": "Cứ theo hàng, đi từ từ thôi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522573"
+    },
+    {
+      "english": "No worries, delays happen sometimes.",
+      "vietnamese": "Không sao đâu, đôi khi trễ chuyến thôi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522576"
+    },
+    {
+      "english": "I’m looking for the check-in counter.",
+      "vietnamese": "Tôi cần quầy làm thủ tục.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522579"
+    },
+    {
+      "english": "Give me a moment, I’m checking.",
+      "vietnamese": "Cho tôi xin chút, tôi xem lại.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522582"
+    },
+    {
+      "english": "Don’t put valuables in checked bags.",
+      "vietnamese": "Đồ có giá trị đừng bỏ vào hành lý ký gửi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522585"
+    },
+    {
+      "english": "I can’t find my gate, help!",
+      "vietnamese": "Tôi không tìm thấy cổng, giúp tôi với!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522588"
+    },
+    {
+      "english": "Once you pass security, breathe easy.",
+      "vietnamese": "Qua an ninh rồi, yên tâm hơn nhé.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522590"
+    },
+    {
+      "english": "Thanks, you’re really helpful today.",
+      "vietnamese": "Cảm ơn bạn, hôm nay giúp mình nhiều.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522593"
+    },
+    {
+      "english": "Honestly, I’m a bit nervous before flying.",
+      "vietnamese": "Thật lòng, tôi hơi lo trước chuyến bay.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522597"
+    },
+    {
+      "english": "I feel calmer when I understand the steps.",
+      "vietnamese": "Tôi thấy yên tâm hơn khi hiểu các bước.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522599"
+    },
+    {
+      "english": "Take your time, I’ll wait patiently.",
+      "vietnamese": "Cứ từ từ nhé, tôi sẽ chờ bình tĩnh.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522602"
+    },
+    {
+      "english": "I’m worried, but I’ll stay positive.",
+      "vietnamese": "Tôi lo lắng, nhưng tôi vẫn giữ tinh thần.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522605"
+    },
+    {
+      "english": "Could you speak slowly, I’m learning?",
+      "vietnamese": "Bạn nói chậm hơn được không, tôi đang học?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522609"
+    },
+    {
+      "english": "I keep checking my boarding info, sorry.",
+      "vietnamese": "Tôi cứ kiểm tra thông tin lên máy bay, xin lỗi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522611"
+    },
+    {
+      "english": "I hate rushing, airports make me tired.",
+      "vietnamese": "Tôi không thích vội vàng, sân bay làm tôi mệt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522614"
+    },
+    {
+      "english": "I’m not sure, can you confirm this?",
+      "vietnamese": "Tôi chưa chắc, bạn xác nhận giúp tôi nhé?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522617"
+    },
+    {
+      "english": "Even if it takes longer, it’s okay.",
+      "vietnamese": "Dù lâu hơn một chút, cũng không sao.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522621"
+    },
+    {
+      "english": "I’m trying to stay focused today.",
+      "vietnamese": "Hôm nay tôi cố gắng giữ tập trung.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522624"
+    },
+    {
+      "english": "When I get lost, I feel embarrassed.",
+      "vietnamese": "Khi tôi lạc đường, tôi thấy ngại.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522627"
+    },
+    {
+      "english": "No pressure, I just need clear guidance.",
+      "vietnamese": "Không sao đâu, tôi chỉ cần hướng dẫn rõ ràng.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522629"
+    },
+    {
+      "english": "I’ve been waiting, thank you for helping me.",
+      "vietnamese": "Tôi đã chờ rồi, cảm ơn bạn đã giúp tôi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522633"
+    },
+    {
+      "english": "I’m quietly hoping everything goes smoothly.",
+      "vietnamese": "Tôi chỉ thầm hy vọng mọi thứ suôn sẻ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522636"
+    },
+    {
+      "english": "Please be patient, I’m moving slowly.",
+      "vietnamese": "Làm ơn kiên nhẫn, tôi đi chậm thôi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522639"
+    },
+    {
+      "english": "I realize I’m missing something, sorry.",
+      "vietnamese": "Tôi hiểu là tôi còn thiếu gì đó, xin lỗi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522642"
+    },
+    {
+      "english": "Travel reminds me, breathe, and slow down.",
+      "vietnamese": "Đi du lịch nhắc tôi, hít thở, rồi chậm lại.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522645"
+    },
+    {
+      "english": "I don’t want mistakes, I’m paying attention.",
+      "vietnamese": "Tôi không muốn sai, tôi đang để ý.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522648"
+    },
+    {
+      "english": "Honestly, I’m grateful for your support.",
+      "vietnamese": "Thật lòng, tôi rất biết ơn sự giúp đỡ của bạn.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522651"
+    },
+    {
+      "english": "I feel better when you explain the why.",
+      "vietnamese": "Tôi thấy yên tâm hơn khi bạn giải thích lý do.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522654"
+    },
+    {
+      "english": "I’m trying to stay calm, it’s a lot.",
+      "vietnamese": "Tôi cố giữ bình tĩnh, nhiều thứ quá.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522657"
+    },
+    {
+      "english": "If I miss it, I’ll ask again.",
+      "vietnamese": "Nếu tôi bỏ lỡ, tôi sẽ hỏi lại.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522660"
+    },
+    {
+      "english": "I’m nervous, but I can handle it.",
+      "vietnamese": "Tôi hồi hộp, nhưng tôi làm được.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522663"
+    },
+    {
+      "english": "I’m grateful for the time, thank you.",
+      "vietnamese": "Tôi cảm ơn vì đã dành thời gian, nhé.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522666"
+    },
+    {
+      "english": "I just want to do this right.",
+      "vietnamese": "Tôi chỉ muốn làm đúng quy trình.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522668"
+    },
+    {
+      "english": "I feel lost, but I’ll keep looking.",
+      "vietnamese": "Tôi thấy lạc, nhưng tôi vẫn tìm tiếp.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522671"
+    },
+    {
+      "english": "Let’s be careful, my bag matters to me.",
+      "vietnamese": "Mình làm cẩn thận nhé, đồ của tôi quan trọng.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522674"
+    },
+    {
+      "english": "I’m learning Vietnamese, so please forgive me.",
+      "vietnamese": "Tôi đang học tiếng Việt, xin bạn thông cảm.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522677"
+    },
+    {
+      "english": "I’m okay waiting, I don’t mind.",
+      "vietnamese": "Tôi ổn khi chờ, không sao đâu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:32:10.522682"
     }
   ],
-  "last_updated": "2026-11-05T07:37:00.767151"
+  "last_updated": "2026-11-06T07:32:10.522684"
 }
