@@ -46463,7 +46463,727 @@
       "vietnamese": "Tôi ổn khi chờ, không sao đâu.",
       "category": "Travel & Airport",
       "generated_at": "2026-11-06T07:32:10.522682"
+    },
+    {
+      "english": "Nice try, learn fast, don’t quit.",
+      "vietnamese": "Thử tốt rồi, học nhanh, đừng bỏ cuộc.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796177"
+    },
+    {
+      "english": "Come on, let’s move, time’s ticking.",
+      "vietnamese": "Nào, đi thôi, thời gian đang trôi.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796195"
+    },
+    {
+      "english": "Small steps count, today matters most.",
+      "vietnamese": "Chỉ cần từng bước nhỏ, hôm nay là quan trọng.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796199"
+    },
+    {
+      "english": "Wow, that’s a great idea, seriously.",
+      "vietnamese": "Trời ơi, ý hay đó, nói thật.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796203"
+    },
+    {
+      "english": "I’m impressed, you really handled that.",
+      "vietnamese": "Mình ấn tượng lắm, bạn xử lý giỏi thật.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796207"
+    },
+    {
+      "english": "No worries, breathe in, then try again.",
+      "vietnamese": "Không sao đâu, hít thở, rồi làm lại.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796226"
+    },
+    {
+      "english": "That’s it, don’t overthink, just do.",
+      "vietnamese": "Đúng rồi, đừng nghĩ nhiều, cứ làm.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796230"
+    },
+    {
+      "english": "Good vibes only, we’ve got this.",
+      "vietnamese": "Chỉ toàn năng lượng tốt thôi, mình làm được.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796236"
+    },
+    {
+      "english": "You got this, one step at a time.",
+      "vietnamese": "Bạn làm được mà, từng bước một thôi.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796240"
+    },
+    {
+      "english": "Really? Tell me more, I’m listening.",
+      "vietnamese": "Thật à? Nói mình nghe thêm đi, mình nghe mà.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796244"
+    },
+    {
+      "english": "Perfect timing, that could help me.",
+      "vietnamese": "Đúng lúc quá, điều đó giúp mình đấy.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796247"
+    },
+    {
+      "english": "Take a break, then come back stronger.",
+      "vietnamese": "Nghỉ chút đi, rồi quay lại mạnh hơn.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796250"
+    },
+    {
+      "english": "I love your energy, keep it up.",
+      "vietnamese": "Mình thích năng lượng của bạn, giữ vững nhé.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796253"
+    },
+    {
+      "english": "We can try again, no pressure.",
+      "vietnamese": "Mình thử lại được mà, không áp lực.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796255"
+    },
+    {
+      "english": "That’s inspiring, you said it so clearly.",
+      "vietnamese": "Nghe truyền cảm hứng ghê, bạn nói rõ lắm.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796259"
+    },
+    {
+      "english": "Let’s start simple, then build momentum.",
+      "vietnamese": "Bắt đầu cho dễ thôi, rồi tăng dần đà.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796262"
+    },
+    {
+      "english": "I can feel it, things are changing.",
+      "vietnamese": "Mình thấy rồi, mọi thứ đang chuyển biến.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796265"
+    },
+    {
+      "english": "Nice, that worked out, see?",
+      "vietnamese": "Hay quá, làm vậy hiệu quả đó, thấy chưa?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796268"
+    },
+    {
+      "english": "Don’t chase perfection, aim for progress.",
+      "vietnamese": "Đừng chạy theo hoàn hảo, hãy tiến bộ từng chút.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796271"
+    },
+    {
+      "english": "Trust yourself, you’re learning every day.",
+      "vietnamese": "Tin vào mình đi, bạn đang học mỗi ngày.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796274"
+    },
+    {
+      "english": "That’s on point, I needed this.",
+      "vietnamese": "Chuẩn luôn, mình cần đúng vậy.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796277"
+    },
+    {
+      "english": "Stay curious, questions lead to answers.",
+      "vietnamese": "Giữ tò mò nhé, câu hỏi dẫn tới câu trả lời.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796280"
+    },
+    {
+      "english": "You’re doing better, keep your pace.",
+      "vietnamese": "Bạn làm tốt hơn rồi, giữ nhịp vậy nha.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796283"
+    },
+    {
+      "english": "Let it go for now, rest first.",
+      "vietnamese": "Tạm bỏ qua đi, nghỉ trước đã.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796286"
+    },
+    {
+      "english": "Wait, that’s actually a smart move.",
+      "vietnamese": "Khoan đã, đó thật sự là nước đi hay.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796289"
+    },
+    {
+      "english": "Honestly, you inspire by showing up.",
+      "vietnamese": "Thật lòng, bạn truyền cảm hứng vì bạn luôn xuất hiện.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796292"
+    },
+    {
+      "english": "Good morning, today’s a fresh start.",
+      "vietnamese": "Chào buổi sáng, hôm nay là ngày bắt đầu mới.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796295"
+    },
+    {
+      "english": "Let’s talk later, I’ll be here.",
+      "vietnamese": "Nói chuyện sau nhé, mình vẫn ở đây.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796298"
+    },
+    {
+      "english": "What inspired you to start today, really?",
+      "vietnamese": "Hôm nay, điều gì đã truyền cảm hứng cho bạn?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796301"
+    },
+    {
+      "english": "Where did you learn Vietnamese, start out?",
+      "vietnamese": "Bạn học tiếng Việt ở đâu, bắt đầu từ đâu?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796307"
+    },
+    {
+      "english": "Which question helps you most, every day?",
+      "vietnamese": "Câu hỏi nào giúp bạn nhiều nhất, mỗi ngày?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796310"
+    },
+    {
+      "english": "Can you tell me your progress so far?",
+      "vietnamese": "Bạn kể mình nghe tiến bộ của bạn đến đâu rồi nhé?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796312"
+    },
+    {
+      "english": "What do you do when you feel stuck?",
+      "vietnamese": "Khi bạn thấy kẹt, bạn làm gì trước tiên?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796315"
+    },
+    {
+      "english": "Do you ask questions in class, or later?",
+      "vietnamese": "Bạn hỏi trong lớp, hay lát nữa hỏi thêm?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796317"
+    },
+    {
+      "english": "Could you recommend a simple daily routine?",
+      "vietnamese": "Bạn gợi ý giúp mình một thói quen hằng ngày đơn giản được không?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796320"
+    },
+    {
+      "english": "How do you stay motivated, when it’s slow?",
+      "vietnamese": "Bạn giữ động lực thế nào, khi mọi thứ chậm lại?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796323"
+    },
+    {
+      "english": "What’s one phrase you want to master?",
+      "vietnamese": "Một câu bạn muốn nói cho chuẩn là câu nào?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796326"
+    },
+    {
+      "english": "Who inspires you lately, and why?",
+      "vietnamese": "Dạo này ai truyền cảm hứng cho bạn, và vì sao?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796329"
+    },
+    {
+      "english": "When you practice, what do you focus on?",
+      "vietnamese": "Khi bạn luyện, bạn tập trung vào điều gì?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796331"
+    },
+    {
+      "english": "How can I ask politely in Vietnamese?",
+      "vietnamese": "Mình hỏi lịch sự tiếng Việt thế nào cho đúng ạ?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796334"
+    },
+    {
+      "english": "Is there a better way to say this?",
+      "vietnamese": "Có cách nào nói tự nhiên hơn không?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796336"
+    },
+    {
+      "english": "What should I say first, to start?",
+      "vietnamese": "Mình nên nói gì trước, để bắt đầu cuộc trò chuyện?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796339"
+    },
+    {
+      "english": "How often do you review, to remember?",
+      "vietnamese": "Bạn ôn lại bao lâu một lần, để nhớ lâu?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796344"
+    },
+    {
+      "english": "Can we role-play a short conversation?",
+      "vietnamese": "Mình với bạn diễn tập một đoạn hội thoại ngắn được không?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796347"
+    },
+    {
+      "english": "What’s your biggest challenge right now?",
+      "vietnamese": "Vấn đề khó nhất của bạn lúc này là gì?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796350"
+    },
+    {
+      "english": "Do you want feedback, or just encouragement?",
+      "vietnamese": "Bạn muốn góp ý, hay chỉ cần động viên thôi?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796353"
+    },
+    {
+      "english": "If you had one tip, what is it?",
+      "vietnamese": "Nếu chỉ chọn một lời khuyên, bạn chọn gì?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796356"
+    },
+    {
+      "english": "Can you break it down, step by step?",
+      "vietnamese": "Bạn giải thích giúp mình từng bước được không?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796359"
+    },
+    {
+      "english": "What’s the best time to practice, for you?",
+      "vietnamese": "Thời điểm nào bạn thấy học hiệu quả nhất?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796362"
+    },
+    {
+      "english": "How do you handle confusing grammar, calmly?",
+      "vietnamese": "Khi ngữ pháp rối, bạn xử lý thế nào cho bình tĩnh?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796365"
+    },
+    {
+      "english": "Do you learn better from videos, or books?",
+      "vietnamese": "Bạn học tốt hơn từ video, hay từ sách?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796368"
+    },
+    {
+      "english": "Which topic do you want to talk about?",
+      "vietnamese": "Bạn muốn trò chuyện về chủ đề nào?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796370"
+    },
+    {
+      "english": "What’s your next goal, after today?",
+      "vietnamese": "Sau hôm nay, mục tiêu tiếp theo của bạn là gì?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796374"
+    },
+    {
+      "english": "Can I ask, how you plan your study?",
+      "vietnamese": "Mình hỏi một chút, bạn sắp xếp việc học thế nào?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796376"
+    },
+    {
+      "english": "What helped you most, in week one?",
+      "vietnamese": "Tuần đầu tiên, điều gì giúp bạn nhiều nhất?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796379"
+    },
+    {
+      "english": "Do you want to practice pronunciation together now?",
+      "vietnamese": "Giờ mình luyện phát âm chung được không?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796382"
+    },
+    {
+      "english": "How do you keep it simple, but consistent?",
+      "vietnamese": "Bạn làm sao để vừa đơn giản, vừa duy trì đều đặn?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796384"
+    },
+    {
+      "english": "What question should I ask you next?",
+      "vietnamese": "Mình nên hỏi bạn câu gì tiếp theo?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796387"
+    },
+    {
+      "english": "Start messy, you’ll get cleaner later",
+      "vietnamese": "Cứ học hơi lộn xộn trước, rồi sẽ gọn hơn",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796390"
+    },
+    {
+      "english": "Small steps count, don’t underestimate them",
+      "vietnamese": "Chỉ cần từng bước nhỏ thôi, đừng coi nhẹ",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796394"
+    },
+    {
+      "english": "Don’t wait, practice a little right now",
+      "vietnamese": "Đừng chờ, cứ luyện một chút ngay bây giờ",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796399"
+    },
+    {
+      "english": "You’re improving, even when it feels slow",
+      "vietnamese": "Bạn đang tiến bộ, dù lúc đó thấy chậm",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796404"
+    },
+    {
+      "english": "Mistakes are data, not a personal failure",
+      "vietnamese": "Sai lầm là dữ liệu, không phải thất bại",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796407"
+    },
+    {
+      "english": "Keep showing up, motivation follows action",
+      "vietnamese": "Cứ đến đều, động lực sẽ tự đến",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796410"
+    },
+    {
+      "english": "Speak out loud, confidence grows from practice",
+      "vietnamese": "Cứ nói ra tiếng, tự tin lên dần nhờ luyện",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796415"
+    },
+    {
+      "english": "Be gentle with yourself, learning takes time",
+      "vietnamese": "Hãy nhẹ nhàng với bản thân, học cần thời gian",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796418"
+    },
+    {
+      "english": "Your effort matters, results come after",
+      "vietnamese": "Nỗ lực của bạn quan trọng, rồi kết quả sẽ tới",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796420"
+    },
+    {
+      "english": "Reset your mindset, then try again",
+      "vietnamese": "Đổi lại suy nghĩ, rồi làm lại từ đầu",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796423"
+    },
+    {
+      "english": "Keep it simple, consistency wins in the end",
+      "vietnamese": "Giữ nó đơn giản, rồi đều đặn là thắng",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796426"
+    },
+    {
+      "english": "Celebrate small wins, they build momentum",
+      "vietnamese": "Ăn mừng chiến thắng nhỏ, nó tạo đà",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796428"
+    },
+    {
+      "english": "When you doubt, go back to basics",
+      "vietnamese": "Lúc nghi ngờ, quay lại phần nền tảng",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796431"
+    },
+    {
+      "english": "You’re allowed to learn slowly, it’s okay",
+      "vietnamese": "Bạn được học chậm, không sao cả",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796434"
+    },
+    {
+      "english": "Confidence comes after you use it",
+      "vietnamese": "Tự tin đến khi bạn dám dùng",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796437"
+    },
+    {
+      "english": "Don’t compare, your progress has its own path",
+      "vietnamese": "Đừng so sánh, tiến độ của bạn có đường riêng",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796441"
+    },
+    {
+      "english": "Today’s practice, tomorrow’s easier conversation",
+      "vietnamese": "Luyện hôm nay, mai chuyện sẽ dễ hơn",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796444"
+    },
+    {
+      "english": "Say it imperfectly, then improve step by step",
+      "vietnamese": "Nói chưa chuẩn cũng được, rồi sửa dần dần",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796447"
+    },
+    {
+      "english": "Your future self will thank you",
+      "vietnamese": "Tương lai của bạn sẽ cảm ơn bạn",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796450"
+    },
+    {
+      "english": "Keep a growth mindset, not a fixed one",
+      "vietnamese": "Hãy tư duy phát triển, đừng cố chốt mình",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796453"
+    },
+    {
+      "english": "Even one sentence a day is powerful",
+      "vietnamese": "Chỉ một câu mỗi ngày cũng rất mạnh",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796468"
+    },
+    {
+      "english": "Be proud of effort, not just accuracy",
+      "vietnamese": "Hãy tự hào vì đã cố gắng, không chỉ đúng",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796471"
+    },
+    {
+      "english": "Focus on meaning first, form comes later",
+      "vietnamese": "Ưu tiên hiểu ý trước, hình thức sau",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796474"
+    },
+    {
+      "english": "Ask yourself, what did I learn today?",
+      "vietnamese": "Tự hỏi, hôm nay mình học được gì?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796477"
+    },
+    {
+      "english": "Turn pressure into fuel, breathe and continue",
+      "vietnamese": "Biến áp lực thành năng lượng, hít thở rồi làm tiếp",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796479"
+    },
+    {
+      "english": "Keep your goal visible, motivation stays higher",
+      "vietnamese": "Giữ mục tiêu trước mắt, động lực sẽ cao hơn",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796482"
+    },
+    {
+      "english": "Give yourself credit, you’re doing real work",
+      "vietnamese": "Hãy ghi nhận công sức của mình, bạn đang làm thật",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796486"
+    },
+    {
+      "english": "If it’s hard, that means it’s growing",
+      "vietnamese": "Khó hơn là vì bạn đang lớn lên",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796489"
+    },
+    {
+      "english": "Some days, I just write one honest thought.",
+      "vietnamese": "Có những ngày, tôi chỉ viết một ý nghĩ thật lòng.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796492"
+    },
+    {
+      "english": "I’m learning patience, not just vocabulary.",
+      "vietnamese": "Tôi đang học sự kiên nhẫn, không chỉ từ vựng.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796495"
+    },
+    {
+      "english": "When I miss a day, I forgive myself.",
+      "vietnamese": "Nếu lỡ một ngày, tôi tự tha thứ cho mình.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796498"
+    },
+    {
+      "english": "I breathe first, then choose the next sentence.",
+      "vietnamese": "Tôi hít thở trước, rồi chọn câu tiếp theo.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796501"
+    },
+    {
+      "english": "Practice feels lighter when I stop judging.",
+      "vietnamese": "Việc luyện tập nhẹ hơn khi tôi ngừng phán xét.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796506"
+    },
+    {
+      "english": "My goal is progress, not perfect speaking.",
+      "vietnamese": "Mục tiêu của tôi là tiến bộ, không phải nói hoàn hảo.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796509"
+    },
+    {
+      "english": "I notice my feelings, then keep going.",
+      "vietnamese": "Tôi nhận ra cảm xúc của mình, rồi tiếp tục.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796512"
+    },
+    {
+      "english": "Some mistakes hurt, but they teach me faster.",
+      "vietnamese": "Có lỗi làm mình đau, nhưng nó dạy tôi nhanh hơn.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796517"
+    },
+    {
+      "english": "I don’t rush, I build my confidence slowly.",
+      "vietnamese": "Tôi không vội, tôi xây sự tự tin từng chút.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796520"
+    },
+    {
+      "english": "I tell the truth in simple sentences.",
+      "vietnamese": "Tôi nói thật bằng những câu thật đơn giản.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796523"
+    },
+    {
+      "english": "If I blank out, I start with one word.",
+      "vietnamese": "Nếu tôi bị trống ý, tôi bắt đầu bằng một từ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796526"
+    },
+    {
+      "english": "Repetition is comfort, not a boring chore.",
+      "vietnamese": "Lặp lại là sự yên tâm, không phải việc chán chường.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796529"
+    },
+    {
+      "english": "I let my Vietnamese grow in real time.",
+      "vietnamese": "Tôi để tiếng Việt lớn lên theo thời gian thực.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796532"
+    },
+    {
+      "english": "I’m allowed to be nervous, I still practice.",
+      "vietnamese": "Tôi được phép hồi hộp, tôi vẫn luyện tập.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796535"
+    },
+    {
+      "english": "One calm sentence can change my whole day.",
+      "vietnamese": "Một câu bình tĩnh có thể đổi cả ngày của tôi.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796538"
+    },
+    {
+      "english": "I write what I feel, then speak it out.",
+      "vietnamese": "Tôi viết điều mình cảm thấy, rồi nói ra.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796541"
+    },
+    {
+      "english": "My confidence comes from trying, not waiting.",
+      "vietnamese": "Sự tự tin của tôi đến từ việc thử, không phải chờ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796544"
+    },
+    {
+      "english": "I keep my expectations kind and realistic.",
+      "vietnamese": "Tôi giữ kỳ vọng của mình tử tế và thực tế.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796549"
+    },
+    {
+      "english": "When motivation drops, I return to breath.",
+      "vietnamese": "Khi động lực tụt xuống, tôi quay về hơi thở.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796552"
+    },
+    {
+      "english": "I ask, what am I ready for today?",
+      "vietnamese": "Tôi hỏi, hôm nay mình đã sẵn sàng tới đâu?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796555"
+    },
+    {
+      "english": "I don’t need perfect answers, just honest ones.",
+      "vietnamese": "Tôi không cần câu trả lời hoàn hảo, chỉ cần thật lòng.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796558"
+    },
+    {
+      "english": "Small reflections make big progress in my mind.",
+      "vietnamese": "Những lần tự nhìn lại nhỏ tạo ra tiến bộ lớn.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796561"
+    },
+    {
+      "english": "Every day, I choose one feeling to name.",
+      "vietnamese": "Mỗi ngày, tôi chọn một cảm xúc để gọi tên.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796564"
+    },
+    {
+      "english": "I learn best when I’m patient with myself.",
+      "vietnamese": "Tôi học tốt nhất khi tôi kiên nhẫn với bản thân.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796567"
+    },
+    {
+      "english": "Even silence is practice, it still counts.",
+      "vietnamese": "Ngay cả im lặng cũng là luyện tập, vẫn tính.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796570"
+    },
+    {
+      "english": "I turn embarrassment into a gentle lesson.",
+      "vietnamese": "Tôi biến ngại ngùng thành một bài học nhẹ nhàng.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796572"
+    },
+    {
+      "english": "I reflect, adjust, and move forward today.",
+      "vietnamese": "Tôi suy nghĩ, điều chỉnh, rồi tiến lên hôm nay.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796576"
+    },
+    {
+      "english": "My Vietnamese journey is personal, not a race.",
+      "vietnamese": "Hành trình tiếng Việt của tôi là của riêng mình, không phải cuộc đua.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796578"
+    },
+    {
+      "english": "I keep my heart open, even when I stumble.",
+      "vietnamese": "Tôi giữ trái tim mở, ngay cả khi vấp.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796581"
+    },
+    {
+      "english": "Today, I’ll be brave enough to try.",
+      "vietnamese": "Hôm nay, tôi sẽ đủ can đảm để thử.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796584"
+    },
+    {
+      "english": "Morning routine first, then Vietnamese practice, simple.",
+      "vietnamese": "Việc buổi sáng trước, rồi luyện tiếng Việt, nhẹ nhàng thôi.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796588"
+    },
+    {
+      "english": "Before texting, think, what do I want to say?",
+      "vietnamese": "Trước khi nhắn tin, nghĩ xem, mình muốn nói gì?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796590"
+    },
+    {
+      "english": "When you freeze, smile, start with Hello.",
+      "vietnamese": "Khi bị đứng hình, cười nhẹ, bắt đầu bằng Xin chào.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796593"
+    },
+    {
+      "english": "At the café, order slowly, speak clearly.",
+      "vietnamese": "Ở quán cà phê, gọi món chậm thôi, nói rõ ràng.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:45:09.796597"
     }
   ],
-  "last_updated": "2026-11-06T07:32:10.522684"
+  "last_updated": "2026-11-07T06:45:09.796599"
 }
