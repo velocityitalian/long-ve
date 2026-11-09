@@ -47903,7 +47903,727 @@
       "vietnamese": "Khi bí, chuyển sang từ đơn giản.",
       "category": "Motivation",
       "generated_at": "2026-11-08T06:51:59.948364"
+    },
+    {
+      "english": "Are you okay?, do you need help?",
+      "vietnamese": "Bạn ổn không?, bạn cần giúp không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779255"
+    },
+    {
+      "english": "I feel sick, what should I do?",
+      "vietnamese": "Tôi thấy không khỏe, tôi nên làm gì?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779269"
+    },
+    {
+      "english": "Wait, breathe slowly, you’re doing fine.",
+      "vietnamese": "Khoan, hít thở chậm thôi, bạn ổn mà.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779273"
+    },
+    {
+      "english": "Drink water, try to calm down.",
+      "vietnamese": "Uống nước đi, từ từ bình tĩnh lại.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779277"
+    },
+    {
+      "english": "Do you have any pain right now?",
+      "vietnamese": "Giờ bạn có đau chỗ nào không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779279"
+    },
+    {
+      "english": "Where does it hurt?, tell me.",
+      "vietnamese": "Đau ở đâu, nói tôi nghe.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779284"
+    },
+    {
+      "english": "Call a doctor, please, now.",
+      "vietnamese": "Gọi bác sĩ đi, làm ơn, ngay bây giờ.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779288"
+    },
+    {
+      "english": "Let’s check your temperature, quickly.",
+      "vietnamese": "Mình đo nhiệt độ cho bạn nha, nhanh thôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779293"
+    },
+    {
+      "english": "Are you allergic to anything?",
+      "vietnamese": "Bạn có bị dị ứng với gì không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779297"
+    },
+    {
+      "english": "I’m dizzy, I need to sit.",
+      "vietnamese": "Tôi bị choáng, tôi cần ngồi xuống.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779301"
+    },
+    {
+      "english": "Don’t move, stay still for a moment.",
+      "vietnamese": "Đừng cử động, cứ đứng yên một chút.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779304"
+    },
+    {
+      "english": "Is your breathing okay?, answer me.",
+      "vietnamese": "Bạn thở ổn không?, trả lời tôi nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779307"
+    },
+    {
+      "english": "Open the window, get some fresh air.",
+      "vietnamese": "Mở cửa sổ ra, lấy không khí mới đi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779310"
+    },
+    {
+      "english": "Do you have medicine with you?",
+      "vietnamese": "Bạn có thuốc mang theo không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779312"
+    },
+    {
+      "english": "Take a rest, you’ll feel better soon.",
+      "vietnamese": "Nghỉ ngơi đi, lát nữa bạn sẽ đỡ hơn.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779315"
+    },
+    {
+      "english": "Stop bleeding, press here firmly.",
+      "vietnamese": "Ngừng chảy máu đi, ấn chỗ này mạnh nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779318"
+    },
+    {
+      "english": "Hold this, keep it steady.",
+      "vietnamese": "Giữ lấy cái này, giữ cho chắc nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779321"
+    },
+    {
+      "english": "I think it’s food poisoning, right?",
+      "vietnamese": "Tôi nghĩ bị ngộ độc thực phẩm đúng không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779325"
+    },
+    {
+      "english": "You should eat light, no greasy food.",
+      "vietnamese": "Bạn nên ăn nhẹ, đừng ăn đồ dầu mỡ.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779327"
+    },
+    {
+      "english": "Do you need a taxi, to get home?",
+      "vietnamese": "Bạn cần gọi taxi về nhà không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779330"
+    },
+    {
+      "english": "I’ll call the ambulance, stay calm.",
+      "vietnamese": "Tôi gọi xe cấp cứu, bạn bình tĩnh nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779333"
+    },
+    {
+      "english": "Is it burning?, how bad is the pain?",
+      "vietnamese": "Nó rát à?, đau tới mức nào rồi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779336"
+    },
+    {
+      "english": "Let me see your wound, slowly.",
+      "vietnamese": "Để tôi xem vết thương, nhẹ thôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779338"
+    },
+    {
+      "english": "Wash it with clean water, then cover.",
+      "vietnamese": "Rửa bằng nước sạch, rồi băng lại.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779341"
+    },
+    {
+      "english": "Don’t take it, I’m worried about reactions.",
+      "vietnamese": "Đừng uống, tôi sợ bị phản ứng.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779345"
+    },
+    {
+      "english": "How long have you felt like this?",
+      "vietnamese": "Bạn bị vậy được bao lâu rồi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779349"
+    },
+    {
+      "english": "Any fever?, do you feel hot?",
+      "vietnamese": "Có bị sốt không?, bạn thấy nóng không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779354"
+    },
+    {
+      "english": "I can’t breathe well, call someone!",
+      "vietnamese": "Tôi khó thở, gọi người giúp tôi!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779357"
+    },
+    {
+      "english": "Your face looks pale, sit down.",
+      "vietnamese": "Mặt bạn tái quá, ngồi xuống đi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779359"
+    },
+    {
+      "english": "After this, we should rest and hydrate.",
+      "vietnamese": "Xong rồi, mình nghỉ ngơi và bổ sung nước nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779362"
+    },
+    {
+      "english": "Please show me where it hurts most.",
+      "vietnamese": "Làm ơn chỉ giúp tôi chỗ đau nhất.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779364"
+    },
+    {
+      "english": "Do you know what happened, right now?",
+      "vietnamese": "Bạn có biết chuyện gì xảy ra không, bây giờ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779367"
+    },
+    {
+      "english": "How long has this been going on?",
+      "vietnamese": "Tình trạng này kéo dài bao lâu rồi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779370"
+    },
+    {
+      "english": "Where did the discomfort start first?",
+      "vietnamese": "Khó chịu bắt đầu ở chỗ nào trước tiên?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779373"
+    },
+    {
+      "english": "Does anything make it better or worse?",
+      "vietnamese": "Có gì làm đỡ hơn hay nặng hơn không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779375"
+    },
+    {
+      "english": "Are you on any regular medication?",
+      "vietnamese": "Bạn có đang dùng thuốc gì hằng ngày không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779378"
+    },
+    {
+      "english": "Have you eaten anything unusual today?",
+      "vietnamese": "Hôm nay bạn có ăn món lạ không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779380"
+    },
+    {
+      "english": "Any recent travel, or sick contact?",
+      "vietnamese": "Gần đây bạn có đi đâu xa, hoặc tiếp xúc bệnh không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779383"
+    },
+    {
+      "english": "Do you have asthma, or heart problems?",
+      "vietnamese": "Bạn có hen suyễn, hay vấn đề tim mạch không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779386"
+    },
+    {
+      "english": "Can I ask about your medical history?",
+      "vietnamese": "Cho tôi hỏi về bệnh sử của bạn được không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779388"
+    },
+    {
+      "english": "Is the pain constant, or comes and goes?",
+      "vietnamese": "Cơn đau liên tục, hay lúc có lúc không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779391"
+    },
+    {
+      "english": "Can you rate it from one to ten?",
+      "vietnamese": "Bạn đánh giá mức độ từ một đến mười được không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779393"
+    },
+    {
+      "english": "Do you feel nauseous, or just weak?",
+      "vietnamese": "Bạn buồn nôn, hay chỉ thấy yếu thôi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779396"
+    },
+    {
+      "english": "Have you vomited, or had diarrhea?",
+      "vietnamese": "Bạn có nôn không, hay bị tiêu chảy không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779398"
+    },
+    {
+      "english": "Do you have a cough, or sore throat?",
+      "vietnamese": "Bạn có ho, hay đau họng không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779401"
+    },
+    {
+      "english": "Is there any swelling, or redness?",
+      "vietnamese": "Có sưng, hoặc đỏ ở đâu không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779406"
+    },
+    {
+      "english": "Did this start after exercise or stress?",
+      "vietnamese": "Việc này bắt đầu sau vận động hay căng thẳng không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779409"
+    },
+    {
+      "english": "Have you recently had a high fever?",
+      "vietnamese": "Gần đây bạn có bị sốt cao không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779411"
+    },
+    {
+      "english": "When did you last eat, roughly?",
+      "vietnamese": "Khoảng bao lâu rồi bạn mới ăn?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779414"
+    },
+    {
+      "english": "Are you able to stand or walk?",
+      "vietnamese": "Bạn có đứng hoặc đi lại được không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779417"
+    },
+    {
+      "english": "Can you speak clearly, right now?",
+      "vietnamese": "Bạn nói chuyện rõ ràng được không, bây giờ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779419"
+    },
+    {
+      "english": "Do you feel confused, or very sleepy?",
+      "vietnamese": "Bạn có bị lú lẫn, hay buồn ngủ nhiều không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779422"
+    },
+    {
+      "english": "Any numbness in your face or arms?",
+      "vietnamese": "Bạn có tê ở mặt hoặc tay không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779424"
+    },
+    {
+      "english": "Have you noticed any rash or bumps?",
+      "vietnamese": "Bạn có thấy phát ban hay nổi mẩn không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779427"
+    },
+    {
+      "english": "Are you feeling worse after taking medicine?",
+      "vietnamese": "Bạn có thấy nặng hơn sau khi uống thuốc không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779429"
+    },
+    {
+      "english": "Do you have any breathing trouble before this?",
+      "vietnamese": "Trước đó bạn có từng khó thở không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779432"
+    },
+    {
+      "english": "Is this the first time it’s happened?",
+      "vietnamese": "Đây là lần đầu xảy ra như vậy à?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779435"
+    },
+    {
+      "english": "Should I call someone for you, now?",
+      "vietnamese": "Tôi gọi người giúp bạn ngay được không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779437"
+    },
+    {
+      "english": "What’s your name, so I can note it?",
+      "vietnamese": "Bạn cho tôi biết tên của bạn nhé, để tôi ghi lại.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779443"
+    },
+    {
+      "english": "Is there someone we should contact urgently?",
+      "vietnamese": "Có ai đó cần liên hệ khẩn cấp không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779445"
+    },
+    {
+      "english": "Hold on, đừng hoảng, okay?",
+      "vietnamese": "Nín thở thôi, đừng hoảng, được không?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779449"
+    },
+    {
+      "english": "Breathe slow, everything will pass.",
+      "vietnamese": "Thở chậm thôi, rồi cũng qua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779452"
+    },
+    {
+      "english": "Call now, don’t delay, please.",
+      "vietnamese": "Gọi ngay đi, đừng chần chừ.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779455"
+    },
+    {
+      "english": "Don’t push it, take it easy.",
+      "vietnamese": "Đừng cố quá, từ từ thôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779459"
+    },
+    {
+      "english": "It’s not serious yet, but watch it.",
+      "vietnamese": "Chưa sao thì đừng chủ quan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779462"
+    },
+    {
+      "english": "Sit down, steady yourself first.",
+      "vietnamese": "Ngồi xuống đã, bình tĩnh đã.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779465"
+    },
+    {
+      "english": "Let it rest, don’t overthink.",
+      "vietnamese": "Nghỉ một chút, đừng lo quá.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779468"
+    },
+    {
+      "english": "This hurts bad, đừng giấu nữa.",
+      "vietnamese": "Đau lắm rồi, đừng giấu nữa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779473"
+    },
+    {
+      "english": "Tell me, where does it tick most?",
+      "vietnamese": "Nó nhói nhất chỗ nào?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779477"
+    },
+    {
+      "english": "You’re sweating, so something’s up.",
+      "vietnamese": "Đổ mồ hôi vậy, chắc có chuyện.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779480"
+    },
+    {
+      "english": "It feels off, don’t ignore it.",
+      "vietnamese": "Thấy lạ là phải để ý.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779483"
+    },
+    {
+      "english": "Drink water little by little, okay?",
+      "vietnamese": "Uống từ từ thôi, từng ngụm một.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779486"
+    },
+    {
+      "english": "Keep warm, don’t let cold in.",
+      "vietnamese": "Giữ ấm nhé, đừng để lạnh.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779489"
+    },
+    {
+      "english": "If it worsens, speak up right away.",
+      "vietnamese": "Nặng hơn thì nói liền.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779491"
+    },
+    {
+      "english": "No panic, just focus on breathing.",
+      "vietnamese": "Bình tĩnh, tập trung thở đi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779494"
+    },
+    {
+      "english": "Your stomach is upset, settle it.",
+      "vietnamese": "Dạ dày đang khó ở, kìm lại đã.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779497"
+    },
+    {
+      "english": "Don’t lie down flat, sit up.",
+      "vietnamese": "Đừng nằm bẹp, ngồi lên chút.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779500"
+    },
+    {
+      "english": "Use cool compress, it helps a bit.",
+      "vietnamese": "Chườm mát đi, đỡ hơn đó.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779503"
+    },
+    {
+      "english": "Avoid spicy food today, keep it bland.",
+      "vietnamese": "Hôm nay tránh cay, ăn nhạt thôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779505"
+    },
+    {
+      "english": "Rest now, we’ll check again later.",
+      "vietnamese": "Nghỉ trước đã, lát kiểm tra tiếp.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779510"
+    },
+    {
+      "english": "Better check early, don’t wait.",
+      "vietnamese": "Khám sớm cho chắc, đừng để lâu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779513"
+    },
+    {
+      "english": "If you feel dizzy, tell me fast.",
+      "vietnamese": "Chóng mặt thì nói ngay.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779516"
+    },
+    {
+      "english": "Stay away from alcohol for now.",
+      "vietnamese": "Tạm thời đừng uống rượu bia.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779518"
+    },
+    {
+      "english": "Take a breath, you’ll be okay.",
+      "vietnamese": "Hít sâu đi, rồi sẽ ổn.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779522"
+    },
+    {
+      "english": "It’s a warning sign, treat it seriously.",
+      "vietnamese": "Dấu hiệu đó, phải coi trọng.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779525"
+    },
+    {
+      "english": "Use a clean cloth, not random things.",
+      "vietnamese": "Dùng gạc sạch thôi, đừng tùy tiện.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779527"
+    },
+    {
+      "english": "Keep the area still, don’t rub.",
+      "vietnamese": "Giữ yên đó, đừng xoa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779531"
+    },
+    {
+      "english": "When in doubt, get help quickly.",
+      "vietnamese": "Lỡ nghi thì đi khám liền.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779533"
+    },
+    {
+      "english": "Warm tea helps, sip slowly.",
+      "vietnamese": "Trà ấm có ích, uống từng ngụm.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779536"
+    },
+    {
+      "english": "I’ll watch you, don’t leave me alone.",
+      "vietnamese": "Anh/em kèm đây, đừng một mình.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779541"
+    },
+    {
+      "english": "I’m worried, but we’ll handle it calmly.",
+      "vietnamese": "Tôi lo, nhưng mình sẽ xử lý bình tĩnh.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779544"
+    },
+    {
+      "english": "Tell me honestly, what you feel inside.",
+      "vietnamese": "Nói thật với tôi, bạn đang thấy gì trong lòng.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779547"
+    },
+    {
+      "english": "I need a moment, don’t rush me.",
+      "vietnamese": "Cho tôi một chút thời gian, đừng vội.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779550"
+    },
+    {
+      "english": "Let’s slow down, your body needs steadiness.",
+      "vietnamese": "Mình chậm lại, cơ thể bạn cần bình tĩnh.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779554"
+    },
+    {
+      "english": "You’re doing fine, even if it’s scary.",
+      "vietnamese": "Bạn ổn đấy, dù nó đáng sợ.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779557"
+    },
+    {
+      "english": "I’m here, and we’ll take one step.",
+      "vietnamese": "Tôi ở đây, mình làm từng bước một.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779561"
+    },
+    {
+      "english": "Don’t hide it, tell me what’s new.",
+      "vietnamese": "Đừng giấu, nói tôi biết điều mới xảy ra.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779564"
+    },
+    {
+      "english": "Take your time, answer only what you can.",
+      "vietnamese": "Bình tĩnh, bạn trả lời phần nào thì trả lời.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779569"
+    },
+    {
+      "english": "I noticed you’re tense, let’s relax.",
+      "vietnamese": "Tôi thấy bạn đang căng thẳng, mình thả lỏng nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779572"
+    },
+    {
+      "english": "If your thoughts spin, say it out loud.",
+      "vietnamese": "Nếu bạn thấy đầu óc rối, nói ra cho tôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779575"
+    },
+    {
+      "english": "I understand, pain can feel overwhelming.",
+      "vietnamese": "Tôi hiểu, đau đớn đôi khi làm mình choáng.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779578"
+    },
+    {
+      "english": "We can wait a minute, just be honest.",
+      "vietnamese": "Mình chờ một chút cũng được, miễn là nói thật.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779581"
+    },
+    {
+      "english": "Please tell me your mood, it matters.",
+      "vietnamese": "Bạn cho tôi biết tình trạng tinh thần, nó quan trọng.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779583"
+    },
+    {
+      "english": "I can tell something’s off, let’s check.",
+      "vietnamese": "Tôi thấy có gì đó không ổn, mình kiểm tra nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779587"
+    },
+    {
+      "english": "Stay patient, healing often takes small time.",
+      "vietnamese": "Kiên nhẫn nhé, hồi phục cần thời gian.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779590"
+    },
+    {
+      "english": "If you can, describe the feeling briefly.",
+      "vietnamese": "Nếu được, bạn mô tả cảm giác ngắn gọn giúp tôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779592"
+    },
+    {
+      "english": "I’m not judging, just listening carefully.",
+      "vietnamese": "Tôi không phán xét đâu, tôi chỉ lắng nghe thôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779596"
+    },
+    {
+      "english": "Let’s be gentle, your body is stressed.",
+      "vietnamese": "Mình nhẹ nhàng thôi, cơ thể bạn đang mệt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779599"
+    },
+    {
+      "english": "Right now, trust me, we’ll keep it simple.",
+      "vietnamese": "Giờ thì tin tôi đi, mình làm cho đơn giản.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779602"
+    },
+    {
+      "english": "You’ve handled hard things before, remember that.",
+      "vietnamese": "Bạn từng vượt qua chuyện khó rồi, nhớ điều đó.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779606"
+    },
+    {
+      "english": "I’m tracking changes, even small ones.",
+      "vietnamese": "Tôi sẽ theo dõi thay đổi, kể cả nhỏ thôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779609"
+    },
+    {
+      "english": "Let’s keep your mind calm, not racing.",
+      "vietnamese": "Mình giữ tâm trí bình tĩnh, đừng chạy lung tung.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779612"
+    },
+    {
+      "english": "We’ll reassess soon, please don’t fear.",
+      "vietnamese": "Sớm nữa mình đánh giá lại, đừng sợ nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779615"
+    },
+    {
+      "english": "If anything feels strange, tell me gently.",
+      "vietnamese": "Nếu thấy điều gì lạ, nói với tôi nhẹ nhàng.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779618"
+    },
+    {
+      "english": "I’m listening, even if you’re barely speaking.",
+      "vietnamese": "Tôi lắng nghe, dù bạn chỉ nói được chút thôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779621"
+    },
+    {
+      "english": "Your comfort comes first, so we adjust.",
+      "vietnamese": "Sự thoải mái của bạn là ưu tiên, mình sẽ chỉnh lại.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779624"
+    },
+    {
+      "english": "It’s okay to feel scared, but stay with me.",
+      "vietnamese": "Sợ cũng bình thường, nhưng ở cùng tôi nhé.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779627"
+    },
+    {
+      "english": "I need your patience, the body takes time.",
+      "vietnamese": "Bạn cần kiên nhẫn, cơ thể cần thời gian.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779630"
+    },
+    {
+      "english": "Let’s reflect for a second, what triggered this?",
+      "vietnamese": "Mình dừng lại suy nghĩ chút, cái gì gây ra vậy?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779633"
+    },
+    {
+      "english": "No blame, we’ll learn what your body is saying.",
+      "vietnamese": "Không trách ai cả, mình sẽ hiểu cơ thể bạn đang nói gì.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T07:29:27.779636"
     }
   ],
-  "last_updated": "2026-11-08T06:51:59.948368"
+  "last_updated": "2026-11-09T07:29:27.779640"
 }
