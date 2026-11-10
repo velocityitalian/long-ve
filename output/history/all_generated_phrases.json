@@ -48623,7 +48623,727 @@
       "vietnamese": "Không trách ai cả, mình sẽ hiểu cơ thể bạn đang nói gì.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-09T07:29:27.779636"
+    },
+    {
+      "english": "Breathe first, then reply calmly.",
+      "vietnamese": "Hít thở trước, rồi trả lời thật bình tĩnh.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802029"
+    },
+    {
+      "english": "One small step, right now.",
+      "vietnamese": "Một bước nhỏ thôi, ngay bây giờ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802044"
+    },
+    {
+      "english": "Good job, keep moving forward.",
+      "vietnamese": "Làm tốt lắm, cứ tiến lên thôi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802047"
+    },
+    {
+      "english": "Pause, check your thoughts, reset.",
+      "vietnamese": "Dừng lại, xem lại suy nghĩ, làm lại từ đầu.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802049"
+    },
+    {
+      "english": "What’s the next action, right?",
+      "vietnamese": "Bước tiếp theo là gì, đúng không?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802052"
+    },
+    {
+      "english": "Start messy, you can fix it.",
+      "vietnamese": "Bắt đầu hơi rối, rồi sửa sau.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802055"
+    },
+    {
+      "english": "Don’t rush, do it properly.",
+      "vietnamese": "Đừng vội, làm cho đàng hoàng.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802057"
+    },
+    {
+      "english": "You’ve got this, just begin.",
+      "vietnamese": "Bạn làm được, cứ bắt đầu đi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802062"
+    },
+    {
+      "english": "Tell me, what’s bothering you?",
+      "vietnamese": "Nói mình nghe, điều gì đang làm bạn bận lòng?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802065"
+    },
+    {
+      "english": "I’ll try again, no big deal.",
+      "vietnamese": "Mình sẽ làm lại, không sao đâu.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802068"
+    },
+    {
+      "english": "Thanks for the lesson, seriously.",
+      "vietnamese": "Cảm ơn vì bài học thật đấy.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802070"
+    },
+    {
+      "english": "Small wins count, celebrate quietly.",
+      "vietnamese": "Thắng nhỏ cũng quan trọng, cứ tự ăn mừng.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802073"
+    },
+    {
+      "english": "Set a timer, focus for ten.",
+      "vietnamese": "Bật hẹn giờ, tập trung mười phút.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802077"
+    },
+    {
+      "english": "Say less, do more today.",
+      "vietnamese": "Nói ít thôi, hôm nay làm nhiều lên.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802079"
+    },
+    {
+      "english": "Check in with yourself, daily.",
+      "vietnamese": "Tự kiểm tra bản thân mỗi ngày.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802081"
+    },
+    {
+      "english": "Get organized, then tackle the day.",
+      "vietnamese": "Sắp xếp lại cho gọn, rồi xử lý từng việc.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802083"
+    },
+    {
+      "english": "If it’s hard, start smaller.",
+      "vietnamese": "Nếu thấy khó, hãy làm nhỏ lại.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802086"
+    },
+    {
+      "english": "I’m learning, so I’ll adjust.",
+      "vietnamese": "Mình đang học, nên sẽ điều chỉnh.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802090"
+    },
+    {
+      "english": "Keep promises to yourself, always.",
+      "vietnamese": "Giữ lời với bản thân, luôn luôn.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802093"
+    },
+    {
+      "english": "One question, what do I want?",
+      "vietnamese": "Một câu hỏi thôi, mình muốn gì?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802095"
+    },
+    {
+      "english": "Choose peace, even when busy.",
+      "vietnamese": "Chọn sự bình yên, dù bận rộn.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802097"
+    },
+    {
+      "english": "Reflect for a minute, then act.",
+      "vietnamese": "Ngẫm lại một phút, rồi làm.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802099"
+    },
+    {
+      "english": "Don’t compare, focus on your lane.",
+      "vietnamese": "Đừng so sánh, cứ đi đúng đường của mình.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802102"
+    },
+    {
+      "english": "I can do it, step by step.",
+      "vietnamese": "Mình làm được, từng bước một.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802104"
+    },
+    {
+      "english": "That’s a win, let’s keep it.",
+      "vietnamese": "Vậy là thắng rồi, giữ vững nhé.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802107"
+    },
+    {
+      "english": "Say sorry fast, move on cleanly.",
+      "vietnamese": "Xin lỗi nhanh, rồi đi tiếp cho gọn.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802109"
+    },
+    {
+      "english": "Make it simple, then repeat tomorrow.",
+      "vietnamese": "Làm cho đơn giản, rồi mai lặp lại.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802111"
+    },
+    {
+      "english": "What support do you need right now?",
+      "vietnamese": "Giờ bạn cần hỗ trợ gì?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802113"
+    },
+    {
+      "english": "Let’s be honest, then plan better.",
+      "vietnamese": "Nói thật đi, rồi mình lên kế hoạch tốt hơn.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802115"
+    },
+    {
+      "english": "What’s your plan, before you start?",
+      "vietnamese": "Bạn định làm gì trước khi bắt đầu?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802118"
+    },
+    {
+      "english": "Can you ask for help, politely?",
+      "vietnamese": "Bạn có thể nhờ giúp đỡ, lịch sự không?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802121"
+    },
+    {
+      "english": "Where should you start, with this?",
+      "vietnamese": "Bạn nên bắt đầu từ đâu, với cái này?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802123"
+    },
+    {
+      "english": "What’s the small win, today?",
+      "vietnamese": "Hôm nay, chiến thắng nhỏ là gì?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802126"
+    },
+    {
+      "english": "Do you want advice, or just support?",
+      "vietnamese": "Bạn muốn lời khuyên, hay chỉ cần mình ủng hộ?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802128"
+    },
+    {
+      "english": "Which habit, should we fix first?",
+      "vietnamese": "Thói quen nào, mình nên sửa trước?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802130"
+    },
+    {
+      "english": "Can we talk, about your routine?",
+      "vietnamese": "Mình nói chuyện được không, về lịch sinh hoạt của bạn?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802133"
+    },
+    {
+      "english": "What’s your biggest struggle, lately?",
+      "vietnamese": "Dạo này, điều gì làm bạn khó nhất?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802135"
+    },
+    {
+      "english": "How can I help, right now?",
+      "vietnamese": "Mình giúp được gì, ngay bây giờ?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802138"
+    },
+    {
+      "english": "What would you do, if no fear?",
+      "vietnamese": "Nếu không sợ hãi, bạn sẽ làm gì?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802140"
+    },
+    {
+      "english": "Want to brainstorm, together for ten minutes?",
+      "vietnamese": "Bạn muốn mình brainstorming chung, mười phút thôi không?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802142"
+    },
+    {
+      "english": "What’s stopping you, from doing it?",
+      "vietnamese": "Điều gì ngăn bạn, làm điều đó?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802145"
+    },
+    {
+      "english": "Can I check your understanding, quickly?",
+      "vietnamese": "Mình hỏi lại để chắc bạn hiểu đúng, được không?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802147"
+    },
+    {
+      "english": "Do you prefer plans, or freedom?",
+      "vietnamese": "Bạn thích có kế hoạch, hay thích linh hoạt?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802149"
+    },
+    {
+      "english": "How often do you review your goals?",
+      "vietnamese": "Bạn xem lại mục tiêu, bao lâu một lần?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802151"
+    },
+    {
+      "english": "What’s one thing you’ll stop doing?",
+      "vietnamese": "Bạn sẽ ngừng một thứ gì, ngay bây giờ?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802156"
+    },
+    {
+      "english": "Where do you waste time, most often?",
+      "vietnamese": "Bạn hay mất thời gian vào chỗ nào nhất?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802158"
+    },
+    {
+      "english": "What’s your next step, in one sentence?",
+      "vietnamese": "Bước tiếp theo của bạn là gì, trong một câu?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802161"
+    },
+    {
+      "english": "Do you want accountability, from a friend?",
+      "vietnamese": "Bạn muốn có ai nhắc nhở cùng, kiểu bạn bè không?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802163"
+    },
+    {
+      "english": "What’s your mindset, when you feel stuck?",
+      "vietnamese": "Bạn nghĩ gì, khi bạn thấy kẹt?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802165"
+    },
+    {
+      "english": "Can we make a tiny plan, tonight?",
+      "vietnamese": "Mình chốt một kế hoạch nhỏ, tối nay được không?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802167"
+    },
+    {
+      "english": "What’s one question, to clarify everything?",
+      "vietnamese": "Một câu hỏi để rõ hết, là gì?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802170"
+    },
+    {
+      "english": "How would you explain your progress, today?",
+      "vietnamese": "Hôm nay bạn giải thích tiến bộ của mình thế nào?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802172"
+    },
+    {
+      "english": "Do you want to vent first, then decide?",
+      "vietnamese": "Bạn muốn xả bực trước, rồi mới quyết định?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802174"
+    },
+    {
+      "english": "What’s the reward, after you finish?",
+      "vietnamese": "Sau khi xong, bạn sẽ thưởng gì?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802178"
+    },
+    {
+      "english": "Can you set a check-in, twice a week?",
+      "vietnamese": "Bạn muốn check-in hai lần mỗi tuần không?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802181"
+    },
+    {
+      "english": "What’s your honest answer, right now?",
+      "vietnamese": "Câu trả lời thật của bạn, ngay lúc này là gì?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802184"
+    },
+    {
+      "english": "You’ve got this, practice daily, stay kind.",
+      "vietnamese": "Bạn làm được, luyện mỗi ngày, vẫn tử tế.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802187"
+    },
+    {
+      "english": "Small wins stack up, keep going.",
+      "vietnamese": "Chiến thắng nhỏ cộng dồn, cứ tiến lên.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802189"
+    },
+    {
+      "english": "Tell yourself, I’m getting better, quietly.",
+      "vietnamese": "Nói với mình, mình đang giỏi hơn, âm thầm.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802193"
+    },
+    {
+      "english": "Your effort matters, even on messy days.",
+      "vietnamese": "Nỗ lực của bạn có giá trị, dù ngày hơi rối.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802196"
+    },
+    {
+      "english": "Today, choose confidence, one breath at a time.",
+      "vietnamese": "Hôm nay, chọn sự tự tin, từng hơi thở một.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802198"
+    },
+    {
+      "english": "Let your thoughts coach you, not trap you.",
+      "vietnamese": "Để suy nghĩ dẫn đường bạn, không trói bạn lại.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802201"
+    },
+    {
+      "english": "Praise the attempt, not just the result.",
+      "vietnamese": "Khen cả sự cố gắng, không chỉ kết quả.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802203"
+    },
+    {
+      "english": "You’re allowed to learn slowly, keep moving.",
+      "vietnamese": "Bạn được học chậm, cứ bước tiếp.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802206"
+    },
+    {
+      "english": "When doubt shows up, breathe, continue.",
+      "vietnamese": "Khi nghi ngờ tới, hít thở, rồi tiếp tục.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802208"
+    },
+    {
+      "english": "Build momentum, even with a tiny routine.",
+      "vietnamese": "Tạo đà tiến lên, dù chỉ là thói quen nhỏ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802211"
+    },
+    {
+      "english": "Make progress visible, track it this week.",
+      "vietnamese": "Biến tiến bộ thành thứ nhìn thấy, ghi lại tuần này.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802213"
+    },
+    {
+      "english": "Celebrate effort, because it changes you.",
+      "vietnamese": "Hãy ăn mừng nỗ lực, vì nó làm bạn khác đi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802217"
+    },
+    {
+      "english": "Keep your promises to your future self.",
+      "vietnamese": "Giữ lời hứa với chính mình của tương lai.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802219"
+    },
+    {
+      "english": "Reframe mistakes as feedback, then adjust.",
+      "vietnamese": "Xem sai lầm như phản hồi, rồi điều chỉnh.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802221"
+    },
+    {
+      "english": "Trust the process, today counts.",
+      "vietnamese": "Tin vào quá trình, hôm nay vẫn tính.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802223"
+    },
+    {
+      "english": "Your voice matters, speak to yourself kindly.",
+      "vietnamese": "Giọng nói của bạn quan trọng, hãy nói dịu với mình.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802226"
+    },
+    {
+      "english": "You can reset anytime, choose the next action.",
+      "vietnamese": "Bạn có thể làm lại bất cứ lúc nào, chọn việc tiếp theo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802228"
+    },
+    {
+      "english": "Consistency beats intensity, every single week.",
+      "vietnamese": "Kiên trì thắng cảm hứng, tuần nào cũng vậy.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802230"
+    },
+    {
+      "english": "Stay curious, learning is your superpower.",
+      "vietnamese": "Giữ sự tò mò, học hỏi là siêu năng lực.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802232"
+    },
+    {
+      "english": "Turn pressure into fuel, move forward.",
+      "vietnamese": "Biến áp lực thành nhiên liệu, tiến lên.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802234"
+    },
+    {
+      "english": "You’re stronger than yesterday, notice that.",
+      "vietnamese": "Hôm nay bạn mạnh hơn hôm qua, hãy nhận ra.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802239"
+    },
+    {
+      "english": "Say yes to practice, no to perfection.",
+      "vietnamese": "Nói có với việc luyện tập, nói không với hoàn hảo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802241"
+    },
+    {
+      "english": "Every attempt builds confidence, keep showing up.",
+      "vietnamese": "Mỗi lần cố gắng xây niềm tin, cứ xuất hiện.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802244"
+    },
+    {
+      "english": "Be your own hype person, gently.",
+      "vietnamese": "Hãy là người cổ vũ cho chính mình, nhẹ nhàng thôi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802246"
+    },
+    {
+      "english": "Your progress is real, even if it’s quiet.",
+      "vietnamese": "Tiến bộ của bạn thật, dù nó diễn ra âm thầm.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802249"
+    },
+    {
+      "english": "Let setbacks teach you, then release them.",
+      "vietnamese": "Cho thất bại dạy bạn, rồi thả nó ra.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802251"
+    },
+    {
+      "english": "Keep your head up, one day at a time.",
+      "vietnamese": "Giữ vững tinh thần, từng ngày một.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802253"
+    },
+    {
+      "english": "You don’t need perfect, you need practice.",
+      "vietnamese": "Bạn không cần hoàn hảo, bạn cần luyện tập.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802255"
+    },
+    {
+      "english": "Make room for joy, that fuels growth.",
+      "vietnamese": "Cho chỗ cho niềm vui, nó nuôi dưỡng sự phát triển.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802257"
+    },
+    {
+      "english": "Take a slow breath, then tell the truth.",
+      "vietnamese": "Hít thở chậm, rồi nói thật lòng.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802259"
+    },
+    {
+      "english": "Name the feeling, don’t let it drive.",
+      "vietnamese": "Gọi đúng cảm xúc, đừng để nó điều khiển.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802262"
+    },
+    {
+      "english": "I’m learning patience, step by step, today.",
+      "vietnamese": "Hôm nay mình đang học kiên nhẫn, từng bước.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802265"
+    },
+    {
+      "english": "It’s okay to be human, I remind myself.",
+      "vietnamese": "Mình nhắc, không sao khi là người mà.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802267"
+    },
+    {
+      "english": "Reflect quietly, so your mind can soften.",
+      "vietnamese": "Tự chiêm nghiệm nhẹ nhàng, để lòng mình dịu lại.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802269"
+    },
+    {
+      "english": "When I fail, I observe, not judge.",
+      "vietnamese": "Thất bại thì mình quan sát, không phán xét.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802272"
+    },
+    {
+      "english": "I can feel messy, and still improve.",
+      "vietnamese": "Mình có thể rối bù, nhưng vẫn tiến lên.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802274"
+    },
+    {
+      "english": "Be honest about what drains your energy.",
+      "vietnamese": "Thành thật về thứ làm mình cạn năng lượng.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802276"
+    },
+    {
+      "english": "Ask yourself, what do I really need?",
+      "vietnamese": "Tự hỏi mình thật sự cần gì.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802278"
+    },
+    {
+      "english": "I’m allowed to pause, then choose again.",
+      "vietnamese": "Mình được phép dừng lại, rồi chọn tiếp.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802280"
+    },
+    {
+      "english": "My feelings are data, not a verdict.",
+      "vietnamese": "Cảm xúc của mình là dữ liệu, không phải bản án.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802282"
+    },
+    {
+      "english": "Let the lesson land, then move forward.",
+      "vietnamese": "Cho bài học thấm dần, rồi bước tiếp.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802285"
+    },
+    {
+      "english": "Today, I practice kindness with my own mind.",
+      "vietnamese": "Hôm nay mình tập tử tế với chính tâm trí mình.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802287"
+    },
+    {
+      "english": "I notice resistance, and I stay gentle.",
+      "vietnamese": "Mình nhận ra sự chống đối, và vẫn mềm mại.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802291"
+    },
+    {
+      "english": "Small honesty beats big motivation, always.",
+      "vietnamese": "Thành thật nhỏ thôi thắng động lực lớn.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802293"
+    },
+    {
+      "english": "I don’t rush healing, I support it.",
+      "vietnamese": "Mình không vội chữa lành, mình nuôi nó.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802296"
+    },
+    {
+      "english": "If I’m overwhelmed, I simplify the next step.",
+      "vietnamese": "Nếu mình bị quá tải, mình đơn giản hóa bước sau.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802298"
+    },
+    {
+      "english": "I can be proud, and still keep learning.",
+      "vietnamese": "Mình có thể tự hào, mà vẫn học tiếp.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802300"
+    },
+    {
+      "english": "I’ll check in with my heart first.",
+      "vietnamese": "Mình sẽ kiểm tra lòng mình trước.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802303"
+    },
+    {
+      "english": "My progress counts, even when it’s slow.",
+      "vietnamese": "Tiến bộ của mình có giá trị, dù chậm.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802305"
+    },
+    {
+      "english": "I choose growth over comfort, one moment.",
+      "vietnamese": "Mình chọn phát triển hơn sự thoải mái, từng khoảnh khắc.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802308"
+    },
+    {
+      "english": "When emotions rise, I pause before speaking.",
+      "vietnamese": "Khi cảm xúc dâng lên, mình dừng trước khi nói.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802310"
+    },
+    {
+      "english": "I forgive myself, then I adjust my plan.",
+      "vietnamese": "Mình tha thứ cho bản thân, rồi chỉnh kế hoạch.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802314"
+    },
+    {
+      "english": "Be real with yourself, your next action matters.",
+      "vietnamese": "Thành thật với mình, hành động tiếp theo quan trọng.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802316"
+    },
+    {
+      "english": "I’m not behind, I’m building from here.",
+      "vietnamese": "Mình không bị tụt lại, mình đang xây từ đây.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802318"
+    },
+    {
+      "english": "I listen to my inner voice, calmly.",
+      "vietnamese": "Mình lắng nghe giọng nói bên trong, thật bình tĩnh.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802320"
+    },
+    {
+      "english": "Every day, I practice emotional clarity and focus.",
+      "vietnamese": "Mỗi ngày, mình luyện sự rõ ràng cảm xúc và tập trung.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802323"
+    },
+    {
+      "english": "I can want more, without blaming myself.",
+      "vietnamese": "Mình có thể muốn nhiều hơn, mà không tự trách.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802325"
+    },
+    {
+      "english": "I say, “This is hard,” and keep going.",
+      "vietnamese": "Mình nói, “Khó thật”, rồi vẫn tiếp tục.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802328"
+    },
+    {
+      "english": "Tonight, I honor my effort, then rest.",
+      "vietnamese": "Tối nay mình trân trọng nỗ lực của mình, rồi nghỉ ngơi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802332"
+    },
+    {
+      "english": "Morning check-in, what matters today?",
+      "vietnamese": "Bắt đầu ngày, tự hỏi hôm nay điều gì quan trọng?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802334"
+    },
+    {
+      "english": "Before you speak, pause, then choose words.",
+      "vietnamese": "Trước khi nói, dừng lại, rồi chọn lời.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802336"
+    },
+    {
+      "english": "If plans change, be flexible, not stressed.",
+      "vietnamese": "Nếu kế hoạch đổi, linh hoạt thôi, đừng căng thẳng.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802339"
+    },
+    {
+      "english": "Do the smallest task, then start again.",
+      "vietnamese": "Làm việc nhỏ nhất trước, rồi bắt đầu lại.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802341"
+    },
+    {
+      "english": "After work, decompress, don’t bring it home.",
+      "vietnamese": "Tan làm rồi, thư giãn, đừng mang về.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-10T07:55:53.802344"
     }
   ],
-  "last_updated": "2026-11-09T07:29:27.779640"
+  "last_updated": "2026-11-10T07:55:53.802346"
 }
