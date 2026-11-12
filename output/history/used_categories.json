@@ -1,1 +1,109 @@
-{"categories": []}
+{
+  "categories": [
+    {
+      "category": "Growth",
+      "date": "2020-01-01"
+    },
+    {
+      "category": "Happiness",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2020-01-03"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2020-01-04"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2020-01-05"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2020-01-06"
+    },
+    {
+      "category": "Confidence",
+      "date": "2020-01-07"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2020-01-08"
+    },
+    {
+      "category": "Courage",
+      "date": "2020-01-09"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2020-01-10"
+    },
+    {
+      "category": "Kindness",
+      "date": "2020-01-11"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2020-01-12"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2020-01-13"
+    },
+    {
+      "category": "Love",
+      "date": "2020-01-14"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2020-01-15"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2020-01-16"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2020-01-17"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2020-01-18"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2020-01-19"
+    },
+    {
+      "category": "Purpose",
+      "date": "2020-01-20"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2020-01-21"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2020-01-22"
+    },
+    {
+      "category": "Motivation",
+      "date": "2020-01-23"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2020-01-24"
+    },
+    {
+      "category": "Self Improvement",
+      "date": "2020-01-25"
+    },
+    {
+      "category": "Balance",
+      "date": "2020-01-26"
+    }
+  ],
+  "last_updated": "2026-11-12T11:15:22.124169"
+}
