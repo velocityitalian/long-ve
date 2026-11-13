@@ -50063,7 +50063,399 @@
       "vietnamese": "Khi kế hoạch đổi, đừng hoảng, cứ điều chỉnh bình tĩnh.",
       "category": "Balance",
       "generated_at": "2026-11-11T07:24:34.450576"
+    },
+    {
+      "english": "Ask about Tet family traditions",
+      "vietnamese": "Hỏi về những truyền thống gia đình trong Tết",
+      "transliteration": "Hoi VE nhung TRUYEN THONG gia DINH TRONG Tet",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I love eating mooncakes during Mid-Autumn",
+      "vietnamese": "Mình rất thích ăn bánh trung thu",
+      "transliteration": "MinH RAT THICH AN banH TRUNG THU",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Families clean graves before visitors arrive",
+      "vietnamese": "Nhiều gia đình đi thăm mộ và dọn dẹp trước khi khách đến",
+      "transliteration": "NHIEU gia DINH DI THĂM MO va DON DEP TRUOC khi khach DEN",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Bring incense when visiting pagodas",
+      "vietnamese": "Vào chùa thì thắp hương xin bình an",
+      "transliteration": "VAO chua thi THAP HUONG xin BÌNH AN",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "People give red envelopes on special nights",
+      "vietnamese": "Người ta lì xì vào những dịp thật đặc biệt",
+      "transliteration": "Nguoi TA LI xi vao NHUNG DIP THẬT dac BIỆT",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Ban hoi ngày Tết feels so meaningful",
+      "vietnamese": "Đi chợ hoa ngày Tết, không khí rất rộn ràng",
+      "transliteration": "Di CHO hoa NGAY Tet, KHI KHÍ rat NON RÀNG",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Try making sticky rice cakes with neighbors",
+      "vietnamese": "Hôm nay hàng xóm cùng làm bánh chưng thật vui",
+      "transliteration": "Hom nay HANH XOM CUNG LAM banH CHUNG THẬT vui",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Choose calm in the busy day",
+      "vietnamese": "Chọn bình tĩnh giữa ngày bận rộn.",
+      "transliteration": "Chọn BÌNH TĨNH giữa NGÀY bận RỘN.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Small wins matter, celebrate them",
+      "vietnamese": "Chiến thắng nhỏ cũng đáng mừng.",
+      "transliteration": "CHIẾN thắng nhỏ cũng ĐÁNG mừng.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Say thank you, even quietly",
+      "vietnamese": "Nói lời cảm ơn, ngay cả khi thầm lặng.",
+      "transliteration": "NÓI lời CẢM ƠN, ngay cả khi THẦM lặng.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Keep moving, one step at a time",
+      "vietnamese": "Cứ bước tiếp, từng bước một thôi.",
+      "transliteration": "Cứ BƯỚC tiếp, TỪNG bước một thôi.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Let compliments land on your heart",
+      "vietnamese": "Cho lời khen chạm đến tim bạn.",
+      "transliteration": "Cho LỜI khen CHẠM đến TIM bạn.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Make your home a safe place",
+      "vietnamese": "Biến ngôi nhà thành nơi an toàn.",
+      "transliteration": "Biến NGÔI nhà thành NƠI an TOÀN.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Turn setbacks into lessons and hugs",
+      "vietnamese": "Biến vấp ngã thành bài học và ôm lấy chính mình.",
+      "transliteration": "Biến VẤP NGÃ thành BÀI học và ÔM lấy chính mình.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Can I get a menu, please?",
+      "vietnamese": "Cho tôi xin thực đơn được không?",
+      "transliteration": "CHO tôi xIN thỰC ĐƠN đƯỢC không?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "What do you recommend today?",
+      "vietnamese": "Hôm nay anh chị gợi ý món gì ngon?",
+      "transliteration": "HÔM nay anh CHỊ gỢI Ý món GÌ NGON?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Is the house specialty spicy?",
+      "vietnamese": "Món đặc sản ở đây có cay không?",
+      "transliteration": "mÓN đẶC SẢN ở đÂY có CAY không?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I’d like chicken with rice.",
+      "vietnamese": "Cho tôi món gà với cơm nhé.",
+      "transliteration": "CHO tôi món GÀ vỚI cơm nhÉ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Could I get it to go?",
+      "vietnamese": "Cho tôi xin mang đi được không?",
+      "transliteration": "CHO tôi xIN mANG đi đƯỢC không?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Can I substitute something else?",
+      "vietnamese": "Mình đổi giúp tôi sang món khác được không?",
+      "transliteration": "MÌNH đỔI GIÚP tôi SAng món KHÁC đƯỢC không?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "No onions, please.",
+      "vietnamese": "Không cho hành tây nhé.",
+      "transliteration": "khÔNG cho hÀNH tÂY nhÉ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Breathe, then try again.",
+      "vietnamese": "Hít thở, rồi thử lại nhé.",
+      "transliteration": "Hit THO, roi THU LAI nhe.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Slow down, you’re still learning.",
+      "vietnamese": "Chậm lại thôi, bạn vẫn đang học mà.",
+      "transliteration": "CHAM LAI thoi, BAN van dang HOC ma.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Stay calm while progress builds.",
+      "vietnamese": "Giữ bình tĩnh khi tiến bộ đang đến dần.",
+      "transliteration": "GIU binh tINH khi TIEN BO dang den dan.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Let your pace match your goal.",
+      "vietnamese": "Đi đúng nhịp với mục tiêu của mình.",
+      "transliteration": "DI DUNG NHIP VOI MU C TIeu cua MINH.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Don’t force outcomes today.",
+      "vietnamese": "Đừng ép kết quả hôm nay.",
+      "transliteration": "DUNG EP KET QUA hom nay.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Keep going, even slowly.",
+      "vietnamese": "Cứ tiếp tục, dù chậm cũng được.",
+      "transliteration": "CU tieP TUC, du CHAM cung duoc.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Patience means choosing not to snap.",
+      "vietnamese": "Kiên nhẫn là biết chọn không nóng nảy.",
+      "transliteration": "KIEN NHAN la BIEt CHON KHONG nong nay.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Where do you keep the keys?",
+      "vietnamese": "Bạn cất chìa khóa ở đâu?",
+      "transliteration": "bạn CẤT chìa KHÓA ở ĐÂU?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I’m bringing groceries home now.",
+      "vietnamese": "Tôi mang đồ ăn mua về nhà đây.",
+      "transliteration": "tôi MAN gióa ĂN MUA về NHÀ đây",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Can we take off our shoes?",
+      "vietnamese": "Cho tôi cởi giày được không?",
+      "transliteration": "CHO tôi CỞI giÀY được KHÔNG?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "The living room feels so cozy.",
+      "vietnamese": "Phòng khách ấm cúng lắm.",
+      "transliteration": "PHÒNG khách ẤM CÚNG lắm",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "How far is your nearest supermarket?",
+      "vietnamese": "Siêu thị gần nhà bạn cách bao xa?",
+      "transliteration": "SIÊU THỊ GẦN nhà bạn CÁCH bao XA",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Do you need help cleaning today?",
+      "vietnamese": "Hôm nay bạn có cần tôi giúp dọn nhà không?",
+      "transliteration": "HÔM nay bạn CÓ cần tôi GIÚP dỌN NHÀ không?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "We’ll have dinner at the dining table.",
+      "vietnamese": "Tối nay mình ăn cơm ở bàn ăn.",
+      "transliteration": "tối NAY mình ăn CƠM ở BÀN ăn",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I unwind with morning stretches",
+      "vietnamese": "Tôi xả stress bằng vài động tác giãn cơ buổi sáng.",
+      "transliteration": "TOI XA CANG bang VAI dong tac gian CO buoi SANG.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I keep a small plant on my desk",
+      "vietnamese": "Tôi để một chậu cây nhỏ trên bàn làm việc.",
+      "transliteration": "TOI DE MỘT chau cay nho TRÊN ban lam VIEC.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Weekend baking is my happy ritual",
+      "vietnamese": "Việc nướng bánh cuối tuần là nghi thức làm tôi vui.",
+      "transliteration": "VIEC NUONG banh CUOI TUAN la NGHI THUC lam TOI vui.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I love taking photos during golden hour",
+      "vietnamese": "Tôi thích chụp ảnh lúc hoàng hôn.",
+      "transliteration": "TOI THICH CHUP anh luc HOANG HON.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I go for a bike ride after work",
+      "vietnamese": "Tan làm là tôi đạp xe cho đỡ căng thẳng.",
+      "transliteration": "TAN lam la TOI dap XE cho DỞ CANG THANG.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I sing in the shower, no shame",
+      "vietnamese": "Tôi hát trong nhà tắm, không ngại gì cả.",
+      "transliteration": "TOI hat TRONG nha TAM, KHONG NGẠI GI CA.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I watch cooking videos while I snack",
+      "vietnamese": "Tôi xem video nấu ăn khi vừa ăn vặt.",
+      "transliteration": "TOI xem VIDEO nau AN khi vua AN VAT.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I didn’t mean to hurt you.",
+      "vietnamese": "Tôi không hề có ý làm bạn bị tổn thương.",
+      "transliteration": "Toi KHÔNG hề có ý làm bạn bỊ tỔn thƯƠng.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I should have checked first, sorry.",
+      "vietnamese": "Tôi đã nên kiểm tra trước rồi, xin lỗi.",
+      "transliteration": "Toi đã NÊN kiỂm tra trƯỚc rồI, xin LỖI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Let’s reset, I truly regret it.",
+      "vietnamese": "Mình đặt lại từ đầu nhé, tôi thật sự hối hận.",
+      "transliteration": "Mình đặt LẠI tỪ đầu nhÉ, tôi thật SỰ hỐI hẬn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I was out of line, forgive me.",
+      "vietnamese": "Tôi đã nói lỡ lời, xin bạn tha thứ cho tôi.",
+      "transliteration": "Toi đã NÓI lỠ lỜI, xin bẠn tha THỨ cho toi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I know you’re hurt, I’m sorry.",
+      "vietnamese": "Tôi biết bạn đang bị tổn thương, tôi xin lỗi.",
+      "transliteration": "Toi BIẾT bạn đang bỊ tỔn thƯƠng, tôi xin LỖI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Please be patient with me, I’ll fix it.",
+      "vietnamese": "Xin hãy kiên nhẫn với tôi, tôi sẽ sửa lại.",
+      "transliteration": "Xin hÃy KIÊN nhẫn vỚi toi, tôi sẽ SỬA lẠi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "I took it too far, I’m sorry.",
+      "vietnamese": "Tôi đã đi quá xa, tôi xin lỗi.",
+      "transliteration": "Toi đã ĐI quá xa, tôi xin LỖI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Turn one idea into a prototype",
+      "vietnamese": "Biến một ý tưởng thành nguyên mẫu nhanh",
+      "transliteration": "bien MỘT y tuong THÀNH NGUYÊN MẪU NHANH",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Start sketching before you decide anything",
+      "vietnamese": "Vẽ phác trước khi bạn quyết định",
+      "transliteration": "ve PHÁC TRƯỚC KHI bạn QUYẾT ĐỊNH",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Borrow shapes, not rules, from everywhere",
+      "vietnamese": "Lấy hình khối ở khắp nơi, đừng lấy luật",
+      "transliteration": "lay HÌNH KHỐI Ở KHẮP NƠI, ĐỪNG lay LUẬT",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Use constraints to unlock creativity",
+      "vietnamese": "Giới hạn càng rõ, sáng tạo càng bật",
+      "transliteration": "GIỚI HẠN CÀNG rõ, SÁNG TẠO CÀNG BẬT",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Make it playful, even for work",
+      "vietnamese": "Làm nó vui nhộn, kể cả khi làm việc",
+      "transliteration": "lam NO vui NHỘN, KỂ CẢ khi LÀM việc",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Try a new tool, not a new excuse",
+      "vietnamese": "Thử công cụ mới, đừng bào chữa cũ",
+      "transliteration": "THỬ CÔNG CỤ MỚI, ĐỪNG BAO CHỮA cũ",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Reframe the goal to change everything",
+      "vietnamese": "Đổi cách nhìn mục tiêu, mọi thứ đổi theo",
+      "transliteration": "doi CÁCH NHÌN MỤC TIÊU, MỌI THỨ đổi THEO",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T01:36:52.442810"
     }
   ],
-  "last_updated": "2026-11-11T07:24:34.450578"
+  "last_updated": "2026-11-13T01:36:52.442810"
 }
