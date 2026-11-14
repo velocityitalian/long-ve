@@ -50455,7 +50455,399 @@
       "transliteration": "doi CÁCH NHÌN MỤC TIÊU, MỌI THỨ đổi THEO",
       "category": "Creativity",
       "generated_at": "2026-11-13T01:36:52.442810"
+    },
+    {
+      "english": "Resilience helps you bounce back stronger",
+      "vietnamese": "Sức bền giúp bạn bật dậy mạnh mẽ hơn",
+      "transliteration": "sức bền GIÚP bạn bật DẬY mạnh mẽ hơn",
+      "category": "Strength",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Strength grows through hard practice",
+      "vietnamese": "Sức mạnh lớn lên nhờ rèn luyện vất vả",
+      "transliteration": "sức mạnh LỚN lên NHỜ rèn LUYỆN vất vả",
+      "category": "Strength",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Your effort turns into real power",
+      "vietnamese": "Nỗ lực của bạn biến thành sức mạnh thật sự",
+      "transliteration": "nỗ LỰC của bạn BIẾN thành SỨC mạnh thật sự",
+      "category": "Strength",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Calm focus makes you stronger",
+      "vietnamese": "Tập trung bình tĩnh khiến bạn mạnh mẽ hơn",
+      "transliteration": "tập TRUNG bình TĨNH khiến bạn MẠNH mẽ hơn",
+      "category": "Strength",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Move forward even when it's tough",
+      "vietnamese": "Cứ bước tới dù đường có khó",
+      "transliteration": "CỨ bước tới dù đường có KHÓ",
+      "category": "Strength",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Strength is choosing what's right",
+      "vietnamese": "Sức mạnh là chọn điều đúng đắn",
+      "transliteration": "sức mạnh là CHỌN điều ĐÚNG đắn",
+      "category": "Strength",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Stand firm when pressure hits",
+      "vietnamese": "Vững vàng trước áp lực",
+      "transliteration": "VỮNG VÀNG TRƯỚC áp lực",
+      "category": "Strength",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I jog for 30 minutes after work.",
+      "vietnamese": "Tôi chạy bộ 30 phút sau giờ làm.",
+      "transliteration": "Tôi CHẠY bộ 30 phút SAU GIỜ làm.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Can we go swimming this weekend?",
+      "vietnamese": "Cuối tuần này mình đi bơi nhé?",
+      "transliteration": "Cuối tuần NÀY mình đi BƠI nhé?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I lift weights, slowly, with control.",
+      "vietnamese": "Tôi tập tạ, chậm thôi, nhưng kiểm soát.",
+      "transliteration": "Tôi tập tẠ, chậm thôi, nhưng KIỂM SOÁT.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "My legs are sore, but it feels good.",
+      "vietnamese": "Chân tôi nhức rồi, nhưng thấy dễ chịu.",
+      "transliteration": "Chân tôi NHỨC rồi, nhưng thấy DỄ CHỊU.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "What time does the gym open?",
+      "vietnamese": "Phòng gym mở cửa lúc mấy giờ vậy?",
+      "transliteration": "Phòng gym MỞ cửa lúc MẤY giờ vậy?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I need a warm-up before training.",
+      "vietnamese": "Mình cần khởi động trước khi tập.",
+      "transliteration": "Mình cần KHỞI động TRƯỚC khi tập.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m trying to build my core strength.",
+      "vietnamese": "Mình đang cố tăng sức mạnh vùng bụng dưới.",
+      "transliteration": "Mình đang CỐ tăng sức mạnh VÙNG bụng DƯỚI.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Your smile makes my whole day",
+      "vietnamese": "Nụ cười của bạn làm cả ngày mình rạng rỡ",
+      "transliteration": "Nu CUOI cua ban lam ca NGAY minh rang ro",
+      "category": "Joy",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I feel joy in the little things",
+      "vietnamese": "Mình vui từ những điều nhỏ bé thôi",
+      "transliteration": "Minh VUI tu nhung DIeu nho BE thoi",
+      "category": "Joy",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m smiling, even without trying",
+      "vietnamese": "Tự nhiên mình thấy vui, không cần gắng gì",
+      "transliteration": "Tu NHien minh thay VUI, khong can GAN gi",
+      "category": "Joy",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "This moment is pure, simple happiness",
+      "vietnamese": "Khoảnh khắc này nhẹ nhàng và hạnh phúc thật",
+      "transliteration": "Khoanh KHAK nay nhe NHang va hanh PHUC that",
+      "category": "Joy",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Thanks for making things easier",
+      "vietnamese": "Cảm ơn vì đã giúp mọi thứ dễ chịu hơn",
+      "transliteration": "Cam ON vi da GIup moi THU de chiu hon",
+      "category": "Joy",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I needed this kind of calm",
+      "vietnamese": "Mình thật sự cần sự bình yên như thế này",
+      "transliteration": "Minh THAT su CAN su BINH yEN nhu the nay",
+      "category": "Joy",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Your kindness is lifting me up",
+      "vietnamese": "Lòng tốt của bạn kéo mình lên",
+      "transliteration": "Long TOT cua ban keo minh len",
+      "category": "Joy",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I wake up and check my phone.",
+      "vietnamese": "Tôi thức dậy và lướt điện thoại một chút.",
+      "transliteration": "Tôi THỨC dậy và LƯỚT điện thoại một chút.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I brush my teeth, then rinse.",
+      "vietnamese": "Tôi đánh răng xong, súc miệng luôn.",
+      "transliteration": "Tôi đánh răng XONG, SÚC miệng luôn.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I take a quick shower before work.",
+      "vietnamese": "Tôi tắm nhanh trước khi đi làm.",
+      "transliteration": "Tôi TẮM nhanh trước khi đi LÀM.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I make coffee while I get ready.",
+      "vietnamese": "Tôi pha cà phê trong lúc mình chuẩn bị.",
+      "transliteration": "Tôi PHA cà phê trong lúc mình CHUẨN bị.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I grab breakfast and head out.",
+      "vietnamese": "Tôi ăn sáng nhanh rồi ra ngoài.",
+      "transliteration": "Tôi ĂN sáng nhanh rồi RA ngoài.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "On my commute, I listen to music.",
+      "vietnamese": "Trên đường đi làm, tôi nghe nhạc.",
+      "transliteration": "Trên đường đi LÀM, tôi NGHE nhạc.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I drink water before my meetings.",
+      "vietnamese": "Tôi uống nước trước các cuộc họp.",
+      "transliteration": "Tôi UỐNG nước trước các CUỘC họp.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I hope it all works out.",
+      "vietnamese": "Tôi hy vọng mọi thứ sẽ ổn thôi.",
+      "transliteration": "Tôi hy VỌNG mọi thứ sẽ ỔN thôi.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Fingers crossed for good news.",
+      "vietnamese": "Cầu mong tin vui đến sớm.",
+      "transliteration": "Cầu mong TIN vui đến SỚM.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m holding onto hope, still.",
+      "vietnamese": "Tôi vẫn bám lấy hy vọng.",
+      "transliteration": "Tôi VẪN bám LẤY hy VỌNG.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Let’s keep hope alive today.",
+      "vietnamese": "Hôm nay mình cứ giữ hy vọng nhé.",
+      "transliteration": "HÔM nay mình cứ GIỮ hy VỌNG nhé.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I hope you feel better soon.",
+      "vietnamese": "Tôi hy vọng bạn sớm khỏe lại.",
+      "transliteration": "Tôi hy VỌNG bạn sớm KHỎE lại.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m hoping for a second chance.",
+      "vietnamese": "Tôi hy vọng sẽ có một cơ hội thứ hai.",
+      "transliteration": "Tôi hy VỌNG sẽ có một CƠ hội THỨ hai.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Hope you’re doing okay out there.",
+      "vietnamese": "Hy vọng là bạn vẫn ổn.",
+      "transliteration": "Hy VỌNG là bạn VẪN ổn.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Hi, how are you today?",
+      "vietnamese": "Chào bạn, hôm nay bạn khỏe không?",
+      "transliteration": "CHAÒ bẠN, hôm NAY bẠN KHỎE không?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "vietnamese": "Rất vui được gặp bạn.",
+      "transliteration": "RẤT VUI ĐƯỢC gặp bẠN.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "What’s your name, please?",
+      "vietnamese": "Bạn tên gì vậy, cho mình hỏi?",
+      "transliteration": "bẠN TÊN gì vẬY, cho MÌNH hỏi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m from Canada, by the way.",
+      "vietnamese": "Nhân tiện, mình ở Canada.",
+      "transliteration": "nhÂN TIỆN, MÌNH Ở Canada.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Can we start with introductions?",
+      "vietnamese": "Mình giới thiệu trước nhé, rồi đến bạn.",
+      "transliteration": "mÌNH GIỚI THIỆU trước nhé, RỒI đến bẠN.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Do you speak English here?",
+      "vietnamese": "Ở đây bạn có nói tiếng Anh không?",
+      "transliteration": "Ở đây bẠN có NÓI TIẾNG Anh KHÔNG?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Thanks for coming to meet me.",
+      "vietnamese": "Cảm ơn bạn đã đến gặp mình.",
+      "transliteration": "CẢM ƠN bẠN ĐÃ đến GẶP MÌNH.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Excuse me, where is the nearest ATM?",
+      "vietnamese": "Xin lỗi, ngân hàng ATM gần nhất ở đâu ạ?",
+      "transliteration": "sin LOI, ngan hanh ATM GAN nhat o DA a?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "How do I get to Ben Thanh Market?",
+      "vietnamese": "Bạn chỉ giúp tôi cách đi chợ Bến Thành với ạ?",
+      "transliteration": "bạn CHỈ giup TOI CACH di cho BEN THANH voi a?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Is there a bus stop around here?",
+      "vietnamese": "Gần đây có trạm xe buýt nào không ạ?",
+      "transliteration": "gan đay CO tram XE buyt nao khong a?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Can you tell me where the pharmacy is?",
+      "vietnamese": "Bạn cho tôi hỏi nhà thuốc ở đâu vậy?",
+      "transliteration": "ban CHO toi HOI nha THUOC o DAy vây?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "Which way is the train station?",
+      "vietnamese": "Ga tàu hỏa ở hướng nào vậy ạ?",
+      "transliteration": "ga TAU hỏa o HUONG nao vây a?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m looking for a supermarket, please.",
+      "vietnamese": "Tôi đang tìm siêu thị, làm ơn chỉ giúp tôi với.",
+      "transliteration": "tôi DANG TIM sieu THI, lam ƠN CHI giup TOI voi",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "How long does it take to walk there?",
+      "vietnamese": "Đi bộ tới đó mất bao lâu ạ?",
+      "transliteration": "di BO toi đó MAT bao LAU a?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I feel calm right now.",
+      "vietnamese": "Tôi đang thấy bình tĩnh.",
+      "transliteration": "Tôi đang thấy BÌNH TĨNH.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "That news made me anxious.",
+      "vietnamese": "Tin đó làm tôi lo lắng.",
+      "transliteration": "Tin đó làm tôi LO LẮNG.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m proud of you for trying.",
+      "vietnamese": "Tôi tự hào vì bạn đã cố gắng.",
+      "transliteration": "Tôi TỰ HÀO vì bạn đã CỐ GẮNG.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m relieved it’s finally over.",
+      "vietnamese": "Tôi nhẹ nhõm vì mọi chuyện đã kết thúc.",
+      "transliteration": "Tôi NHẸ NHÕM vì mọi chuyện đã KẾT THÚC.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I feel lonely when we don’t talk.",
+      "vietnamese": "Tôi thấy cô đơn khi chúng ta không nói chuyện.",
+      "transliteration": "Tôi thấy CÔ ĐƠN khi chúng ta không NÓI CHUYỆN.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m disappointed in the delay.",
+      "vietnamese": "Tôi thất vọng vì bị trễ.",
+      "transliteration": "Tôi THẤT VỌNG vì bị TRỄ.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T01:10:15.726526"
+    },
+    {
+      "english": "I’m excited for our plan tonight.",
+      "vietnamese": "Tôi hào hứng cho kế hoạch tối nay.",
+      "transliteration": "Tôi HÀO HỨNG cho KẾ HOẠCH tối nay.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T01:10:15.726526"
     }
   ],
-  "last_updated": "2026-11-13T01:36:52.442810"
+  "last_updated": "2026-11-14T01:10:15.726526"
 }
