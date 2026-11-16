@@ -199,7 +199,39 @@
     {
       "category": "Friendship",
       "date": "2026-11-15"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-16"
     }
   ],
-  "last_updated": "2026-11-15T00:34:38.338285"
+  "last_updated": "2026-11-16T00:35:14.423664"
 }
