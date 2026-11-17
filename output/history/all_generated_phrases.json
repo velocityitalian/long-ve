@@ -51631,7 +51631,399 @@
       "transliteration": "Mình cần XÁC NHẬN NGUỒN lực và NGÂN sách",
       "category": "Making Plans",
       "generated_at": "2026-11-16T00:35:14.387776"
+    },
+    {
+      "english": "Speak up, even if your voice shakes.",
+      "vietnamese": "Hãy lên tiếng, dù giọng bạn run.",
+      "transliteration": "Hãy LÊN TIẾNG, dù GIỌNG bạn RUN.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Make the call, do it now.",
+      "vietnamese": "Bấm gọi đi, làm ngay bây giờ.",
+      "transliteration": "BẤM GỌI đi, LÀM NGAY bây GIỜ.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Walk in anyway, you belong there.",
+      "vietnamese": "Cứ bước vào thôi, bạn xứng đáng ở đó.",
+      "transliteration": "Cứ BƯỚC vào THÔI, bạn XỨNG ĐÁNG ở ĐÓ.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Set your boundary, then breathe.",
+      "vietnamese": "Đặt ranh giới của bạn, rồi thở sâu.",
+      "transliteration": "ĐẶT ranh GIỚI của BẠN, rồi THỞ sâu.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Apologize first, you will feel lighter.",
+      "vietnamese": "Xin lỗi trước đi, bạn sẽ nhẹ lòng hơn.",
+      "transliteration": "Xin LỖI trước ĐI, bạn sẽ NHẸ lòng hơn.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Choose honesty over being liked.",
+      "vietnamese": "Chọn sự thật, đừng chỉ để được thích.",
+      "transliteration": "Chọn sự THẬT, ĐỪNG chỉ để được THÍCH.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Take the risk, keep your dignity.",
+      "vietnamese": "Dám thử đi, vẫn giữ phẩm giá của mình.",
+      "transliteration": "DÁM THỬ đi, VẪN GIỮ phẩm GIÁ của MÌNH.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I need to check my schedule.",
+      "vietnamese": "Tôi cần xem lịch của mình đã.",
+      "transliteration": "ToI cần xem lịch của mình đã.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Can we meet at 3 PM?",
+      "vietnamese": "Mình gặp nhau lúc ba giờ chiều được không?",
+      "transliteration": "Mình gặp nhau lúc BA giờ chiều được không?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Please send me the meeting notes.",
+      "vietnamese": "Bạn gửi giúp tôi biên bản cuộc họp nhé.",
+      "transliteration": "Bạn gửi giúp tôi BIÊN bản cuộc họp nhé.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I’ll review this draft today.",
+      "vietnamese": "Hôm nay tôi sẽ xem lại bản nháp này.",
+      "transliteration": "Hôm nay tôi sẽ xem lại BẢN NHÁP này.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "We’re behind, can we catch up?",
+      "vietnamese": "Chúng ta đang bị trễ, mình bắt kịp được chứ?",
+      "transliteration": "Chúng ta ĐANG bị TRỄ, mình bắt kịp được chứ?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Who owns this project?",
+      "vietnamese": "Ai phụ trách dự án này vậy?",
+      "transliteration": "Ai PHỤ TRÁCH dự án này vậy?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Could you clarify the instructions?",
+      "vietnamese": "Bạn làm rõ giúp tôi hướng dẫn được không?",
+      "transliteration": "Bạn làm RÕ giúp tôi HƯỚNG dẫn được không?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Say please, even online",
+      "vietnamese": "Hãy nói xin làm cả khi nhắn tin",
+      "transliteration": "Hay noi xin, lam ca khi nhan tin",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Thank someone for small help",
+      "vietnamese": "Cảm ơn họ vì giúp một chút thôi",
+      "transliteration": "Cam on ho vi giup mot chut thoi",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Use their name, gently",
+      "vietnamese": "Gọi đúng tên họ, chậm rãi và tử tế",
+      "transliteration": "Goi dung ten ho, cham trai va TU TE",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Return change without being asked",
+      "vietnamese": "Nếu thừa tiền, trả lại ngay nhé",
+      "transliteration": "Neu thua tien, tra lai NGAY nhe",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Offer to carry the heavy thing",
+      "vietnamese": "Để tôi xách giúp phần nặng với",
+      "transliteration": "De toi xach giup phan nang voi",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Include others, don’t leave them out",
+      "vietnamese": "Hãy rủ họ vào cùng tham gia",
+      "transliteration": "Hay ru ho vao cung THAM GIA",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Fix a mistake, quietly",
+      "vietnamese": "Lỡ làm sai, sửa ngay, đừng đổ lỗi",
+      "transliteration": "Lo lam sai, sua NGAY, dung do loi",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I’m grateful you reached out first.",
+      "vietnamese": "Tôi biết ơn vì bạn đã chủ động liên lạc trước.",
+      "transliteration": "toi BIET ON vi BAN da CHU dong LIEN lac TRUOC",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Your help showed up right when I needed it.",
+      "vietnamese": "Bạn giúp đúng lúc tôi cần nhất.",
+      "transliteration": "ban GIUP DUNG luc TOI CAN nhat",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Thanks for making room for my questions.",
+      "vietnamese": "Cảm ơn bạn đã dành thời gian cho những câu hỏi của tôi.",
+      "transliteration": "cam ON ban da DANH thoi GIAN cho NHUNG cau hoi cua TOI",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I appreciate your honesty, it builds trust.",
+      "vietnamese": "Tôi trân trọng sự thẳng thắn của bạn, nó làm mình tin hơn.",
+      "transliteration": "toi TRAN TRONG su THANG THAN cua BAN, no lam MINH tin HON",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "You made my stress feel lighter.",
+      "vietnamese": "Bạn làm cho lo lắng của tôi nhẹ đi nhiều.",
+      "transliteration": "ban LAM cho lo lang cua TOI nhe DI NHIeU",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I’m grateful for your thoughtful follow-up.",
+      "vietnamese": "Tôi biết ơn vì bạn đã theo dõi chu đáo sau đó.",
+      "transliteration": "toi BIET ON vi BAN da THEO doi CHU dao SAU do",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Your encouragement helped me take action.",
+      "vietnamese": "Lời động viên của bạn giúp tôi dám làm tiếp.",
+      "transliteration": "lo dong VIEN cua BAN giup TOI DAM lam TIEP",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "What’s the first event tonight?",
+      "vietnamese": "Tối nay bắt đầu sự kiện nào trước đây?",
+      "transliteration": "Tối nay bẮt đẦu sỰ kiỆn nÀo trƯỚc đÂy?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Where should we stand for photos?",
+      "vietnamese": "Chúng ta đứng chỗ nào để chụp ảnh đẹp nhất?",
+      "transliteration": "Chúng ta Đứng chỖ nÀo đỂ chỤp Ảnh đẸp nhẤt?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Can I try that drink for you?",
+      "vietnamese": "Mình thử giúp bạn món đồ uống đó được không?",
+      "transliteration": "Mình thỬ giÚp bẠn mÓn đỒ uỐng đÓ đƯỢc khÔng?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Hold my seat, I’ll be right back.",
+      "vietnamese": "Giữ chỗ cho mình nhé, mình quay lại liền.",
+      "transliteration": "Giữ chỖ cho mÌnh nhÉ, mÌnh quay lẠi liỀn.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "That song was perfect, wow!",
+      "vietnamese": "Bài này hay quá, đúng gu luôn!",
+      "transliteration": "Bài này hay quÁ, đÚng gu lÚn!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Do you know when they light candles?",
+      "vietnamese": "Bạn biết khi nào họ thắp nến không?",
+      "transliteration": "BẠn biẾt khi nÀo hỌ thẮp nẾn khÔng?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Let’s line up, it’ll move fast.",
+      "vietnamese": "Mình xếp hàng đi, lát nữa sẽ nhanh thôi.",
+      "transliteration": "Mình xẾp hÀng đi, lÁt nỮa sẼ nhanh thôi.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I want to hold you tonight.",
+      "vietnamese": "Anh muốn ôm em tối nay.",
+      "transliteration": "Anh muốn ÔM em TỐI nay.",
+      "category": "Love",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Your laugh makes my day brighter.",
+      "vietnamese": "Tiếng cười của em làm ngày của anh sáng hơn.",
+      "transliteration": "TIẾNG cười của em làm ngày của anh SÁNG hơn.",
+      "category": "Love",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I feel lucky to love you.",
+      "vietnamese": "Anh thấy mình may mắn khi được yêu em.",
+      "transliteration": "Anh thấy mình MAY mắn khi được YÊU em.",
+      "category": "Love",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Let me take care of you.",
+      "vietnamese": "Để anh chăm sóc em nhé.",
+      "transliteration": "ĐỂ anh CHĂM sóc em nhé.",
+      "category": "Love",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "When you speak, I listen closely.",
+      "vietnamese": "Em nói gì, anh cũng lắng nghe kỹ.",
+      "transliteration": "Em nói gì, anh CŨNG lắng NGHE kỹ.",
+      "category": "Love",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I choose you, again and again.",
+      "vietnamese": "Anh chọn em, mỗi ngày một lần.",
+      "transliteration": "Anh CHỌN em, MỖI ngày một LẦN.",
+      "category": "Love",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Even in chaos, I want you.",
+      "vietnamese": "Dù mọi thứ rối tung, anh vẫn muốn ở cạnh em.",
+      "transliteration": "Dù mọi thứ RỐI tung, anh vẫn MUỐN ở cạnh em.",
+      "category": "Love",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Pause, soften your shoulders, breathe",
+      "vietnamese": "Dừng lại, thả lỏng vai, hít thở thôi",
+      "transliteration": "Dung lai, tha long vai, hit tho thoi",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Speak gently, even to yourself",
+      "vietnamese": "Nói dịu dàng, ngay cả với chính mình",
+      "transliteration": "Nói dịu dàng, ngay cả với chính mình",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Choose one thought, let it pass",
+      "vietnamese": "Chọn một ý nghĩ, rồi để nó trôi qua",
+      "transliteration": "Chon mot y nghi, roi de no troi qua",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Let your body relax first",
+      "vietnamese": "Cho cơ thể được thả lỏng trước nhé",
+      "transliteration": "Cho co the duoc tha long truoc nhe",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "When anger rises, cool it down",
+      "vietnamese": "Khi cơn giận dâng lên, hãy làm nó dịu lại",
+      "transliteration": "Khi con gian dang len, hay lam no diu lai",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Keep a small promise to peace",
+      "vietnamese": "Giữ một lời hứa nhỏ để giữ bình yên",
+      "transliteration": "Giu mot loi hua nho de giu binh yen",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Put down the phone, look up",
+      "vietnamese": "Đặt điện thoại xuống, ngước nhìn lên một chút",
+      "transliteration": "Dat dien thoai xuong, nguoc nhin len mot chut",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Yes, I’m totally convinced.",
+      "vietnamese": "Vâng, tôi hoàn toàn tin rồi.",
+      "transliteration": "Vâng, tôi hoàn TOÀN tin rồi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I agree, let’s move forward now.",
+      "vietnamese": "Tôi đồng ý, mình tiến tới ngay nhé.",
+      "transliteration": "Tôi ĐỒNG Ý, mình TIẾN tới NGAY nhé.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "That works for me, definitely.",
+      "vietnamese": "Cái đó ổn với tôi, chắc chắn.",
+      "transliteration": "Cái đó ỔN với tôi, CHẮC CHẮN.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "I’m on board with this plan.",
+      "vietnamese": "Tôi ủng hộ kế hoạch này.",
+      "transliteration": "Tôi ỦNG HỘ KẾ hoạch này.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "You make a strong case, wow.",
+      "vietnamese": "Bạn nói thuyết phục lắm, tôi chịu rồi.",
+      "transliteration": "Bạn nói THUYẾT phục LẮM, tôi CHỊU rồi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Sure, I’m comfortable with that.",
+      "vietnamese": "Ừ, tôi thấy thoải mái với điều đó.",
+      "transliteration": "Ừ, tôi THẤY THOẢI mái với điều đó.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "Honestly, I’m ready to go.",
+      "vietnamese": "Thật lòng, tôi sẵn sàng rồi.",
+      "transliteration": "Thật LÒNG, tôi SẴN sàng rồi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T03:21:28.215460"
     }
   ],
-  "last_updated": "2026-11-16T00:35:14.387776"
+  "last_updated": "2026-11-17T03:21:28.215460"
 }
