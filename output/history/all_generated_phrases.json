@@ -52023,7 +52023,399 @@
       "transliteration": "Thật LÒNG, tôi SẴN sàng rồi.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-17T03:21:28.215460"
+    },
+    {
+      "english": "What time do you bake fresh?",
+      "vietnamese": "Các anh chị nướng bánh lúc mấy giờ mới?",
+      "transliteration": "Cac anh chi nướng banh luc may GIỜ mơi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Do you have any egg-free pastries?",
+      "vietnamese": "Tiệm mình có bánh không trứng không?",
+      "transliteration": "TIệm minh co banh khong trung khong?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Can I get it iced, please?",
+      "vietnamese": "Cho tôi làm đá nhé, được không?",
+      "transliteration": "Cho toi lam DA nhe, duoc khong?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I’ll take a latte with oat milk.",
+      "vietnamese": "Cho tôi một ly latte sữa yến mạch nhé.",
+      "transliteration": "Cho toi mot ly latte sua yến MACH nhe.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Is there cinnamon on top?",
+      "vietnamese": "Trên này có rắc quế không ạ?",
+      "transliteration": "Tren NAY co rac QUE khong a?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "That smell pulled me in.",
+      "vietnamese": "Mùi thơm kéo tôi vào liền.",
+      "transliteration": "Mui THƠm keo toi vao lien.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "How much is the fruit tart?",
+      "vietnamese": "Tart trái cây giá bao nhiêu vậy ạ?",
+      "transliteration": "Tart TRAI cay gia bao nhieu vay a?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "When it breaks, I restart smarter.",
+      "vietnamese": "Khi mọi thứ đổ vỡ, tôi làm lại thông minh hơn.",
+      "transliteration": "Khi MỌI thứ ĐỔ vỡ, tôi làm lại THÔNG minh hơn.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I don’t wait for confidence to work.",
+      "vietnamese": "Tôi không chờ tự tin rồi mới bắt đầu.",
+      "transliteration": "Tôi không CHỜ TỰ tin rồi mới BẮT đầu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I choose the next right action.",
+      "vietnamese": "Tôi chọn việc đúng đắn tiếp theo.",
+      "transliteration": "Tôi chọn VIỆC đúng đắn TIẾP theo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Hard days still get a small win.",
+      "vietnamese": "Những ngày khó khăn vẫn có một chiến thắng nhỏ.",
+      "transliteration": "Những ngày KHÓ khăn vẫn CÓ một chiến THẮNG nhỏ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I practice after setbacks, not instead.",
+      "vietnamese": "Tôi luyện tập sau vấp ngã, không phải thay thế.",
+      "transliteration": "Tôi LUYỆN tập SAU vấp ngã, không phải THAY thế.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I show up, then adjust later.",
+      "vietnamese": "Tôi đến nơi trước, rồi chỉnh sửa sau.",
+      "transliteration": "Tôi ĐẾN nơi TRƯỚC, rồi CHỈNH sửa SAU.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I track effort, not just results.",
+      "vietnamese": "Tôi theo dõi sự cố gắng, không chỉ kết quả.",
+      "transliteration": "Tôi THEO dõi sự CỐ gắng, không chỉ KẾt quả.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Is this price for today only?",
+      "vietnamese": "Giá này áp dụng chỉ hôm nay thôi à?",
+      "transliteration": "Gia nay ap dung chi hom nay thoi a?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Can I pay by card or cash?",
+      "vietnamese": "Cho tôi hỏi tôi có thể trả thẻ hay tiền mặt không?",
+      "transliteration": "Cho toi hoi toi co the tra the hay tien mat khong?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Do you have any ongoing promotions?",
+      "vietnamese": "Hiện có khuyến mãi nào đang áp dụng không?",
+      "transliteration": "Hien co khuyen mai nao dang ap dung khong?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "What’s the cheapest bundle option?",
+      "vietnamese": "Bộ nào rẻ nhất, cho tôi xem giúp.",
+      "transliteration": "Bo nao re nhat, cho toi xem giup.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Do you offer student or membership discounts?",
+      "vietnamese": "Cửa hàng có giảm giá cho học sinh sinh viên hay thành viên không?",
+      "transliteration": "Cua hang co giam gia cho hoc sinh sinh vien hay thanh vien khong?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Can I return it if it’s not right?",
+      "vietnamese": "Nếu không hợp thì tôi có thể đổi trả không?",
+      "transliteration": "Neu khong hop thi toi co the doi tra khong?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "How fast is delivery, and when exactly?",
+      "vietnamese": "Giao hàng mất bao lâu, và dự kiến ngày nào ạ?",
+      "transliteration": "Giao hang mat bao lau, va du kien ngay nao a?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "My goal is clear, not flashy.",
+      "vietnamese": "Mục đích của tôi là rõ ràng, không cần phô trương.",
+      "transliteration": "Mục đích của tôi là RÕ RÀNG, không cần PHÔ TRƯƠNG.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I learn to be understood, period.",
+      "vietnamese": "Tôi học để được hiểu, rõ ràng luôn.",
+      "transliteration": "Tôi học để được HIỂU, rõ ràng LUÔN.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Today I practice useful questions.",
+      "vietnamese": "Hôm nay tôi luyện những câu hỏi hữu ích.",
+      "transliteration": "Hôm nay tôi LUYỆN những câu HỎI hữu ích.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "My purpose is to communicate kindly.",
+      "vietnamese": "Mục đích của tôi là giao tiếp tử tế.",
+      "transliteration": "Mục đích của tôi là GIAO TIẾP tử TẾ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I want confidence in daily moments.",
+      "vietnamese": "Tôi muốn tự tin trong những khoảnh khắc hằng ngày.",
+      "transliteration": "Tôi muốn TỰ TIN trong những KHOẢNH KHẮC hằng NGÀY.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I study for real conversations, not drills.",
+      "vietnamese": "Tôi học để trò chuyện thật, không phải để làm bài rập khuôn.",
+      "transliteration": "Tôi học để trò CHUYỆN THẬT, không phải để làm bài RẬP KHUÔN.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "My purpose is to ask for help.",
+      "vietnamese": "Mục đích của tôi là dám xin giúp đỡ.",
+      "transliteration": "Mục đích của tôi là DÁM xin GIÚP ĐỠ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Where is the luggage drop-off?",
+      "vietnamese": "Quầy gửi hành lý ở đâu vậy?",
+      "transliteration": "QuAy gử i hAn lY ở ĐAu vAy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Can I change seats before boarding?",
+      "vietnamese": "Tôi đổi chỗ ngồi được không trước khi lên máy bay?",
+      "transliteration": "Tôi Đổi chỗ ngồi Được khôNG trước khi lêN mAy bay?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Is this line for departures?",
+      "vietnamese": "Hàng này là cho chuyến đi phải không?",
+      "transliteration": "HÀng nAy lÀ cho chuyÊn đi phAi khôNG?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "My passport is ready, right here.",
+      "vietnamese": "Hộ chiếu của tôi đây rồi.",
+      "transliteration": "Hộ chiếU cỦa tôi ĐÂy rỒi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "What time does boarding start?",
+      "vietnamese": "Giờ bắt đầu lên máy bay là mấy giờ ạ?",
+      "transliteration": "GiỜ bắt ĐẦu lêN mAy bay lÀ mấy giỜ ạ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Can you help with my baggage tag?",
+      "vietnamese": "Bạn giúp tôi gắn thẻ hành lý được không?",
+      "transliteration": "bẠn giÚp tôi gẮn thẻ hÀnh lY Được khôNG?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I think my flight was delayed.",
+      "vietnamese": "Tôi nghĩ chuyến bay của tôi bị hoãn rồi.",
+      "transliteration": "Tôi nghĩ chuyếN bay cỦa tôi bỊ hoÃn rỒi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Start with one brave question today.",
+      "vietnamese": "Bắt đầu bằng một câu hỏi thật can đảm hôm nay.",
+      "transliteration": "Bat dau bang mot cau hoi that CAN dam hom nay.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Let curiosity lead my next sentence.",
+      "vietnamese": "Để sự tò mò dẫn tôi đến câu tiếp theo.",
+      "transliteration": "De su TO MO dan toi den cau tiep theo.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I turn doubts into fuel, quietly.",
+      "vietnamese": "Tôi biến nghi ngờ thành nhiên liệu, một cách lặng lẽ.",
+      "transliteration": "Toi bien nghi ngo thanh nhien lieu, mot cach LANG le.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Every small win keeps me inspired.",
+      "vietnamese": "Mỗi chiến thắng nhỏ giúp tôi có cảm hứng.",
+      "transliteration": "Moi chien thang nho giup toi co cam HUNG.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I write, then I let it go.",
+      "vietnamese": "Tôi viết, rồi thả lỏng cho nó trôi qua.",
+      "transliteration": "Toi viet, roi tha long cho no troi qua.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Today I practice for my future self.",
+      "vietnamese": "Hôm nay tôi luyện tập cho phiên bản tương lai của mình.",
+      "transliteration": "Hom nay toi luyen tap cho phien ban TUONG lai cua minh.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Small steps still feel like momentum.",
+      "vietnamese": "Những bước nhỏ cũng tạo đà tiến lên.",
+      "transliteration": "Nhung buoc nho cung tao da Tien len.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I show up, even imperfect.",
+      "vietnamese": "Tôi vẫn xuất hiện, dù chưa hoàn hảo.",
+      "transliteration": "Toi VAN xuat hien, diu chua hoan hao.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Tiny wins, big confidence for me.",
+      "vietnamese": "Chiến thắng nhỏ, tự tin lớn trong tôi.",
+      "transliteration": "Chien thang nho, TU TIN lon TRONG toi.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I practice when it feels awkward.",
+      "vietnamese": "Tôi luyện tập khi mọi thứ thật vụng về.",
+      "transliteration": "Toi LUYEN tap khi MOI THU that VUNG ve.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "One clear sentence beats silence today.",
+      "vietnamese": "Một câu rõ ràng hơn là im lặng hôm nay.",
+      "transliteration": "Mot cau RO ràng hon la IM lang hom nay.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "My effort counts, not my fluency.",
+      "vietnamese": "Nỗ lực của tôi có giá trị, không phải sự trôi chảy.",
+      "transliteration": "No luc cua toi CO gia tri, khong phai su TROI chay.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I speak slowly, and I’m still winning.",
+      "vietnamese": "Tôi nói chậm thôi, vậy mà vẫn tiến lên.",
+      "transliteration": "Toi NOI cham thoi, vay ma VAN tien len.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I turn mistakes into quick feedback.",
+      "vietnamese": "Tôi biến lỗi sai thành phản hồi nhanh.",
+      "transliteration": "Toi BIEN LOI sai thanh PHAN HOI nhanh.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "I think you need medical help.",
+      "vietnamese": "Tôi nghĩ bạn cần được đi cấp cứu.",
+      "transliteration": "Tôi NGHĨ bạn CẦN được ĐI CẤP CỨU.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Call 115 now, please.",
+      "vietnamese": "Gọi 115 ngay giúp tôi.",
+      "transliteration": "GOI 115 NGAY GIÚP tôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Stay calm, breathe slowly with me.",
+      "vietnamese": "Bình tĩnh nhé, hít thở chậm cùng tôi.",
+      "transliteration": "BÌNH tĩnh NHE, HÍT THỞ CHẬM cùng tôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "If you faint, lie down flat.",
+      "vietnamese": "Nếu bạn sắp ngất, hãy nằm xuống ngay.",
+      "transliteration": "NẾU bạn SẮP ngất, HÃY NẰM XUỐNG NGAY.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Loosen tight clothes, breathe easier.",
+      "vietnamese": "Nới lỏng quần áo, để bạn thở dễ hơn.",
+      "transliteration": "NỚI lỏng QUẦN ÁO, để bạn THỞ DỄ hơn.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Check if you can talk clearly.",
+      "vietnamese": "Bạn có nói chuyện rõ ràng được không?",
+      "transliteration": "Bạn CÓ NÓI chuyện RÕ RÀNG được KHÔNG?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:42:00.211457"
+    },
+    {
+      "english": "Raise your head slightly, slowly.",
+      "vietnamese": "Nâng đầu lên một chút, nhẹ nhàng thôi.",
+      "transliteration": "NÂNG đầu lên MỘT chút, NHẸ NHÀNG thôi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:42:00.211457"
     }
   ],
-  "last_updated": "2026-11-17T03:21:28.215460"
+  "last_updated": "2026-11-18T02:42:00.211457"
 }
