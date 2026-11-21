@@ -53199,7 +53199,399 @@
       "transliteration": "Tôi SỐC vì mọi CHUYỆn xảy RA nhanh QUÁ.",
       "category": "Feelings & Emotions",
       "generated_at": "2026-11-20T02:00:06.928778"
+    },
+    {
+      "english": "Hello, I’m new here, nice to meet",
+      "vietnamese": "Xin chào, mình mới đến đây, rất vui được gặp bạn",
+      "transliteration": "Xin CHÀO, mình MỚI đến đây, rất VUI được GẶP bạn",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Where are you from originally?",
+      "vietnamese": "Bạn gốc ở đâu vậy",
+      "transliteration": "Bạn GỐC ở đâu vậy",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I’m in charge of this project.",
+      "vietnamese": "Mình phụ trách dự án này",
+      "transliteration": "Mình PHỤ TRÁCH dự ÁN này",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Nice to meet you, I work nearby.",
+      "vietnamese": "Rất vui được gặp bạn, tôi làm gần đây",
+      "transliteration": "Rất VUI được GẶP bạn, tôi LÀM gần đây",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Do you have a few minutes today?",
+      "vietnamese": "Bạn có thể cho mình xin vài phút hôm nay không",
+      "transliteration": "Bạn có THỂ cho mình xin vài PHÚT hôm nay không",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Please call me after the meeting.",
+      "vietnamese": "Sau buổi họp, bạn gọi cho mình nhé",
+      "transliteration": "Sau BUỔI họp, bạn GỌI cho mình nhé",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I brought some forms for you.",
+      "vietnamese": "Mình mang theo mẫu giấy tờ cho bạn đây",
+      "transliteration": "Mình mang theo MẪU giấy TỜ cho bạn đây",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I’m taking a brisk walk today.",
+      "vietnamese": "Hôm nay tôi đi bộ nhanh.",
+      "transliteration": "HOM nay toi di BO nhanh.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Can you spot me on squats?",
+      "vietnamese": "Bạn đứng canh giúp tôi khi squat được không?",
+      "transliteration": "BAN dung canh giup TOI khi squat duoc khong?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I’m learning proper form for push-ups.",
+      "vietnamese": "Tôi đang học cách chống đẩy đúng kỹ thuật.",
+      "transliteration": "TOI dang hoc cach CHONG day dung ky THUAT.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "How’s your training plan this week?",
+      "vietnamese": "Tuần này bạn tập theo kế hoạch gì vậy?",
+      "transliteration": "TUAN nay ban TAP theo KE hoach gi vay?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I’m out of breath, but keep going.",
+      "vietnamese": "Tôi hụt hơi rồi, nhưng vẫn cố tiếp tục.",
+      "transliteration": "TOI HUT HOI roi, nhung VAN co TIep tuc.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I want to improve my stamina.",
+      "vietnamese": "Tôi muốn tăng sức bền.",
+      "transliteration": "TOI muon TAN SỨC ben.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I’m stretching my calves after practice.",
+      "vietnamese": "Tôi giãn cơ bắp chân sau buổi tập.",
+      "transliteration": "TOI DAN CO bap CHAN sau buoi TAP.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Looks like fog is lifting soon.",
+      "vietnamese": "Trời có vẻ sương đang tan dần rồi.",
+      "transliteration": "TROI cÓ VE suong dang tan DAN rOI.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Is it humid today, or just me?",
+      "vietnamese": "Hôm nay ẩm quá phải không, hay chỉ mình tôi thấy vậy?",
+      "transliteration": "HOM nay am QUA phAI khong, hay CHI minh TOI THAY vay?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I think it might drizzle later.",
+      "vietnamese": "Tôi đoán lát nữa có thể mưa phùn đấy.",
+      "transliteration": "TÔI DOÁN lát nỮA cÓ thỂ mƯA phÙn ĐẤY.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "How cold does it get at night?",
+      "vietnamese": "Ban đêm lạnh cỡ nào vậy?",
+      "transliteration": "BAN đêm LẠNH cỞ nÀO VAY?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "That rain smell is so fresh.",
+      "vietnamese": "Mùi mưa mới dễ chịu quá.",
+      "transliteration": "Mùi MƯA mỚI dỄ chỊU QUÁ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Want to walk, even if it rains?",
+      "vietnamese": "Đi bộ không, dù trời có thể mưa?",
+      "transliteration": "DI bỘ khÔng, dù TRỜI cÓ thỂ mƯA?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "The sun is out, finally.",
+      "vietnamese": "Cuối cùng nắng cũng lên rồi.",
+      "transliteration": "CUỐI cÙng NẮNG cŨng LÊN rỒI.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Walk with me, I’m here.",
+      "vietnamese": "Đi cùng tôi nhé, tôi ở đây.",
+      "transliteration": "Di CÙNG tôi nhé, tôi Ở đây.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Text me, even just a meme.",
+      "vietnamese": "Nhắn tôi nhé, dù chỉ một câu vui.",
+      "transliteration": "Nhan tôi nhé, DU chỉ một câu vui.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "After work, let’s de-stress together.",
+      "vietnamese": "Sau giờ làm, mình đi dạo cho nhẹ đầu nhé.",
+      "transliteration": "Sau giờ LÀM, mình đi DẠO cho NHẸ đầu nhé.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Call me if you need backup.",
+      "vietnamese": "Gọi tôi ngay nếu bạn cần người hỗ trợ.",
+      "transliteration": "Goi tôi NGAY nếu bạn CẦN người hỗ trợ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I’ll wait with you, no rush.",
+      "vietnamese": "Mình chờ bạn, không cần vội đâu.",
+      "transliteration": "Mình chờ bạn, không cần VỘI đâu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Tell me the truth, I can take it.",
+      "vietnamese": "Bạn cứ nói thật với tôi nhé, tôi chịu được.",
+      "transliteration": "Bạn cứ NÓI thật với tôi nhé, tôi chịu ĐƯỢC.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Let’s make plans, then follow through.",
+      "vietnamese": "Mình lên kế hoạch và làm tới nơi tới chốn nhé.",
+      "transliteration": "Mình lên KẾ hoạch và làm tới NƠI tới chốn nhé.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Today, you choose effort.",
+      "vietnamese": "Hôm nay, bạn chọn sự nỗ lực.",
+      "transliteration": "Hôm nay, bạn CHỌN sự NỖ lực.",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Your hard work is paying off.",
+      "vietnamese": "Cố gắng của bạn đang tạo kết quả.",
+      "transliteration": "Cố GẮNG của bạn đang TẠO kết quả.",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "You’re learning the real rhythm.",
+      "vietnamese": "Bạn đang nắm nhịp điệu thật.",
+      "transliteration": "Bạn đang NẮM NHỊP điệu THẬT.",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Even awkward sentences help you.",
+      "vietnamese": "Câu nói vụng về vẫn giúp bạn tiến bộ.",
+      "transliteration": "Câu NÓI VỤNG về vẫn GIÚP bạn TIẾN bộ.",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Keep going, one conversation at a time.",
+      "vietnamese": "Cứ tiếp tục, từng cuộc trò chuyện một.",
+      "transliteration": "Cứ TIẾP tục, TỪNG cuộc TRÒ chuyện một.",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "You’re building confidence, word by word.",
+      "vietnamese": "Bạn đang xây tự tin, theo từng từ một.",
+      "transliteration": "Bạn đang XÂY tự TIN, THEO từng TỪ một.",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Say it again, with more ease.",
+      "vietnamese": "Nói lại một lần nữa, nhẹ nhàng hơn nhé.",
+      "transliteration": "NÓI lại một LẦN nữa, NHẸ nhàng hơn NHÉ.",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I’m here, no story attached.",
+      "vietnamese": "Mình đang ở đây, không câu chuyện nào bám theo.",
+      "transliteration": "Mình ĐANG Ở ĐÂY, KHÔNG CÂU CHUYỆN nào BÁM THEO.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Right now, I can feel my body.",
+      "vietnamese": "Ngay bây giờ, mình cảm thấy cơ thể mình.",
+      "transliteration": "NGAY BÂY GIỜ, mình CẢM THẤY CƠ THỂ mình.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "My mind can wander, and I return.",
+      "vietnamese": "Tâm trí có thể lang thang, và mình quay lại.",
+      "transliteration": "TÂM TRÍ có THỂ LANG THANG, và mình QUAY LẠI.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I notice tension, then I release.",
+      "vietnamese": "Mình nhận ra sự căng, rồi buông ra.",
+      "transliteration": "Mình NHẬN RA SỰ CĂNG, rồi BUÔNG RA.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Breathing slow, my shoulders thank me.",
+      "vietnamese": "Thở chậm, vai mình được thả lỏng.",
+      "transliteration": "THỞ CHẬM, vai mình ĐƯỢC THẢ LỎNG.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I let sounds come and go.",
+      "vietnamese": "Mình để âm thanh đến rồi đi.",
+      "transliteration": "Mình để ÂM THANH đến RỒI ĐI.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "This is a real moment, not later.",
+      "vietnamese": "Đây là khoảnh khắc thật, không phải ngày mai.",
+      "transliteration": "ĐÂY LÀ KHOẢNH KHẮC THẬT, KHÔNG phải NGÀY MAI.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I want to open a savings account",
+      "vietnamese": "Tôi muốn mở sổ tiết kiệm.",
+      "transliteration": "Tôi MUÔN mở sổ tiết kiệm.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Can I pay bills at your counter?",
+      "vietnamese": "Ngân hàng mình có thanh toán hóa đơn tại quầy không?",
+      "transliteration": "Ngan hàng mình có THANH TOÁN hóa ĐƠN TẠI quầy KHÔNG?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "How long does a domestic transfer take?",
+      "vietnamese": "Chuyển khoản nội địa mất bao lâu nhận được?",
+      "transliteration": "Chuyển KHOẢN nội điạ chỉ mất BAO LAÛU nhận ĐƯỢC?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I need to send money abroad",
+      "vietnamese": "Tôi muốn chuyển tiền ra nước ngoài.",
+      "transliteration": "Tôi MUÔN CHUYỂN tiền ra nước ngoài.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "What documents do you need for transfers?",
+      "vietnamese": "Anh chị cần giấy tờ gì để làm chuyển khoản?",
+      "transliteration": "Anh CHỊ CẦN GIẤY TỜ gì để LÀM CHUYỂN KHOẢN?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "My card is not working, help please",
+      "vietnamese": "Thẻ của tôi không rút được, nhờ anh chị kiểm tra giúp.",
+      "transliteration": "Thẻ của TÔI KHÔNG rút đượC, nhờ anh CHỊ kiểm TRA giúp.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Can you block my lost card now?",
+      "vietnamese": "Tôi bị mất thẻ, ngân hàng có khóa thẻ giúp tôi được không?",
+      "transliteration": "Tôi BỊ mất thẻ, ngan hàng có KHOÁ thẻ giúp TÔI được KHÔNG?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Can I call you in five?",
+      "vietnamese": "Cho tôi gọi bạn sau năm phút nhé.",
+      "transliteration": "Cho tôi GOI bạn sau NĂM phút nhé.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Where are you right now?",
+      "vietnamese": "Bạn đang ở đâu lúc này?",
+      "transliteration": "Bạn ĐANG ở ĐÂU lúc này?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "I need to reach you urgently.",
+      "vietnamese": "Mình cần liên lạc với bạn gấp.",
+      "transliteration": "Mình CẦN liên lạc với bạn GẤP.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Are you on a meeting call?",
+      "vietnamese": "Bạn đang bận họp rồi à?",
+      "transliteration": "Bạn ĐANG bận HỌP rồi à?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Sorry, wrong number, my bad.",
+      "vietnamese": "Xin lỗi, tôi nhầm số rồi.",
+      "transliteration": "Xin LỖI, tôi NHẦM số rồi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Can you hear me clearly?",
+      "vietnamese": "Bạn nghe rõ không?",
+      "transliteration": "Bạn NGHE rõ không?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T01:54:48.591854"
+    },
+    {
+      "english": "Stay on the line, please.",
+      "vietnamese": "Bạn giữ máy giúp tôi nhé.",
+      "transliteration": "Bạn GIỮ máy GIÚP tôi nhé.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T01:54:48.591854"
     }
   ],
-  "last_updated": "2026-11-20T02:00:06.928778"
+  "last_updated": "2026-11-21T01:54:48.591854"
 }
